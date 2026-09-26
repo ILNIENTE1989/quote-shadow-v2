@@ -41,9 +41,9 @@ jobs:
         shell: bash
         run: |
           if [[ -n "${{ inputs.date }}" ]]; then
-            python shadow.py "${{ inputs.mode }}" --date "${{ inputs.date }}"
+            python shadow-centroquote.py "${{ inputs.mode }}" --date "${{ inputs.date }}"
           else
-            python shadow.py "${{ inputs.mode }}"
+            python shadow-centroquote.py "${{ inputs.mode }}"
           fi
 
       - name: Salva i dati
