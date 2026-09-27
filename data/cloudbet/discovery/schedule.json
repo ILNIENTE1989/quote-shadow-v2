@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T19:32:23.023955+00:00",
+  "generated_at_utc": "2026-09-27T21:32:25.013793+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -7,18 +7,6 @@
       "name": "Primera Nacional",
       "key": "soccer-argentina-primera-nacional",
       "events": [
-        {
-          "event_id": "36429268",
-          "home": "Racing de Cordoba",
-          "away": "CD Godoy Cruz",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        },
-        {
-          "event_id": "36431729",
-          "home": "Gimnasia Y Tiro de Salta",
-          "away": "Atletico de Rafaela",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        },
         {
           "event_id": "36468519",
           "home": "Gimnasia Jujuy",
@@ -52,12 +40,6 @@
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
         {
-          "event_id": "36527972",
-          "home": "Club Bolivar",
-          "away": "Blooming Santa Cruz",
-          "kickoff_utc": "2026-09-27T21:15:00+00:00"
-        },
-        {
           "event_id": "36529311",
           "home": "CD Real Tomayapo",
           "away": "Cdt Real Oruro",
@@ -66,74 +48,10 @@
       ]
     },
     {
-      "category": "Brazil",
-      "name": "Brasileiro Serie B",
-      "key": "soccer-brazil-brasileiro-serie-b",
-      "events": [
-        {
-          "event_id": "36430000",
-          "home": "Fortaleza EC CE",
-          "away": "Athletic Club Sjdr MG",
-          "kickoff_utc": "2026-09-27T21:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie C",
-      "key": "soccer-brazil-brasileiro-serie-c",
-      "events": [
-        {
-          "event_id": "36476022",
-          "home": "Brusque FC SC",
-          "away": "Ferroviaria SP",
-          "kickoff_utc": "2026-09-27T21:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Goiano Division 2 (GO)",
-      "key": "soccer-brazil-tc28a-brazil-campeonato-goiano-division-2-go",
-      "events": [
-        {
-          "event_id": "36531037",
-          "home": "Goianésia EC (GO)",
-          "away": "Mineiros EC",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        },
-        {
-          "event_id": "36520042",
-          "home": "Goianésia EC (GO)",
-          "away": "Mineiros GO",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Chile",
-      "name": "Segunda Division",
-      "key": "soccer-chile-segunda-division",
-      "events": [
-        {
-          "event_id": "36513368",
-          "home": "AC Colina",
-          "away": "Real San Joaquin",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
-        {
-          "event_id": "36440158",
-          "home": "Jaguares de Cordoba",
-          "away": "Alianza FC Valledupar",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        },
         {
           "event_id": "36430466",
           "home": "Fortaleza FC",
@@ -162,35 +80,10 @@
       ]
     },
     {
-      "category": "Costa Rica",
-      "name": "Liga de Ascenso, Apertura",
-      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
-      "events": [
-        {
-          "event_id": "36527950",
-          "home": "AD Cariari Pococi",
-          "away": "CS Uruguay de Coronado",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        },
-        {
-          "event_id": "36527678",
-          "home": "AD Cofutpa",
-          "away": "PFA Santa Cruz",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Dominican Republic",
       "name": "LDF Cup",
       "key": "soccer-dominican-republic-ta6ce-ldf-cup",
       "events": [
-        {
-          "event_id": "36531039",
-          "home": "Universidad O&m",
-          "away": "Salcedo FC",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        },
         {
           "event_id": "36532243",
           "home": "Cibao CF",
@@ -205,12 +98,6 @@
       "key": "soccer-el-salvador-primera-division-clausura",
       "events": [
         {
-          "event_id": "36500525",
-          "home": "CD Platense Municipal Zacatecoluca",
-          "away": "CD Fuerte San Francisco Morazan",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        },
-        {
           "event_id": "36499711",
           "home": "Municipal Limeno",
           "away": "CD FAS Santa Ana",
@@ -219,28 +106,15 @@
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "category": "International",
+      "name": "FIFA ASEAN Cup",
+      "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
         {
-          "event_id": "36480671",
-          "home": "Deportivo Mixco",
-          "away": "Antigua GFC",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Guatemala",
-      "name": "Primera Division",
-      "key": "soccer-guatemala-primera-division",
-      "events": [
-        {
-          "event_id": "36527668",
-          "home": "Deportivo Fraijanes",
-          "away": "Club Social y Deportivo Sayaxche",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
+          "event_id": "36529015",
+          "home": "Singapore",
+          "away": "Bangladesh",
+          "kickoff_utc": "2026-09-28T09:00:00+00:00"
         }
       ]
     },
@@ -277,73 +151,15 @@
       ]
     },
     {
-      "category": "Morocco",
-      "name": "Botola",
-      "key": "soccer-morocco-botola",
-      "events": [
-        {
-          "event_id": "36499717",
-          "home": "Kawkab Athletic Club of Marrakech",
-          "away": "Hassania Union Sport Agadir",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Panama",
       "name": "Liga Panamena de Futbol, Apertura",
       "key": "soccer-panama-liga-panamena-de-futbol-apertura",
       "events": [
         {
-          "event_id": "36499643",
-          "home": "Cocle FC",
-          "away": "CD Plaza Amador Panama City",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        },
-        {
           "event_id": "36521606",
           "home": "Veraguas United FC",
           "away": "AF Sporting San Miguelito",
           "kickoff_utc": "2026-09-27T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Peru Cup",
-      "key": "soccer-peru-tc1d5-peru-cup",
-      "events": [
-        {
-          "event_id": "36515396",
-          "home": "Asociacion Deportiva Tarma",
-          "away": "Sporting Cristal",
-          "kickoff_utc": "2026-09-27T20:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Segunda Division",
-      "key": "soccer-peru-segunda-division",
-      "events": [
-        {
-          "event_id": "36487171",
-          "home": "Union Comercio",
-          "away": "Pirata FC",
-          "kickoff_utc": "2026-09-27T20:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Primera Division",
-      "key": "soccer-uruguay-primera-division",
-      "events": [
-        {
-          "event_id": "36453304",
-          "home": "Defensor Sporting",
-          "away": "Danubio FC",
-          "kickoff_utc": "2026-09-27T21:00:00+00:00"
         }
       ]
     },
@@ -357,19 +173,6 @@
           "home": "Huracan Del Paso de la Arena",
           "away": "Miramar Misiones",
           "kickoff_utc": "2026-09-27T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Venezuela",
-      "name": "Segunda Division",
-      "key": "soccer-venezuela-segunda-division",
-      "events": [
-        {
-          "event_id": "36500510",
-          "home": "Dynamo Puerto FC",
-          "away": "Bolivar SC",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
         }
       ]
     }
