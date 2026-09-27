@@ -13,7 +13,7 @@ from zoneinfo import ZoneInfo
 
 BASE = "https://www.cloudbet.com/sports-api/c/v6/sports"
 TZ = ZoneInfo("Europe/Rome")
-WINDOW_MIN = 65
+WINDOW_MIN = 180
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "cloudbet"
