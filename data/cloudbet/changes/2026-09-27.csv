@@ -1589,3 +1589,483 @@ captured_at_local,event_id,competition,home_team,away_team,kickoff_utc,minutes_t
 2026-09-27T17:54:21.119844+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,5.648,soccer.match_odds,period=ft,home,,6.95,6.9
 2026-09-27T17:54:21.119844+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,5.648,soccer.total_goals,period=ft,over,total=2.5,1.47,1.48
 2026-09-27T17:54:21.119844+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,5.648,soccer.total_goals,period=ft,under,total=3,2.09,2.08
+2026-09-27T17:56:20.353571+02:00,36517533,Prva NL,Croatia,HNK Cibalia Vinkovci,NK Dugopolje,2026-09-27T16:30:00+00:00,33.6608,soccer.double_chance,period=ft,draw_away,,1.55,1.64
+2026-09-27T17:56:20.353571+02:00,36517533,Prva NL,Croatia,HNK Cibalia Vinkovci,NK Dugopolje,2026-09-27T16:30:00+00:00,33.6608,soccer.double_chance,period=ft,home_away,,1.3,1.29
+2026-09-27T17:56:20.353571+02:00,36517533,Prva NL,Croatia,HNK Cibalia Vinkovci,NK Dugopolje,2026-09-27T16:30:00+00:00,33.6608,soccer.double_chance,period=ft,home_draw,,1.28,1.23
+2026-09-27T17:56:20.353571+02:00,36524262,Campeonato de Portugal,Portugal,AD Limianos,Rebordosa AC,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.2,1.22
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=0,2.01,1.89
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=0,1.78,1.88
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.5,3.25
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.26,1.29
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.8,2.65
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.38,1.43
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.4,2.25
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.52,1.58
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.65,1.59
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,2.15,2.25
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.47,1.43
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,2.5,2.6
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,1.33,1.29
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,3.05,3.25
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.double_chance,period=ft,draw_away,,1.39,1.43
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.double_chance,period=ft,home_draw,,1.48,1.44
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.match_odds,period=ft,home,,2.85,2.7
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.match_odds,period=ft,away,,2.5,2.65
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.total_goals,period=ft,over,total=2.25,1.9,1.91
+2026-09-27T17:56:20.353571+02:00,36455088,Primera Federacion,Spain,Merida AD,UD Logrones,2026-09-27T16:15:00+00:00,18.6608,soccer.total_goals,period=ft,under,total=2.25,1.87,1.86
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.95,1.94
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.0,2.95
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,away,handicap=-1,1.37,1.38
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.56,1.57
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.69,1.68
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,home,handicap=0,1.43,1.42
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.asian_handicap,period=ft,away,handicap=0,2.45,2.5
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.match_odds,period=ft,home,,1.94,1.93
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.total_goals,period=ft,under,total=2,2.5,2.55
+2026-09-27T17:56:20.353571+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,63.6608,soccer.total_goals,period=ft,over,total=2.75,2.13,2.12
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1,2.2,2.02
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1,1.62,1.76
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,2.85,2.6
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,1.37,1.44
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,2.5,2.3
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,1.46,1.56
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.25,1.88,1.73
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.25,1.89,2.03
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.5,1.67,1.56
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.5,2.12,2.25
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.75,1.49,1.4
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.75,2.45,2.7
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.08,1.1
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.19,1.21
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,2.85,2.6
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,7.25,6.4
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,4.3,4.05
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,1.38,1.45
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.74,1.82
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,2.01,1.96
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,1.38,1.42
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,2.8,2.65
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.49,1.55
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,2.45,2.3
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,2.0,2.05
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.79,1.72
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,2.25,2.35
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.59,1.53
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,2.8,2.95
+2026-09-27T17:56:20.353571+02:00,36525325,Botola,Morocco,Moghreb Athletic de Tetouan,Rs Berkane,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.38,1.34
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.63,1.74
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,2.08,1.98
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.6,2.85
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.38,1.33
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0,2.25,2.45
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,1.54,1.44
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.86,1.98
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,1.83,1.71
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,1.45,1.53
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,2.45,2.25
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1,1.27,1.32
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1,3.15,2.9
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,3.05,3.3
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,3.1,3.15
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,2.09,1.97
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.8,1.78
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,1.9,1.92
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,2.95,3.0
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,2.6,2.65
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.52,1.51
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,2.25,2.3
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,2.03,2.01
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.67,1.68
+2026-09-27T17:56:20.353571+02:00,36524209,"Serie D, Girone H",Italy,AC Nardo,ASD Martina Calcio 1947,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.49,1.5
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.96,1.98
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.9,1.89
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,4.2,4.25
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=-1,3.7,3.75
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.75,2.8
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.25,2.3
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.65,1.64
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=0,1.6,1.61
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,away,handicap=0,2.4,2.35
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,2.9,2.85
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.32,1.33
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,3.4,3.35
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,4.5,4.4
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.double_chance,period=ft,draw_away,,1.63,1.62
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.double_chance,period=ft,home_draw,,1.32,1.33
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.match_odds,period=ft,home,,2.25,2.3
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.total_goals,period=ft,over,total=2.25,1.98,1.99
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.total_goals,period=ft,under,total=1.5,3.05,3.0
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.total_goals,period=ft,over,total=1.75,1.48,1.49
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.total_goals,period=ft,over,total=2,1.65,1.66
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.total_goals,period=ft,under,total=2.5,1.65,1.64
+2026-09-27T17:56:20.353571+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,33.6608,soccer.total_goals,period=ft,over,total=3.5,4.2,4.25
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.5,2.01,1.92
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.5,1.71,1.82
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,3.1,2.9
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,1.3,1.34
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1,2.8,2.55
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1,1.36,1.42
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.25,2.25,2.16
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.25,1.53,1.62
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.75,1.82,1.71
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.75,1.91,2.02
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=2,1.59,1.51
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=2,2.2,2.35
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=2.25,1.46,1.41
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=2.25,2.45,2.6
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.07,0.0
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.13,1.08
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,2.9,2.95
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,7.95,7.15
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,5.3,5.15
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,1.25,1.29
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.25,1.92,1.89
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.25,1.81,1.85
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,1.43,1.4
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,2.5,2.65
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,1.53,1.5
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,2.25,2.35
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,1.68,1.65
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,2.04,2.12
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.5,2.12,2.08
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.5,1.64,1.67
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.75,1.49,1.51
+2026-09-27T17:56:20.353571+02:00,36517099,2. Lig,Turkey,Adana Demirspor,Erbaaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=4,1.34,1.35
+2026-09-27T17:56:20.353571+02:00,36517097,2. Lig,Turkey,Aliaga Futbol,Sanliurfaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.43,1.37
+2026-09-27T17:56:20.353571+02:00,36517097,2. Lig,Turkey,Aliaga Futbol,Sanliurfaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.3,1.22
+2026-09-27T17:56:20.353571+02:00,36517097,2. Lig,Turkey,Aliaga Futbol,Sanliurfaspor,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.43,1.35
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1,1.76,1.82
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1,2.0,1.92
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.7,2.85
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.39,1.35
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.3,2.4
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.53,1.49
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.03,2.12
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.7,1.65
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.55,1.59
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.3,2.2
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.42,1.45
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.6,2.5
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.28,1.3
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.2,3.1
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,1.44,1.46
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,4.2,4.0
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,5.85,5.75
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,1.7,1.87
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,2.03,1.87
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.4,1.48
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,2.65,2.4
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,1.55,1.67
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,2.25,2.08
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,1.94,2.14
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.8,1.63
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.25,2.18,2.4
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.25,1.61,1.49
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.5,2.4,2.65
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.5,1.48,1.4
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.75,2.8,0.0
+2026-09-27T17:56:20.353571+02:00,36517096,2. Lig,Turkey,Mus 1984 Musspor,68 Aksaray Belediyespor,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.75,1.36,0.0
+2026-09-27T17:56:20.353571+02:00,36524220,"Tercera Federacion, Group 7",Spain,CD Lalín,CD BARCO,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,0.0,1.42
+2026-09-27T17:56:20.353571+02:00,36524220,"Tercera Federacion, Group 7",Spain,CD Lalín,CD BARCO,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,0.0,1.22
+2026-09-27T17:56:20.353571+02:00,36524220,"Tercera Federacion, Group 7",Spain,CD Lalín,CD BARCO,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,0.0,1.27
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-2,3.4,0.0
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-2,1.26,0.0
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.6,2.95
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.42,1.33
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.2,2.45
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.59,1.47
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.97,2.18
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.78,1.61
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1,1.68,1.89
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1,2.07,1.85
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.5,1.64
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.35,2.14
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.4,1.49
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.65,2.4
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,0.0,1.32
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,0.0,3.0
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,1.41,1.5
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,4.1,3.8
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,6.5,5.65
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,1.85,1.92
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.89,1.82
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,1.3,1.34
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,3.1,2.9
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.39,1.43
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,2.7,2.55
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.62,1.67
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,2.18,2.07
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,2.06,2.16
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.68,1.62
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,2.45,2.6
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.47,1.42
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.25,2.75,2.9
+2026-09-27T17:56:20.353571+02:00,36517091,"Tercera Federacion, Group 7",Spain,CF Badalona,San Cristobal Cp,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.25,1.38,1.34
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.8,1.99
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,1.96,1.76
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.85,3.25
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.35,1.28
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.5,2.85
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.45,1.35
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0,2.15,2.45
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,1.63,1.48
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.59,1.72
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,2.2,2.01
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,1.4,1.51
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,2.65,2.35
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1,1.23,1.3
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1,3.6,3.05
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.16,1.18
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,2.95,3.35
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,3.1,3.2
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,2.2,2.02
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.87,1.85
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,1.87,1.89
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,1.34,1.33
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,2.9,2.95
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,1.43,1.42
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,2.55,2.6
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.58,1.57
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,2.2,2.25
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,2.11,2.09
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.65,1.66
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.47,1.48
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,3.05,3.0
+2026-09-27T17:56:20.353571+02:00,36517098,"Tercera Federacion, Group 7",Spain,Celtiga CF,CD Estradense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.31,1.32
+2026-09-27T17:56:20.353571+02:00,36517094,"Tercera Federacion, Group 7",Spain,Ontinyent CF,CD Bunol,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.47,1.45
+2026-09-27T17:56:20.353571+02:00,36517094,"Tercera Federacion, Group 7",Spain,Ontinyent CF,CD Bunol,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.2,1.22
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1,1.95,1.92
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1,1.91,1.94
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-2,4.15,4.05
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-2,1.23,1.24
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.75,3.1,3.0
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.37,1.38
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.55,2.5
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.52,1.53
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.25,2.2
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.66,1.68
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.68,1.66
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.54,1.52
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.5,2.55
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.36,1.35
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.15,3.2
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,4.7,4.75
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,1.54,1.53
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,4.2,4.25
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,6.05,6.1
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,2.01,1.96
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.83,1.89
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,1.24,1.23
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,3.95,4.1
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.57,1.54
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,2.4,2.45
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,1.78,1.74
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,2.04,2.1
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,2.35,2.25
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.59,1.63
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.25,2.7,2.6
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.25,1.47,1.5
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.5,3.0,2.9
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.5,1.38,1.41
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=4.5,5.8,5.55
+2026-09-27T17:56:20.353571+02:00,36115686,UEFA Nations League,International,Austria,Kosovo,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=4.5,1.13,1.14
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.89,1.86
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.97,2.0
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-2.25,3.45,3.4
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.31,1.32
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-2,3.1,3.0
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-2,1.37,1.38
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.45,2.4
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.55,1.57
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.13,2.09
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.73,1.75
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1,1.62,1.6
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1,2.3,2.35
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.49,1.47
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.65,2.7
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.39,1.38
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,3.0,3.05
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.27,1.25
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.8,3.9
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,3.0,3.05
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,1.4,1.39
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,5.15,5.2
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,6.9,7.2
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,1.92,1.96
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.92,1.89
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.24,1.25
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,4.0,3.9
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.4,1.41
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,2.9,2.85
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,1.56,1.58
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,2.4,2.35
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,1.69,1.72
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,2.17,2.13
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.25,2.17,2.2
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.25,1.69,1.67
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.5,2.4,2.45
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.5,1.56,1.54
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.75,2.85,2.9
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.75,1.42,1.4
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=4,3.6,3.7
+2026-09-27T17:56:20.353571+02:00,36127336,UEFA Nations League,International,Denmark,Wales,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=4,1.28,1.27
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.75,1.76
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,2.08,2.07
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,4.9,4.85
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.16,1.17
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,1.61,1.6
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.5,1.51
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,1.32,1.33
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,3.25,3.2
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1,1.14,1.15
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1,5.3,5.1
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.25,6.05,5.85
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.48,1.46
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.5,1.51
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,2.55,2.6
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,2.05,1.99
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,1.75,1.81
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=0.5,1.21,1.19
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=0.5,4.1,4.25
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1,1.39,1.35
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1,2.9,3.0
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.25,1.71,1.67
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.25,2.07,2.15
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,2.4,2.3
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,1.53,1.57
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,3.2,3.05
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,1.32,1.35
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,4.15,4.0
+2026-09-27T17:56:20.353571+02:00,36134178,UEFA Nations League,International,Gibraltar,Andorra,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.2,1.22
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.25,1.98,2.0
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.25,1.88,1.86
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,3.8,3.85
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,1.27,1.26
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,1.39,1.38
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,2.65,2.7
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,1.48,1.47
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1,2.3,2.35
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1,1.62,1.6
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.5,1.75,1.76
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=1.5,2.1,2.08
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=1.75,1.57,1.58
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=2,1.39,1.4
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=2,3.0,2.95
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=2.25,1.32,1.33
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=2.25,3.4,3.3
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,6.9,7.0
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,5.15,5.2
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,1.4,1.39
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.25,2.01,1.99
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.25,1.84,1.86
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.33,1.32
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,3.25,3.3
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,1.48,1.46
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,1.59,1.57
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,2.35,2.4
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,1.75,1.72
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,2.08,2.12
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.5,1.66,1.68
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3.75,2.55,2.5
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3.75,1.51,1.52
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=4,3.15,3.1
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=4,1.35,1.36
+2026-09-27T17:56:20.353571+02:00,36127335,UEFA Nations League,International,Serbia,Netherlands,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=4.25,3.5,3.4
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.82,1.87
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.96,1.9
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.05,3.15
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.33,1.31
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-1,2.6,2.7
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-1,1.43,1.4
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.08,2.15
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.69,1.65
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.55,1.59
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.35,2.25
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0,1.28,1.32
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,3.3,3.1
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.21,1.24
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,3.9,3.65
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.93,1.88
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.17,1.19
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,1.81,1.86
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,4.65,4.35
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,1.89,1.88
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,1.47,1.48
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,2.5,2.45
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,1.62,1.63
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,2.2,2.19
+2026-09-27T17:56:20.353571+02:00,36452995,Segunda Federacion,Spain,CD Alcoyano,Club Deportiva Minera,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.34,1.33
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.95,0.0
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.21,0.0
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.05,3.2
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.32,1.3
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.6,2.7
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.45,1.4
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0,2.12,2.2
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,1.7,1.6
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.68,1.77
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,2.11,2.01
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.47,1.54
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,2.5,2.35
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,1.32,1.36
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,3.05,2.85
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.33,1.3
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.45,1.43
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.48,1.53
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,3.1,3.3
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,2.6,2.7
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,2.5,2.35
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.84,1.82
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,1.94,1.96
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.25,1.29,1.28
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,1.44,1.43
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,1.58,1.57
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,2.25,2.3
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,2.17,2.15
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,1.64,1.65
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.48,1.49
+2026-09-27T17:56:20.353571+02:00,36452130,Segunda Federacion,Spain,CDA Navalcarnero,Ub Conquense,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,2.95,2.9
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0,1.89,1.97
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0,1.89,1.81
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.3,3.5
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.28,1.26
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.65,2.8
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.42,1.38
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.25,2.4
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.58,1.53
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.25,1.58,1.62
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.25,2.25,2.2
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.5,1.42,1.44
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.5,2.65,2.55
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=0.75,1.29,1.3
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=0.75,3.25,3.15
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.42,1.39
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.4,1.41
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.43,1.45
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,2.7,2.85
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,2.8,2.75
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,2.7,2.6
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.25,1.84,1.97
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.25,1.93,1.82
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,1.32,1.36
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,3.1,2.85
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.75,1.4,1.47
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.75,2.7,2.5
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2,1.55,1.65
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2,2.35,2.16
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.5,2.09,2.2
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.5,1.69,1.6
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=2.75,2.35,2.55
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=2.75,1.51,1.44
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=3,2.95,3.25
+2026-09-27T17:56:20.353571+02:00,36453853,Segunda Federacion,Spain,Puente Genil FC,Marbella FC,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=3,1.35,1.29
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.88,1.75
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.83,1.85
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,draw_away,,1.82,1.75
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_away,,1.35,1.25
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.double_chance,period=ft,home_draw,,1.23,1.09
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,home,,1.88,1.75
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,draw,,3.1,2.9
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.match_odds,period=ft,away,,4.05,4.3
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,over,total=1.5,1.51,1.47
+2026-09-27T17:56:20.353571+02:00,36452977,Segunda Federacion,Spain,Yeclano Deportivo,Elche Ilicitano CF,2026-09-27T16:00:00+00:00,3.6608,soccer.total_goals,period=ft,under,total=1.5,2.4,2.3
