@@ -97,10 +97,28 @@ BLOCK_TERMS = {
     "under 22", "under 23", "olympic",
     # reserves
     "reserve", "reserves", "reserva", "reservas", "second team", "2nd team",
+    # virtual / simulated football is not a real football match
+    "virtual", "virtual football", "esoccer", "e soccer", "e-soccer",
+    "esport", "esports", "simulated", "simulation",
 }
 
 AGE_RE = re.compile(r"(?:^|\s)u\s*[- ]?\s*(17|18|19|20|21|22|23)(?:\s|$)", re.I)
-RESERVE_SUFFIX_RE = re.compile(r"\s(?:b|ii)$", re.I)
+WOMEN_SHORT_RE = re.compile(r"(?:^|\s)w(?:\s|$)", re.I)
+RESERVE_SUFFIX_RE = re.compile(r"\s(?:b|ii|iii|iv)$", re.I)
+KNOWN_RESERVE_ALIASES = {
+    "sevilla atletico",
+    "elche ilicitano",
+    "real madrid castilla",
+    "barcelona atletic",
+    "barcelona b",
+    "atletico madrid b",
+    "villarreal b",
+    "real sociedad b",
+    "athletic club b",
+    "osasuna b",
+    "celta fortuna",
+    "betis deportivo",
+}
 
 
 def blocked_text(*parts: str) -> bool:
@@ -108,6 +126,8 @@ def blocked_text(*parts: str) -> bool:
     if any(term in text for term in BLOCK_TERMS):
         return True
     if AGE_RE.search(text):
+        return True
+    if WOMEN_SHORT_RE.search(text):
         return True
     return False
 
@@ -119,11 +139,18 @@ def competition_allowed(category: str, name: str, key: str) -> bool:
 def event_allowed(home: str, away: str, competition: str, category: str) -> bool:
     if blocked_text(home, away, competition, category):
         return False
-    # Common explicit reserve-team naming: "Team B" / "Team II".
+
+    # Common explicit reserve-team naming: Team B / II / III / IV.
     if RESERVE_SUFFIX_RE.search(str(home or "").strip()):
         return False
     if RESERVE_SUFFIX_RE.search(str(away or "").strip()):
         return False
+
+    nh = normalize(home)
+    na = normalize(away)
+    if nh in KNOWN_RESERVE_ALIASES or na in KNOWN_RESERVE_ALIASES:
+        return False
+
     return True
 
 
