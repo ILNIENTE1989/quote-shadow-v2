@@ -95,8 +95,10 @@ BLOCK_TERMS = {
     "youth", "junior", "juniors", "academy", "primavera",
     "under 17", "under 18", "under 19", "under 20", "under 21",
     "under 22", "under 23", "olympic",
+    "sub 17", "sub 18", "sub 19", "sub 20", "sub 21", "sub 22", "sub 23",
     # reserves
     "reserve", "reserves", "reserva", "reservas", "second team", "2nd team",
+    "jong",
     # virtual / simulated football is not a real football match
     "virtual", "virtual football", "esoccer", "e soccer", "e-soccer",
     "esport", "esports", "simulated", "simulation",
@@ -148,7 +150,16 @@ def event_allowed(home: str, away: str, competition: str, category: str) -> bool
 
     nh = normalize(home)
     na = normalize(away)
-    if nh in KNOWN_RESERVE_ALIASES or na in KNOWN_RESERVE_ALIASES:
+
+    # Some reserve sides have extra club suffixes/prefixes in the feed
+    # (e.g. "Elche Ilicitano CF" or "FC Barcelona Atletic").
+    # Match known reserve aliases as whole normalized phrases, not only
+    # as an exact full-team-name equality.
+    def has_reserve_alias(name: str) -> bool:
+        padded = f" {name} "
+        return any(f" {alias} " in padded for alias in KNOWN_RESERVE_ALIASES)
+
+    if has_reserve_alias(nh) or has_reserve_alias(na):
         return False
 
     return True
