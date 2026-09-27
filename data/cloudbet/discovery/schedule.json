@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T21:32:25.013793+00:00",
+  "generated_at_utc": "2026-09-27T23:34:23.212996+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -16,92 +16,15 @@
       ]
     },
     {
-      "category": "Argentina",
-      "name": "Torneo Federal A",
-      "key": "soccer-argentina-torneo-federal-a",
-      "events": [
-        {
-          "event_id": "36518787",
-          "home": "CA Sol de America de Formosa",
-          "away": "CLUB CIPOLLETTI",
-          "kickoff_utc": "2026-09-27T22:00:00+00:00"
-        },
-        {
-          "event_id": "36519400",
-          "home": "CSB Atenas",
-          "away": "Sportivo General San Martin",
-          "kickoff_utc": "2026-09-27T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bolivia",
-      "name": "Copa Division Profesional",
-      "key": "soccer-bolivia-t8ca3-copa-division-profesional",
-      "events": [
-        {
-          "event_id": "36529311",
-          "home": "CD Real Tomayapo",
-          "away": "Cdt Real Oruro",
-          "kickoff_utc": "2026-09-27T23:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
         {
-          "event_id": "36430466",
-          "home": "Fortaleza FC",
-          "away": "CD Tolima",
-          "kickoff_utc": "2026-09-27T23:05:00+00:00"
-        },
-        {
           "event_id": "36432413",
           "home": "AD Cali",
           "away": "Aguilas Doradas Rionegro",
           "kickoff_utc": "2026-09-28T01:10:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36480654",
-          "home": "Barranquilla FC",
-          "away": "Real Soacha Cundinamarca",
-          "kickoff_utc": "2026-09-27T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Dominican Republic",
-      "name": "LDF Cup",
-      "key": "soccer-dominican-republic-ta6ce-ldf-cup",
-      "events": [
-        {
-          "event_id": "36532243",
-          "home": "Cibao CF",
-          "away": "Jarabacoa",
-          "kickoff_utc": "2026-09-27T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "El Salvador",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-el-salvador-primera-division-clausura",
-      "events": [
-        {
-          "event_id": "36499711",
-          "home": "Municipal Limeno",
-          "away": "CD FAS Santa Ana",
-          "kickoff_utc": "2026-09-27T23:00:00+00:00"
         }
       ]
     },
@@ -134,45 +57,6 @@
           "home": "Necaxa",
           "away": "CF America",
           "kickoff_utc": "2026-09-28T03:10:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Liga Premier Serie A",
-      "key": "soccer-mexico-t924f-liga-premier-serie-a",
-      "events": [
-        {
-          "event_id": "36524770",
-          "home": "Acambaro FC",
-          "away": "Artesanos Metepec FC",
-          "kickoff_utc": "2026-09-27T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
-      "events": [
-        {
-          "event_id": "36521606",
-          "home": "Veraguas United FC",
-          "away": "AF Sporting San Miguelito",
-          "kickoff_utc": "2026-09-27T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Segunda Division",
-      "key": "soccer-uruguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36500991",
-          "home": "Huracan Del Paso de la Arena",
-          "away": "Miramar Misiones",
-          "kickoff_utc": "2026-09-27T23:00:00+00:00"
         }
       ]
     }
