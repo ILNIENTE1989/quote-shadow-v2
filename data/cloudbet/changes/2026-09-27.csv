@@ -3047,3 +3047,116 @@ captured_at_local,event_id,competition,home_team,away_team,kickoff_utc,minutes_t
 2026-09-27T18:28:20.968215+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,1.6505,soccer.total_goals,period=ft,over,total=2.25,2.01,2.0
 2026-09-27T18:28:20.968215+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,1.6505,soccer.total_goals,period=ft,over,total=1.5,1.39,1.38
 2026-09-27T18:28:20.968215+02:00,36427173,Segunda División,Spain,Burgos CF,Club Deportivo Eldense,2026-09-27T16:30:00+00:00,1.6505,soccer.total_goals,period=ft,over,total=3.5,4.3,4.25
+2026-09-27T18:30:47.584429+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,1.65,1.69
+2026-09-27T18:30:47.584429+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.27,1.28
+2026-09-27T18:30:47.584429+02:00,36524841,Primera Division,Guatemala,CD Mictlan,CSD Sacachispas,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.24,1.25
+2026-09-27T18:30:47.584429+02:00,36524840,Primera Division,Guatemala,FC Santa Lucia Cotzumalguapa,Huehuetecos FC,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,2.03,2.09
+2026-09-27T18:30:47.584429+02:00,36524840,Primera Division,Guatemala,FC Santa Lucia Cotzumalguapa,Huehuetecos FC,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.21,1.23
+2026-09-27T18:30:47.584429+02:00,36524840,Primera Division,Guatemala,FC Santa Lucia Cotzumalguapa,Huehuetecos FC,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.13,1.14
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=0,1.91,1.95
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=0,1.77,1.8
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.55,3.65
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.2,1.22
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.8,2.85
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.33,1.35
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.35,2.4
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.48,1.5
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=0.25,1.55,1.58
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=0.5,1.38,1.4
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=0.5,2.6,2.65
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=0.75,1.25,1.26
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=0.75,3.25,3.3
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.double_chance,period=ft,draw_away,,1.38,1.39
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.double_chance,period=ft,home_away,,1.43,1.44
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.double_chance,period=ft,home_draw,,1.44,1.46
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.match_odds,period=ft,home,,2.85,2.9
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.match_odds,period=ft,draw,,2.5,2.55
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.match_odds,period=ft,away,,2.6,2.7
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1.75,1.88,1.92
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1.75,1.79,1.82
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1,1.21,1.23
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1,3.5,3.55
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1.25,1.43,1.45
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1.25,2.45,2.5
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1.5,1.64,1.67
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1.5,2.04,2.08
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2,2.3,2.35
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2,1.5,1.53
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2.25,2.65,2.7
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2.25,1.36,1.38
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2.5,3.05,3.1
+2026-09-27T18:30:47.584429+02:00,36483818,Primera B,Argentina,Argentino de Quilmes,Comunicaciones,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2.5,1.28,1.3
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.79,1.82
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.89,1.92
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.75,2.8
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.34,1.36
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.4,2.45
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.44,1.46
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-1,2.11,2.15
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-1,1.6,1.63
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.58,1.61
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.14,2.18
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.37,1.39
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.65,2.7
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,home,handicap=0,1.16,1.18
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.asian_handicap,period=ft,away,handicap=0,4.0,4.15
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.double_chance,period=ft,draw_away,,2.09,2.13
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.double_chance,period=ft,home_away,,1.3,1.31
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.double_chance,period=ft,home_draw,,1.15,1.16
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.match_odds,period=ft,home,,1.59,1.62
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.match_odds,period=ft,draw,,3.1,3.2
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.match_odds,period=ft,away,,5.45,5.65
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2,1.87,1.9
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2,1.8,1.84
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1.25,1.29,1.31
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1.25,3.0,3.05
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1.5,1.45,1.48
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1.5,2.35,2.4
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=1.75,1.61,1.63
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=1.75,2.1,2.14
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2.25,2.18,2.2
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2.25,1.56,1.59
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2.5,2.45,2.5
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2.5,1.43,1.45
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,over,total=2.75,2.95,3.0
+2026-09-27T18:30:47.584429+02:00,36483835,Primera B,Argentina,Club Villa Dalmine,CD UAI Urquiza,2026-09-27T18:00:00+00:00,89.2069,soccer.total_goals,period=ft,under,total=2.75,1.3,1.32
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,home,handicap=0.25,2.13,1.93
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,away,handicap=0.25,1.65,1.85
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,home,handicap=-0.25,3.6,2.95
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.24,1.34
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,home,handicap=0,3.0,2.45
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,away,handicap=0,1.33,1.5
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,home,handicap=0.5,1.79,1.65
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,away,handicap=0.5,1.98,2.15
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,home,handicap=0.75,1.55,1.45
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,away,handicap=0.75,2.3,2.55
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,home,handicap=1,1.33,1.26
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.asian_handicap,period=ft,away,handicap=1,3.0,3.5
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,1.18,1.26
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.4,1.38
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.76,1.64
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.match_odds,period=ft,home,,4.35,3.55
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.match_odds,period=ft,draw,,2.75,2.85
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.match_odds,period=ft,away,,1.97,2.16
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,over,total=2,1.93,1.95
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,over,total=1.25,1.31,1.32
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,over,total=1.5,1.48,1.49
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,under,total=1.5,2.45,2.4
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,over,total=1.75,1.64,1.66
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,under,total=1.75,2.15,2.14
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,over,total=2.5,2.55,2.6
+2026-09-27T18:30:47.584429+02:00,36455188,Primera Federacion,Spain,CD Teruel,Huesca,2026-09-27T17:00:00+00:00,29.2069,soccer.total_goals,period=ft,over,total=2.75,3.1,3.15
+2026-09-27T18:30:47.584429+02:00,36517710,"Tercera Federacion, Group 7",Spain,Bollullos CF,CD San Roque,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,1.56,1.59
+2026-09-27T18:30:47.584429+02:00,36517710,"Tercera Federacion, Group 7",Spain,Bollullos CF,CD San Roque,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.3,1.32
+2026-09-27T18:30:47.584429+02:00,36517710,"Tercera Federacion, Group 7",Spain,Bollullos CF,CD San Roque,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.26,1.28
+2026-09-27T18:30:47.584429+02:00,36517707,"Tercera Federacion, Group 7",Spain,CD Bala Azul,Alcantarilla FC,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,1.68,1.72
+2026-09-27T18:30:47.584429+02:00,36517707,"Tercera Federacion, Group 7",Spain,CD Bala Azul,Alcantarilla FC,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.28,1.3
+2026-09-27T18:30:47.584429+02:00,36517707,"Tercera Federacion, Group 7",Spain,CD Bala Azul,Alcantarilla FC,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.21,1.22
+2026-09-27T18:30:47.584429+02:00,36517708,"Tercera Federacion, Group 7",Spain,CF Motril,CD Alhaurino,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,2.11,2.18
+2026-09-27T18:30:47.584429+02:00,36517708,"Tercera Federacion, Group 7",Spain,CF Motril,CD Alhaurino,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.21,1.22
+2026-09-27T18:30:47.584429+02:00,36517709,"Tercera Federacion, Group 7",Spain,FC Marbelli,UD Torre Del Mar,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,1.62,1.65
+2026-09-27T18:30:47.584429+02:00,36517709,"Tercera Federacion, Group 7",Spain,FC Marbelli,UD Torre Del Mar,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.31,1.32
+2026-09-27T18:30:47.584429+02:00,36517709,"Tercera Federacion, Group 7",Spain,FC Marbelli,UD Torre Del Mar,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.23,1.24
+2026-09-27T18:30:47.584429+02:00,36517705,"Tercera Federacion, Group 7",Spain,Union Molinense CF 2020,Mazarron CF,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,draw_away,,1.47,1.5
+2026-09-27T18:30:47.584429+02:00,36517705,"Tercera Federacion, Group 7",Spain,Union Molinense CF 2020,Mazarron CF,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_away,,1.32,1.33
+2026-09-27T18:30:47.584429+02:00,36517705,"Tercera Federacion, Group 7",Spain,Union Molinense CF 2020,Mazarron CF,2026-09-27T17:00:00+00:00,29.2069,soccer.double_chance,period=ft,home_draw,,1.31,1.33
