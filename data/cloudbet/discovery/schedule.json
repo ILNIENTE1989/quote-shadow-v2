@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-09-27T15:32:20.720156+00:00",
+  "generated_at_utc": "2026-09-27T17:32:20.734162+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Argentina Regional League",
-      "key": "soccer-argentina-tb404-argentina-regional-league",
-      "events": [
-        {
-          "event_id": "36529822",
-          "home": "La Cantera FC",
-          "away": "Gibson Brown",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Argentina",
       "name": "Primera B",
@@ -207,21 +194,9 @@
       "key": "soccer-bolivia-nacional-b",
       "events": [
         {
-          "event_id": "36528109",
-          "home": "Club Empresa Minera Huanuni",
-          "away": "CD Fatic (w)",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
           "event_id": "36526122",
           "home": "Club Universitario San Francisco Xavier",
           "away": "Club Universitario Tarija",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36526121",
-          "home": "Virginia Usc",
-          "away": "Exotico Tiquipaya (w)",
           "kickoff_utc": "2026-09-27T19:00:00+00:00"
         },
         {
@@ -229,19 +204,6 @@
           "home": "Wilstermann-Cooperativas",
           "away": "Mineros Potosi",
           "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bosnia & Herzegovina",
-      "name": "Prva Liga, Rep of Srpska",
-      "key": "soccer-bosnia-herzegovina-prva-liga-rep-of-srpska",
-      "events": [
-        {
-          "event_id": "36528563",
-          "home": "NK Gosk Gabela",
-          "away": "FK Sloboda Tuzla",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
         }
       ]
     },
@@ -298,19 +260,6 @@
     },
     {
       "category": "Brazil",
-      "name": "Brazil Campeonato Cearense 3 (CE)",
-      "key": "soccer-brazil-tc32b-brazil-campeonato-cearense-3-ce",
-      "events": [
-        {
-          "event_id": "36531038",
-          "home": "FC Acopiara",
-          "away": "SC Vila Real",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
       "name": "Brazil Campeonato Gaucho Division 2 (RS)",
       "key": "soccer-brazil-tc2c3-brazil-campeonato-gaucho-division-2-rs",
       "events": [
@@ -336,12 +285,6 @@
           "event_id": "36526124",
           "home": "EC Pelotas RS",
           "away": "SERC Brasil de Farroupilha RS",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36526127",
-          "home": "GE Bagé",
-          "away": "Gremio Esportivo Brasil",
           "kickoff_utc": "2026-09-27T18:00:00+00:00"
         },
         {
@@ -379,12 +322,6 @@
           "event_id": "36520042",
           "home": "Goianésia EC (GO)",
           "away": "Mineiros GO",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        },
-        {
-          "event_id": "36523116",
-          "home": "Trindade AC (GO)",
-          "away": "Gremio Esportivo Anápolis (GO)",
           "kickoff_utc": "2026-09-27T20:00:00+00:00"
         }
       ]
@@ -462,63 +399,6 @@
           "home": "Venus AC (PA)",
           "away": "Pinheirense EC (PA)",
           "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bulgaria",
-      "name": "Second Prof. League",
-      "key": "soccer-bulgaria-second-prof-league",
-      "events": [
-        {
-          "event_id": "36526447",
-          "home": "FC Fratria Varna",
-          "away": "PFC Spartak Pleven",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36524256",
-          "home": "FK Hebar Pazardzhik",
-          "away": "PFC Dobrudzha Dobrich",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Canada",
-      "name": "Canadian Premier League",
-      "key": "soccer-canada-canadian-premier-league",
-      "events": [
-        {
-          "event_id": "36480651",
-          "home": "Inter Toronto FC",
-          "away": "Pacific FC",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Chile",
-      "name": "Copa Chile",
-      "key": "soccer-chile-copa-chile",
-      "events": [
-        {
-          "event_id": "36486313",
-          "home": "Deportes Concepcion",
-          "away": "Curico Unido",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36516716",
-          "home": "Universidad de Chile",
-          "away": "CD Everton Vina del Mar",
-          "kickoff_utc": "2026-09-27T20:30:00+00:00"
-        },
-        {
-          "event_id": "36516791",
-          "home": "CD Santa Cruz",
-          "away": "CD O´Higgins",
-          "kickoff_utc": "2026-09-27T23:00:00+00:00"
         }
       ]
     },
@@ -636,32 +516,6 @@
       ]
     },
     {
-      "category": "Croatia",
-      "name": "Croatia Division 3 (Treća HNL)",
-      "key": "soccer-croatia-tb414-croatia-division-3-treca-hnl",
-      "events": [
-        {
-          "event_id": "36509149",
-          "home": "NK Zagorec Krapina",
-          "away": "ŠD Bistra Donja Bistra",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Croatia",
-      "name": "Prva NL",
-      "key": "soccer-croatia-2-hnl",
-      "events": [
-        {
-          "event_id": "36517533",
-          "home": "HNK Cibalia Vinkovci",
-          "away": "NK Dugopolje",
-          "kickoff_utc": "2026-09-27T16:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Dominican Republic",
       "name": "LDF Cup",
       "key": "soccer-dominican-republic-ta6ce-ldf-cup",
@@ -671,6 +525,12 @@
           "home": "Universidad O&m",
           "away": "Salcedo FC",
           "kickoff_utc": "2026-09-27T20:00:00+00:00"
+        },
+        {
+          "event_id": "36532243",
+          "home": "Cibao CF",
+          "away": "Jarabacoa",
+          "kickoff_utc": "2026-09-27T22:00:00+00:00"
         }
       ]
     },
@@ -679,12 +539,6 @@
       "name": "Primera Division, Clausura",
       "key": "soccer-el-salvador-primera-division-clausura",
       "events": [
-        {
-          "event_id": "36508400",
-          "home": "Alianza FC San Salvador",
-          "away": "CD Inca",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
         {
           "event_id": "36500525",
           "home": "CD Platense Municipal Zacatecoluca",
@@ -724,35 +578,10 @@
       "key": "soccer-guatemala-primera-division",
       "events": [
         {
-          "event_id": "36524841",
-          "home": "CD Mictlan",
-          "away": "CSD Sacachispas",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36524840",
-          "home": "FC Santa Lucia Cotzumalguapa",
-          "away": "Huehuetecos FC",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
           "event_id": "36527668",
           "home": "Deportivo Fraijanes",
           "away": "Club Social y Deportivo Sayaxche",
           "kickoff_utc": "2026-09-27T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Hungary",
-      "name": "NB III",
-      "key": "soccer-hungary-nb-iii",
-      "events": [
-        {
-          "event_id": "36524210",
-          "home": "Szombathelyi Haladas Vse",
-          "away": "Papai Perutz FC",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
         }
       ]
     },
@@ -762,121 +591,10 @@
       "key": "soccer-international-tc45c-afc-gulf-cup",
       "events": [
         {
-          "event_id": "36507938",
-          "home": "Yemen",
-          "away": "Qatar",
-          "kickoff_utc": "2026-09-27T15:55:00+00:00"
-        },
-        {
           "event_id": "36508010",
           "home": "Bahrain",
           "away": "United Arab Emirates",
           "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "CONCACAF Nations League",
-      "key": "soccer-international-concacaf-nations-league",
-      "events": [
-        {
-          "event_id": "36512722",
-          "home": "Guyana",
-          "away": "Cayman Islands",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36524282",
-          "home": "Haiti",
-          "away": "Costa Rica",
-          "kickoff_utc": "2026-09-27T23:00:00+00:00"
-        },
-        {
-          "event_id": "36524492",
-          "home": "Curacao",
-          "away": "Nicaragua",
-          "kickoff_utc": "2026-09-28T00:00:00+00:00"
-        },
-        {
-          "event_id": "36524201",
-          "home": "Dominica",
-          "away": "Puerto Rico",
-          "kickoff_utc": "2026-09-28T00:00:00+00:00"
-        },
-        {
-          "event_id": "36524982",
-          "home": "Trinidad and Tobago",
-          "away": "Dominican Republic",
-          "kickoff_utc": "2026-09-28T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "UEFA Nations League",
-      "key": "soccer-international-uefa-nations-league",
-      "events": [
-        {
-          "event_id": "36115686",
-          "home": "Austria",
-          "away": "Kosovo",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36127336",
-          "home": "Denmark",
-          "away": "Wales",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36134178",
-          "home": "Gibraltar",
-          "away": "Andorra",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36127335",
-          "home": "Serbia",
-          "away": "Netherlands",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36136894",
-          "home": "Germany",
-          "away": "Greece",
-          "kickoff_utc": "2026-09-27T18:45:00+00:00"
-        },
-        {
-          "event_id": "36123565",
-          "home": "Israel",
-          "away": "Ireland",
-          "kickoff_utc": "2026-09-27T18:45:00+00:00"
-        },
-        {
-          "event_id": "36146870",
-          "home": "Norway",
-          "away": "Portugal",
-          "kickoff_utc": "2026-09-27T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36531040",
-          "home": "Maccabi HaSharon Netanya FC",
-          "away": "Beitar Petah Tikva",
-          "kickoff_utc": "2026-09-27T16:30:00+00:00"
-        },
-        {
-          "event_id": "36529312",
-          "home": "Beitar Ramat Gan",
-          "away": "Beitar Kfar Saba Shlomi",
-          "kickoff_utc": "2026-09-27T17:30:00+00:00"
         }
       ]
     },
@@ -912,19 +630,6 @@
       ]
     },
     {
-      "category": "Italy",
-      "name": "Serie D, Girone H",
-      "key": "soccer-italy-serie-d-girone-h",
-      "events": [
-        {
-          "event_id": "36524209",
-          "home": "AC Nardo",
-          "away": "ASD Martina Calcio 1947",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Ivory Coast",
       "name": "Ligue 1",
       "key": "soccer-ivory-coast-ligue-1",
@@ -938,78 +643,10 @@
       ]
     },
     {
-      "category": "Jamaica",
-      "name": "Premier League",
-      "key": "soccer-jamaica-premier-league",
-      "events": [
-        {
-          "event_id": "36519816",
-          "home": "Cavaliers FC",
-          "away": "Arnett Gardens FC",
-          "kickoff_utc": "2026-09-27T20:30:00+00:00"
-        },
-        {
-          "event_id": "36519813",
-          "home": "Dunbeholden FC",
-          "away": "Mount Pleasant FC",
-          "kickoff_utc": "2026-09-27T20:30:00+00:00"
-        },
-        {
-          "event_id": "36519814",
-          "home": "Molynes",
-          "away": "Tru-Juice FC",
-          "kickoff_utc": "2026-09-27T20:30:00+00:00"
-        },
-        {
-          "event_id": "36519812",
-          "home": "Portmore United",
-          "away": "Humble Lions",
-          "kickoff_utc": "2026-09-27T20:30:00+00:00"
-        },
-        {
-          "event_id": "36519815",
-          "home": "Tivoli Gardens",
-          "away": "Chapelton Maroons FC",
-          "kickoff_utc": "2026-09-27T20:30:00+00:00"
-        },
-        {
-          "event_id": "36520804",
-          "home": "Racing United FC",
-          "away": "Montego Bay United",
-          "kickoff_utc": "2026-09-27T22:05:00+00:00"
-        },
-        {
-          "event_id": "36522739",
-          "home": "Waterhouse FC",
-          "away": "Treasure Beach FC",
-          "kickoff_utc": "2026-09-28T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Luxembourg",
-      "name": "Promotion d'Honneur",
-      "key": "soccer-luxembourg-promotion-d-honneur",
-      "events": [
-        {
-          "event_id": "36524221",
-          "home": "CS Fola Esch",
-          "away": "FC Jeunesse Canach",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
-        {
-          "event_id": "36517131",
-          "home": "H20 Purepechas FC",
-          "away": "Los Cabos United",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
         {
           "event_id": "36427545",
           "home": "Pumas UNAM",
@@ -1055,12 +692,6 @@
       "key": "soccer-morocco-botola",
       "events": [
         {
-          "event_id": "36525325",
-          "home": "Moghreb Athletic de Tetouan",
-          "away": "Rs Berkane",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
           "event_id": "36500569",
           "home": "Maghreb AS de Fes",
           "away": "Renaissance Zemamra",
@@ -1071,25 +702,6 @@
           "home": "Kawkab Athletic Club of Marrakech",
           "away": "Hassania Union Sport Agadir",
           "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Morocco",
-      "name": "Botola 2",
-      "key": "soccer-morocco-botola-2",
-      "events": [
-        {
-          "event_id": "36524260",
-          "home": "Chabab Ben Guerir",
-          "away": "Jeunesse Sportive Soualem",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36524995",
-          "home": "JSM Massira",
-          "away": "Stade Marocain",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
         }
       ]
     },
@@ -1151,311 +763,15 @@
       ]
     },
     {
-      "category": "Poland",
-      "name": "III Liga, Group 3",
-      "key": "soccer-poland-iii-liga-group-3",
-      "events": [
-        {
-          "event_id": "36524261",
-          "home": "KSZO Ostrowiec Swietokrzyski",
-          "away": "KS Hetman Zamość",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Portugal",
-      "name": "Campeonato de Portugal",
-      "key": "soccer-portugal-campeonato-de-portugal",
-      "events": [
-        {
-          "event_id": "36524262",
-          "home": "AD Limianos",
-          "away": "Rebordosa AC",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Primera Federacion",
-      "key": "soccer-spain-t717f-primera-division-rfef",
-      "events": [
-        {
-          "event_id": "36455184",
-          "home": "Antequera CF",
-          "away": "Real Jaen CF",
-          "kickoff_utc": "2026-09-27T16:15:00+00:00"
-        },
-        {
-          "event_id": "36455088",
-          "home": "Merida AD",
-          "away": "UD Logrones",
-          "kickoff_utc": "2026-09-27T16:15:00+00:00"
-        },
-        {
-          "event_id": "36455134",
-          "home": "Pontevedra CF",
-          "away": "SD Ponferradina",
-          "kickoff_utc": "2026-09-27T16:15:00+00:00"
-        },
-        {
-          "event_id": "36455188",
-          "home": "CD Teruel",
-          "away": "Huesca",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36455193",
-          "home": "Real Madrid Castilla",
-          "away": "AD Alcorcon",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Spain",
       "name": "Segunda División",
       "key": "soccer-spain-laliga-2",
       "events": [
         {
-          "event_id": "36427173",
-          "home": "Burgos CF",
-          "away": "Club Deportivo Eldense",
-          "kickoff_utc": "2026-09-27T16:30:00+00:00"
-        },
-        {
-          "event_id": "36427174",
-          "home": "Eibar",
-          "away": "Las Palmas",
-          "kickoff_utc": "2026-09-27T16:30:00+00:00"
-        },
-        {
           "event_id": "36428541",
           "home": "Real Oviedo",
           "away": "Sporting Gijon",
           "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Segunda Federacion",
-      "key": "soccer-spain-second-division-b",
-      "events": [
-        {
-          "event_id": "36452995",
-          "home": "CD Alcoyano",
-          "away": "Club Deportiva Minera",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36452130",
-          "home": "CDA Navalcarnero",
-          "away": "Ub Conquense",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36452131",
-          "home": "Calvo Sotelo Puertollano",
-          "away": "SDA Tordesillas",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36453853",
-          "home": "Puente Genil FC",
-          "away": "Marbella FC",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36463597",
-          "home": "Utebo FC",
-          "away": "Reus FC Reddis",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36452977",
-          "home": "Yeclano Deportivo",
-          "away": "Elche Ilicitano CF",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36453828",
-          "home": "CA Antoniano",
-          "away": "CD Ciudad de Lucena",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36452978",
-          "home": "CF Lorca Deportiva",
-          "away": "UD Castellonense",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36453836",
-          "home": "Club Atletico Central",
-          "away": "Sevilla Atletico",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36453982",
-          "home": "RC Recreativo de Huelva",
-          "away": "Xerez Deportivo FC",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Tercera Federacion, Group 7",
-      "key": "soccer-spain-tercera-division-group-7",
-      "events": [
-        {
-          "event_id": "36524220",
-          "home": "CD Lalín",
-          "away": "CD BARCO",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517093",
-          "home": "CD Toledo Sad",
-          "away": "CF La Solana",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517091",
-          "home": "CF Badalona",
-          "away": "San Cristobal Cp",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517098",
-          "home": "Celtiga CF",
-          "away": "CD Estradense",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517095",
-          "home": "Crevillente Deportivo",
-          "away": "Atletico Saguntino",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517094",
-          "home": "Ontinyent CF",
-          "away": "CD Bunol",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36520225",
-          "home": "Real Betis III",
-          "away": "Xerez Deportivo FC",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36524283",
-          "home": "SD Atletico Albericia",
-          "away": "SD Solares",
-          "kickoff_utc": "2026-09-27T16:15:00+00:00"
-        },
-        {
-          "event_id": "36517710",
-          "home": "Bollullos CF",
-          "away": "CD San Roque",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36517707",
-          "home": "CD Bala Azul",
-          "away": "Alcantarilla FC",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36517708",
-          "home": "CF Motril",
-          "away": "CD Alhaurino",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36524850",
-          "home": "Ef Puebla de la Calzada",
-          "away": "CD Quintanar Del Rey",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36517709",
-          "home": "FC Marbelli",
-          "away": "UD Torre Del Mar",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        },
-        {
-          "event_id": "36517705",
-          "home": "Union Molinense CF 2020",
-          "away": "Mazarron CF",
-          "kickoff_utc": "2026-09-27T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Turkey",
-      "name": "2. Lig",
-      "key": "soccer-turkey-2nd-lig",
-      "events": [
-        {
-          "event_id": "36517099",
-          "home": "Adana Demirspor",
-          "away": "Erbaaspor",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517097",
-          "home": "Aliaga Futbol",
-          "away": "Sanliurfaspor",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36517096",
-          "home": "Mus 1984 Musspor",
-          "away": "68 Aksaray Belediyespor",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
-          "event_id": "36524219",
-          "home": "Sakaryaspor",
-          "away": "Belediye Kutahyaspor",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "USA",
-      "name": "Major League Soccer",
-      "key": "soccer-usa-major-league-soccer",
-      "events": [
-        {
-          "event_id": "36375532",
-          "home": "Columbus Crew",
-          "away": "Inter Miami CF",
-          "kickoff_utc": "2026-09-27T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "USA",
-      "name": "USL League One",
-      "key": "soccer-usa-usl-league-one",
-      "events": [
-        {
-          "event_id": "36531097",
-          "home": "New York Cosmos",
-          "away": "Richmond Kickers",
-          "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        },
-        {
-          "event_id": "36500691",
-          "home": "One Knoxville SC",
-          "away": "Westchester SC",
-          "kickoff_utc": "2026-09-27T23:00:00+00:00"
         }
       ]
     },
@@ -1497,12 +813,6 @@
       "key": "soccer-uruguay-segunda-division",
       "events": [
         {
-          "event_id": "36500617",
-          "home": "CA Atenas de San Carlos",
-          "away": "Plaza Colonia",
-          "kickoff_utc": "2026-09-27T16:00:00+00:00"
-        },
-        {
           "event_id": "36500239",
           "home": "CS Cerrito",
           "away": "La Luz FC",
@@ -1532,467 +842,6 @@
           "home": "Dynamo Puerto FC",
           "away": "Bolivar SC",
           "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Virtual",
-      "name": "Virtual Football Asian Cup",
-      "key": "soccer-virtual-virtual-football-asian-cup",
-      "events": [
-        {
-          "event_id": "36531954",
-          "home": "India",
-          "away": "Bahrain",
-          "kickoff_utc": "2026-09-27T15:38:19+00:00"
-        },
-        {
-          "event_id": "36531956",
-          "home": "UAE",
-          "away": "Thailand",
-          "kickoff_utc": "2026-09-27T15:38:19+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Virtual",
-      "name": "Virtual Football Champions Cup",
-      "key": "soccer-virtual-virtual-football-champions-cup",
-      "events": [
-        {
-          "event_id": "36531961",
-          "home": "Athens",
-          "away": "Tottenham",
-          "kickoff_utc": "2026-09-27T15:37:54+00:00"
-        },
-        {
-          "event_id": "36531945",
-          "home": "Brugge",
-          "away": "Istanbul",
-          "kickoff_utc": "2026-09-27T15:37:54+00:00"
-        },
-        {
-          "event_id": "36531959",
-          "home": "Munich",
-          "away": "Belgrade",
-          "kickoff_utc": "2026-09-27T15:37:54+00:00"
-        },
-        {
-          "event_id": "36531944",
-          "home": "Paris",
-          "away": "Madrid White",
-          "kickoff_utc": "2026-09-27T15:37:54+00:00"
-        },
-        {
-          "event_id": "36531946",
-          "home": "Istanbul",
-          "away": "Paris",
-          "kickoff_utc": "2026-09-27T15:52:34+00:00"
-        },
-        {
-          "event_id": "36531947",
-          "home": "Madrid White",
-          "away": "Brugge",
-          "kickoff_utc": "2026-09-27T15:52:34+00:00"
-        },
-        {
-          "event_id": "36531949",
-          "home": "Brugge",
-          "away": "Paris",
-          "kickoff_utc": "2026-09-27T16:07:14+00:00"
-        },
-        {
-          "event_id": "36531948",
-          "home": "Istanbul",
-          "away": "Madrid White",
-          "kickoff_utc": "2026-09-27T16:07:14+00:00"
-        },
-        {
-          "event_id": "36531951",
-          "home": "Madrid White",
-          "away": "Istanbul",
-          "kickoff_utc": "2026-09-27T16:21:54+00:00"
-        },
-        {
-          "event_id": "36531950",
-          "home": "Paris",
-          "away": "Brugge",
-          "kickoff_utc": "2026-09-27T16:21:54+00:00"
-        },
-        {
-          "event_id": "36531957",
-          "home": "Istanbul",
-          "away": "Brugge",
-          "kickoff_utc": "2026-09-27T16:36:34+00:00"
-        },
-        {
-          "event_id": "36531953",
-          "home": "Madrid White",
-          "away": "Paris",
-          "kickoff_utc": "2026-09-27T16:36:34+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Virtual",
-      "name": "Virtual Football Euro Cup",
-      "key": "soccer-virtual-virtual-football-euro-cup",
-      "events": [
-        {
-          "event_id": "36531899",
-          "home": "Germany",
-          "away": "Scotland",
-          "kickoff_utc": "2026-09-27T15:35:23+00:00"
-        },
-        {
-          "event_id": "36531898",
-          "home": "Hungary",
-          "away": "Switzerland",
-          "kickoff_utc": "2026-09-27T15:35:23+00:00"
-        },
-        {
-          "event_id": "36531904",
-          "home": "Italy",
-          "away": "Albania",
-          "kickoff_utc": "2026-09-27T15:35:23+00:00"
-        },
-        {
-          "event_id": "36531905",
-          "home": "Spain",
-          "away": "Croatia",
-          "kickoff_utc": "2026-09-27T15:35:23+00:00"
-        },
-        {
-          "event_id": "36531910",
-          "home": "England",
-          "away": "Denmark",
-          "kickoff_utc": "2026-09-27T15:39:03+00:00"
-        },
-        {
-          "event_id": "36531917",
-          "home": "France",
-          "away": "Poland",
-          "kickoff_utc": "2026-09-27T15:39:03+00:00"
-        },
-        {
-          "event_id": "36531916",
-          "home": "Netherlands",
-          "away": "Austria",
-          "kickoff_utc": "2026-09-27T15:39:03+00:00"
-        },
-        {
-          "event_id": "36531911",
-          "home": "Serbia",
-          "away": "Slovenia",
-          "kickoff_utc": "2026-09-27T15:39:03+00:00"
-        },
-        {
-          "event_id": "36531923",
-          "home": "Belgium",
-          "away": "Slovakia",
-          "kickoff_utc": "2026-09-27T15:42:43+00:00"
-        },
-        {
-          "event_id": "36531930",
-          "home": "Portugal",
-          "away": "Czech Rep.",
-          "kickoff_utc": "2026-09-27T15:42:43+00:00"
-        },
-        {
-          "event_id": "36531924",
-          "home": "Romania",
-          "away": "Ukraine",
-          "kickoff_utc": "2026-09-27T15:42:43+00:00"
-        },
-        {
-          "event_id": "36531929",
-          "home": "Turkey",
-          "away": "Georgia",
-          "kickoff_utc": "2026-09-27T15:42:43+00:00"
-        },
-        {
-          "event_id": "36531907",
-          "home": "Croatia",
-          "away": "Albania",
-          "kickoff_utc": "2026-09-27T15:46:23+00:00"
-        },
-        {
-          "event_id": "36531901",
-          "home": "Germany",
-          "away": "Hungary",
-          "kickoff_utc": "2026-09-27T15:46:23+00:00"
-        },
-        {
-          "event_id": "36531900",
-          "home": "Scotland",
-          "away": "Switzerland",
-          "kickoff_utc": "2026-09-27T15:46:23+00:00"
-        },
-        {
-          "event_id": "36531906",
-          "home": "Spain",
-          "away": "Italy",
-          "kickoff_utc": "2026-09-27T15:46:23+00:00"
-        },
-        {
-          "event_id": "36531912",
-          "home": "Denmark",
-          "away": "Slovenia",
-          "kickoff_utc": "2026-09-27T15:50:03+00:00"
-        },
-        {
-          "event_id": "36531913",
-          "home": "England",
-          "away": "Serbia",
-          "kickoff_utc": "2026-09-27T15:50:03+00:00"
-        },
-        {
-          "event_id": "36531919",
-          "home": "France",
-          "away": "Netherlands",
-          "kickoff_utc": "2026-09-27T15:50:03+00:00"
-        },
-        {
-          "event_id": "36531920",
-          "home": "Poland",
-          "away": "Austria",
-          "kickoff_utc": "2026-09-27T15:50:03+00:00"
-        },
-        {
-          "event_id": "36531926",
-          "home": "Belgium",
-          "away": "Romania",
-          "kickoff_utc": "2026-09-27T15:53:43+00:00"
-        },
-        {
-          "event_id": "36531931",
-          "home": "Czech Rep.",
-          "away": "Georgia",
-          "kickoff_utc": "2026-09-27T15:53:43+00:00"
-        },
-        {
-          "event_id": "36531932",
-          "home": "Portugal",
-          "away": "Turkey",
-          "kickoff_utc": "2026-09-27T15:53:43+00:00"
-        },
-        {
-          "event_id": "36531925",
-          "home": "Slovakia",
-          "away": "Ukraine",
-          "kickoff_utc": "2026-09-27T15:53:43+00:00"
-        },
-        {
-          "event_id": "36531909",
-          "home": "Albania",
-          "away": "Spain",
-          "kickoff_utc": "2026-09-27T15:57:23+00:00"
-        },
-        {
-          "event_id": "36531908",
-          "home": "Croatia",
-          "away": "Italy",
-          "kickoff_utc": "2026-09-27T15:57:23+00:00"
-        },
-        {
-          "event_id": "36531903",
-          "home": "Scotland",
-          "away": "Hungary",
-          "kickoff_utc": "2026-09-27T15:57:23+00:00"
-        },
-        {
-          "event_id": "36531902",
-          "home": "Switzerland",
-          "away": "Germany",
-          "kickoff_utc": "2026-09-27T15:57:23+00:00"
-        },
-        {
-          "event_id": "36531922",
-          "home": "Austria",
-          "away": "France",
-          "kickoff_utc": "2026-09-27T16:01:03+00:00"
-        },
-        {
-          "event_id": "36531914",
-          "home": "Denmark",
-          "away": "Serbia",
-          "kickoff_utc": "2026-09-27T16:01:03+00:00"
-        },
-        {
-          "event_id": "36531921",
-          "home": "Poland",
-          "away": "Netherlands",
-          "kickoff_utc": "2026-09-27T16:01:03+00:00"
-        },
-        {
-          "event_id": "36531915",
-          "home": "Slovenia",
-          "away": "England",
-          "kickoff_utc": "2026-09-27T16:01:03+00:00"
-        },
-        {
-          "event_id": "36531935",
-          "home": "Czech Rep.",
-          "away": "Turkey",
-          "kickoff_utc": "2026-09-27T16:04:43+00:00"
-        },
-        {
-          "event_id": "36531936",
-          "home": "Georgia",
-          "away": "Portugal",
-          "kickoff_utc": "2026-09-27T16:04:43+00:00"
-        },
-        {
-          "event_id": "36531928",
-          "home": "Slovakia",
-          "away": "Romania",
-          "kickoff_utc": "2026-09-27T16:04:43+00:00"
-        },
-        {
-          "event_id": "36531927",
-          "home": "Ukraine",
-          "away": "Belgium",
-          "kickoff_utc": "2026-09-27T16:04:43+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Virtual",
-      "name": "Virtual Football League Mode",
-      "key": "soccer-virtual-virtual-football-league-mode",
-      "events": [
-        {
-          "event_id": "36531874",
-          "home": "VL Ankara",
-          "away": "VL Paris",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531873",
-          "home": "VL Berlin",
-          "away": "VL Athens",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531880",
-          "home": "VL Bern",
-          "away": "VL Moscow",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531877",
-          "home": "VL London",
-          "away": "VL Kiev",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531879",
-          "home": "VL Madrid",
-          "away": "VL Lisbon",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531876",
-          "home": "VL Prague",
-          "away": "VL Copenhagen",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531878",
-          "home": "VL Rome",
-          "away": "VL Amsterdam",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531875",
-          "home": "VL Vienna",
-          "away": "VL Zagreb",
-          "kickoff_utc": "2026-09-27T15:33:34+00:00"
-        },
-        {
-          "event_id": "36531897",
-          "home": "VL Amsterdam",
-          "away": "VL Prague",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531891",
-          "home": "VL Athens",
-          "away": "VL Vienna",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531895",
-          "home": "VL Copenhagen",
-          "away": "VL Berlin",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531890",
-          "home": "VL Kiev",
-          "away": "VL Bern",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531892",
-          "home": "VL Lisbon",
-          "away": "VL London",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531893",
-          "home": "VL Moscow",
-          "away": "VL Rome",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531894",
-          "home": "VL Paris",
-          "away": "VL Madrid",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531896",
-          "home": "VL Zagreb",
-          "away": "VL Ankara",
-          "kickoff_utc": "2026-09-27T15:37:14+00:00"
-        },
-        {
-          "event_id": "36531960",
-          "home": "VL Berlin",
-          "away": "VL Vienna",
-          "kickoff_utc": "2026-09-27T15:40:54+00:00"
-        },
-        {
-          "event_id": "36531958",
-          "home": "VL Madrid",
-          "away": "VL Zagreb",
-          "kickoff_utc": "2026-09-27T15:40:54+00:00"
-        },
-        {
-          "event_id": "36531955",
-          "home": "VL Prague",
-          "away": "VL Moscow",
-          "kickoff_utc": "2026-09-27T15:40:54+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Virtual",
-      "name": "Virtual Football World Cup",
-      "key": "soccer-virtual-virtual-football-world-cup",
-      "events": [
-        {
-          "event_id": "36531940",
-          "home": "England",
-          "away": "France",
-          "kickoff_utc": "2026-09-27T15:32:51+00:00"
-        },
-        {
-          "event_id": "36531939",
-          "home": "Qatar",
-          "away": "Japan",
-          "kickoff_utc": "2026-09-27T15:32:51+00:00"
         }
       ]
     }
