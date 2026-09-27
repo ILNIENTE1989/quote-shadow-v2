@@ -1,104 +1,12 @@
 {
-  "generated_at_utc": "2026-09-27T17:32:20.734162+00:00",
+  "generated_at_utc": "2026-09-27T19:32:23.023955+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Primera B",
-      "key": "soccer-argentina-primera-b",
-      "events": [
-        {
-          "event_id": "36483818",
-          "home": "Argentino de Quilmes",
-          "away": "Comunicaciones",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36483835",
-          "home": "Club Villa Dalmine",
-          "away": "CD UAI Urquiza",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Argentina",
-      "name": "Primera C",
-      "key": "soccer-argentina-primera-c",
-      "events": [
-        {
-          "event_id": "36525396",
-          "home": "Berazategui",
-          "away": "Sacachispas FC",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36525395",
-          "home": "CA Atlas",
-          "away": "CS Barracas",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36525397",
-          "home": "Canuelas FC",
-          "away": "CA Fenix Pilar",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Argentina",
       "name": "Primera Nacional",
       "key": "soccer-argentina-primera-nacional",
       "events": [
-        {
-          "event_id": "36431925",
-          "home": "CAS Defensores de Belgrano",
-          "away": "Ferro Carril Oeste",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36431703",
-          "home": "Club Almagro",
-          "away": "Nueva Chicago",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36431704",
-          "home": "Club Atletico Atlanta",
-          "away": "Agropecuario Argentino",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36431720",
-          "home": "Club Atletico Los Andes",
-          "away": "Deportivo Moron",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36431721",
-          "home": "CA Patronato Parana",
-          "away": "San Martin de San Juan",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36431718",
-          "home": "Mitre Santiago Del Estero",
-          "away": "San Telmo",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36428670",
-          "home": "CD Maipu",
-          "away": "CA Temperley",
-          "kickoff_utc": "2026-09-27T19:30:00+00:00"
-        },
-        {
-          "event_id": "36431728",
-          "home": "Ferrocarril Midland",
-          "away": "Tristan Suarez",
-          "kickoff_utc": "2026-09-27T19:30:00+00:00"
-        },
         {
           "event_id": "36429268",
           "home": "Racing de Cordoba",
@@ -125,18 +33,6 @@
       "key": "soccer-argentina-torneo-federal-a",
       "events": [
         {
-          "event_id": "36518809",
-          "home": "CAS Defensores de Belgrano",
-          "away": "CA Alvarado",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36519397",
-          "home": "Club Olimpo",
-          "away": "Gimnasia de Chivilcoy",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
           "event_id": "36518787",
           "home": "CA Sol de America de Formosa",
           "away": "CLUB CIPOLLETTI",
@@ -151,29 +47,10 @@
       ]
     },
     {
-      "category": "Argentina",
-      "name": "Torneo Regional Federal Amateur",
-      "key": "soccer-argentina-torneo-regional-federal-amateur",
-      "events": [
-        {
-          "event_id": "36531480",
-          "home": "Club Mutual Crucero del Norte",
-          "away": "Barrio Obrero",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36525785",
-          "home": "San Jose Oruro",
-          "away": "Independiente Petrolero",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
         {
           "event_id": "36527972",
           "home": "Club Bolivar",
@@ -189,35 +66,10 @@
       ]
     },
     {
-      "category": "Bolivia",
-      "name": "Copa Simon Bolivar",
-      "key": "soccer-bolivia-nacional-b",
-      "events": [
-        {
-          "event_id": "36526122",
-          "home": "Club Universitario San Francisco Xavier",
-          "away": "Club Universitario Tarija",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36526119",
-          "home": "Wilstermann-Cooperativas",
-          "away": "Mineros Potosi",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Brazil",
       "name": "Brasileiro Serie B",
       "key": "soccer-brazil-brasileiro-serie-b",
       "events": [
-        {
-          "event_id": "36529961",
-          "home": "Clube Atletico Taguatinga",
-          "away": "Planaltina EC (DF)",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
         {
           "event_id": "36430000",
           "home": "Fortaleza EC CE",
@@ -241,74 +93,6 @@
     },
     {
       "category": "Brazil",
-      "name": "Brazil - Copa Parana",
-      "key": "soccer-brazil-tc493-brazil-copa-parana",
-      "events": [
-        {
-          "event_id": "36531485",
-          "home": "Azuriz FC PR",
-          "away": "Londrina EC PR",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36531484",
-          "home": "Parana Clube PR",
-          "away": "Paranavai PR",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Gaucho Division 2 (RS)",
-      "key": "soccer-brazil-tc2c3-brazil-campeonato-gaucho-division-2-rs",
-      "events": [
-        {
-          "event_id": "36523105",
-          "home": "APAFUT",
-          "away": "CE Lajeadense (RS)",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36519401",
-          "home": "CE Aimore RS",
-          "away": "CE Bento Goncalves RS",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36519396",
-          "home": "EC Guarani (RS)",
-          "away": "Uniao Frederiquense (RS)",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36526124",
-          "home": "EC Pelotas RS",
-          "away": "SERC Brasil de Farroupilha RS",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36526123",
-          "home": "GE Gloria (RS)",
-          "away": "CE Gramadense RS",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36519399",
-          "home": "Sport Club Gaucho Passo Fundo RS",
-          "away": "FC Santa Cruz RS",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36519398",
-          "home": "Veranópolis EC (RS)",
-          "away": "EC Passo Fundo (RS)",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
       "name": "Brazil Campeonato Goiano Division 2 (GO)",
       "key": "soccer-brazil-tc28a-brazil-campeonato-goiano-division-2-go",
       "events": [
@@ -327,82 +111,6 @@
       ]
     },
     {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
-      "events": [
-        {
-          "event_id": "36529765",
-          "home": "Sao Paulo Crystal FC",
-          "away": "Auto EC (PB)",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Carioca, Serie B1",
-      "key": "soccer-brazil-carioca-serie-b2",
-      "events": [
-        {
-          "event_id": "36529766",
-          "home": "CD Campos",
-          "away": "7 De Abril RJ",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36519912",
-          "home": "Campos AA",
-          "away": "7 De Abril RJ",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36519929",
-          "home": "SANTA CRUZ FC RJ",
-          "away": "Cardoso Moreira FC",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36520648",
-          "home": "SE Paraty RJ",
-          "away": "Paduano EC RJ",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36520727",
-          "home": "Serra Macaense FC RJ",
-          "away": "Marica FC RJ",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Copa Santa Catarina",
-      "key": "soccer-brazil-copa-santa-catarina",
-      "events": [
-        {
-          "event_id": "36525327",
-          "home": "Metropolitano SC",
-          "away": "Figueirense FC SC",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Paranaense, 3. Divisao",
-      "key": "soccer-brazil-tb396-paranaense-3-divisao",
-      "events": [
-        {
-          "event_id": "36529962",
-          "home": "Venus AC (PA)",
-          "away": "Pinheirense EC (PA)",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Chile",
       "name": "Segunda Division",
       "key": "soccer-chile-segunda-division",
@@ -412,25 +120,6 @@
           "home": "AC Colina",
           "away": "Real San Joaquin",
           "kickoff_utc": "2026-09-27T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Chile",
-      "name": "Tercera Division",
-      "key": "soccer-chile-tercera-division",
-      "events": [
-        {
-          "event_id": "36526855",
-          "home": "CDSC Aguará",
-          "away": "Comunal Cabrero",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36518915",
-          "home": "Imperial Unido",
-          "away": "Chimbarongo",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
         }
       ]
     },
@@ -465,12 +154,6 @@
       "key": "soccer-colombia-primera-b",
       "events": [
         {
-          "event_id": "36480653",
-          "home": "Envigado FC",
-          "away": "Atletico FC",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
           "event_id": "36480654",
           "home": "Barranquilla FC",
           "away": "Real Soacha Cundinamarca",
@@ -483,24 +166,6 @@
       "name": "Liga de Ascenso, Apertura",
       "key": "soccer-costa-rica-liga-de-ascenso-apertura",
       "events": [
-        {
-          "event_id": "36525328",
-          "home": "Quepos Cambute",
-          "away": "Municipal Grecia",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
-          "event_id": "36525987",
-          "home": "AD Sarchi",
-          "away": "Adr Jicaral",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
-          "event_id": "36525993",
-          "home": "Guadalupe FC",
-          "away": "Pitbulls Santa Barbara FC",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
         {
           "event_id": "36527950",
           "home": "AD Cariari Pococi",
@@ -559,12 +224,6 @@
       "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
         {
-          "event_id": "36480668",
-          "home": "CSD Coban Imperial",
-          "away": "Club Aurora",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
-        {
           "event_id": "36480671",
           "home": "Deportivo Mixco",
           "away": "Antigua GFC",
@@ -586,73 +245,10 @@
       ]
     },
     {
-      "category": "International",
-      "name": "AFC Gulf Cup",
-      "key": "soccer-international-tc45c-afc-gulf-cup",
-      "events": [
-        {
-          "event_id": "36508010",
-          "home": "Bahrain",
-          "away": "United Arab Emirates",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Italy",
-      "name": "Serie C, Group A",
-      "key": "soccer-italy-serie-c-group-c",
-      "events": [
-        {
-          "event_id": "36480697",
-          "home": "Calcio Foggia",
-          "away": "ASD Sorrento 1945",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36480687",
-          "home": "Delfino Pescara",
-          "away": "Spezia Calcio",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36480699",
-          "home": "S.S.D. Casarano Calcio",
-          "away": "SS Monopoli",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        },
-        {
-          "event_id": "36451590",
-          "home": "US Albinoleffe",
-          "away": "Asd Alcione Milano",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
-      "events": [
-        {
-          "event_id": "36525337",
-          "home": "Societe Omnisports de l'Armée",
-          "away": "Stella Club D'Adjame",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
-        {
-          "event_id": "36427545",
-          "home": "Pumas UNAM",
-          "away": "Atletico San Luis",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
         {
           "event_id": "36432319",
           "home": "Club Leon",
@@ -673,12 +269,6 @@
       "key": "soccer-mexico-t924f-liga-premier-serie-a",
       "events": [
         {
-          "event_id": "36526129",
-          "home": "Montaneses FC",
-          "away": "Inter Playa Del Carmen",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
           "event_id": "36524770",
           "home": "Acambaro FC",
           "away": "Artesanos Metepec FC",
@@ -691,12 +281,6 @@
       "name": "Botola",
       "key": "soccer-morocco-botola",
       "events": [
-        {
-          "event_id": "36500569",
-          "home": "Maghreb AS de Fes",
-          "away": "Renaissance Zemamra",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
         {
           "event_id": "36499717",
           "home": "Kawkab Athletic Club of Marrakech",
@@ -730,12 +314,6 @@
       "key": "soccer-peru-tc1d5-peru-cup",
       "events": [
         {
-          "event_id": "36515385",
-          "home": "Sport Boys Association",
-          "away": "Alianza Atletico",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
           "event_id": "36515396",
           "home": "Asociacion Deportiva Tarma",
           "away": "Sporting Cristal",
@@ -749,12 +327,6 @@
       "key": "soccer-peru-segunda-division",
       "events": [
         {
-          "event_id": "36487177",
-          "home": "Alianza Universidad de Huanuco",
-          "away": "Bentin Tacna Heroica",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
-        {
           "event_id": "36487171",
           "home": "Union Comercio",
           "away": "Pirata FC",
@@ -763,29 +335,10 @@
       ]
     },
     {
-      "category": "Spain",
-      "name": "Segunda División",
-      "key": "soccer-spain-laliga-2",
-      "events": [
-        {
-          "event_id": "36428541",
-          "home": "Real Oviedo",
-          "away": "Sporting Gijon",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Uruguay",
       "name": "Primera Division",
       "key": "soccer-uruguay-primera-division",
       "events": [
-        {
-          "event_id": "36469033",
-          "home": "CA Juventud de Las Piedras",
-          "away": "CA Cerro",
-          "kickoff_utc": "2026-09-27T18:00:00+00:00"
-        },
         {
           "event_id": "36453304",
           "home": "Defensor Sporting",
@@ -796,28 +349,9 @@
     },
     {
       "category": "Uruguay",
-      "name": "Primera Division Amateur",
-      "key": "soccer-uruguay-primera-division-amateur",
-      "events": [
-        {
-          "event_id": "36525852",
-          "home": "Mar de Fondo FC",
-          "away": "Sud America",
-          "kickoff_utc": "2026-09-27T18:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
       "name": "Segunda Division",
       "key": "soccer-uruguay-segunda-division",
       "events": [
-        {
-          "event_id": "36500239",
-          "home": "CS Cerrito",
-          "away": "La Luz FC",
-          "kickoff_utc": "2026-09-27T19:00:00+00:00"
-        },
         {
           "event_id": "36500991",
           "home": "Huracan Del Paso de la Arena",
@@ -831,12 +365,6 @@
       "name": "Segunda Division",
       "key": "soccer-venezuela-segunda-division",
       "events": [
-        {
-          "event_id": "36530862",
-          "home": "Aragua FC",
-          "away": "Atletico Avila",
-          "kickoff_utc": "2026-09-27T19:30:00+00:00"
-        },
         {
           "event_id": "36500510",
           "home": "Dynamo Puerto FC",
