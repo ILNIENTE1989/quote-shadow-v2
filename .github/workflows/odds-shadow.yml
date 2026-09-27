@@ -29,7 +29,7 @@ jobs:
           APIFOOTBALL_KEY: ${{ secrets.APIFOOTBALL_KEY }}
         run: python apifootball_github.py
 
-            - name: Salva dati
+      - name: Salva dati
         run: |
           git config user.name "quote-shadow-bot"
           git config user.email "quote-shadow-bot@users.noreply.github.com"
