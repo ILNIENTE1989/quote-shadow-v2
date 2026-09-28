@@ -176,3 +176,8 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-09-29T00:14:24.834815+02:00,36536383,Primera B,Colombia,Deportes Quindio,Bogota FC,2026-09-28T23:00:00+00:00,45.5861,soccer.double_chance,period=ft,draw_away,,1.84,2.0
 2026-09-29T00:14:24.834815+02:00,36536383,Primera B,Colombia,Deportes Quindio,Bogota FC,2026-09-28T23:00:00+00:00,45.5861,soccer.double_chance,period=ft,home_away,,1.36,1.33
 2026-09-29T00:14:24.834815+02:00,36536383,Primera B,Colombia,Deportes Quindio,Bogota FC,2026-09-28T23:00:00+00:00,45.5861,soccer.double_chance,period=ft,home_draw,,1.2,1.17
+2026-09-29T00:22:23.136584+02:00,36439576,Brasileiro Serie B,Brazil,America FC MG,EC Juventude RS,2026-09-28T22:30:00+00:00,7.6144,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.95,3.9
+2026-09-29T00:22:23.136584+02:00,36439576,Brasileiro Serie B,Brazil,America FC MG,EC Juventude RS,2026-09-28T22:30:00+00:00,7.6144,soccer.asian_handicap,period=ft,away,handicap=0,1.41,1.42
+2026-09-29T00:22:23.136584+02:00,36439576,Brasileiro Serie B,Brazil,America FC MG,EC Juventude RS,2026-09-28T22:30:00+00:00,7.6144,soccer.match_odds,period=ft,home,,4.0,3.95
+2026-09-29T00:22:23.136584+02:00,36439576,Brasileiro Serie B,Brazil,America FC MG,EC Juventude RS,2026-09-28T22:30:00+00:00,7.6144,soccer.match_odds,period=ft,draw,,3.4,3.45
+2026-09-29T00:22:23.136584+02:00,36439576,Brasileiro Serie B,Brazil,America FC MG,EC Juventude RS,2026-09-28T22:30:00+00:00,7.6144,soccer.total_goals,period=ft,under,total=2.25,1.83,1.84
