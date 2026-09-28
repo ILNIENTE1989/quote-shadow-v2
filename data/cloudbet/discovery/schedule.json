@@ -1,30 +1,17 @@
 {
-  "generated_at_utc": "2026-09-27T23:34:23.212996+00:00",
+  "generated_at_utc": "2026-09-28T01:36:57.364285+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Argentina",
-      "name": "Primera Nacional",
-      "key": "soccer-argentina-primera-nacional",
+      "category": "Greece",
+      "name": "Super League 2",
+      "key": "soccer-greece-super-league-2",
       "events": [
         {
-          "event_id": "36468519",
-          "home": "Gimnasia Jujuy",
-          "away": "San Martin de Tucuman",
-          "kickoff_utc": "2026-09-28T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
-      "events": [
-        {
-          "event_id": "36432413",
-          "home": "AD Cali",
-          "away": "Aguilas Doradas Rionegro",
-          "kickoff_utc": "2026-09-28T01:10:00+00:00"
+          "event_id": "36530264",
+          "home": "Marko",
+          "away": "Panthrakikos FC",
+          "kickoff_utc": "2026-09-28T13:00:00+00:00"
         }
       ]
     },
@@ -47,16 +34,23 @@
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
         {
-          "event_id": "36432319",
-          "home": "Club Leon",
-          "away": "FC Juarez",
-          "kickoff_utc": "2026-09-28T01:00:00+00:00"
-        },
-        {
           "event_id": "36432765",
           "home": "Necaxa",
           "away": "CF America",
           "kickoff_utc": "2026-09-28T03:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Serbia",
+      "name": "Prva Liga",
+      "key": "soccer-serbia-prva-liga",
+      "events": [
+        {
+          "event_id": "36530006",
+          "home": "RFK Graficar Beograd",
+          "away": "FK Teleoptik",
+          "kickoff_utc": "2026-09-28T13:00:00+00:00"
         }
       ]
     }
