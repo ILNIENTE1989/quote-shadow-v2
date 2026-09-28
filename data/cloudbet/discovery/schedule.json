@@ -1,7 +1,84 @@
 {
-  "generated_at_utc": "2026-09-28T05:40:35.415301+00:00",
+  "generated_at_utc": "2026-09-28T07:40:37.922891+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Argentina",
+      "name": "Primera B",
+      "key": "soccer-argentina-primera-b",
+      "events": [
+        {
+          "event_id": "36489405",
+          "home": "CSD Flandria",
+          "away": "CS Dock Sud",
+          "kickoff_utc": "2026-09-28T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Argentina",
+      "name": "Primera C",
+      "key": "soccer-argentina-primera-c",
+      "events": [
+        {
+          "event_id": "36540394",
+          "home": "Centro Espanol",
+          "away": "Defensores de Cambaceres",
+          "kickoff_utc": "2026-09-28T18:00:00+00:00"
+        },
+        {
+          "event_id": "36540398",
+          "home": "Justo Jose de Urquiza",
+          "away": "CDM Leandro N. Alem",
+          "kickoff_utc": "2026-09-28T18:00:00+00:00"
+        },
+        {
+          "event_id": "36540397",
+          "home": "Leones de Rosario",
+          "away": "Club Lujan",
+          "kickoff_utc": "2026-09-28T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Carioca, Serie B1",
+      "key": "soccer-brazil-carioca-serie-b2",
+      "events": [
+        {
+          "event_id": "36533991",
+          "home": "Barra Mansa FC RJ",
+          "away": "Buzios RJ",
+          "kickoff_utc": "2026-09-28T17:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "Isthmian League, Division One South Central",
+      "key": "soccer-england-isthmian-league-division-one-south-central",
+      "events": [
+        {
+          "event_id": "36540564",
+          "home": "Punjab United",
+          "away": "Croydon Athletic",
+          "kickoff_utc": "2026-09-28T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "Southern League, Premier Central",
+      "key": "soccer-england-southern-football-league-premier-division-central",
+      "events": [
+        {
+          "event_id": "36540573",
+          "home": "Biggleswade Town",
+          "away": "Hertford Town",
+          "kickoff_utc": "2026-09-28T18:45:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Greece",
       "name": "Super League 2",
@@ -56,6 +133,31 @@
           "home": "Zimbabwe",
           "away": "DR Congo",
           "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
+          "event_id": "36521567",
+          "home": "Tunisia",
+          "away": "Botswana",
+          "kickoff_utc": "2026-09-28T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
+      "name": "England Northern Division 1 North",
+      "key": "soccer-international-tb405-england-northern-division-1-north",
+      "events": [
+        {
+          "event_id": "36541142",
+          "home": "Coleshill Town",
+          "away": "Belper Town FC",
+          "kickoff_utc": "2026-09-28T18:45:00+00:00"
+        },
+        {
+          "event_id": "36541141",
+          "home": "St Ives Town",
+          "away": "Nuneaton Town FC",
+          "kickoff_utc": "2026-09-28T18:45:00+00:00"
         }
       ]
     },
@@ -69,6 +171,45 @@
           "home": "Singapore",
           "away": "Bangladesh",
           "kickoff_utc": "2026-09-28T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "3rd Division Group 1",
+      "key": "soccer-norway-3rd-division-group-1",
+      "events": [
+        {
+          "event_id": "36540401",
+          "home": "FK Haugesund 2",
+          "away": "Hinna",
+          "kickoff_utc": "2026-09-28T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Division de Honor, Apertura",
+      "key": "soccer-paraguay-primera-division-apertura",
+      "events": [
+        {
+          "event_id": "36446013",
+          "home": "Sportivo San Lorenzo",
+          "away": "CD Recoleta",
+          "kickoff_utc": "2026-09-28T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Segunda Division",
+      "key": "soccer-paraguay-segunda-division",
+      "events": [
+        {
+          "event_id": "36540588",
+          "home": "CA Tembetary Ypane",
+          "away": "Paraguari",
+          "kickoff_utc": "2026-09-28T19:30:00+00:00"
         }
       ]
     },
@@ -125,6 +266,12 @@
           "home": "Gfk Dubocica",
           "away": "FK Javor Ivanjica",
           "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
+          "event_id": "36529685",
+          "home": "FK Loznica",
+          "away": "FK Spartak Subotica",
+          "kickoff_utc": "2026-09-28T18:00:00+00:00"
         }
       ]
     },
@@ -138,6 +285,19 @@
           "home": "NK Rudar Velenje",
           "away": "Nd Dravinja",
           "kickoff_utc": "2026-09-28T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Segunda División",
+      "key": "soccer-spain-laliga-2",
+      "events": [
+        {
+          "event_id": "36438566",
+          "home": "Leganes",
+          "away": "CD Castellon",
+          "kickoff_utc": "2026-09-28T18:30:00+00:00"
         }
       ]
     },
