@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T11:42:23.543562+00:00",
+  "generated_at_utc": "2026-09-28T13:42:24.228556+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -87,20 +87,7 @@
           "event_id": "36533991",
           "home": "Barra Mansa FC RJ",
           "away": "Buzios RJ",
-          "kickoff_utc": "2026-09-28T17:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Paranaense, 3. Divisao",
-      "key": "soccer-brazil-tb396-paranaense-3-divisao",
-      "events": [
-        {
-          "event_id": "36542716",
-          "home": "Belenense",
-          "away": "Gaviao Kyikateje FC (PA)",
-          "kickoff_utc": "2026-09-28T13:00:00+00:00"
+          "kickoff_utc": "2026-09-28T18:00:00+00:00"
         }
       ]
     },
@@ -130,6 +117,19 @@
       ]
     },
     {
+      "category": "Costa Rica",
+      "name": "Liga de Ascenso, Apertura",
+      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
+      "events": [
+        {
+          "event_id": "36540617",
+          "home": "AD Cariari Pococi",
+          "away": "CS Uruguay de Coronado",
+          "kickoff_utc": "2026-09-29T01:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "England",
       "name": "Isthmian League, Division One South Central",
       "key": "soccer-england-isthmian-league-division-one-south-central",
@@ -152,19 +152,6 @@
           "home": "Biggleswade Town",
           "away": "Hertford Town",
           "kickoff_utc": "2026-09-28T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Greece",
-      "name": "Super League 2",
-      "key": "soccer-greece-super-league-2",
-      "events": [
-        {
-          "event_id": "36530264",
-          "home": "Marko",
-          "away": "Panthrakikos FC",
-          "kickoff_utc": "2026-09-28T13:00:00+00:00"
         }
       ]
     },
@@ -245,6 +232,19 @@
       ]
     },
     {
+      "category": "Panama",
+      "name": "Liga Panamena de Futbol, Apertura",
+      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "events": [
+        {
+          "event_id": "36533162",
+          "home": "Alianza FC Panama",
+          "away": "CA Independiente de La Chorrera",
+          "kickoff_utc": "2026-09-29T01:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Paraguay",
       "name": "Division de Honor, Apertura",
       "key": "soccer-paraguay-primera-division-apertura",
@@ -253,7 +253,7 @@
           "event_id": "36446013",
           "home": "Sportivo San Lorenzo",
           "away": "CD Recoleta",
-          "kickoff_utc": "2026-09-28T19:30:00+00:00"
+          "kickoff_utc": "2026-09-28T20:00:00+00:00"
         },
         {
           "event_id": "36445681",
@@ -312,12 +312,6 @@
       "name": "Prva Liga",
       "key": "soccer-serbia-prva-liga",
       "events": [
-        {
-          "event_id": "36530006",
-          "home": "RFK Graficar Beograd",
-          "away": "FK Teleoptik",
-          "kickoff_utc": "2026-09-28T13:00:00+00:00"
-        },
         {
           "event_id": "36470932",
           "home": "FK Bor 1919",
