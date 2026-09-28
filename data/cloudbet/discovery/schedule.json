@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T09:40:46.126620+00:00",
+  "generated_at_utc": "2026-09-28T11:42:23.543562+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -50,6 +50,31 @@
           "home": "Fomento Los Hornos",
           "away": "Napoli Argentino",
           "kickoff_utc": "2026-09-28T19:00:00+00:00"
+        },
+        {
+          "event_id": "36540575",
+          "home": "FC San Nicolas (Aruba)",
+          "away": "Racing Club Pergamino",
+          "kickoff_utc": "2026-09-28T23:00:00+00:00"
+        },
+        {
+          "event_id": "36540574",
+          "home": "Parana FC",
+          "away": "CA Baradero",
+          "kickoff_utc": "2026-09-28T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36439576",
+          "home": "America FC MG",
+          "away": "EC Juventude RS",
+          "kickoff_utc": "2026-09-28T22:30:00+00:00"
         }
       ]
     },
@@ -95,6 +120,12 @@
           "home": "CD Cortulua",
           "away": "Itagui Leones FC",
           "kickoff_utc": "2026-09-28T21:00:00+00:00"
+        },
+        {
+          "event_id": "36536383",
+          "home": "Deportes Quindio",
+          "away": "Bogota FC",
+          "kickoff_utc": "2026-09-28T23:00:00+00:00"
         }
       ]
     },
@@ -134,19 +165,6 @@
           "home": "Marko",
           "away": "Panthrakikos FC",
           "kickoff_utc": "2026-09-28T13:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36539453",
-          "home": "Stride Sports FC",
-          "away": "Hal Fc",
-          "kickoff_utc": "2026-09-28T10:30:00+00:00"
         }
       ]
     },
@@ -201,6 +219,19 @@
       ]
     },
     {
+      "category": "International",
+      "name": "Superdivision",
+      "key": "soccer-international-t6c4f-superdivision",
+      "events": [
+        {
+          "event_id": "36543782",
+          "home": "Vitesse Arnhem",
+          "away": "ASFA Yennega",
+          "kickoff_utc": "2026-09-28T15:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Norway",
       "name": "3rd Division Group 1",
       "key": "soccer-norway-3rd-division-group-1",
@@ -223,6 +254,12 @@
           "home": "Sportivo San Lorenzo",
           "away": "CD Recoleta",
           "kickoff_utc": "2026-09-28T19:30:00+00:00"
+        },
+        {
+          "event_id": "36445681",
+          "home": "Libertad Asuncion",
+          "away": "Club Olimpia",
+          "kickoff_utc": "2026-09-28T22:00:00+00:00"
         }
       ]
     },
@@ -236,6 +273,12 @@
           "home": "CA Tembetary Ypane",
           "away": "Paraguari",
           "kickoff_utc": "2026-09-28T19:30:00+00:00"
+        },
+        {
+          "event_id": "36540589",
+          "home": "Guairena FC",
+          "away": "Club Fernando de La Mora",
+          "kickoff_utc": "2026-09-28T22:00:00+00:00"
         }
       ]
     },
@@ -294,6 +337,12 @@
           "kickoff_utc": "2026-09-28T16:00:00+00:00"
         },
         {
+          "event_id": "36542990",
+          "home": "Proleter 023",
+          "away": "FK Jedinstvo UB",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
           "event_id": "36529685",
           "home": "FK Loznica",
           "away": "FK Spartak Subotica",
@@ -343,6 +392,25 @@
           "home": "Al Ittifaq Dubai",
           "away": "Al Urooba UAE",
           "kickoff_utc": "2026-09-28T14:40:00+00:00"
+        },
+        {
+          "event_id": "36543197",
+          "home": "Al Ittifaq Dubai",
+          "away": "Al Urooba UAE",
+          "kickoff_utc": "2026-09-28T14:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Uruguay",
+      "name": "Segunda Division",
+      "key": "soccer-uruguay-segunda-division",
+      "events": [
+        {
+          "event_id": "36533631",
+          "home": "Paysandu FC",
+          "away": "Tacuarembo FC",
+          "kickoff_utc": "2026-09-28T22:00:00+00:00"
         }
       ]
     }
