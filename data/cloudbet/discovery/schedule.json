@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T03:38:22.371886+00:00",
+  "generated_at_utc": "2026-09-28T05:40:35.415301+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -25,6 +25,37 @@
           "home": "FC Agniputhra",
           "away": "Prarikrma FC",
           "kickoff_utc": "2026-09-28T08:00:00+00:00"
+        },
+        {
+          "event_id": "36539453",
+          "home": "Stride Sports FC",
+          "away": "Hal Fc",
+          "kickoff_utc": "2026-09-28T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
+      "name": "Africa Cup of Nations, Qualification",
+      "key": "soccer-international-africa-cup-of-nations-qualification",
+      "events": [
+        {
+          "event_id": "36521572",
+          "home": "Central African Republic",
+          "away": "Burkina Faso",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
+          "event_id": "36529006",
+          "home": "Equatorial Guinea",
+          "away": "Sierra Leone",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
+          "event_id": "36521569",
+          "home": "Zimbabwe",
+          "away": "DR Congo",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
         }
       ]
     },
@@ -51,6 +82,18 @@
           "home": "Al Kharaitiyat SC",
           "away": "AL Wakrah",
           "kickoff_utc": "2026-09-28T15:00:00+00:00"
+        },
+        {
+          "event_id": "36530751",
+          "home": "Al Shahaniya",
+          "away": "Al Duhail",
+          "kickoff_utc": "2026-09-28T17:15:00+00:00"
+        },
+        {
+          "event_id": "36530237",
+          "home": "Al-Sailiya SC",
+          "away": "Al Rayyan SC",
+          "kickoff_utc": "2026-09-28T17:15:00+00:00"
         }
       ]
     },
@@ -64,6 +107,37 @@
           "home": "RFK Graficar Beograd",
           "away": "FK Teleoptik",
           "kickoff_utc": "2026-09-28T13:00:00+00:00"
+        },
+        {
+          "event_id": "36470932",
+          "home": "FK Bor 1919",
+          "away": "FK Metalac Gornji Milanovac",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
+          "event_id": "36529862",
+          "home": "FK Naftagas Elemir",
+          "away": "FK Jedinstvo UB",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        },
+        {
+          "event_id": "36529332",
+          "home": "Gfk Dubocica",
+          "away": "FK Javor Ivanjica",
+          "kickoff_utc": "2026-09-28T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovenia",
+      "name": "2. Liga",
+      "key": "soccer-slovenia-2nd-liga",
+      "events": [
+        {
+          "event_id": "36539632",
+          "home": "NK Rudar Velenje",
+          "away": "Nd Dravinja",
+          "kickoff_utc": "2026-09-28T17:00:00+00:00"
         }
       ]
     },
