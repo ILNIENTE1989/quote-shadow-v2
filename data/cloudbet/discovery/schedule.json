@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T01:36:57.364285+00:00",
+  "generated_at_utc": "2026-09-28T03:38:22.371886+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,6 +12,19 @@
           "home": "Marko",
           "away": "Panthrakikos FC",
           "kickoff_utc": "2026-09-28T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
+      "events": [
+        {
+          "event_id": "36538160",
+          "home": "FC Agniputhra",
+          "away": "Prarikrma FC",
+          "kickoff_utc": "2026-09-28T08:00:00+00:00"
         }
       ]
     },
@@ -29,15 +42,15 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "category": "Qatar",
+      "name": "Qatar Cup",
+      "key": "soccer-qatar-qatar-cup",
       "events": [
         {
-          "event_id": "36432765",
-          "home": "Necaxa",
-          "away": "CF America",
-          "kickoff_utc": "2026-09-28T03:10:00+00:00"
+          "event_id": "36530198",
+          "home": "Al Kharaitiyat SC",
+          "away": "AL Wakrah",
+          "kickoff_utc": "2026-09-28T15:00:00+00:00"
         }
       ]
     },
@@ -51,6 +64,25 @@
           "home": "RFK Graficar Beograd",
           "away": "FK Teleoptik",
           "kickoff_utc": "2026-09-28T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "United Arab Emirates",
+      "name": "Presidents Cup",
+      "key": "soccer-united-arab-emirates-presidents-cup",
+      "events": [
+        {
+          "event_id": "36530238",
+          "home": "AL Arabi (UAE)",
+          "away": "Al-Dhaid",
+          "kickoff_utc": "2026-09-28T14:40:00+00:00"
+        },
+        {
+          "event_id": "36530917",
+          "home": "Al Ittifaq Dubai",
+          "away": "Al Urooba UAE",
+          "kickoff_utc": "2026-09-28T14:40:00+00:00"
         }
       ]
     }
