@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T07:40:37.922891+00:00",
+  "generated_at_utc": "2026-09-28T09:40:46.126620+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -41,6 +41,19 @@
       ]
     },
     {
+      "category": "Argentina",
+      "name": "Torneo Regional Federal Amateur",
+      "key": "soccer-argentina-torneo-regional-federal-amateur",
+      "events": [
+        {
+          "event_id": "36542708",
+          "home": "Fomento Los Hornos",
+          "away": "Napoli Argentino",
+          "kickoff_utc": "2026-09-28T19:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Brazil",
       "name": "Carioca, Serie B1",
       "key": "soccer-brazil-carioca-serie-b2",
@@ -50,6 +63,38 @@
           "home": "Barra Mansa FC RJ",
           "away": "Buzios RJ",
           "kickoff_utc": "2026-09-28T17:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Paranaense, 3. Divisao",
+      "key": "soccer-brazil-tb396-paranaense-3-divisao",
+      "events": [
+        {
+          "event_id": "36542716",
+          "home": "Belenense",
+          "away": "Gaviao Kyikateje FC (PA)",
+          "kickoff_utc": "2026-09-28T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36530019",
+          "home": "Yumbo FC",
+          "away": "Orsomarso SC",
+          "kickoff_utc": "2026-09-28T20:30:00+00:00"
+        },
+        {
+          "event_id": "36542537",
+          "home": "CD Cortulua",
+          "away": "Itagui Leones FC",
+          "kickoff_utc": "2026-09-28T21:00:00+00:00"
         }
       ]
     },
@@ -97,12 +142,6 @@
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
-        {
-          "event_id": "36538160",
-          "home": "FC Agniputhra",
-          "away": "Prarikrma FC",
-          "kickoff_utc": "2026-09-28T08:00:00+00:00"
-        },
         {
           "event_id": "36539453",
           "home": "Stride Sports FC",
@@ -158,19 +197,6 @@
           "home": "St Ives Town",
           "away": "Nuneaton Town FC",
           "kickoff_utc": "2026-09-28T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "FIFA ASEAN Cup",
-      "key": "soccer-international-tc477-fifa-asean-cup",
-      "events": [
-        {
-          "event_id": "36529015",
-          "home": "Singapore",
-          "away": "Bangladesh",
-          "kickoff_utc": "2026-09-28T09:00:00+00:00"
         }
       ]
     },
