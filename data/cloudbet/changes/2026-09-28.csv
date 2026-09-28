@@ -5404,3 +5404,10 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-09-28T20:20:38.787275+02:00,36438566,Segunda División,Spain,Leganes,CD Castellon,2026-09-28T18:30:00+00:00,9.3535,soccer.double_chance,period=ft,home_draw,,1.7,1.69
 2026-09-28T20:20:38.787275+02:00,36438566,Segunda División,Spain,Leganes,CD Castellon,2026-09-28T18:30:00+00:00,9.3535,soccer.match_odds,period=ft,home,,3.5,3.4
 2026-09-28T20:20:38.787275+02:00,36438566,Segunda División,Spain,Leganes,CD Castellon,2026-09-28T18:30:00+00:00,9.3535,soccer.match_odds,period=ft,away,,2.17,2.2
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.asian_handicap,period=ft,home,handicap=-2,2.15,2.16
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.asian_handicap,period=ft,away,handicap=-1.5,2.15,2.14
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.asian_handicap,period=ft,home,handicap=-1,1.25,1.26
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.match_odds,period=ft,home,,1.17,1.18
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.total_goals,period=ft,over,total=1.75,1.33,1.32
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.total_goals,period=ft,under,total=2.25,2.15,2.16
+2026-09-28T20:24:59.440080+02:00,36521567,"Africa Cup of Nations, Qualification",International,Tunisia,Botswana,2026-09-28T19:00:00+00:00,35.0093,soccer.total_goals,period=ft,over,total=2.75,2.09,2.08
