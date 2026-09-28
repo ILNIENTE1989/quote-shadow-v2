@@ -1,49 +1,17 @@
 {
-  "generated_at_utc": "2026-09-28T21:48:25.842410+00:00",
+  "generated_at_utc": "2026-09-28T23:50:38.492938+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Argentina",
-      "name": "Torneo Regional Federal Amateur",
-      "key": "soccer-argentina-torneo-regional-federal-amateur",
+      "category": "China",
+      "name": "China League 1",
+      "key": "soccer-china-china-league",
       "events": [
         {
-          "event_id": "36540575",
-          "home": "FC San Nicolas (Aruba)",
-          "away": "Racing Club Pergamino",
-          "kickoff_utc": "2026-09-28T23:00:00+00:00"
-        },
-        {
-          "event_id": "36540574",
-          "home": "Parana FC",
-          "away": "CA Baradero",
-          "kickoff_utc": "2026-09-28T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie B",
-      "key": "soccer-brazil-brasileiro-serie-b",
-      "events": [
-        {
-          "event_id": "36439576",
-          "home": "America FC MG",
-          "away": "EC Juventude RS",
-          "kickoff_utc": "2026-09-28T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36536383",
-          "home": "Deportes Quindio",
-          "away": "Bogota FC",
-          "kickoff_utc": "2026-09-28T23:00:00+00:00"
+          "event_id": "36541179",
+          "home": "Wuxi Wugou",
+          "away": "Ningbo Professional",
+          "kickoff_utc": "2026-09-29T11:00:00+00:00"
         }
       ]
     },
@@ -57,6 +25,19 @@
           "home": "AD Cariari Pococi",
           "away": "CS Uruguay de Coronado",
           "kickoff_utc": "2026-09-29T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
+      "events": [
+        {
+          "event_id": "36551398",
+          "home": "ASC And Center FC",
+          "away": "Bengaluru FC",
+          "kickoff_utc": "2026-09-29T05:30:00+00:00"
         }
       ]
     },
@@ -87,6 +68,109 @@
       ]
     },
     {
+      "category": "Japan",
+      "name": "J.League Cup",
+      "key": "soccer-japan-j-league-cup",
+      "events": [
+        {
+          "event_id": "36544212",
+          "home": "Ehime FC",
+          "away": "FC Tokyo",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544273",
+          "home": "FC Gifu",
+          "away": "Yokohama FC",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36531283",
+          "home": "FC Osaka",
+          "away": "Avispa Fukuoka",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544601",
+          "home": "Fujieda MYFC",
+          "away": "Cerezo Osaka",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544272",
+          "home": "Fukushima United FC",
+          "away": "Mito Hollyhock",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544355",
+          "home": "Gainare Tottori",
+          "away": "V-Varen Nagasaki",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544218",
+          "home": "Giravanz Kitakyushu",
+          "away": "Nagoya Grampus",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544588",
+          "home": "Hokkaido Consadole Sapporo",
+          "away": "Fagiano Okayama",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544249",
+          "home": "Jubilo Iwata",
+          "away": "JEF United Ichihara Chiba",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544587",
+          "home": "Kataller Toyama",
+          "away": "Urawa Red Diamonds",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544356",
+          "home": "Matsumoto Yamaga FC",
+          "away": "Albirex Niigata",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544527",
+          "home": "Montedio Yamagata",
+          "away": "Yokohama Marinos",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544217",
+          "home": "Roasso Kumamoto",
+          "away": "Kawasaki Frontale",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544222",
+          "home": "Sagan Tosu",
+          "away": "Tokyo Verdy",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544221",
+          "home": "Tochigi City FC",
+          "away": "Sanfrecce Hiroshima",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        },
+        {
+          "event_id": "36544522",
+          "home": "Zweigen Kanazawa",
+          "away": "Shimizu S-Pulse",
+          "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Mexico",
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
@@ -109,45 +193,6 @@
           "home": "Alianza FC Panama",
           "away": "CA Independiente de La Chorrera",
           "kickoff_utc": "2026-09-29T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Division de Honor, Apertura",
-      "key": "soccer-paraguay-primera-division-apertura",
-      "events": [
-        {
-          "event_id": "36445681",
-          "home": "Libertad Asuncion",
-          "away": "Club Olimpia",
-          "kickoff_utc": "2026-09-28T22:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Segunda Division",
-      "key": "soccer-paraguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36540589",
-          "home": "Guairena FC",
-          "away": "Club Fernando de La Mora",
-          "kickoff_utc": "2026-09-28T22:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Segunda Division",
-      "key": "soccer-uruguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36533631",
-          "home": "Paysandu FC",
-          "away": "Tacuarembo FC",
-          "kickoff_utc": "2026-09-28T22:00:00+00:00"
         }
       ]
     }
