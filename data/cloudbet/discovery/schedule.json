@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T15:42:24.899283+00:00",
+  "generated_at_utc": "2026-09-28T17:44:24.490284+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -161,24 +161,6 @@
       "key": "soccer-international-africa-cup-of-nations-qualification",
       "events": [
         {
-          "event_id": "36521572",
-          "home": "Central African Republic",
-          "away": "Burkina Faso",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
-          "event_id": "36529006",
-          "home": "Equatorial Guinea",
-          "away": "Sierra Leone",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
-          "event_id": "36521569",
-          "home": "Zimbabwe",
-          "away": "DR Congo",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
           "event_id": "36521567",
           "home": "Tunisia",
           "away": "Botswana",
@@ -215,32 +197,6 @@
           "home": "Jaguares de Chiapas",
           "away": "Racing FC Porto Palmeiras",
           "kickoff_utc": "2026-09-29T02:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Liga Premier Serie A",
-      "key": "soccer-mexico-t924f-liga-premier-serie-a",
-      "events": [
-        {
-          "event_id": "36540606",
-          "home": "Jaguares de Chiapas",
-          "away": "Racing FC Porto Palmeiras",
-          "kickoff_utc": "2026-09-29T02:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "3rd Division Group 1",
-      "key": "soccer-norway-3rd-division-group-1",
-      "events": [
-        {
-          "event_id": "36540401",
-          "home": "FK Haugesund 2",
-          "away": "Hinna",
-          "kickoff_utc": "2026-09-28T17:00:00+00:00"
         }
       ]
     },
@@ -296,71 +252,15 @@
       ]
     },
     {
-      "category": "Qatar",
-      "name": "Qatar Cup",
-      "key": "soccer-qatar-qatar-cup",
-      "events": [
-        {
-          "event_id": "36530751",
-          "home": "Al Shahaniya",
-          "away": "Al Duhail",
-          "kickoff_utc": "2026-09-28T17:15:00+00:00"
-        },
-        {
-          "event_id": "36530237",
-          "home": "Al-Sailiya SC",
-          "away": "Al Rayyan SC",
-          "kickoff_utc": "2026-09-28T17:15:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Serbia",
       "name": "Prva Liga",
       "key": "soccer-serbia-prva-liga",
       "events": [
         {
-          "event_id": "36470932",
-          "home": "FK Bor 1919",
-          "away": "FK Metalac Gornji Milanovac",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
-          "event_id": "36529862",
-          "home": "FK Naftagas Elemir",
-          "away": "FK Jedinstvo UB",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
-          "event_id": "36529332",
-          "home": "Gfk Dubocica",
-          "away": "FK Javor Ivanjica",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
-          "event_id": "36542990",
-          "home": "Proleter 023",
-          "away": "FK Jedinstvo UB",
-          "kickoff_utc": "2026-09-28T16:00:00+00:00"
-        },
-        {
           "event_id": "36529685",
           "home": "FK Loznica",
           "away": "FK Spartak Subotica",
           "kickoff_utc": "2026-09-28T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Slovenia",
-      "name": "2. Liga",
-      "key": "soccer-slovenia-2nd-liga",
-      "events": [
-        {
-          "event_id": "36539632",
-          "home": "NK Rudar Velenje",
-          "away": "Nd Dravinja",
-          "kickoff_utc": "2026-09-28T17:00:00+00:00"
         }
       ]
     },
