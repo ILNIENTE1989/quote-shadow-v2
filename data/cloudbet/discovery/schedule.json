@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T19:46:25.356339+00:00",
+  "generated_at_utc": "2026-09-28T21:48:25.842410+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -7,12 +7,6 @@
       "name": "Torneo Regional Federal Amateur",
       "key": "soccer-argentina-torneo-regional-federal-amateur",
       "events": [
-        {
-          "event_id": "36542708",
-          "home": "Fomento Los Hornos",
-          "away": "Napoli Argentino",
-          "kickoff_utc": "2026-09-28T20:00:00+00:00"
-        },
         {
           "event_id": "36540575",
           "home": "FC San Nicolas (Aruba)",
@@ -46,18 +40,6 @@
       "key": "soccer-colombia-primera-b",
       "events": [
         {
-          "event_id": "36530019",
-          "home": "Yumbo FC",
-          "away": "Orsomarso SC",
-          "kickoff_utc": "2026-09-28T20:30:00+00:00"
-        },
-        {
-          "event_id": "36542537",
-          "home": "CD Cortulua",
-          "away": "Itagui Leones FC",
-          "kickoff_utc": "2026-09-28T21:00:00+00:00"
-        },
-        {
           "event_id": "36536383",
           "home": "Deportes Quindio",
           "away": "Bogota FC",
@@ -75,6 +57,32 @@
           "home": "AD Cariari Pococi",
           "away": "CS Uruguay de Coronado",
           "kickoff_utc": "2026-09-29T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "India IFA Shield",
+      "key": "soccer-india-tb6e4-india-ifa-shield",
+      "events": [
+        {
+          "event_id": "36549961",
+          "home": "Mohun Bagan AC",
+          "away": "Northeast United FC",
+          "kickoff_utc": "2026-09-29T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
+      "name": "FIFA ASEAN Cup",
+      "key": "soccer-international-tc477-fifa-asean-cup",
+      "events": [
+        {
+          "event_id": "36532594",
+          "home": "Philippines",
+          "away": "Pakistan",
+          "kickoff_utc": "2026-09-29T09:00:00+00:00"
         }
       ]
     },
@@ -110,12 +118,6 @@
       "key": "soccer-paraguay-primera-division-apertura",
       "events": [
         {
-          "event_id": "36446013",
-          "home": "Sportivo San Lorenzo",
-          "away": "CD Recoleta",
-          "kickoff_utc": "2026-09-28T20:00:00+00:00"
-        },
-        {
           "event_id": "36445681",
           "home": "Libertad Asuncion",
           "away": "Club Olimpia",
@@ -128,12 +130,6 @@
       "name": "Segunda Division",
       "key": "soccer-paraguay-segunda-division",
       "events": [
-        {
-          "event_id": "36540588",
-          "home": "CA Tembetary Ypane",
-          "away": "Paraguari",
-          "kickoff_utc": "2026-09-28T20:00:00+00:00"
-        },
         {
           "event_id": "36540589",
           "home": "Guairena FC",
