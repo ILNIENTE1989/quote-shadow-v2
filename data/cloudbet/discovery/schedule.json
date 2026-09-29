@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29T07:54:23.009801+00:00",
+  "generated_at_utc": "2026-09-29T09:54:24.992945+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -51,6 +51,32 @@
           "home": "Wuxi Wugou",
           "away": "Ningbo Professional",
           "kickoff_utc": "2026-09-29T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36493402",
+          "home": "CS Deportivo Pereira",
+          "away": "Independiente Santa Fe",
+          "kickoff_utc": "2026-09-29T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "El Salvador",
+      "name": "Primera Division, Clausura",
+      "key": "soccer-el-salvador-primera-division-clausura",
+      "events": [
+        {
+          "event_id": "36547397",
+          "home": "CD Atlético Balboa",
+          "away": "C.D. Cacahuatique",
+          "kickoff_utc": "2026-09-29T21:00:00+00:00"
         }
       ]
     },
@@ -239,29 +265,10 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36552756",
-          "home": "Kickstart Fc",
-          "away": "Rebels FC",
-          "kickoff_utc": "2026-09-29T08:00:00+00:00"
-        },
-        {
           "event_id": "36554278",
           "home": "Bangalore City FC",
           "away": "South United FC",
           "kickoff_utc": "2026-09-29T10:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "India IFA Shield",
-      "key": "soccer-india-tb6e4-india-ifa-shield",
-      "events": [
-        {
-          "event_id": "36549961",
-          "home": "Mohun Bagan AC",
-          "away": "Northeast United FC",
-          "kickoff_utc": "2026-09-29T09:00:00+00:00"
         }
       ]
     },
@@ -442,9 +449,27 @@
           "kickoff_utc": "2026-09-29T18:45:00+00:00"
         },
         {
+          "event_id": "36556445",
+          "home": "Blyth Spartans AFC",
+          "away": "Heaton Stannington",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
           "event_id": "36555668",
           "home": "Bootle FC",
           "away": "Nantwich Town",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
+          "event_id": "36556448",
+          "home": "Clitheroe FC",
+          "away": "Runcorn Linnets",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
+          "event_id": "36556450",
+          "home": "Congleton Town",
+          "away": "Shifnal Town",
           "kickoff_utc": "2026-09-29T18:45:00+00:00"
         },
         {
@@ -478,6 +503,24 @@
           "kickoff_utc": "2026-09-29T18:45:00+00:00"
         },
         {
+          "event_id": "36556449",
+          "home": "Newcastle Town",
+          "away": "Stafford Rangers",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
+          "event_id": "36556446",
+          "home": "Ossett United",
+          "away": "Bridlington Town",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
+          "event_id": "36556447",
+          "home": "Shepshed Dynamo",
+          "away": "Boldmere St Michaels FC",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
           "event_id": "36555671",
           "home": "Sutton Coldfield",
           "away": "Mickleover FC",
@@ -502,12 +545,6 @@
       "name": "FIFA ASEAN Cup",
       "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
-        {
-          "event_id": "36532594",
-          "home": "Philippines",
-          "away": "Pakistan",
-          "kickoff_utc": "2026-09-29T09:00:00+00:00"
-        },
         {
           "event_id": "36532173",
           "home": "Thailand",
@@ -616,6 +653,25 @@
           "home": "Zweigen Kanazawa",
           "away": "Shimizu S-Pulse",
           "kickoff_utc": "2026-09-29T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
+      "name": "Mexico Copa Mexico",
+      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
+      "events": [
+        {
+          "event_id": "36556898",
+          "home": "Cruz Azul",
+          "away": "FC Politecnico",
+          "kickoff_utc": "2026-09-29T21:00:00+00:00"
+        },
+        {
+          "event_id": "36556899",
+          "home": "Ejidatarios de Bonfil FC",
+          "away": "Deportiva Venados",
+          "kickoff_utc": "2026-09-29T21:00:00+00:00"
         }
       ]
     },
