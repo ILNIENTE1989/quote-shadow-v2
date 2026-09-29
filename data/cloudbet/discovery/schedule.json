@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T23:50:38.492938+00:00",
+  "generated_at_utc": "2026-09-29T01:52:21.890977+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,19 +12,6 @@
           "home": "Wuxi Wugou",
           "away": "Ningbo Professional",
           "kickoff_utc": "2026-09-29T11:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Costa Rica",
-      "name": "Liga de Ascenso, Apertura",
-      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
-      "events": [
-        {
-          "event_id": "36540617",
-          "home": "AD Cariari Pococi",
-          "away": "CS Uruguay de Coronado",
-          "kickoff_utc": "2026-09-29T01:00:00+00:00"
         }
       ]
     },
@@ -56,6 +43,55 @@
     },
     {
       "category": "International",
+      "name": "Africa Cup of Nations, Qualification",
+      "key": "soccer-international-africa-cup-of-nations-qualification",
+      "events": [
+        {
+          "event_id": "36535098",
+          "home": "Comoros",
+          "away": "Namibia",
+          "kickoff_utc": "2026-09-29T12:00:00+00:00"
+        },
+        {
+          "event_id": "36521568",
+          "home": "Burundi",
+          "away": "Algeria",
+          "kickoff_utc": "2026-09-29T13:00:00+00:00"
+        },
+        {
+          "event_id": "36516364",
+          "home": "Ethiopia",
+          "away": "Senegal",
+          "kickoff_utc": "2026-09-29T13:00:00+00:00"
+        },
+        {
+          "event_id": "36516363",
+          "home": "Lesotho",
+          "away": "Morocco",
+          "kickoff_utc": "2026-09-29T13:00:00+00:00"
+        },
+        {
+          "event_id": "36535125",
+          "home": "Madagascar",
+          "away": "Tanzania",
+          "kickoff_utc": "2026-09-29T13:00:00+00:00"
+        },
+        {
+          "event_id": "36534316",
+          "home": "Mozambique",
+          "away": "Sudan",
+          "kickoff_utc": "2026-09-29T13:00:00+00:00"
+        },
+        {
+          "event_id": "36516373",
+          "home": "South Sudan",
+          "away": "Egypt",
+          "kickoff_utc": "2026-09-29T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
       "name": "FIFA ASEAN Cup",
       "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
@@ -64,6 +100,12 @@
           "home": "Philippines",
           "away": "Pakistan",
           "kickoff_utc": "2026-09-29T09:00:00+00:00"
+        },
+        {
+          "event_id": "36532173",
+          "home": "Thailand",
+          "away": "Vietnam",
+          "kickoff_utc": "2026-09-29T12:30:00+00:00"
         }
       ]
     },
@@ -184,15 +226,15 @@
       ]
     },
     {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "category": "Slovakia",
+      "name": "Slovensky Pohar",
+      "key": "soccer-slovakia-slovensky-pohar",
       "events": [
         {
-          "event_id": "36533162",
-          "home": "Alianza FC Panama",
-          "away": "CA Independiente de La Chorrera",
-          "kickoff_utc": "2026-09-29T01:00:00+00:00"
+          "event_id": "36552552",
+          "home": "FK Inter Bratislava",
+          "away": "FK Zeleziarne Podbrezova",
+          "kickoff_utc": "2026-09-29T13:30:00+00:00"
         }
       ]
     }
