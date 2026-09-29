@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29T19:58:27.936319+00:00",
+  "generated_at_utc": "2026-09-29T22:01:08.036898+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -7,12 +7,6 @@
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36557600",
-          "home": "Real Potosi",
-          "away": "Academia del Balompie Boliviano",
-          "kickoff_utc": "2026-09-29T22:00:00+00:00"
-        },
         {
           "event_id": "36559149",
           "home": "Club Aurora",
@@ -40,12 +34,6 @@
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
         {
-          "event_id": "36493402",
-          "home": "CS Deportivo Pereira",
-          "away": "Independiente Santa Fe",
-          "kickoff_utc": "2026-09-29T20:30:00+00:00"
-        },
-        {
           "event_id": "36493510",
           "home": "Independiente Medellin",
           "away": "Millonarios FC",
@@ -67,47 +55,28 @@
       ]
     },
     {
-      "category": "El Salvador",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-el-salvador-primera-division-clausura",
+      "category": "India",
+      "name": "India IFA Shield",
+      "key": "soccer-india-tb6e4-india-ifa-shield",
       "events": [
         {
-          "event_id": "36547397",
-          "home": "CD Atlético Balboa",
-          "away": "C.D. Cacahuatique",
-          "kickoff_utc": "2026-09-29T21:00:00+00:00"
+          "event_id": "36564936",
+          "home": "Punjab FC",
+          "away": "SC East Bengal",
+          "kickoff_utc": "2026-09-30T09:00:00+00:00"
         }
       ]
     },
     {
-      "category": "El Salvador",
-      "name": "Segunda Division",
-      "key": "soccer-el-salvador-segunda-division",
+      "category": "International",
+      "name": "FIFA ASEAN Cup",
+      "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
         {
-          "event_id": "36562049",
-          "home": "Once Lobos",
-          "away": "Forfut",
-          "kickoff_utc": "2026-09-29T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Mexico Copa Mexico",
-      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
-      "events": [
-        {
-          "event_id": "36556899",
-          "home": "Ejidatarios de Bonfil FC",
-          "away": "Deportiva Venados",
-          "kickoff_utc": "2026-09-29T21:00:00+00:00"
-        },
-        {
-          "event_id": "36560872",
-          "home": "Estudiantes de Queretaro FC",
-          "away": "Club Celaya FC",
-          "kickoff_utc": "2026-09-29T21:00:00+00:00"
+          "event_id": "36547652",
+          "home": "Timor-Leste",
+          "away": "Cambodia",
+          "kickoff_utc": "2026-09-30T09:00:00+00:00"
         }
       ]
     },
