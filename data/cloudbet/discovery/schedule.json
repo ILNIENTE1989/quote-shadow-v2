@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29T01:52:21.890977+00:00",
+  "generated_at_utc": "2026-09-29T03:52:22.631183+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -25,6 +25,12 @@
           "home": "ASC And Center FC",
           "away": "Bengaluru FC",
           "kickoff_utc": "2026-09-29T05:30:00+00:00"
+        },
+        {
+          "event_id": "36552756",
+          "home": "Kickstart Fc",
+          "away": "Rebels FC",
+          "kickoff_utc": "2026-09-29T08:00:00+00:00"
         }
       ]
     },
@@ -213,15 +219,15 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "category": "Qatar",
+      "name": "Qatar Cup",
+      "key": "soccer-qatar-qatar-cup",
       "events": [
         {
-          "event_id": "36542964",
-          "home": "Jaguares de Chiapas",
-          "away": "Racing FC Porto Palmeiras",
-          "kickoff_utc": "2026-09-29T02:05:00+00:00"
+          "event_id": "36543831",
+          "home": "Al-Khor SC",
+          "away": "Umm-Salal SC",
+          "kickoff_utc": "2026-09-29T15:00:00+00:00"
         }
       ]
     },
@@ -235,6 +241,38 @@
           "home": "FK Inter Bratislava",
           "away": "FK Zeleziarne Podbrezova",
           "kickoff_utc": "2026-09-29T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovenia",
+      "name": "3. SNL",
+      "key": "soccer-slovenia-3-snl",
+      "events": [
+        {
+          "event_id": "36552757",
+          "home": "NK Podvinci",
+          "away": "NK Ljutomer",
+          "kickoff_utc": "2026-09-29T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "United Arab Emirates",
+      "name": "Presidents Cup",
+      "key": "soccer-united-arab-emirates-presidents-cup",
+      "events": [
+        {
+          "event_id": "36545033",
+          "home": "Fujairah FC",
+          "away": "AL Jazira AL Hamra",
+          "kickoff_utc": "2026-09-29T14:35:00+00:00"
+        },
+        {
+          "event_id": "36544803",
+          "home": "Palm City",
+          "away": "Dibba Al-Hisn SC",
+          "kickoff_utc": "2026-09-29T14:40:00+00:00"
         }
       ]
     }
