@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29T13:56:28.696540+00:00",
+  "generated_at_utc": "2026-09-29T15:58:24.653740+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -310,6 +310,19 @@
       ]
     },
     {
+      "category": "Germany",
+      "name": "Schleswig-Holstein-Liga",
+      "key": "soccer-germany-schleswig-holstein-liga",
+      "events": [
+        {
+          "event_id": "36561685",
+          "home": "Mtsv Hohenwestedt",
+          "away": "Eckernförder SV",
+          "kickoff_utc": "2026-09-29T17:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "International",
       "name": "AFC Gulf Cup",
       "key": "soccer-international-tc45c-afc-gulf-cup",
@@ -333,12 +346,6 @@
       "name": "Africa Cup of Nations, Qualification",
       "key": "soccer-international-africa-cup-of-nations-qualification",
       "events": [
-        {
-          "event_id": "36535125",
-          "home": "Madagascar",
-          "away": "Tanzania",
-          "kickoff_utc": "2026-09-29T14:00:00+00:00"
-        },
         {
           "event_id": "36521566",
           "home": "Cape Verde",
@@ -564,6 +571,12 @@
           "home": "Ejidatarios de Bonfil FC",
           "away": "Deportiva Venados",
           "kickoff_utc": "2026-09-29T21:00:00+00:00"
+        },
+        {
+          "event_id": "36560872",
+          "home": "Estudiantes de Queretaro FC",
+          "away": "Club Celaya FC",
+          "kickoff_utc": "2026-09-29T21:00:00+00:00"
         }
       ]
     },
@@ -585,12 +598,6 @@
       "name": "Qatar Cup",
       "key": "soccer-qatar-qatar-cup",
       "events": [
-        {
-          "event_id": "36543831",
-          "home": "Al-Khor SC",
-          "away": "Umm-Salal SC",
-          "kickoff_utc": "2026-09-29T15:00:00+00:00"
-        },
         {
           "event_id": "36543963",
           "home": "AL Markhiya",
@@ -632,19 +639,6 @@
       ]
     },
     {
-      "category": "Slovenia",
-      "name": "3. SNL",
-      "key": "soccer-slovenia-3-snl",
-      "events": [
-        {
-          "event_id": "36552757",
-          "home": "NK Podvinci",
-          "away": "NK Ljutomer",
-          "kickoff_utc": "2026-09-29T14:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Spain",
       "name": "Copa de SM La Reina",
       "key": "soccer-spain-copa-de-sm-la-reina",
@@ -654,25 +648,6 @@
           "home": "Huesca",
           "away": "Osasuna",
           "kickoff_utc": "2026-09-29T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "United Arab Emirates",
-      "name": "Presidents Cup",
-      "key": "soccer-united-arab-emirates-presidents-cup",
-      "events": [
-        {
-          "event_id": "36545033",
-          "home": "Fujairah FC",
-          "away": "AL Jazira AL Hamra",
-          "kickoff_utc": "2026-09-29T14:35:00+00:00"
-        },
-        {
-          "event_id": "36544803",
-          "home": "Palm City",
-          "away": "Dibba Al-Hisn SC",
-          "kickoff_utc": "2026-09-29T14:40:00+00:00"
         }
       ]
     },
