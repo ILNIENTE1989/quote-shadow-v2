@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-29T11:56:25.663220+00:00",
+  "generated_at_utc": "2026-09-29T13:56:28.696540+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -57,6 +57,12 @@
           "home": "Real Potosi",
           "away": "Academia del Balompie Boliviano",
           "kickoff_utc": "2026-09-29T22:00:00+00:00"
+        },
+        {
+          "event_id": "36559149",
+          "home": "Club Aurora",
+          "away": "San Antonio Bulo Bulo",
+          "kickoff_utc": "2026-09-30T00:00:00+00:00"
         }
       ]
     },
@@ -83,6 +89,12 @@
           "home": "CS Deportivo Pereira",
           "away": "Independiente Santa Fe",
           "kickoff_utc": "2026-09-29T20:30:00+00:00"
+        },
+        {
+          "event_id": "36493510",
+          "home": "Independiente Medellin",
+          "away": "Millonarios FC",
+          "kickoff_utc": "2026-09-30T01:05:00+00:00"
         }
       ]
     },
@@ -121,6 +133,12 @@
           "event_id": "36555659",
           "home": "Hendon FC",
           "away": "Ashford Town Middlesex",
+          "kickoff_utc": "2026-09-29T18:45:00+00:00"
+        },
+        {
+          "event_id": "36559196",
+          "home": "Windsor & Eton",
+          "away": "AFC Stoneham",
           "kickoff_utc": "2026-09-29T18:45:00+00:00"
         }
       ]
@@ -315,42 +333,6 @@
       "name": "Africa Cup of Nations, Qualification",
       "key": "soccer-international-africa-cup-of-nations-qualification",
       "events": [
-        {
-          "event_id": "36535098",
-          "home": "Comoros",
-          "away": "Namibia",
-          "kickoff_utc": "2026-09-29T12:00:00+00:00"
-        },
-        {
-          "event_id": "36521568",
-          "home": "Burundi",
-          "away": "Algeria",
-          "kickoff_utc": "2026-09-29T13:00:00+00:00"
-        },
-        {
-          "event_id": "36516364",
-          "home": "Ethiopia",
-          "away": "Senegal",
-          "kickoff_utc": "2026-09-29T13:00:00+00:00"
-        },
-        {
-          "event_id": "36516363",
-          "home": "Lesotho",
-          "away": "Morocco",
-          "kickoff_utc": "2026-09-29T13:00:00+00:00"
-        },
-        {
-          "event_id": "36534316",
-          "home": "Mozambique",
-          "away": "Sudan",
-          "kickoff_utc": "2026-09-29T13:00:00+00:00"
-        },
-        {
-          "event_id": "36516373",
-          "home": "South Sudan",
-          "away": "Egypt",
-          "kickoff_utc": "2026-09-29T13:00:00+00:00"
-        },
         {
           "event_id": "36535125",
           "home": "Madagascar",
@@ -560,19 +542,6 @@
       ]
     },
     {
-      "category": "International",
-      "name": "FIFA ASEAN Cup",
-      "key": "soccer-international-tc477-fifa-asean-cup",
-      "events": [
-        {
-          "event_id": "36532173",
-          "home": "Thailand",
-          "away": "Vietnam",
-          "kickoff_utc": "2026-09-29T12:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Israel",
       "name": "Liga Bet South A",
       "key": "soccer-israel-liga-bet-south-a",
@@ -599,21 +568,15 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Primera Division B (APF)",
-      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
+      "category": "Northern Ireland",
+      "name": "Premiership",
+      "key": "soccer-northern-ireland-premiership",
       "events": [
         {
-          "event_id": "36555674",
-          "home": "29 de Setiembre CG",
-          "away": "24 de Setiembre VP",
-          "kickoff_utc": "2026-09-29T18:00:00+00:00"
-        },
-        {
-          "event_id": "36558021",
-          "home": "29 de Setiembre CG",
-          "away": "Club 24 de Septiembre",
-          "kickoff_utc": "2026-09-29T18:00:00+00:00"
+          "event_id": "36559198",
+          "home": "Dergview FC",
+          "away": "Dollingstown FC",
+          "kickoff_utc": "2026-09-29T19:00:00+00:00"
         }
       ]
     },
@@ -665,19 +628,6 @@
           "home": "FK Vozdovac Belgrade",
           "away": "FK Napredak Krusevac",
           "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Slovakia",
-      "name": "Slovensky Pohar",
-      "key": "soccer-slovakia-slovensky-pohar",
-      "events": [
-        {
-          "event_id": "36552552",
-          "home": "FK Inter Bratislava",
-          "away": "FK Zeleziarne Podbrezova",
-          "kickoff_utc": "2026-09-29T13:30:00+00:00"
         }
       ]
     },
