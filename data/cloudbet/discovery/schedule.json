@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-09-29T15:58:24.653740+00:00",
+  "generated_at_utc": "2026-09-29T17:58:25.459862+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Primera C",
-      "key": "soccer-argentina-primera-c",
-      "events": [
-        {
-          "event_id": "36558094",
-          "home": "Deportivo Muniz",
-          "away": "Club El Porvenir",
-          "kickoff_utc": "2026-09-29T18:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Argentina",
       "name": "Torneo Regional Federal Amateur",
@@ -25,19 +12,6 @@
           "home": "Uribelarrea FC",
           "away": "Defensores de Glew",
           "kickoff_utc": "2026-09-29T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Austria",
-      "name": "KFV Cup",
-      "key": "soccer-austria-kfv-cup",
-      "events": [
-        {
-          "event_id": "36554413",
-          "home": "SV Kuchl",
-          "away": "SV Wals-Grunau",
-          "kickoff_utc": "2026-09-29T17:00:00+00:00"
         }
       ]
     },
@@ -120,6 +94,19 @@
           "event_id": "36547397",
           "home": "CD Atlético Balboa",
           "away": "C.D. Cacahuatique",
+          "kickoff_utc": "2026-09-29T21:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "El Salvador",
+      "name": "Segunda Division",
+      "key": "soccer-el-salvador-segunda-division",
+      "events": [
+        {
+          "event_id": "36562049",
+          "home": "Once Lobos",
+          "away": "Forfut",
           "kickoff_utc": "2026-09-29T21:00:00+00:00"
         }
       ]
@@ -297,85 +284,10 @@
       ]
     },
     {
-      "category": "Germany",
-      "name": "Regionalliga Bavaria",
-      "key": "soccer-germany-regionalliga-bavaria",
-      "events": [
-        {
-          "event_id": "36547600",
-          "home": "SpVgg Unterhaching",
-          "away": "TSV Buchbach",
-          "kickoff_utc": "2026-09-29T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Germany",
-      "name": "Schleswig-Holstein-Liga",
-      "key": "soccer-germany-schleswig-holstein-liga",
-      "events": [
-        {
-          "event_id": "36561685",
-          "home": "Mtsv Hohenwestedt",
-          "away": "Eckernförder SV",
-          "kickoff_utc": "2026-09-29T17:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "AFC Gulf Cup",
-      "key": "soccer-international-tc45c-afc-gulf-cup",
-      "events": [
-        {
-          "event_id": "36544971",
-          "home": "Oman",
-          "away": "Kuwait",
-          "kickoff_utc": "2026-09-29T17:30:00+00:00"
-        },
-        {
-          "event_id": "36544932",
-          "home": "Saudi Arabia",
-          "away": "Iraq",
-          "kickoff_utc": "2026-09-29T17:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "International",
       "name": "Africa Cup of Nations, Qualification",
       "key": "soccer-international-africa-cup-of-nations-qualification",
       "events": [
-        {
-          "event_id": "36521566",
-          "home": "Cape Verde",
-          "away": "Rwanda",
-          "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        },
-        {
-          "event_id": "36514549",
-          "home": "Ghana",
-          "away": "Gambia",
-          "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        },
-        {
-          "event_id": "36521574",
-          "home": "Guinea-Bissau",
-          "away": "Nigeria",
-          "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        },
-        {
-          "event_id": "36535097",
-          "home": "Uganda",
-          "away": "Libya",
-          "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        },
-        {
-          "event_id": "36534434",
-          "home": "Zambia",
-          "away": "Togo",
-          "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        },
         {
           "event_id": "36535124",
           "home": "Benin",
@@ -549,19 +461,6 @@
       ]
     },
     {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36558784",
-          "home": "Bnei Yehud",
-          "away": "Hakoach Amidar Ramat Gan",
-          "kickoff_utc": "2026-09-29T17:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Mexico Copa Mexico",
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
@@ -594,25 +493,6 @@
       ]
     },
     {
-      "category": "Qatar",
-      "name": "Qatar Cup",
-      "key": "soccer-qatar-qatar-cup",
-      "events": [
-        {
-          "event_id": "36543963",
-          "home": "AL Markhiya",
-          "away": "Al Ahli Doha SC",
-          "kickoff_utc": "2026-09-29T17:15:00+00:00"
-        },
-        {
-          "event_id": "36543683",
-          "home": "AL Waab",
-          "away": "Lusail SC",
-          "kickoff_utc": "2026-09-29T17:15:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Scotland",
       "name": "Challenge Cup",
       "key": "soccer-scotland-challenge-cup",
@@ -622,32 +502,6 @@
           "home": "Forfar Athletic FC",
           "away": "Formartine United",
           "kickoff_utc": "2026-09-29T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Serbia",
-      "name": "Prva Liga",
-      "key": "soccer-serbia-prva-liga",
-      "events": [
-        {
-          "event_id": "36486676",
-          "home": "FK Vozdovac Belgrade",
-          "away": "FK Napredak Krusevac",
-          "kickoff_utc": "2026-09-29T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Copa de SM La Reina",
-      "key": "soccer-spain-copa-de-sm-la-reina",
-      "events": [
-        {
-          "event_id": "36554412",
-          "home": "Huesca",
-          "away": "Osasuna",
-          "kickoff_utc": "2026-09-29T17:00:00+00:00"
         }
       ]
     },
