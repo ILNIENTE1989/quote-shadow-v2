@@ -529,3 +529,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-01T00:34:22.584048+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,25.6236,soccer.match_odds,period=ft,away,,1.99,2.0
 2026-10-01T00:34:22.584048+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,25.6236,soccer.total_goals,period=ft,under,total=2.25,2.07,2.06
 2026-10-01T00:34:22.584048+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,25.6236,soccer.total_goals,period=ft,over,total=2.75,2.25,2.3
+2026-10-01T00:36:24.369548+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,23.5938,soccer.double_chance,period=ft,draw_away,,5.15,5.25
+2026-10-01T00:36:24.369548+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,23.5938,soccer.double_chance,period=ft,home_draw,,1.04,1.03
+2026-10-01T00:36:24.369548+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,23.5938,soccer.match_odds,period=ft,draw,,8.35,8.3
+2026-10-01T00:36:24.369548+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,23.5938,soccer.match_odds,period=ft,away,,13.0,14.0
