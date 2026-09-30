@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T20:16:26.168272+00:00",
+  "generated_at_utc": "2026-09-30T22:18:25.993230+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -27,29 +27,10 @@
       "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
       "events": [
         {
-          "event_id": "36577331",
-          "home": "CD Cruzeiro",
-          "away": "Femar FC",
-          "kickoff_utc": "2026-09-30T22:00:00+00:00"
-        },
-        {
           "event_id": "36577752",
           "home": "Auto EC (PB)",
           "away": "Picuiense PB",
           "kickoff_utc": "2026-09-30T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Piauiense 2 (PI)",
-      "key": "soccer-brazil-tc4ae-brazil-campeonato-piauiense-2-pi",
-      "events": [
-        {
-          "event_id": "36577373",
-          "home": "River AC (PI)",
-          "away": "SE de Picos",
-          "kickoff_utc": "2026-09-30T21:30:00+00:00"
         }
       ]
     },
@@ -67,29 +48,10 @@
       ]
     },
     {
-      "category": "Chile",
-      "name": "Primera B",
-      "key": "soccer-chile-primera-b",
-      "events": [
-        {
-          "event_id": "36555477",
-          "home": "Union San Felipe",
-          "away": "San Luis de Quillota",
-          "kickoff_utc": "2026-09-30T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "El Salvador",
       "name": "Primera Division, Clausura",
       "key": "soccer-el-salvador-primera-division-clausura",
       "events": [
-        {
-          "event_id": "36558708",
-          "home": "CD Aguila San Miguel",
-          "away": "Santa Tecla FC",
-          "kickoff_utc": "2026-09-30T21:30:00+00:00"
-        },
         {
           "event_id": "36558711",
           "home": "Alianza FC San Salvador",
@@ -103,24 +65,6 @@
       "name": "Primera Division",
       "key": "soccer-guatemala-primera-division",
       "events": [
-        {
-          "event_id": "36572629",
-          "home": "Aff Guatemala",
-          "away": "Deportivo Fraijanes",
-          "kickoff_utc": "2026-09-30T21:00:00+00:00"
-        },
-        {
-          "event_id": "36572667",
-          "home": "Deportivo Iztapa",
-          "away": "Juventud Copalera",
-          "kickoff_utc": "2026-09-30T21:00:00+00:00"
-        },
-        {
-          "event_id": "36572809",
-          "home": "Csd Amatitlan",
-          "away": "FC Santa Lucia Cotzumalguapa",
-          "kickoff_utc": "2026-09-30T21:30:00+00:00"
-        },
         {
           "event_id": "36575108",
           "home": "Deportivo Gomerano",
@@ -145,19 +89,6 @@
           "home": "Golik North District",
           "away": "Southern District Football Club",
           "kickoff_utc": "2026-10-01T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Mexico Liga TDP",
-      "key": "soccer-mexico-tb46e-mexico-liga-tdp",
-      "events": [
-        {
-          "event_id": "36573264",
-          "home": "Club la Piedad Queretaro",
-          "away": "Atletico Huejutla",
-          "kickoff_utc": "2026-09-30T22:00:00+00:00"
         }
       ]
     },
