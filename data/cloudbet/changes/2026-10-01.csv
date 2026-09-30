@@ -653,3 +653,20 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-01T00:48:27.491491+02:00,36521470,USL Championship,USA,LIU Brooklyn,Detroit City FC,2026-09-30T23:00:00+00:00,11.5418,soccer.match_odds,period=ft,away,,2.2,2.25
 2026-10-01T00:48:27.491491+02:00,36521470,USL Championship,USA,LIU Brooklyn,Detroit City FC,2026-09-30T23:00:00+00:00,11.5418,soccer.total_goals,period=ft,over,total=2.5,2.11,2.12
 2026-10-01T00:48:27.491491+02:00,36521470,USL Championship,USA,LIU Brooklyn,Detroit City FC,2026-09-30T23:00:00+00:00,11.5418,soccer.total_goals,period=ft,under,total=3.5,1.26,1.25
+2026-10-01T00:50:38.588692+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,9.3569,soccer.double_chance,period=ft,draw_away,,4.05,4.0
+2026-10-01T00:50:38.588692+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,9.3569,soccer.double_chance,period=ft,home_away,,1.01,1.03
+2026-10-01T00:50:38.588692+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,9.3569,soccer.match_odds,period=ft,home,,1.1,1.12
+2026-10-01T00:50:38.588692+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,9.3569,soccer.match_odds,period=ft,away,,13.0,12.0
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,home,handicap=0.5,1.8,1.82
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,away,handicap=0.5,2.02,2.01
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,home,handicap=-0.25,3.15,3.2
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,away,handicap=0,1.46,1.45
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,home,handicap=0.25,2.09,2.11
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,away,handicap=0.25,1.74,1.73
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,home,handicap=0.75,1.58,1.59
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.asian_handicap,period=ft,away,handicap=1.5,4.0,3.95
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.double_chance,period=ft,home_away,,1.29,1.28
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.double_chance,period=ft,home_draw,,1.8,1.81
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.total_goals,period=ft,under,total=2.25,1.97,1.98
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.total_goals,period=ft,over,total=2,1.56,1.55
+2026-10-01T00:50:38.588692+02:00,36522149,Primera Division,Uruguay,Montevideo City Torque,CA Penarol Montevideo,2026-09-30T23:00:00+00:00,9.3569,soccer.total_goals,period=ft,over,total=2.5,2.1,2.09
