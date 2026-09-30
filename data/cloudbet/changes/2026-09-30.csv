@@ -3674,3 +3674,9 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-09-30T15:50:41.178056+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,9.3137,soccer.total_goals,period=ft,under,total=5,1.42,1.5
 2026-09-30T15:50:41.178056+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,9.3137,soccer.total_goals,period=ft,over,total=5.25,0.0,2.45
 2026-09-30T15:50:41.178056+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,9.3137,soccer.total_goals,period=ft,under,total=5.25,0.0,1.42
+2026-09-30T15:52:25.916156+02:00,36568280,NPFL,Nigeria,Enyimba,Shooting Stars,2026-09-30T15:00:00+00:00,67.5681,soccer.double_chance,period=ft,draw_away,,2.0,1.94
+2026-09-30T15:52:25.916156+02:00,36568280,NPFL,Nigeria,Enyimba,Shooting Stars,2026-09-30T15:00:00+00:00,67.5681,soccer.double_chance,period=ft,home_away,,1.24,1.25
+2026-09-30T15:52:25.916156+02:00,36568280,NPFL,Nigeria,Enyimba,Shooting Stars,2026-09-30T15:00:00+00:00,67.5681,soccer.double_chance,period=ft,home_draw,,1.12,1.13
+2026-09-30T15:52:25.916156+02:00,36568280,NPFL,Nigeria,Enyimba,Shooting Stars,2026-09-30T15:00:00+00:00,67.5681,soccer.match_odds,period=ft,home,,1.54,1.58
+2026-09-30T15:52:25.916156+02:00,36568280,NPFL,Nigeria,Enyimba,Shooting Stars,2026-09-30T15:00:00+00:00,67.5681,soccer.match_odds,period=ft,away,,5.5,5.1
+2026-09-30T15:52:25.916156+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,7.5681,soccer.match_odds,period=ft,draw,,7.75,8.0
