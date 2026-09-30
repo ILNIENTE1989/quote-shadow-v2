@@ -10554,3 +10554,6 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-09-30T23:30:54.731654+02:00,36577342,"Gaucho, Serie B",Brazil,SER Cruz Alta (RS),Rio Grande (RS),2026-09-30T22:30:00+00:00,59.0878,soccer.match_odds,period=ft,away,,4.7,4.8
 2026-09-30T23:30:54.731654+02:00,36577342,"Gaucho, Serie B",Brazil,SER Cruz Alta (RS),Rio Grande (RS),2026-09-30T22:30:00+00:00,59.0878,soccer.total_goals,period=ft,over,total=2.5,1.71,1.72
 2026-09-30T23:30:54.731654+02:00,36577342,"Gaucho, Serie B",Brazil,SER Cruz Alta (RS),Rio Grande (RS),2026-09-30T22:30:00+00:00,59.0878,soccer.total_goals,period=ft,under,total=2.5,1.87,1.89
+2026-09-30T23:32:26.097343+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,87.565,soccer.double_chance,period=ft,home_draw,,1.03,1.04
+2026-09-30T23:32:26.097343+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,87.565,soccer.match_odds,period=ft,draw,,7.75,8.2
+2026-09-30T23:32:26.097343+02:00,36577730,Segunda Division,Venezuela,CD Lara,REAL FRONTERA FC,2026-09-30T23:00:00+00:00,87.565,soccer.match_odds,period=ft,away,,14.0,12.0
