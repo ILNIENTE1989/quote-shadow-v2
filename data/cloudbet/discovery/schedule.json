@@ -1,17 +1,90 @@
 {
-  "generated_at_utc": "2026-09-30T00:02:26.587317+00:00",
+  "generated_at_utc": "2026-09-30T02:04:25.133453+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
+      "category": "Czechia",
+      "name": "Czech Cup",
+      "key": "soccer-czech-republic-cup",
       "events": [
         {
-          "event_id": "36493510",
-          "home": "Independiente Medellin",
-          "away": "Millonarios FC",
-          "kickoff_utc": "2026-09-30T01:05:00+00:00"
+          "event_id": "36551822",
+          "home": "FC Vsetin",
+          "away": "Bohemians Prague 1905",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Egypt",
+      "name": "2nd Division",
+      "key": "soccer-egypt-2nd-division",
+      "events": [
+        {
+          "event_id": "36567438",
+          "home": "Abu Al Matamir",
+          "away": "Alexandria Petroleum",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567440",
+          "home": "Alo Egypt",
+          "away": "EL Banha",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567443",
+          "home": "Diamond FC",
+          "away": "Cascada SC",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567442",
+          "home": "El Alameen",
+          "away": "Mostaqbal Watan Club",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567439",
+          "home": "El Nasr Taadeen",
+          "away": "Aswan FC",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567441",
+          "home": "Gezira SC",
+          "away": "Nogoom Masr",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567444",
+          "home": "Kom Hamada",
+          "away": "Delphi SC",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567437",
+          "home": "Matroh",
+          "away": "El Olympi",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567445",
+          "home": "Misr Insurance FC",
+          "away": "Al-Shanwani SC",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567446",
+          "home": "Misr Lel Makasa",
+          "away": "Beni Suef",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
+          "event_id": "36567436",
+          "home": "Orange Sport FSI",
+          "away": "Al Qanater Al Khayreyah",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
         }
       ]
     },
@@ -25,6 +98,12 @@
           "home": "Roots FC",
           "away": "Bengaluru FC",
           "kickoff_utc": "2026-09-30T05:30:00+00:00"
+        },
+        {
+          "event_id": "36567827",
+          "home": "Megt & Centre",
+          "away": "Kodagu Fc",
+          "kickoff_utc": "2026-09-30T08:00:00+00:00"
         }
       ]
     },
@@ -51,6 +130,63 @@
           "home": "Timor-Leste",
           "away": "Cambodia",
           "kickoff_utc": "2026-09-30T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Liga Alef",
+      "key": "soccer-israel-liga-alef",
+      "events": [
+        {
+          "event_id": "36566728",
+          "home": "Maccabi Neve Shaanan Eldad",
+          "away": "MS Tira",
+          "kickoff_utc": "2026-09-30T12:00:00+00:00"
+        },
+        {
+          "event_id": "36567004",
+          "home": "Hapoel Ironi Arraba",
+          "away": "Hapoel Migdal Haemeq",
+          "kickoff_utc": "2026-09-30T12:30:00+00:00"
+        },
+        {
+          "event_id": "36567005",
+          "home": "Shimshon Tel Aviv",
+          "away": "Hapoel Nir Ramat Hasharon FC",
+          "kickoff_utc": "2026-09-30T12:30:00+00:00"
+        },
+        {
+          "event_id": "36567207",
+          "home": "Maccabi Ironi Kiryat Malakhi",
+          "away": "Hapoel Herzelia FC",
+          "kickoff_utc": "2026-09-30T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Italy",
+      "name": "Serie D, Girone H",
+      "key": "soccer-italy-serie-d-girone-h",
+      "events": [
+        {
+          "event_id": "36567210",
+          "home": "US Alessandria Calcio 1912",
+          "away": "Asd Imperia 1923",
+          "kickoff_utc": "2026-09-30T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "NM Cup",
+      "key": "soccer-norway-nm-cup",
+      "events": [
+        {
+          "event_id": "36567825",
+          "home": "Follo",
+          "away": "Sarpsborg 08",
+          "kickoff_utc": "2026-09-30T14:00:00+00:00"
         }
       ]
     }
