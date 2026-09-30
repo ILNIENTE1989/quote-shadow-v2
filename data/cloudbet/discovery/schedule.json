@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T08:10:38.722684+00:00",
+  "generated_at_utc": "2026-09-30T10:10:39.366659+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -80,6 +80,25 @@
           "home": "Royal Charleroi SC",
           "away": "RSC Habay",
           "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36572966",
+          "home": "KRC Harelbeke",
+          "away": "Hoogstraten VV",
+          "kickoff_utc": "2026-09-30T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Chile",
+      "name": "Primera B",
+      "key": "soccer-chile-primera-b",
+      "events": [
+        {
+          "event_id": "36555477",
+          "home": "Union San Felipe",
+          "away": "San Luis de Quillota",
+          "kickoff_utc": "2026-09-30T21:00:00+00:00"
         }
       ]
     },
@@ -145,6 +164,12 @@
           "kickoff_utc": "2026-09-30T13:30:00+00:00"
         },
         {
+          "event_id": "36572214",
+          "home": "Gazl Kafr Eldwar",
+          "away": "Horse Owners Club",
+          "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        },
+        {
           "event_id": "36567441",
           "home": "Gezira SC",
           "away": "Nogoom Masr",
@@ -189,6 +214,19 @@
       ]
     },
     {
+      "category": "El Salvador",
+      "name": "Primera Division, Clausura",
+      "key": "soccer-el-salvador-primera-division-clausura",
+      "events": [
+        {
+          "event_id": "36558708",
+          "home": "CD Aguila San Miguel",
+          "away": "Santa Tecla FC",
+          "kickoff_utc": "2026-09-30T21:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "England",
       "name": "Southern League, Premier Central",
       "key": "soccer-england-southern-football-league-premier-division-central",
@@ -218,7 +256,7 @@
           "kickoff_utc": "2026-09-30T18:45:00+00:00"
         },
         {
-          "event_id": "36570895",
+          "event_id": "36572201",
           "home": "London Lions",
           "away": "Biggleswade Town",
           "kickoff_utc": "2026-09-30T18:45:00+00:00"
@@ -266,6 +304,24 @@
           "home": "Deportivo Coatepeque",
           "away": "Quiche FC",
           "kickoff_utc": "2026-09-30T19:00:00+00:00"
+        },
+        {
+          "event_id": "36572629",
+          "home": "Aff Guatemala",
+          "away": "Deportivo Fraijanes",
+          "kickoff_utc": "2026-09-30T21:00:00+00:00"
+        },
+        {
+          "event_id": "36572667",
+          "home": "Deportivo Iztapa",
+          "away": "Juventud Copalera",
+          "kickoff_utc": "2026-09-30T21:00:00+00:00"
+        },
+        {
+          "event_id": "36572809",
+          "home": "Csd Amatitlan",
+          "away": "FC Santa Lucia Cotzumalguapa",
+          "kickoff_utc": "2026-09-30T21:30:00+00:00"
         }
       ]
     },
@@ -279,19 +335,6 @@
           "home": "Technico FF",
           "away": "United Stars FC",
           "kickoff_utc": "2026-09-30T10:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "India IFA Shield",
-      "key": "soccer-india-tb6e4-india-ifa-shield",
-      "events": [
-        {
-          "event_id": "36564936",
-          "home": "Punjab FC",
-          "away": "SC East Bengal",
-          "kickoff_utc": "2026-09-30T09:00:00+00:00"
         }
       ]
     },
@@ -352,6 +395,12 @@
           "kickoff_utc": "2026-09-30T18:45:00+00:00"
         },
         {
+          "event_id": "36571470",
+          "home": "Coventry United",
+          "away": "AFC Rushden And Diamonds",
+          "kickoff_utc": "2026-09-30T18:45:00+00:00"
+        },
+        {
           "event_id": "36570893",
           "home": "Grimsby Borough",
           "away": "Hallam FC",
@@ -362,19 +411,6 @@
           "home": "Rugby Borough",
           "away": "Bourne Town",
           "kickoff_utc": "2026-09-30T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "FIFA ASEAN Cup",
-      "key": "soccer-international-tc477-fifa-asean-cup",
-      "events": [
-        {
-          "event_id": "36547652",
-          "home": "Timor-Leste",
-          "away": "Cambodia",
-          "kickoff_utc": "2026-09-30T09:00:00+00:00"
         }
       ]
     },
@@ -458,6 +494,19 @@
       ]
     },
     {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36573017",
+          "home": "Sektzia Ness Ziona FC",
+          "away": "Hapoel Ramla",
+          "kickoff_utc": "2026-09-30T16:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Italy",
       "name": "Serie D, Girone H",
       "key": "soccer-italy-serie-d-girone-h",
@@ -505,6 +554,12 @@
           "home": "FK Rudar Pljevlja",
           "away": "FK Berane",
           "kickoff_utc": "2026-09-30T13:00:00+00:00"
+        },
+        {
+          "event_id": "36572603",
+          "home": "FK Zeta Golubovci",
+          "away": "FK Kom Podgorica",
+          "kickoff_utc": "2026-09-30T15:00:00+00:00"
         }
       ]
     },
