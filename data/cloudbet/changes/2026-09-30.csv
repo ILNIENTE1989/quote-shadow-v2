@@ -1787,3 +1787,14 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-09-30T13:38:24.176081+02:00,36570570,2. CFL,Montenegro,FK Rudar Pljevlja,FK Berane,2026-09-30T13:00:00+00:00,81.5971,soccer.match_odds,period=ft,draw,,3.05,3.0
 2026-09-30T13:38:24.176081+02:00,36570570,2. CFL,Montenegro,FK Rudar Pljevlja,FK Berane,2026-09-30T13:00:00+00:00,81.5971,soccer.match_odds,period=ft,away,,2.5,2.55
 2026-09-30T13:38:24.176081+02:00,36570570,2. CFL,Montenegro,FK Rudar Pljevlja,FK Berane,2026-09-30T13:00:00+00:00,81.5971,soccer.total_goals,period=ft,over,total=1.5,1.28,1.27
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.75,0.0
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.86,0.0
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.double_chance,period=ft,draw_away,,1.58,1.62
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.double_chance,period=ft,home_away,,1.28,1.29
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.double_chance,period=ft,home_draw,,1.27,1.24
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.match_odds,period=ft,home,,2.02,1.94
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.match_odds,period=ft,draw,,3.05,3.0
+2026-09-30T13:42:24.854379+02:00,36567210,"Serie D, Girone H",Italy,US Alessandria Calcio 1912,Asd Imperia 1923,2026-09-30T13:00:00+00:00,77.5858,soccer.match_odds,period=ft,away,,3.1,3.4
+2026-09-30T13:42:24.854379+02:00,36566728,Liga Alef,Israel,Maccabi Neve Shaanan Eldad,MS Tira,2026-09-30T12:00:00+00:00,17.5858,soccer.double_chance,period=ft,draw_away,,1.26,1.25
+2026-09-30T13:42:24.854379+02:00,36566728,Liga Alef,Israel,Maccabi Neve Shaanan Eldad,MS Tira,2026-09-30T12:00:00+00:00,17.5858,soccer.double_chance,period=ft,home_away,,1.29,1.28
+2026-09-30T13:42:24.854379+02:00,36566728,Liga Alef,Israel,Maccabi Neve Shaanan Eldad,MS Tira,2026-09-30T12:00:00+00:00,17.5858,soccer.double_chance,period=ft,home_draw,,1.63,1.67
