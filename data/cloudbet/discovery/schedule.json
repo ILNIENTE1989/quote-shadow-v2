@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T14:12:26.524273+00:00",
+  "generated_at_utc": "2026-09-30T16:14:27.124688+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -247,12 +247,6 @@
       "key": "soccer-finland-t6f6a-kolmonen",
       "events": [
         {
-          "event_id": "36568909",
-          "home": "Lautp",
-          "away": "Ips",
-          "kickoff_utc": "2026-09-30T16:00:00+00:00"
-        },
-        {
           "event_id": "36569311",
           "home": "IF Sibbo Vargarna",
           "away": "Japs/47",
@@ -330,19 +324,6 @@
     },
     {
       "category": "International",
-      "name": "Africa Cup of Nations, Qualification",
-      "key": "soccer-international-africa-cup-of-nations-qualification",
-      "events": [
-        {
-          "event_id": "36545853",
-          "home": "Eritrea A",
-          "away": "South Africa",
-          "kickoff_utc": "2026-09-30T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
       "name": "England Isthmian League Division 1 North",
       "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
       "events": [
@@ -391,18 +372,6 @@
       "key": "soccer-israel-liga-alef",
       "events": [
         {
-          "event_id": "36568174",
-          "home": "Hapoel Bnei Musmus",
-          "away": "Maccabi Kiryat Ata-Bialik",
-          "kickoff_utc": "2026-09-30T14:30:00+00:00"
-        },
-        {
-          "event_id": "36568175",
-          "home": "Ironi Nesher",
-          "away": "Beitar Nahariya",
-          "kickoff_utc": "2026-09-30T14:30:00+00:00"
-        },
-        {
           "event_id": "36569389",
           "home": "AS Nordia Jerusalem",
           "away": "Hapoel Hadera FC",
@@ -441,19 +410,6 @@
       ]
     },
     {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36573017",
-          "home": "Sektzia Ness Ziona FC",
-          "away": "Hapoel Ramla",
-          "kickoff_utc": "2026-09-30T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Mexico Copa Mexico",
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
@@ -476,57 +432,6 @@
           "home": "Club la Piedad Queretaro",
           "away": "Atletico Huejutla",
           "kickoff_utc": "2026-09-30T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Montenegro",
-      "name": "2. CFL",
-      "key": "soccer-montenegro-t926a-2-cfl",
-      "events": [
-        {
-          "event_id": "36572603",
-          "home": "FK Zeta Golubovci",
-          "away": "FK Kom Podgorica",
-          "kickoff_utc": "2026-09-30T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Nigeria",
-      "name": "NPFL",
-      "key": "soccer-nigeria-professional-league",
-      "events": [
-        {
-          "event_id": "36568280",
-          "home": "Enyimba",
-          "away": "Shooting Stars",
-          "kickoff_utc": "2026-09-30T15:00:00+00:00"
-        },
-        {
-          "event_id": "36573767",
-          "home": "Katsina United FC",
-          "away": "Rivers United FC",
-          "kickoff_utc": "2026-09-30T15:00:00+00:00"
-        },
-        {
-          "event_id": "36568295",
-          "home": "Sporting Lagos FC",
-          "away": "Ikorodu City",
-          "kickoff_utc": "2026-09-30T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "NM Cup",
-      "key": "soccer-norway-nm-cup",
-      "events": [
-        {
-          "event_id": "36570967",
-          "home": "Hoenefoss BK",
-          "away": "KFUM Oslo",
-          "kickoff_utc": "2026-09-30T16:00:00+00:00"
         }
       ]
     },
