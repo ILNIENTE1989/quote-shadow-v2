@@ -3587,3 +3587,8 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-09-30T15:44:25.837390+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,15.5694,soccer.total_goals,period=ft,under,total=4.75,1.53,1.52
 2026-09-30T15:44:25.837390+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,15.5694,soccer.total_goals,period=ft,over,total=5,2.5,2.55
 2026-09-30T15:44:25.837390+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,15.5694,soccer.total_goals,period=ft,under,total=5,1.4,1.39
+2026-09-30T15:46:25.138411+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,13.581,soccer.double_chance,period=ft,home_draw,,4.95,0.0
+2026-09-30T15:46:25.138411+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,13.581,soccer.double_chance,period=ft,home_away,,1.02,0.0
+2026-09-30T15:46:25.138411+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,13.581,soccer.double_chance,period=ft,draw_away,,1.01,0.0
+2026-09-30T15:46:25.138411+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,13.581,soccer.match_odds,period=ft,draw,,9.05,7.75
+2026-09-30T15:46:25.138411+02:00,36567825,NM Cup,Norway,Follo,Sarpsborg 08,2026-09-30T14:00:00+00:00,13.581,soccer.match_odds,period=ft,away,,1.04,1.03
