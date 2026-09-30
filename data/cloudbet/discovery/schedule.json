@@ -1,7 +1,56 @@
 {
-  "generated_at_utc": "2026-09-30T04:06:25.511354+00:00",
+  "generated_at_utc": "2026-09-30T06:08:29.055345+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Belgium",
+      "name": "Nationale 1 VV",
+      "key": "soccer-belgium-ta0cd-nationale-1-vv",
+      "events": [
+        {
+          "event_id": "36551311",
+          "home": "Belisia Bilzen Sv",
+          "away": "KSK Heist",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36550778",
+          "home": "KFC Houtvenne",
+          "away": "KFC Mandel United",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36551312",
+          "home": "KFC Merelbeke",
+          "away": "KFC Dessel Sport",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36551313",
+          "home": "KSV Roeselare",
+          "away": "Kvv Thes Sport Tessenderlo",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36550776",
+          "home": "KVV ZELZATE",
+          "away": "Royal Knokke FC",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36550777",
+          "home": "RWD Molenbeek 47",
+          "away": "Union Rochefortoise",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        },
+        {
+          "event_id": "36550779",
+          "home": "Royal Charleroi SC",
+          "away": "RSC Habay",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Czechia",
       "name": "Czech Cup",
@@ -12,6 +61,19 @@
           "home": "FC Vsetin",
           "away": "Bohemians Prague 1905",
           "kickoff_utc": "2026-09-30T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Denmark",
+      "name": "Danmarksserien",
+      "key": "soccer-denmark-t8443-danmarksserien",
+      "events": [
+        {
+          "event_id": "36560276",
+          "home": "Hobro IK 2",
+          "away": "IF Lyseng",
+          "kickoff_utc": "2026-09-30T17:15:00+00:00"
         }
       ]
     },
@@ -98,6 +160,18 @@
           "home": "Lautp",
           "away": "Ips",
           "kickoff_utc": "2026-09-30T16:00:00+00:00"
+        },
+        {
+          "event_id": "36569311",
+          "home": "IF Sibbo Vargarna",
+          "away": "Japs/47",
+          "kickoff_utc": "2026-09-30T16:45:00+00:00"
+        },
+        {
+          "event_id": "36569347",
+          "home": "TPV/2",
+          "away": "Tampere United 2",
+          "kickoff_utc": "2026-09-30T16:50:00+00:00"
         }
       ]
     },
@@ -107,16 +181,16 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36566156",
-          "home": "Roots FC",
-          "away": "Bengaluru FC",
-          "kickoff_utc": "2026-09-30T05:30:00+00:00"
-        },
-        {
           "event_id": "36567827",
           "home": "Megt & Centre",
           "away": "Kodagu Fc",
           "kickoff_utc": "2026-09-30T08:00:00+00:00"
+        },
+        {
+          "event_id": "36569264",
+          "home": "Technico FF",
+          "away": "United Stars FC",
+          "kickoff_utc": "2026-09-30T10:30:00+00:00"
         }
       ]
     },
@@ -130,6 +204,25 @@
           "home": "Punjab FC",
           "away": "SC East Bengal",
           "kickoff_utc": "2026-09-30T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
+      "name": "AFC Gulf Cup",
+      "key": "soccer-international-tc45c-afc-gulf-cup",
+      "events": [
+        {
+          "event_id": "36554771",
+          "home": "Bahrain",
+          "away": "Yemen",
+          "kickoff_utc": "2026-09-30T17:30:00+00:00"
+        },
+        {
+          "event_id": "36554772",
+          "home": "United Arab Emirates",
+          "away": "Qatar",
+          "kickoff_utc": "2026-09-30T17:30:00+00:00"
         }
       ]
     },
@@ -199,6 +292,42 @@
           "home": "Ironi Nesher",
           "away": "Beitar Nahariya",
           "kickoff_utc": "2026-09-30T14:30:00+00:00"
+        },
+        {
+          "event_id": "36569389",
+          "home": "AS Nordia Jerusalem",
+          "away": "Hapoel Hadera FC",
+          "kickoff_utc": "2026-09-30T16:50:00+00:00"
+        },
+        {
+          "event_id": "36569386",
+          "home": "Hapoel Nof Hagalil FC",
+          "away": "MS Tzeirei Tamra",
+          "kickoff_utc": "2026-09-30T16:55:00+00:00"
+        },
+        {
+          "event_id": "36569391",
+          "home": "Hapoel Mahane Yehuda",
+          "away": "Dimona Sport Club",
+          "kickoff_utc": "2026-09-30T17:00:00+00:00"
+        },
+        {
+          "event_id": "36569388",
+          "home": "Maccabi Ironi Ashdod FC",
+          "away": "FC Holon Yirmiyahu",
+          "kickoff_utc": "2026-09-30T17:00:00+00:00"
+        },
+        {
+          "event_id": "36569878",
+          "home": "Hapoel Beit Shean Mesilot",
+          "away": "Baqa Al-Gharbiyye",
+          "kickoff_utc": "2026-09-30T17:30:00+00:00"
+        },
+        {
+          "event_id": "36570017",
+          "home": "FC Tzeirey Tira",
+          "away": "FC Jerusalem",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
         }
       ]
     },
@@ -244,6 +373,38 @@
           "home": "Follo",
           "away": "Sarpsborg 08",
           "kickoff_utc": "2026-09-30T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovenia",
+      "name": "3. SNL",
+      "key": "soccer-slovenia-3-snl",
+      "events": [
+        {
+          "event_id": "36569265",
+          "home": "Rojko Dobrovce",
+          "away": "NK Hajdina",
+          "kickoff_utc": "2026-09-30T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Copa Federacion",
+      "key": "soccer-spain-copa-federacion",
+      "events": [
+        {
+          "event_id": "36557691",
+          "home": "Sestao River Club",
+          "away": "Terrassa FC",
+          "kickoff_utc": "2026-09-30T17:00:00+00:00"
+        },
+        {
+          "event_id": "36557954",
+          "home": "CDA Navalcarnero",
+          "away": "Real Murcia CF",
+          "kickoff_utc": "2026-09-30T18:00:00+00:00"
         }
       ]
     }
