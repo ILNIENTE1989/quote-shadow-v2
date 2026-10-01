@@ -4485,3 +4485,34 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-01T15:28:31.890846+02:00,36582853,Professional League Cup,Oman,AL Nasr SC (OMA),Samail SC,2026-10-01T13:30:00+00:00,1.4685,soccer.total_goals,period=ft,under,total=3.25,1.44,1.45
 2026-10-01T15:28:31.890846+02:00,36582853,Professional League Cup,Oman,AL Nasr SC (OMA),Samail SC,2026-10-01T13:30:00+00:00,1.4685,soccer.total_goals,period=ft,over,total=3.5,2.7,2.65
 2026-10-01T15:28:31.890846+02:00,36582853,Professional League Cup,Oman,AL Nasr SC (OMA),Samail SC,2026-10-01T13:30:00+00:00,1.4685,soccer.total_goals,period=ft,under,total=3.5,1.36,1.37
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=0.25,1.31,0.0
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=0.25,3.0,0.0
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.7,2.55
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.39,1.44
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=-1,2.4,2.25
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=-1,1.48,1.56
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.06,1.97
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.69,1.78
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.85,1.75
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.89,1.98
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.62,1.54
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.16,2.25
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,home,handicap=0,1.4,1.35
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.asian_handicap,period=ft,away,handicap=0,2.65,2.85
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.match_odds,period=ft,home,,1.84,1.75
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.match_odds,period=ft,draw,,3.6,3.75
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.match_odds,period=ft,away,,3.45,3.7
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=2.75,1.8,1.78
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=2.75,1.94,1.97
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=2,1.27,1.26
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=2,3.3,3.35
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=2.25,1.45,1.43
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=2.25,2.5,2.55
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=2.5,1.63,1.62
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=2.5,2.14,2.17
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=3,2.05,2.02
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=3,1.69,1.71
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=3.25,2.3,2.25
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=3.25,1.53,1.54
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,over,total=3.5,2.55,2.5
+2026-10-01T15:34:26.956189+02:00,36571162,Qatar Cup,Qatar,Al-Gharafa SC,Al Mesaimeer,2026-10-01T15:00:00+00:00,85.5507,soccer.total_goals,period=ft,under,total=3.5,1.43,1.44
