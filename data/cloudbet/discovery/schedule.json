@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T16:28:28.539173+00:00",
+  "generated_at_utc": "2026-10-01T18:28:29.655327+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,19 +12,6 @@
           "home": "CA Platense",
           "away": "Estudiantes de La Plata",
           "kickoff_utc": "2026-10-02T00:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Austria",
-      "name": "Wien, Wiener Stadtliga",
-      "key": "soccer-austria-ta086-wien-wiener-stadtliga",
-      "events": [
-        {
-          "event_id": "36585587",
-          "home": "Weisskirchen",
-          "away": "Union Vocklamarkt",
-          "kickoff_utc": "2026-10-01T16:45:00+00:00"
         }
       ]
     },
@@ -68,19 +55,6 @@
     },
     {
       "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
-      "events": [
-        {
-          "event_id": "36589390",
-          "home": "Spartax FC",
-          "away": "Paraíba SC (PB)",
-          "kickoff_utc": "2026-10-01T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
       "name": "Brazil Campeonato Piauiense 2 (PI)",
       "key": "soccer-brazil-tc4ae-brazil-campeonato-piauiense-2-pi",
       "events": [
@@ -89,37 +63,6 @@
           "home": "EC Flamengo (PI)",
           "away": "Comercial AC (PI)",
           "kickoff_utc": "2026-10-01T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Carioca, Serie B1",
-      "key": "soccer-brazil-carioca-serie-b2",
-      "events": [
-        {
-          "event_id": "36580128",
-          "home": "Buzios RJ",
-          "away": "SE Paraty RJ",
-          "kickoff_utc": "2026-10-01T18:00:00+00:00"
-        },
-        {
-          "event_id": "36580478",
-          "home": "Cardoso Moreira FC",
-          "away": "Serra Macaense FC RJ",
-          "kickoff_utc": "2026-10-01T18:00:00+00:00"
-        },
-        {
-          "event_id": "36579983",
-          "home": "Marica FC RJ",
-          "away": "Barra Mansa FC RJ",
-          "kickoff_utc": "2026-10-01T18:00:00+00:00"
-        },
-        {
-          "event_id": "36580511",
-          "home": "SE Belford Roxo RJ",
-          "away": "SANTA CRUZ FC RJ",
-          "kickoff_utc": "2026-10-01T18:00:00+00:00"
         }
       ]
     },
@@ -195,56 +138,6 @@
       ]
     },
     {
-      "category": "Israel",
-      "name": "Liga Alef",
-      "key": "soccer-israel-liga-alef",
-      "events": [
-        {
-          "event_id": "36588245",
-          "home": "Hapoel Tirat Hacarmel",
-          "away": "Tzeirey Um El Fahem",
-          "kickoff_utc": "2026-10-01T16:30:00+00:00"
-        },
-        {
-          "event_id": "36584455",
-          "home": "Hapoel Umm AL Fahm",
-          "away": "Hapoel Karmiel FC",
-          "kickoff_utc": "2026-10-01T16:30:00+00:00"
-        },
-        {
-          "event_id": "36584456",
-          "home": "MK Kfar Saba 1928",
-          "away": "Hapoel Marmorek FC",
-          "kickoff_utc": "2026-10-01T16:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36588473",
-          "home": "Ironi Beit Dagan",
-          "away": "Hapoel Hod Hasharon",
-          "kickoff_utc": "2026-10-01T17:00:00+00:00"
-        },
-        {
-          "event_id": "36588648",
-          "home": "Ihud Tzeirey Abu Gosh",
-          "away": "Maccabi Be'er Sheva FC",
-          "kickoff_utc": "2026-10-01T17:15:00+00:00"
-        },
-        {
-          "event_id": "36589079",
-          "home": "AS HOLON MOR",
-          "away": "MS Bnei Jaffa Ortodoxim",
-          "kickoff_utc": "2026-10-01T17:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Paraguay",
       "name": "Copa Paraguay",
       "key": "soccer-paraguay-copa-paraguay",
@@ -267,38 +160,6 @@
           "home": "Sporting Cristal",
           "away": "Asociacion Deportiva Tarma",
           "kickoff_utc": "2026-10-01T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Qatar",
-      "name": "Qatar Cup",
-      "key": "soccer-qatar-qatar-cup",
-      "events": [
-        {
-          "event_id": "36571306",
-          "home": "Al-Shamal",
-          "away": "Muaither SC",
-          "kickoff_utc": "2026-10-01T17:15:00+00:00"
-        },
-        {
-          "event_id": "36571161",
-          "home": "Qatar SC",
-          "away": "AL Bidda SC",
-          "kickoff_utc": "2026-10-01T17:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Copa Federacion",
-      "key": "soccer-spain-copa-federacion",
-      "events": [
-        {
-          "event_id": "36576381",
-          "home": "UD SANTA MARTA",
-          "away": "Salamanca CF UDS",
-          "kickoff_utc": "2026-10-01T17:30:00+00:00"
         }
       ]
     }
