@@ -1,7 +1,38 @@
 {
-  "generated_at_utc": "2026-10-01T04:22:25.812848+00:00",
+  "generated_at_utc": "2026-10-01T06:24:24.787417+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Brazil",
+      "name": "Carioca, Serie B1",
+      "key": "soccer-brazil-carioca-serie-b2",
+      "events": [
+        {
+          "event_id": "36580128",
+          "home": "Buzios RJ",
+          "away": "SE Paraty RJ",
+          "kickoff_utc": "2026-10-01T18:00:00+00:00"
+        },
+        {
+          "event_id": "36580478",
+          "home": "Cardoso Moreira FC",
+          "away": "Serra Macaense FC RJ",
+          "kickoff_utc": "2026-10-01T18:00:00+00:00"
+        },
+        {
+          "event_id": "36579983",
+          "home": "Marica FC RJ",
+          "away": "Barra Mansa FC RJ",
+          "kickoff_utc": "2026-10-01T18:00:00+00:00"
+        },
+        {
+          "event_id": "36580511",
+          "home": "SE Belford Roxo RJ",
+          "away": "SANTA CRUZ FC RJ",
+          "kickoff_utc": "2026-10-01T18:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Egypt",
       "name": "Egypt Division 2 A",
@@ -58,16 +89,16 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36581614",
-          "home": "FC Real Bengaluru",
-          "away": "FC Agniputhra",
-          "kickoff_utc": "2026-10-01T05:30:00+00:00"
-        },
-        {
           "event_id": "36582953",
           "home": "Hal Fc",
           "away": "FC Bengaluru United",
           "kickoff_utc": "2026-10-01T08:00:00+00:00"
+        },
+        {
+          "event_id": "36584457",
+          "home": "Prarikrma FC",
+          "away": "ASC And Center FC",
+          "kickoff_utc": "2026-10-01T10:30:00+00:00"
         }
       ]
     },
@@ -119,6 +150,37 @@
           "home": "Sderot",
           "away": "Hapoel Azor FC",
           "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        },
+        {
+          "event_id": "36584455",
+          "home": "Hapoel Umm AL Fahm",
+          "away": "Hapoel Karmiel FC",
+          "kickoff_utc": "2026-10-01T16:30:00+00:00"
+        },
+        {
+          "event_id": "36584456",
+          "home": "MK Kfar Saba 1928",
+          "away": "Hapoel Marmorek FC",
+          "kickoff_utc": "2026-10-01T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36585178",
+          "home": "FC Kababir",
+          "away": "FC Tzofi Haifa",
+          "kickoff_utc": "2026-10-01T12:00:00+00:00"
+        },
+        {
+          "event_id": "36585177",
+          "home": "Maccabi Ihud Bnei Avtin",
+          "away": "Hapoel Bnei Biina",
+          "kickoff_utc": "2026-10-01T12:00:00+00:00"
         }
       ]
     },
@@ -214,6 +276,31 @@
           "home": "Al-Gharafa SC",
           "away": "Al Mesaimeer",
           "kickoff_utc": "2026-10-01T15:00:00+00:00"
+        },
+        {
+          "event_id": "36571306",
+          "home": "Al-Shamal",
+          "away": "Muaither SC",
+          "kickoff_utc": "2026-10-01T17:15:00+00:00"
+        },
+        {
+          "event_id": "36571161",
+          "home": "Qatar SC",
+          "away": "AL Bidda SC",
+          "kickoff_utc": "2026-10-01T17:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Copa Federacion",
+      "key": "soccer-spain-copa-federacion",
+      "events": [
+        {
+          "event_id": "36576381",
+          "home": "UD SANTA MARTA",
+          "away": "Salamanca CF UDS",
+          "kickoff_utc": "2026-10-01T17:30:00+00:00"
         }
       ]
     },
