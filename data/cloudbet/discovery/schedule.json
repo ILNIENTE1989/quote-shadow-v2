@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T18:28:29.655327+00:00",
+  "generated_at_utc": "2026-10-01T20:30:55.614448+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -80,19 +80,6 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36564782",
-          "home": "Envigado FC",
-          "away": "Orsomarso SC",
-          "kickoff_utc": "2026-10-01T20:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Costa Rica",
       "name": "Liga de Ascenso, Apertura",
       "key": "soccer-costa-rica-liga-de-ascenso-apertura",
@@ -125,19 +112,6 @@
       ]
     },
     {
-      "category": "France",
-      "name": "National 3",
-      "key": "soccer-france-national-3",
-      "events": [
-        {
-          "event_id": "36544083",
-          "home": "SC Bastia",
-          "away": "US Orleans",
-          "kickoff_utc": "2026-10-01T18:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Paraguay",
       "name": "Copa Paraguay",
       "key": "soccer-paraguay-copa-paraguay",
@@ -147,19 +121,6 @@
           "home": "Club Olimpia",
           "away": "Sportivo Luqueno",
           "kickoff_utc": "2026-10-01T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Peru Cup",
-      "key": "soccer-peru-tc1d5-peru-cup",
-      "events": [
-        {
-          "event_id": "36571280",
-          "home": "Sporting Cristal",
-          "away": "Asociacion Deportiva Tarma",
-          "kickoff_utc": "2026-10-01T20:00:00+00:00"
         }
       ]
     }
