@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T12:28:26.517389+00:00",
+  "generated_at_utc": "2026-10-01T14:28:26.637634+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -38,6 +38,12 @@
           "home": "Club Bolivar",
           "away": "San Jose Oruro",
           "kickoff_utc": "2026-10-01T22:30:00+00:00"
+        },
+        {
+          "event_id": "36585589",
+          "home": "Blooming Santa Cruz",
+          "away": "Independiente Petrolero",
+          "kickoff_utc": "2026-10-02T00:30:00+00:00"
         }
       ]
     },
@@ -119,6 +125,19 @@
     },
     {
       "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36520190",
+          "home": "Internacional de Bogotá",
+          "away": "CD Once Caldas",
+          "kickoff_utc": "2026-10-02T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
@@ -131,46 +150,15 @@
       ]
     },
     {
-      "category": "Egypt",
-      "name": "2nd Division",
-      "key": "soccer-egypt-2nd-division",
+      "category": "Costa Rica",
+      "name": "Liga de Ascenso, Apertura",
+      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
       "events": [
         {
-          "event_id": "36586891",
-          "home": "Sila",
-          "away": "Asyout Cement",
-          "kickoff_utc": "2026-10-01T13:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Egypt",
-      "name": "Egypt Division 2 A",
-      "key": "soccer-egypt-tbb45-egypt-division-2-a",
-      "events": [
-        {
-          "event_id": "36560642",
-          "home": "El Mansurah",
-          "away": "FC Masar",
-          "kickoff_utc": "2026-10-01T12:30:00+00:00"
-        },
-        {
-          "event_id": "36560206",
-          "home": "El Sekka El Hadid",
-          "away": "El-Entag El-Harby",
-          "kickoff_utc": "2026-10-01T12:30:00+00:00"
-        },
-        {
-          "event_id": "36560644",
-          "home": "La Viena FC",
-          "away": "Al Nasr (EGY)",
-          "kickoff_utc": "2026-10-01T12:30:00+00:00"
-        },
-        {
-          "event_id": "36560643",
-          "home": "Pharco FC",
-          "away": "El Terasanah",
-          "kickoff_utc": "2026-10-01T12:30:00+00:00"
+          "event_id": "36585760",
+          "home": "AD Cariari Pococi",
+          "away": "AD Municipal Santa Ana",
+          "kickoff_utc": "2026-10-02T01:00:00+00:00"
         }
       ]
     },
@@ -220,29 +208,10 @@
       ]
     },
     {
-      "category": "International",
-      "name": "FIFA ASEAN Cup",
-      "key": "soccer-international-tc477-fifa-asean-cup",
-      "events": [
-        {
-          "event_id": "36560572",
-          "home": "Malaysia",
-          "away": "Singapore",
-          "kickoff_utc": "2026-10-01T12:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Israel",
       "name": "Liga Alef",
       "key": "soccer-israel-liga-alef",
       "events": [
-        {
-          "event_id": "36582852",
-          "home": "Hapoel Ihoud Bnei Jat",
-          "away": "Maccabi Nujeidat Ahmad",
-          "kickoff_utc": "2026-10-01T13:30:00+00:00"
-        },
         {
           "event_id": "36583905",
           "home": "Maccabi Y.",
@@ -280,12 +249,6 @@
       "name": "Liga Bet South A",
       "key": "soccer-israel-liga-bet-south-a",
       "events": [
-        {
-          "event_id": "36587567",
-          "home": "Hapoel Ihud Bnei Samiya",
-          "away": "Hapoel Bnei Jadeidi",
-          "kickoff_utc": "2026-10-01T12:30:00+00:00"
-        },
         {
           "event_id": "36588015",
           "home": "Beitar Kfar Saba Shlomi",
@@ -363,31 +326,6 @@
       ]
     },
     {
-      "category": "Oman",
-      "name": "Professional League Cup",
-      "key": "soccer-oman-professional-league-cup",
-      "events": [
-        {
-          "event_id": "36582853",
-          "home": "AL Nasr SC (OMA)",
-          "away": "Samail SC",
-          "kickoff_utc": "2026-10-01T13:30:00+00:00"
-        },
-        {
-          "event_id": "36583196",
-          "home": "Al Musannah",
-          "away": "Ibri",
-          "kickoff_utc": "2026-10-01T14:25:00+00:00"
-        },
-        {
-          "event_id": "36583197",
-          "home": "Bahla Club",
-          "away": "Fanja",
-          "kickoff_utc": "2026-10-01T14:25:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Paraguay",
       "name": "Copa Paraguay",
       "key": "soccer-paraguay-copa-paraguay",
@@ -423,19 +361,6 @@
           "home": "MKS Podlasie Biala Podlaska",
           "away": "Star Starachowice",
           "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Poland",
-      "name": "Poland 4. Liga",
-      "key": "soccer-poland-tb406-poland-4-liga",
-      "events": [
-        {
-          "event_id": "36585627",
-          "home": "LKS Przemsza Siewierz",
-          "away": "Rozwoj Katowice",
-          "kickoff_utc": "2026-10-01T14:00:00+00:00"
         }
       ]
     },
@@ -482,18 +407,6 @@
       "name": "League Cup",
       "key": "soccer-united-arab-emirates-league-cup",
       "events": [
-        {
-          "event_id": "36573871",
-          "home": "Sharjah FC",
-          "away": "Al Dhafra SSC",
-          "kickoff_utc": "2026-10-01T13:15:00+00:00"
-        },
-        {
-          "event_id": "36573045",
-          "home": "United",
-          "away": "Hatta SC",
-          "kickoff_utc": "2026-10-01T13:15:00+00:00"
-        },
         {
           "event_id": "36573784",
           "home": "Baniyas Club",
