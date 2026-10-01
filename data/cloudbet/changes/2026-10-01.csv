@@ -3568,3 +3568,14 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-01T14:16:27.771553+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,13.5371,soccer.total_goals,period=ft,over,total=3.25,2.6,2.55
 2026-10-01T14:16:27.771553+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,13.5371,soccer.total_goals,period=ft,under,total=3.25,1.4,1.46
 2026-10-01T14:16:27.771553+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,13.5371,soccer.total_goals,period=ft,under,total=3.5,1.34,1.37
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.asian_handicap,period=ft,home,handicap=-1,1.98,1.99
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.asian_handicap,period=ft,away,handicap=-1,1.84,1.83
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.46,1.45
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.25,2.3
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.14,2.13
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.double_chance,period=ft,draw_away,,2.35,2.4
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.double_chance,period=ft,home_away,,1.23,1.24
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.double_chance,period=ft,home_draw,,1.11,1.12
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.match_odds,period=ft,away,,5.75,5.7
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.total_goals,period=ft,under,total=2,3.05,3.0
+2026-10-01T14:18:25.021997+02:00,36560572,FIFA ASEAN Cup,International,Malaysia,Singapore,2026-10-01T12:30:00+00:00,11.583,soccer.total_goals,period=ft,over,total=2.5,1.72,1.73
