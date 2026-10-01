@@ -1,36 +1,35 @@
 {
-  "generated_at_utc": "2026-10-01T00:20:39.703000+00:00",
+  "generated_at_utc": "2026-10-01T02:22:23.307796+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Bolivia",
-      "name": "Copa Division Profesional",
-      "key": "soccer-bolivia-t8ca3-copa-division-profesional",
+      "category": "Egypt",
+      "name": "Egypt Division 2 A",
+      "key": "soccer-egypt-tbb45-egypt-division-2-a",
       "events": [
         {
-          "event_id": "36574754",
-          "home": "Oriente Petrolero",
-          "away": "The Strongest",
-          "kickoff_utc": "2026-10-01T00:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Guatemala",
-      "name": "Primera Division",
-      "key": "soccer-guatemala-primera-division",
-      "events": [
-        {
-          "event_id": "36575108",
-          "home": "Deportivo Gomerano",
-          "away": "Chichicasteco FC",
-          "kickoff_utc": "2026-10-01T01:00:00+00:00"
+          "event_id": "36560642",
+          "home": "El Mansurah",
+          "away": "FC Masar",
+          "kickoff_utc": "2026-10-01T12:30:00+00:00"
         },
         {
-          "event_id": "36575107",
-          "home": "Nueva Santa Rosa Cdf",
-          "away": "CD Mictlan",
-          "kickoff_utc": "2026-10-01T01:00:00+00:00"
+          "event_id": "36560206",
+          "home": "El Sekka El Hadid",
+          "away": "El-Entag El-Harby",
+          "kickoff_utc": "2026-10-01T12:30:00+00:00"
+        },
+        {
+          "event_id": "36560644",
+          "home": "La Viena FC",
+          "away": "Al Nasr (EGY)",
+          "kickoff_utc": "2026-10-01T12:30:00+00:00"
+        },
+        {
+          "event_id": "36560643",
+          "home": "Pharco FC",
+          "away": "El Terasanah",
+          "kickoff_utc": "2026-10-01T12:30:00+00:00"
         }
       ]
     },
@@ -63,32 +62,70 @@
           "home": "FC Real Bengaluru",
           "away": "FC Agniputhra",
           "kickoff_utc": "2026-10-01T05:30:00+00:00"
+        },
+        {
+          "event_id": "36582953",
+          "home": "Hal Fc",
+          "away": "FC Bengaluru United",
+          "kickoff_utc": "2026-10-01T08:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Panama",
-      "name": "Liga Nacional de Ascenso",
-      "key": "soccer-panama-liga-nacional-de-ascenso",
+      "category": "International",
+      "name": "FIFA ASEAN Cup",
+      "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
         {
-          "event_id": "36575443",
-          "home": "SD Atletico Nacional",
-          "away": "La Familia FC",
-          "kickoff_utc": "2026-10-01T01:00:00+00:00"
+          "event_id": "36560572",
+          "home": "Malaysia",
+          "away": "Singapore",
+          "kickoff_utc": "2026-10-01T12:30:00+00:00"
         }
       ]
     },
     {
-      "category": "USA",
-      "name": "USL Championship",
-      "key": "soccer-usa-usl-championship",
+      "category": "Israel",
+      "name": "Liga Alef",
+      "key": "soccer-israel-liga-alef",
       "events": [
         {
-          "event_id": "36522745",
-          "home": "Sacramento Republic FC",
-          "away": "Las Vegas Lights",
-          "kickoff_utc": "2026-10-01T02:00:00+00:00"
+          "event_id": "36582852",
+          "home": "Hapoel Ihoud Bnei Jat",
+          "away": "Maccabi Nujeidat Ahmad",
+          "kickoff_utc": "2026-10-01T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Oman",
+      "name": "Professional League Cup",
+      "key": "soccer-oman-professional-league-cup",
+      "events": [
+        {
+          "event_id": "36582853",
+          "home": "AL Nasr SC (OMA)",
+          "away": "Samail SC",
+          "kickoff_utc": "2026-10-01T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "United Arab Emirates",
+      "name": "League Cup",
+      "key": "soccer-united-arab-emirates-league-cup",
+      "events": [
+        {
+          "event_id": "36573871",
+          "home": "Sharjah FC",
+          "away": "Al Dhafra SSC",
+          "kickoff_utc": "2026-10-01T13:15:00+00:00"
+        },
+        {
+          "event_id": "36573045",
+          "home": "United",
+          "away": "Hatta SC",
+          "kickoff_utc": "2026-10-01T13:15:00+00:00"
         }
       ]
     }
