@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T20:30:55.614448+00:00",
+  "generated_at_utc": "2026-10-01T22:32:27.321507+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -20,12 +20,6 @@
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36585588",
-          "home": "Club Bolivar",
-          "away": "San Jose Oruro",
-          "kickoff_utc": "2026-10-01T22:30:00+00:00"
-        },
         {
           "event_id": "36585589",
           "home": "Blooming Santa Cruz",
@@ -50,19 +44,6 @@
           "home": "Gremio Novorizontino SP",
           "away": "Goias EC GO",
           "kickoff_utc": "2026-10-02T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Piauiense 2 (PI)",
-      "key": "soccer-brazil-tc4ae-brazil-campeonato-piauiense-2-pi",
-      "events": [
-        {
-          "event_id": "36580127",
-          "home": "EC Flamengo (PI)",
-          "away": "Comercial AC (PI)",
-          "kickoff_utc": "2026-10-01T22:00:00+00:00"
         }
       ]
     },
@@ -98,12 +79,6 @@
       "key": "soccer-el-salvador-primera-division-clausura",
       "events": [
         {
-          "event_id": "36565182",
-          "home": "CD Fuerte San Francisco Morazan",
-          "away": "CD Luis Angel Firpo Usulutan",
-          "kickoff_utc": "2026-10-01T21:30:00+00:00"
-        },
-        {
           "event_id": "36566857",
           "home": "CD Inca",
           "away": "Municipal Limeno",
@@ -112,15 +87,21 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Copa Paraguay",
-      "key": "soccer-paraguay-copa-paraguay",
+      "category": "International",
+      "name": "FIFA ASEAN Cup",
+      "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
         {
-          "event_id": "36575314",
-          "home": "Club Olimpia",
-          "away": "Sportivo Luqueno",
-          "kickoff_utc": "2026-10-01T22:00:00+00:00"
+          "event_id": "36582989",
+          "home": "Thailand",
+          "away": "Philippines",
+          "kickoff_utc": "2026-10-02T09:00:00+00:00"
+        },
+        {
+          "event_id": "36583199",
+          "home": "Vietnam",
+          "away": "Pakistan",
+          "kickoff_utc": "2026-10-02T09:00:00+00:00"
         }
       ]
     }
