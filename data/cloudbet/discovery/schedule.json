@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T02:22:23.307796+00:00",
+  "generated_at_utc": "2026-10-01T04:22:25.812848+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -73,6 +73,19 @@
     },
     {
       "category": "International",
+      "name": "Africa Cup of Nations, Qualification",
+      "key": "soccer-international-africa-cup-of-nations-qualification",
+      "events": [
+        {
+          "event_id": "36559063",
+          "home": "Guinea",
+          "away": "Kenya",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
       "name": "FIFA ASEAN Cup",
       "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
@@ -94,6 +107,62 @@
           "home": "Hapoel Ihoud Bnei Jat",
           "away": "Maccabi Nujeidat Ahmad",
           "kickoff_utc": "2026-10-01T13:30:00+00:00"
+        },
+        {
+          "event_id": "36583905",
+          "home": "Maccabi Y.",
+          "away": "Ironi Beit Shemesh",
+          "kickoff_utc": "2026-10-01T15:30:00+00:00"
+        },
+        {
+          "event_id": "36584018",
+          "home": "Sderot",
+          "away": "Hapoel Azor FC",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Jordan",
+      "name": "Jordan 1st Division",
+      "key": "soccer-jordan-jordan-1st-division",
+      "events": [
+        {
+          "event_id": "36584136",
+          "home": "Al Yarmouk",
+          "away": "Amman FC",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        },
+        {
+          "event_id": "36584137",
+          "home": "Ittihad AL Ramtha",
+          "away": "Sama",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        },
+        {
+          "event_id": "36584138",
+          "home": "Jerash Club",
+          "away": "Al-Ahly Amman",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "NM Cup",
+      "key": "soccer-norway-nm-cup",
+      "events": [
+        {
+          "event_id": "36575404",
+          "home": "Baerum SK",
+          "away": "Lillestrom SK",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        },
+        {
+          "event_id": "36575403",
+          "home": "Madla",
+          "away": "Viking FK",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
         }
       ]
     },
@@ -107,6 +176,44 @@
           "home": "AL Nasr SC (OMA)",
           "away": "Samail SC",
           "kickoff_utc": "2026-10-01T13:30:00+00:00"
+        },
+        {
+          "event_id": "36583196",
+          "home": "Al Musannah",
+          "away": "Ibri",
+          "kickoff_utc": "2026-10-01T14:25:00+00:00"
+        },
+        {
+          "event_id": "36583197",
+          "home": "Bahla Club",
+          "away": "Fanja",
+          "kickoff_utc": "2026-10-01T14:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Poland",
+      "name": "III Liga, Group 3",
+      "key": "soccer-poland-iii-liga-group-3",
+      "events": [
+        {
+          "event_id": "36584135",
+          "home": "MKS Podlasie Biala Podlaska",
+          "away": "Star Starachowice",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Qatar",
+      "name": "Qatar Cup",
+      "key": "soccer-qatar-qatar-cup",
+      "events": [
+        {
+          "event_id": "36571162",
+          "home": "Al-Gharafa SC",
+          "away": "Al Mesaimeer",
+          "kickoff_utc": "2026-10-01T15:00:00+00:00"
         }
       ]
     },
@@ -126,6 +233,12 @@
           "home": "United",
           "away": "Hatta SC",
           "kickoff_utc": "2026-10-01T13:15:00+00:00"
+        },
+        {
+          "event_id": "36573784",
+          "home": "Baniyas Club",
+          "away": "Al Wahda FC (UAE)",
+          "kickoff_utc": "2026-10-01T15:45:00+00:00"
         }
       ]
     }
