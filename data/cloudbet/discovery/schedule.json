@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T08:24:31.152135+00:00",
+  "generated_at_utc": "2026-10-01T10:26:28.286631+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,6 +12,19 @@
           "home": "Weisskirchen",
           "away": "Union Vocklamarkt",
           "kickoff_utc": "2026-10-01T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brazil Campeonato Piauiense 2 (PI)",
+      "key": "soccer-brazil-tc4ae-brazil-campeonato-piauiense-2-pi",
+      "events": [
+        {
+          "event_id": "36580127",
+          "home": "EC Flamengo (PI)",
+          "away": "Comercial AC (PI)",
+          "kickoff_utc": "2026-10-01T22:00:00+00:00"
         }
       ]
     },
@@ -43,6 +56,19 @@
           "home": "SE Belford Roxo RJ",
           "away": "SANTA CRUZ FC RJ",
           "kickoff_utc": "2026-10-01T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36564782",
+          "home": "Envigado FC",
+          "away": "Orsomarso SC",
+          "kickoff_utc": "2026-10-01T20:30:00+00:00"
         }
       ]
     },
@@ -87,6 +113,19 @@
           "home": "Pharco FC",
           "away": "El Terasanah",
           "kickoff_utc": "2026-10-01T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "El Salvador",
+      "name": "Primera Division, Clausura",
+      "key": "soccer-el-salvador-primera-division-clausura",
+      "events": [
+        {
+          "event_id": "36565182",
+          "home": "CD Fuerte San Francisco Morazan",
+          "away": "CD Luis Angel Firpo Usulutan",
+          "kickoff_utc": "2026-10-01T21:30:00+00:00"
         }
       ]
     },
@@ -208,6 +247,24 @@
           "home": "Maccabi Ihud Bnei Avtin",
           "away": "Hapoel Bnei Biina",
           "kickoff_utc": "2026-10-01T12:00:00+00:00"
+        },
+        {
+          "event_id": "36587567",
+          "home": "Hapoel Ihud Bnei Samiya",
+          "away": "Hapoel Bnei Jadeidi",
+          "kickoff_utc": "2026-10-01T12:30:00+00:00"
+        },
+        {
+          "event_id": "36588015",
+          "home": "Beitar Kfar Saba Shlomi",
+          "away": "Beitar Tel Aviv Bat Yam FC",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
+        },
+        {
+          "event_id": "36588016",
+          "home": "FC Givat Olga",
+          "away": "Maccabi Ironi Kfar Yona",
+          "kickoff_utc": "2026-10-01T16:00:00+00:00"
         }
       ]
     },
@@ -281,6 +338,19 @@
       ]
     },
     {
+      "category": "Paraguay",
+      "name": "Copa Paraguay",
+      "key": "soccer-paraguay-copa-paraguay",
+      "events": [
+        {
+          "event_id": "36575314",
+          "home": "Club Olimpia",
+          "away": "Sportivo Luqueno",
+          "kickoff_utc": "2026-10-01T22:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Peru",
       "name": "Peru Cup",
       "key": "soccer-peru-tc1d5-peru-cup",
@@ -349,12 +419,6 @@
       "name": "Copa Federacion",
       "key": "soccer-spain-copa-federacion",
       "events": [
-        {
-          "event_id": "36585636",
-          "home": "CD Santa Marta",
-          "away": "Salamanca CF UDS",
-          "kickoff_utc": "2026-10-01T17:30:00+00:00"
-        },
         {
           "event_id": "36576381",
           "home": "UD SANTA MARTA",
