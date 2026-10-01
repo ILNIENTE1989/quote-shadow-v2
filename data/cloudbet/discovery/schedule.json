@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T14:28:26.637634+00:00",
+  "generated_at_utc": "2026-10-01T16:28:28.539173+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -195,35 +195,10 @@
       ]
     },
     {
-      "category": "International",
-      "name": "Africa Cup of Nations, Qualification",
-      "key": "soccer-international-africa-cup-of-nations-qualification",
-      "events": [
-        {
-          "event_id": "36559063",
-          "home": "Guinea",
-          "away": "Kenya",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Israel",
       "name": "Liga Alef",
       "key": "soccer-israel-liga-alef",
       "events": [
-        {
-          "event_id": "36583905",
-          "home": "Maccabi Y.",
-          "away": "Ironi Beit Shemesh",
-          "kickoff_utc": "2026-10-01T15:30:00+00:00"
-        },
-        {
-          "event_id": "36584018",
-          "home": "Sderot",
-          "away": "Hapoel Azor FC",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        },
         {
           "event_id": "36588245",
           "home": "Hapoel Tirat Hacarmel",
@@ -250,18 +225,6 @@
       "key": "soccer-israel-liga-bet-south-a",
       "events": [
         {
-          "event_id": "36588015",
-          "home": "Beitar Kfar Saba Shlomi",
-          "away": "Beitar Tel Aviv Bat Yam FC",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        },
-        {
-          "event_id": "36588016",
-          "home": "FC Givat Olga",
-          "away": "Maccabi Ironi Kfar Yona",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        },
-        {
           "event_id": "36588473",
           "home": "Ironi Beit Dagan",
           "away": "Hapoel Hod Hasharon",
@@ -278,50 +241,6 @@
           "home": "AS HOLON MOR",
           "away": "MS Bnei Jaffa Ortodoxim",
           "kickoff_utc": "2026-10-01T17:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Jordan",
-      "name": "Jordan 1st Division",
-      "key": "soccer-jordan-jordan-1st-division",
-      "events": [
-        {
-          "event_id": "36584136",
-          "home": "Al Yarmouk",
-          "away": "Amman FC",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        },
-        {
-          "event_id": "36584137",
-          "home": "Ittihad AL Ramtha",
-          "away": "Sama",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        },
-        {
-          "event_id": "36584138",
-          "home": "Jerash Club",
-          "away": "Al-Ahly Amman",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "NM Cup",
-      "key": "soccer-norway-nm-cup",
-      "events": [
-        {
-          "event_id": "36575404",
-          "home": "Baerum SK",
-          "away": "Lillestrom SK",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        },
-        {
-          "event_id": "36575403",
-          "home": "Madla",
-          "away": "Viking FK",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
         }
       ]
     },
@@ -352,29 +271,10 @@
       ]
     },
     {
-      "category": "Poland",
-      "name": "III Liga, Group 3",
-      "key": "soccer-poland-iii-liga-group-3",
-      "events": [
-        {
-          "event_id": "36584135",
-          "home": "MKS Podlasie Biala Podlaska",
-          "away": "Star Starachowice",
-          "kickoff_utc": "2026-10-01T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Qatar",
       "name": "Qatar Cup",
       "key": "soccer-qatar-qatar-cup",
       "events": [
-        {
-          "event_id": "36571162",
-          "home": "Al-Gharafa SC",
-          "away": "Al Mesaimeer",
-          "kickoff_utc": "2026-10-01T15:00:00+00:00"
-        },
         {
           "event_id": "36571306",
           "home": "Al-Shamal",
@@ -399,19 +299,6 @@
           "home": "UD SANTA MARTA",
           "away": "Salamanca CF UDS",
           "kickoff_utc": "2026-10-01T17:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "United Arab Emirates",
-      "name": "League Cup",
-      "key": "soccer-united-arab-emirates-league-cup",
-      "events": [
-        {
-          "event_id": "36573784",
-          "home": "Baniyas Club",
-          "away": "Al Wahda FC (UAE)",
-          "kickoff_utc": "2026-10-01T15:45:00+00:00"
         }
       ]
     }
