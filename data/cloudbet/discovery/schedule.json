@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T22:18:25.993230+00:00",
+  "generated_at_utc": "2026-10-01T00:20:39.703000+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -8,55 +8,10 @@
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
         {
-          "event_id": "36573249",
-          "home": "CD Real Tomayapo",
-          "away": "CA Nacional Potosi",
-          "kickoff_utc": "2026-09-30T22:30:00+00:00"
-        },
-        {
           "event_id": "36574754",
           "home": "Oriente Petrolero",
           "away": "The Strongest",
           "kickoff_utc": "2026-10-01T00:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
-      "events": [
-        {
-          "event_id": "36577752",
-          "home": "Auto EC (PB)",
-          "away": "Picuiense PB",
-          "kickoff_utc": "2026-09-30T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Gaucho, Serie B",
-      "key": "soccer-brazil-gaucho-2nd-division",
-      "events": [
-        {
-          "event_id": "36577342",
-          "home": "SER Cruz Alta (RS)",
-          "away": "Rio Grande (RS)",
-          "kickoff_utc": "2026-09-30T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "El Salvador",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-el-salvador-primera-division-clausura",
-      "events": [
-        {
-          "event_id": "36558711",
-          "home": "Alianza FC San Salvador",
-          "away": "CD Platense Municipal Zacatecoluca",
-          "kickoff_utc": "2026-10-01T00:00:00+00:00"
         }
       ]
     },
@@ -89,6 +44,25 @@
           "home": "Golik North District",
           "away": "Southern District Football Club",
           "kickoff_utc": "2026-10-01T08:00:00+00:00"
+        },
+        {
+          "event_id": "36581084",
+          "home": "Shatin",
+          "away": "Hong Kong FC",
+          "kickoff_utc": "2026-10-01T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
+      "events": [
+        {
+          "event_id": "36581614",
+          "home": "FC Real Bengaluru",
+          "away": "FC Agniputhra",
+          "kickoff_utc": "2026-10-01T05:30:00+00:00"
         }
       ]
     },
@@ -106,78 +80,15 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Copa Paraguay",
-      "key": "soccer-paraguay-copa-paraguay",
-      "events": [
-        {
-          "event_id": "36561004",
-          "home": "Cerro Porteno",
-          "away": "Rubio Nu",
-          "kickoff_utc": "2026-09-30T22:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "USA",
       "name": "USL Championship",
       "key": "soccer-usa-usl-championship",
       "events": [
         {
-          "event_id": "36521470",
-          "home": "LIU Brooklyn",
-          "away": "Detroit City FC",
-          "kickoff_utc": "2026-09-30T23:00:00+00:00"
-        },
-        {
-          "event_id": "36521466",
-          "home": "Miami FC",
-          "away": "Sporting Jax",
-          "kickoff_utc": "2026-09-30T23:00:00+00:00"
-        },
-        {
-          "event_id": "36521471",
-          "home": "Rhode Island FC",
-          "away": "Indy Eleven",
-          "kickoff_utc": "2026-09-30T23:30:00+00:00"
-        },
-        {
-          "event_id": "36522746",
-          "home": "FC Tulsa",
-          "away": "New Mexico United",
-          "kickoff_utc": "2026-10-01T00:00:00+00:00"
-        },
-        {
           "event_id": "36522745",
           "home": "Sacramento Republic FC",
           "away": "Las Vegas Lights",
           "kickoff_utc": "2026-10-01T02:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Primera Division",
-      "key": "soccer-uruguay-primera-division",
-      "events": [
-        {
-          "event_id": "36522149",
-          "home": "Montevideo City Torque",
-          "away": "CA Penarol Montevideo",
-          "kickoff_utc": "2026-09-30T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Venezuela",
-      "name": "Segunda Division",
-      "key": "soccer-venezuela-segunda-division",
-      "events": [
-        {
-          "event_id": "36577730",
-          "home": "CD Lara",
-          "away": "REAL FRONTERA FC",
-          "kickoff_utc": "2026-09-30T23:00:00+00:00"
         }
       ]
     }
