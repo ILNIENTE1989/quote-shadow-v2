@@ -1,7 +1,71 @@
 {
-  "generated_at_utc": "2026-10-02T02:34:26.026279+00:00",
+  "generated_at_utc": "2026-10-02T04:34:27.072880+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Austria",
+      "name": "Wien, Wiener Stadtliga",
+      "key": "soccer-austria-ta086-wien-wiener-stadtliga",
+      "events": [
+        {
+          "event_id": "36599374",
+          "home": "Gerasd. Stammersd.",
+          "away": "FC 1980 Wien",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        },
+        {
+          "event_id": "36599376",
+          "home": "SC Red Star Penzing",
+          "away": "TWL Elektra",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Chile",
+      "name": "Tercera Division",
+      "key": "soccer-chile-tercera-division",
+      "events": [
+        {
+          "event_id": "36591744",
+          "home": "Municipal Puente Alto",
+          "away": "Club de Deportes Quintero Unido",
+          "kickoff_utc": "2026-10-02T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Czechia",
+      "name": "Czech Cup",
+      "key": "soccer-czech-republic-cup",
+      "events": [
+        {
+          "event_id": "36583991",
+          "home": "Dukla Prague",
+          "away": "FK Jablonec",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Czechia",
+      "name": "Divize F",
+      "key": "soccer-czech-republic-t8f0f-divize-f",
+      "events": [
+        {
+          "event_id": "36599377",
+          "home": "FC Hlucin",
+          "away": "FK Novy Jicin",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        },
+        {
+          "event_id": "36599298",
+          "home": "Hluboka",
+          "away": "FK Krimice",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Egypt",
       "name": "Egypt Division 2 A",
@@ -40,6 +104,38 @@
       ]
     },
     {
+      "category": "Estonia",
+      "name": "Cup",
+      "key": "soccer-estonia-cup",
+      "events": [
+        {
+          "event_id": "36598630",
+          "home": "Tartu JK Tammeka",
+          "away": "Viimsi JK",
+          "kickoff_utc": "2026-10-02T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Finland",
+      "name": "Kakkonen, Group A",
+      "key": "soccer-finland-kakkonen-group-a",
+      "events": [
+        {
+          "event_id": "36576355",
+          "home": "Jakobstads Bollklubb",
+          "away": "FC Honka",
+          "kickoff_utc": "2026-10-02T15:00:00+00:00"
+        },
+        {
+          "event_id": "36576612",
+          "home": "Tampereen Ilves",
+          "away": "Huima",
+          "kickoff_utc": "2026-10-02T15:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "India",
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
@@ -55,6 +151,12 @@
           "home": "Bengaluru FC",
           "away": "Bangalore City FC",
           "kickoff_utc": "2026-10-02T08:00:00+00:00"
+        },
+        {
+          "event_id": "36599543",
+          "home": "Bengaluru FC",
+          "away": "Kickstart Fc",
+          "kickoff_utc": "2026-10-02T10:30:00+00:00"
         }
       ]
     },
@@ -97,6 +199,83 @@
       ]
     },
     {
+      "category": "International",
+      "name": "Superdivision",
+      "key": "soccer-international-t6c4f-superdivision",
+      "events": [
+        {
+          "event_id": "36599114",
+          "home": "Salitas FC",
+          "away": "Real Du Faso",
+          "kickoff_utc": "2026-10-02T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Jordan",
+      "name": "Jordan 1st Division",
+      "key": "soccer-jordan-jordan-1st-division",
+      "events": [
+        {
+          "event_id": "36599381",
+          "home": "AL Sareeh",
+          "away": "FC Maan",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        },
+        {
+          "event_id": "36599379",
+          "home": "Hayy Al-Amir Hassan",
+          "away": "Al Hashemehya",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
+      "name": "Mexico Liga TDP",
+      "key": "soccer-mexico-tb46e-mexico-liga-tdp",
+      "events": [
+        {
+          "event_id": "36599283",
+          "home": "C.H. Futbol Club",
+          "away": "Colegio Once Mexico",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Morocco",
+      "name": "Botola",
+      "key": "soccer-morocco-botola",
+      "events": [
+        {
+          "event_id": "36591745",
+          "home": "Rs Berkane",
+          "away": "AS Far Rabat",
+          "kickoff_utc": "2026-10-02T15:00:00+00:00"
+        },
+        {
+          "event_id": "36586318",
+          "home": "FUS Rabat",
+          "away": "Amal Tiznit",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "3rd Division Group 1",
+      "key": "soccer-norway-3rd-division-group-1",
+      "events": [
+        {
+          "event_id": "36599380",
+          "home": "Hinna",
+          "away": "Staal Joerpeland IL",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Oman",
       "name": "Professional League Cup",
       "key": "soccer-oman-professional-league-cup",
@@ -118,6 +297,19 @@
           "home": "Al Nahda",
           "away": "Sohar",
           "kickoff_utc": "2026-10-02T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Poland",
+      "name": "III Liga, Group 3",
+      "key": "soccer-poland-iii-liga-group-3",
+      "events": [
+        {
+          "event_id": "36599115",
+          "home": "KS Wisloka Debica",
+          "away": "Pogon Sokol Lubaczow",
+          "kickoff_utc": "2026-10-02T15:30:00+00:00"
         }
       ]
     },
@@ -180,6 +372,18 @@
           "home": "Al-Wasl FC",
           "away": "Al-Ittihad Kalba",
           "kickoff_utc": "2026-10-02T13:15:00+00:00"
+        },
+        {
+          "event_id": "36589707",
+          "home": "Khor Fakkan Club",
+          "away": "Al Jazira (UAE)",
+          "kickoff_utc": "2026-10-02T15:45:00+00:00"
+        },
+        {
+          "event_id": "36589930",
+          "home": "Shabab Al-Ahli Dubai FC",
+          "away": "Al-Nasr Dubai CSC",
+          "kickoff_utc": "2026-10-02T15:45:00+00:00"
         }
       ]
     }
