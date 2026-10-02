@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-02T12:36:31.409935+00:00",
+  "generated_at_utc": "2026-10-02T14:38:28.606356+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -198,19 +198,6 @@
       ]
     },
     {
-      "category": "Belarus",
-      "name": "Pervaya Liga",
-      "key": "soccer-belarus-pervaya-liga",
-      "events": [
-        {
-          "event_id": "36601803",
-          "home": "FC Volna Pinsk",
-          "away": "FC Lida",
-          "kickoff_utc": "2026-10-02T14:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
@@ -314,6 +301,19 @@
     },
     {
       "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36537540",
+          "home": "AD Cali",
+          "away": "Alianza FC Valledupar",
+          "kickoff_utc": "2026-10-03T00:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
@@ -343,18 +343,6 @@
       "name": "Croatia Division 3 (Treća HNL)",
       "key": "soccer-croatia-tb414-croatia-division-3-treca-hnl",
       "events": [
-        {
-          "event_id": "36601575",
-          "home": "NK Hrvatski vitez Posedarje",
-          "away": "NK GOSK Dubrovnik",
-          "kickoff_utc": "2026-10-02T13:30:00+00:00"
-        },
-        {
-          "event_id": "36601573",
-          "home": "NK Junak Sinj",
-          "away": "HNK Val Kaštel Stari",
-          "kickoff_utc": "2026-10-02T13:30:00+00:00"
-        },
         {
           "event_id": "36603875",
           "home": "NK Precko",
@@ -510,6 +498,25 @@
     },
     {
       "category": "Germany",
+      "name": "Regionalliga Bavaria",
+      "key": "soccer-germany-regionalliga-bavaria",
+      "events": [
+        {
+          "event_id": "36605988",
+          "home": "SpVgg Unterhaching",
+          "away": "1. FC Schweinfurt 05",
+          "kickoff_utc": "2026-10-02T17:00:00+00:00"
+        },
+        {
+          "event_id": "36605898",
+          "home": "TSV Buchbach",
+          "away": "SC Eltersdorf",
+          "kickoff_utc": "2026-10-02T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Germany",
       "name": "Regionalliga Southwest",
       "key": "soccer-germany-regionalliga-southwest",
       "events": [
@@ -522,15 +529,15 @@
       ]
     },
     {
-      "category": "Indonesia",
-      "name": "Indonesia Championship Cup",
-      "key": "soccer-indonesia-tb5a8-indonesia-championship-cup",
+      "category": "Guatemala",
+      "name": "Liga Nacional. Clausura",
+      "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
         {
-          "event_id": "36597785",
-          "home": "Persiraja Banda",
-          "away": "Sumsel United",
-          "kickoff_utc": "2026-10-02T13:30:00+00:00"
+          "event_id": "36592324",
+          "home": "CD Marquense",
+          "away": "Antigua GFC",
+          "kickoff_utc": "2026-10-03T02:00:00+00:00"
         }
       ]
     },
@@ -619,6 +626,25 @@
     },
     {
       "category": "Mexico",
+      "name": "Liga de Expansion MX, Apertura",
+      "key": "soccer-mexico-liga-de-ascenso-apertura",
+      "events": [
+        {
+          "event_id": "36534744",
+          "home": "CF Correcaminos UAT",
+          "away": "CD Cruz Azul Hidalgo",
+          "kickoff_utc": "2026-10-03T01:00:00+00:00"
+        },
+        {
+          "event_id": "36507426",
+          "home": "Tepatitlan FC",
+          "away": "Tampico Madero FC",
+          "kickoff_utc": "2026-10-03T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
       "name": "Mexico Liga TDP",
       "key": "soccer-mexico-tb46e-mexico-liga-tdp",
       "events": [
@@ -686,6 +712,25 @@
       ]
     },
     {
+      "category": "Nicaragua",
+      "name": "Primera Division",
+      "key": "soccer-nicaragua-primera-division",
+      "events": [
+        {
+          "event_id": "36605335",
+          "home": "HYH Sebaco FC",
+          "away": "Indigenas de Matagalpa FC",
+          "kickoff_utc": "2026-10-02T21:00:00+00:00"
+        },
+        {
+          "event_id": "36597609",
+          "home": "Rancho Santana FC",
+          "away": "Managua FC",
+          "kickoff_utc": "2026-10-03T01:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Northern Ireland",
       "name": "Championship",
       "key": "soccer-northern-ireland-championship",
@@ -744,27 +789,28 @@
       ]
     },
     {
-      "category": "Oman",
-      "name": "Professional League Cup",
-      "key": "soccer-oman-professional-league-cup",
+      "category": "Panama",
+      "name": "Liga Nacional de Ascenso",
+      "key": "soccer-panama-liga-nacional-de-ascenso",
       "events": [
         {
-          "event_id": "36597789",
-          "home": "Dhofar SCSC",
-          "away": "Oman Club",
-          "kickoff_utc": "2026-10-02T13:30:00+00:00"
-        },
+          "event_id": "36592416",
+          "home": "Panama City FC",
+          "away": "Chorrillo FC",
+          "kickoff_utc": "2026-10-03T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Panama",
+      "name": "Liga Panamena de Futbol, Apertura",
+      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "events": [
         {
-          "event_id": "36598463",
-          "home": "Al Shabab",
-          "away": "Saham",
-          "kickoff_utc": "2026-10-02T14:25:00+00:00"
-        },
-        {
-          "event_id": "36598462",
-          "home": "Al Nahda",
-          "away": "Sohar",
-          "kickoff_utc": "2026-10-02T14:30:00+00:00"
+          "event_id": "36592393",
+          "home": "San Francisco FC",
+          "away": "Umecit",
+          "kickoff_utc": "2026-10-03T01:30:00+00:00"
         }
       ]
     },
@@ -1075,18 +1121,6 @@
       "name": "League Cup",
       "key": "soccer-united-arab-emirates-league-cup",
       "events": [
-        {
-          "event_id": "36589078",
-          "home": "Al-Ain FC",
-          "away": "Ajman Club",
-          "kickoff_utc": "2026-10-02T13:15:00+00:00"
-        },
-        {
-          "event_id": "36590654",
-          "home": "Al-Wasl FC",
-          "away": "Al-Ittihad Kalba",
-          "kickoff_utc": "2026-10-02T13:15:00+00:00"
-        },
         {
           "event_id": "36589707",
           "home": "Khor Fakkan Club",
