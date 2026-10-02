@@ -7226,3 +7226,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-02T18:06:29.825572+02:00,36599905,"Wien, Wiener Stadtliga",Austria,USV Gnas,SC Furstenfeld,2026-10-02T17:00:00+00:00,53.5029,soccer.double_chance,period=ft,draw_away,,1.77,1.8
 2026-10-02T18:06:29.825572+02:00,36599905,"Wien, Wiener Stadtliga",Austria,USV Gnas,SC Furstenfeld,2026-10-02T17:00:00+00:00,53.5029,soccer.double_chance,period=ft,home_away,,1.21,1.22
 2026-10-02T18:06:29.825572+02:00,36599905,"Wien, Wiener Stadtliga",Austria,USV Gnas,SC Furstenfeld,2026-10-02T17:00:00+00:00,53.5029,soccer.double_chance,period=ft,home_draw,,1.23,1.24
+2026-10-02T18:08:29.770148+02:00,36605128,Kolmonen,Finland,Saaksjaerven Loiske,Toip-49,2026-10-02T16:30:00+00:00,21.5038,soccer.asian_handicap,period=ft,home,handicap=-1.5,1.75,1.77
+2026-10-02T18:08:29.770148+02:00,36605128,Kolmonen,Finland,Saaksjaerven Loiske,Toip-49,2026-10-02T16:30:00+00:00,21.5038,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.85,1.87
+2026-10-02T18:08:29.770148+02:00,36605128,Kolmonen,Finland,Saaksjaerven Loiske,Toip-49,2026-10-02T16:30:00+00:00,21.5038,soccer.total_goals,period=ft,over,total=5.5,2.09,2.11
+2026-10-02T18:08:29.770148+02:00,36605128,Kolmonen,Finland,Saaksjaerven Loiske,Toip-49,2026-10-02T16:30:00+00:00,21.5038,soccer.total_goals,period=ft,under,total=5.5,1.58,1.6
