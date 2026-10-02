@@ -10412,3 +10412,61 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-02T19:56:29.809624+02:00,36534167,Segunda División,Spain,Club Deportivo Eldense,Real Oviedo,2026-10-02T18:30:00+00:00,33.5032,soccer.total_goals,period=ft,over,total=0.5,0.0,1.08
 2026-10-02T19:56:29.809624+02:00,36534167,Segunda División,Spain,Club Deportivo Eldense,Real Oviedo,2026-10-02T18:30:00+00:00,33.5032,soccer.total_goals,period=ft,under,total=0.5,0.0,7.7
 2026-10-02T19:56:29.809624+02:00,36534167,Segunda División,Spain,Club Deportivo Eldense,Real Oviedo,2026-10-02T18:30:00+00:00,33.5032,soccer.total_goals,period=ft,under,total=2,2.13,2.12
+2026-10-02T19:58:27.421917+02:00,36590443,"Carioca, Serie B1",Brazil,7 De Abril RJ,Friburguense AC RJ,2026-10-02T18:00:00+00:00,1.543,soccer.double_chance,period=ft,home_away,,1.31,1.3
+2026-10-02T19:58:27.421917+02:00,36590443,"Carioca, Serie B1",Brazil,7 De Abril RJ,Friburguense AC RJ,2026-10-02T18:00:00+00:00,1.543,soccer.double_chance,period=ft,home_draw,,1.62,1.63
+2026-10-02T19:58:27.421917+02:00,36590443,"Carioca, Serie B1",Brazil,7 De Abril RJ,Friburguense AC RJ,2026-10-02T18:00:00+00:00,1.543,soccer.match_odds,period=ft,draw,,3.4,3.45
+2026-10-02T19:58:27.421917+02:00,36590443,"Carioca, Serie B1",Brazil,7 De Abril RJ,Friburguense AC RJ,2026-10-02T18:00:00+00:00,1.543,soccer.match_odds,period=ft,away,,2.17,2.16
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,home,handicap=-1,2.45,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,away,handicap=-1,1.43,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.75,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.35,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.11,2.14
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.62,1.61
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.02,2.04
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,home,handicap=0,1.46,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,away,handicap=0,2.4,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,home,handicap=0.25,1.36,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.asian_handicap,period=ft,away,handicap=0.25,2.7,0.0
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.match_odds,period=ft,draw,,3.65,3.5
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.match_odds,period=ft,away,,3.1,3.15
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,over,total=3.25,1.83,1.82
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,under,total=2.5,2.6,2.55
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,over,total=2.75,1.48,1.49
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,over,total=3,1.61,1.62
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,under,total=3.5,1.68,1.69
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,over,total=3.75,2.25,2.2
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,under,total=3.75,1.52,1.53
+2026-10-02T19:58:27.421917+02:00,36603880,"2 Liga Interregional, Group 3",Switzerland,FC Schaffhausen,FC Seuzach,2026-10-02T18:00:00+00:00,1.543,soccer.total_goals,period=ft,over,total=4,2.7,2.6
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=0.75,2.06,1.96
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=0.75,1.76,1.87
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=0,3.8,3.5
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=0,1.25,1.29
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=0.25,2.8,2.6
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=0.25,1.42,1.49
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=0.5,2.3,2.19
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=0.5,1.6,1.68
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=1,1.81,1.69
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=1,2.02,2.16
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=1.25,1.61,1.54
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=1.25,2.3,2.45
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=1.5,1.49,1.43
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=1.5,2.6,2.75
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,home,handicap=1.75,1.36,1.31
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.asian_handicap,period=ft,away,handicap=1.75,3.1,3.35
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.double_chance,period=ft,draw_away,,1.17,1.19
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.double_chance,period=ft,home_away,,1.22,1.23
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.double_chance,period=ft,home_draw,,2.3,2.18
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.match_odds,period=ft,home,,4.9,4.5
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.match_odds,period=ft,draw,,4.2,4.05
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.match_odds,period=ft,away,,1.61,1.68
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,over,total=3,1.79,1.82
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,under,total=3,2.02,2.0
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,under,total=1.5,5.4,5.25
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,over,total=2.5,1.5,1.52
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,under,total=2.5,2.55,2.5
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,over,total=2.75,1.61,1.63
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,over,total=3.25,2.02,2.05
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,under,total=3.25,1.78,1.76
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,under,total=3.5,1.62,1.6
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,over,total=4.5,3.85,3.95
+2026-10-02T19:58:27.421917+02:00,36439450,Premier Division,Republic Of Ireland,Dundalk FC,Bohemians Dublin FC,2026-10-02T18:45:00+00:00,46.543,soccer.total_goals,period=ft,under,total=4.5,1.24,1.23
