@@ -1,7 +1,33 @@
 {
-  "generated_at_utc": "2026-10-02T08:36:26.408936+00:00",
+  "generated_at_utc": "2026-10-02T10:36:28.374793+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Argentina",
+      "name": "Liga Profesional",
+      "key": "soccer-argentina-superliga",
+      "events": [
+        {
+          "event_id": "36397558",
+          "home": "CA Independiente Avellaneda",
+          "away": "Instituto AC Cordoba",
+          "kickoff_utc": "2026-10-02T22:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Argentina",
+      "name": "Primera Nacional",
+      "key": "soccer-argentina-primera-nacional",
+      "events": [
+        {
+          "event_id": "36545595",
+          "home": "Ferro Carril Oeste",
+          "away": "Deportivo Madryn",
+          "kickoff_utc": "2026-10-02T22:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Austria",
       "name": "Austria Regionalliga South",
@@ -174,7 +200,20 @@
           "event_id": "36591744",
           "home": "Municipal Puente Alto",
           "away": "Club de Deportes Quintero Unido",
-          "kickoff_utc": "2026-10-02T15:00:00+00:00"
+          "kickoff_utc": "2026-10-02T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36580768",
+          "home": "Atletico FC",
+          "away": "Real Soacha Cundinamarca",
+          "kickoff_utc": "2026-10-02T22:00:00+00:00"
         }
       ]
     },
@@ -406,19 +445,6 @@
       ]
     },
     {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36599543",
-          "home": "Bengaluru FC",
-          "away": "Kickstart Fc",
-          "kickoff_utc": "2026-10-02T10:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Indonesia",
       "name": "Indonesia Championship Cup",
       "key": "soccer-indonesia-tb5a8-indonesia-championship-cup",
@@ -434,25 +460,6 @@
           "home": "Persiraja Banda",
           "away": "Sumsel United",
           "kickoff_utc": "2026-10-02T13:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "FIFA ASEAN Cup",
-      "key": "soccer-international-tc477-fifa-asean-cup",
-      "events": [
-        {
-          "event_id": "36582989",
-          "home": "Thailand",
-          "away": "Philippines",
-          "kickoff_utc": "2026-10-02T09:00:00+00:00"
-        },
-        {
-          "event_id": "36583199",
-          "home": "Vietnam",
-          "away": "Pakistan",
-          "kickoff_utc": "2026-10-02T09:00:00+00:00"
         }
       ]
     },
@@ -513,6 +520,12 @@
       "key": "soccer-lithuania-1-lyga",
       "events": [
         {
+          "event_id": "36603367",
+          "home": "FK GARLIAVA",
+          "away": "Dfk Dainava Alytus",
+          "kickoff_utc": "2026-10-02T16:30:00+00:00"
+        },
+        {
           "event_id": "36599604",
           "home": "FK Garliava",
           "away": "Dfk Dainava Alytus",
@@ -521,15 +534,15 @@
       ]
     },
     {
-      "category": "Malaysia",
-      "name": "Liga A1",
-      "key": "soccer-malaysia-t99e2-liga-a1",
+      "category": "Mexico",
+      "name": "Liga Premier Serie B",
+      "key": "soccer-mexico-t9232-liga-premier-serie-b",
       "events": [
         {
-          "event_id": "36595116",
-          "home": "Bunga Raya FC",
-          "away": "Kelantan WTS FC",
-          "kickoff_utc": "2026-10-02T08:45:00+00:00"
+          "event_id": "36591765",
+          "home": "Huracanes Izcalli FC",
+          "away": "Atletico Hidalgo",
+          "kickoff_utc": "2026-10-02T21:30:00+00:00"
         }
       ]
     },
@@ -543,6 +556,30 @@
           "home": "C.H. Futbol Club",
           "away": "Colegio Once Mexico",
           "kickoff_utc": "2026-10-02T16:00:00+00:00"
+        },
+        {
+          "event_id": "36602580",
+          "home": "Corsarios de Campeche",
+          "away": "Ejidatarios de Bonfil FC",
+          "kickoff_utc": "2026-10-02T21:00:00+00:00"
+        },
+        {
+          "event_id": "36602579",
+          "home": "Estudiantes de Queretaro FC",
+          "away": "CD San Juan del Río",
+          "kickoff_utc": "2026-10-02T21:00:00+00:00"
+        },
+        {
+          "event_id": "36603018",
+          "home": "Alamos FC",
+          "away": "Club Deportivo Muxes",
+          "kickoff_utc": "2026-10-02T22:00:00+00:00"
+        },
+        {
+          "event_id": "36603020",
+          "home": "Guerreros de Puebla",
+          "away": "Liga de Futbol de Tehuacan",
+          "kickoff_utc": "2026-10-02T22:00:00+00:00"
         }
       ]
     },
@@ -670,6 +707,12 @@
           "home": "Encarnacion FC",
           "away": "Resistencia SC",
           "kickoff_utc": "2026-10-02T19:00:00+00:00"
+        },
+        {
+          "event_id": "36602948",
+          "home": "Carapegua",
+          "away": "Deportivo Capiata",
+          "kickoff_utc": "2026-10-02T21:30:00+00:00"
         }
       ]
     },
@@ -683,6 +726,19 @@
           "home": "KS Wisloka Debica",
           "away": "Pogon Sokol Lubaczow",
           "kickoff_utc": "2026-10-02T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Poland",
+      "name": "Poland 4. Liga",
+      "key": "soccer-poland-tb406-poland-4-liga",
+      "events": [
+        {
+          "event_id": "36603016",
+          "home": "LKS Stal Lancut",
+          "away": "KS Legion Pilzno",
+          "kickoff_utc": "2026-10-02T16:00:00+00:00"
         }
       ]
     },
@@ -825,6 +881,12 @@
           "home": "Universitatea Alba Iulia",
           "away": "ACS UNIREA SINTANA",
           "kickoff_utc": "2026-10-02T12:00:00+00:00"
+        },
+        {
+          "event_id": "36602581",
+          "home": "AFC Inter Stars Sibiu",
+          "away": "Cso Teleajenul Valeni de Munte",
+          "kickoff_utc": "2026-10-02T15:00:00+00:00"
         }
       ]
     },
@@ -872,6 +934,12 @@
       "name": "Tercera Federacion, Group 7",
       "key": "soccer-spain-tercera-division-group-7",
       "events": [
+        {
+          "event_id": "36603111",
+          "home": "Real Union Tenerife",
+          "away": "CD Laguna de Duero",
+          "kickoff_utc": "2026-10-02T20:00:00+00:00"
+        },
         {
           "event_id": "36601729",
           "home": "Real Union Tenerife",
