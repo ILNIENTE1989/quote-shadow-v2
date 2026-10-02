@@ -4600,3 +4600,12 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-02T16:32:28.066445+02:00,36599115,"III Liga, Group 3",Poland,KS Wisloka Debica,Pogon Sokol Lubaczow,2026-10-02T15:30:00+00:00,57.5322,soccer.double_chance,period=ft,draw_away,,1.5,1.52
 2026-10-02T16:32:28.066445+02:00,36599115,"III Liga, Group 3",Poland,KS Wisloka Debica,Pogon Sokol Lubaczow,2026-10-02T15:30:00+00:00,57.5322,soccer.double_chance,period=ft,home_away,,1.26,1.27
 2026-10-02T16:32:28.066445+02:00,36599115,"III Liga, Group 3",Poland,KS Wisloka Debica,Pogon Sokol Lubaczow,2026-10-02T15:30:00+00:00,57.5322,soccer.double_chance,period=ft,home_draw,,1.35,1.37
+2026-10-02T16:34:28.932960+02:00,36599115,"III Liga, Group 3",Poland,KS Wisloka Debica,Pogon Sokol Lubaczow,2026-10-02T15:30:00+00:00,55.5178,soccer.double_chance,period=ft,draw_away,,1.52,1.54
+2026-10-02T16:34:28.932960+02:00,36599115,"III Liga, Group 3",Poland,KS Wisloka Debica,Pogon Sokol Lubaczow,2026-10-02T15:30:00+00:00,55.5178,soccer.double_chance,period=ft,home_draw,,1.37,1.35
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.asian_handicap,period=ft,away,handicap=1.25,1.99,1.98
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.asian_handicap,period=ft,away,handicap=0.75,1.55,1.54
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.asian_handicap,period=ft,home,handicap=1,2.04,2.05
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.asian_handicap,period=ft,away,handicap=1.75,2.55,2.5
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.match_odds,period=ft,home,,4.85,4.9
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.match_odds,period=ft,draw,,5.0,4.95
+2026-10-02T16:34:28.932960+02:00,36576355,"Kakkonen, Group A",Finland,Jakobstads Bollklubb,FC Honka,2026-10-02T15:00:00+00:00,25.5178,soccer.total_goals,period=ft,under,total=3,1.66,1.67
