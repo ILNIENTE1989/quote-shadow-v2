@@ -1,33 +1,7 @@
 {
-  "generated_at_utc": "2026-10-02T00:34:25.332185+00:00",
+  "generated_at_utc": "2026-10-02T02:34:26.026279+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
-      "events": [
-        {
-          "event_id": "36520190",
-          "home": "Internacional de Bogotá",
-          "away": "CD Once Caldas",
-          "kickoff_utc": "2026-10-02T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Costa Rica",
-      "name": "Liga de Ascenso, Apertura",
-      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
-      "events": [
-        {
-          "event_id": "36585760",
-          "home": "AD Cariari Pococi",
-          "away": "AD Municipal Santa Ana",
-          "kickoff_utc": "2026-10-02T01:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Egypt",
       "name": "Egypt Division 2 A",
@@ -75,6 +49,12 @@
           "home": "Rebels FC",
           "away": "Stride Sports FC",
           "kickoff_utc": "2026-10-02T05:30:00+00:00"
+        },
+        {
+          "event_id": "36598163",
+          "home": "Bengaluru FC",
+          "away": "Bangalore City FC",
+          "kickoff_utc": "2026-10-02T08:00:00+00:00"
         }
       ]
     },
@@ -88,6 +68,12 @@
           "home": "Dejan FC",
           "away": "Persipura Jayapura",
           "kickoff_utc": "2026-10-02T12:00:00+00:00"
+        },
+        {
+          "event_id": "36597785",
+          "home": "Persiraja Banda",
+          "away": "Sumsel United",
+          "kickoff_utc": "2026-10-02T13:30:00+00:00"
         }
       ]
     },
@@ -107,6 +93,31 @@
           "home": "Vietnam",
           "away": "Pakistan",
           "kickoff_utc": "2026-10-02T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Oman",
+      "name": "Professional League Cup",
+      "key": "soccer-oman-professional-league-cup",
+      "events": [
+        {
+          "event_id": "36597789",
+          "home": "Dhofar SCSC",
+          "away": "Oman Club",
+          "kickoff_utc": "2026-10-02T13:30:00+00:00"
+        },
+        {
+          "event_id": "36598463",
+          "home": "Al Shabab",
+          "away": "Saham",
+          "kickoff_utc": "2026-10-02T14:25:00+00:00"
+        },
+        {
+          "event_id": "36598462",
+          "home": "Al Nahda",
+          "away": "Sohar",
+          "kickoff_utc": "2026-10-02T14:30:00+00:00"
         }
       ]
     },
@@ -150,6 +161,25 @@
           "home": "Universitatea Alba Iulia",
           "away": "ACS UNIREA SINTANA",
           "kickoff_utc": "2026-10-02T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "United Arab Emirates",
+      "name": "League Cup",
+      "key": "soccer-united-arab-emirates-league-cup",
+      "events": [
+        {
+          "event_id": "36589078",
+          "home": "Al-Ain FC",
+          "away": "Ajman Club",
+          "kickoff_utc": "2026-10-02T13:15:00+00:00"
+        },
+        {
+          "event_id": "36590654",
+          "home": "Al-Wasl FC",
+          "away": "Al-Ittihad Kalba",
+          "kickoff_utc": "2026-10-02T13:15:00+00:00"
         }
       ]
     }
