@@ -618,8 +618,8 @@
   "36597018|soccer.match_odds|period=ft|home|": 1.71,
   "36597018|soccer.match_odds|period=ft|draw|": 3.7,
   "36597018|soccer.match_odds|period=ft|away|": 3.75,
-  "36597018|soccer.total_goals|period=ft|over|total=2.75": 1.73,
-  "36597018|soccer.total_goals|period=ft|under|total=2.75": 1.89,
+  "36597018|soccer.total_goals|period=ft|over|total=2.75": 0.0,
+  "36597018|soccer.total_goals|period=ft|under|total=2.75": 0.0,
   "36597016|soccer.asian_handicap|period=ft|home|handicap=0.75": 1.79,
   "36597016|soccer.asian_handicap|period=ft|away|handicap=0.75": 1.82,
   "36597016|soccer.double_chance|period=ft|draw_away|": 1.2,
@@ -915,5 +915,7 @@
   "36574929|soccer.asian_handicap|period=ft|home|handicap=-2.25": 3.3,
   "36574929|soccer.asian_handicap|period=ft|away|handicap=-2.25": 1.29,
   "36574929|soccer.total_goals|period=ft|over|total=3.25": 3.05,
-  "36574929|soccer.total_goals|period=ft|under|total=3.25": 1.33
+  "36574929|soccer.total_goals|period=ft|under|total=3.25": 1.33,
+  "36597018|soccer.total_goals|period=ft|over|total=3": 1.91,
+  "36597018|soccer.total_goals|period=ft|under|total=3": 1.7
 }
