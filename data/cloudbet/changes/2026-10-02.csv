@@ -12003,3 +12003,23 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-02T23:30:57.605897+02:00,36545595,Primera Nacional,Argentina,Ferro Carril Oeste,Deportivo Madryn,2026-10-02T22:00:00+00:00,29.0399,soccer.match_odds,period=ft,draw,,3.05,3.1
 2026-10-02T23:30:57.605897+02:00,36545595,Primera Nacional,Argentina,Ferro Carril Oeste,Deportivo Madryn,2026-10-02T22:00:00+00:00,29.0399,soccer.match_odds,period=ft,away,,4.95,5.0
 2026-10-02T23:30:57.605897+02:00,36545595,Primera Nacional,Argentina,Ferro Carril Oeste,Deportivo Madryn,2026-10-02T22:00:00+00:00,29.0399,soccer.total_goals,period=ft,over,total=2.5,2.45,2.4
+2026-10-02T23:34:30.283908+02:00,36580768,Primera B,Colombia,Atletico FC,Real Soacha Cundinamarca,2026-10-02T22:00:00+00:00,25.4953,soccer.double_chance,period=ft,draw_away,,1.23,1.24
+2026-10-02T23:34:30.283908+02:00,36580768,Primera B,Colombia,Atletico FC,Real Soacha Cundinamarca,2026-10-02T22:00:00+00:00,25.4953,soccer.double_chance,period=ft,home_away,,1.27,1.28
+2026-10-02T23:34:30.283908+02:00,36580768,Primera B,Colombia,Atletico FC,Real Soacha Cundinamarca,2026-10-02T22:00:00+00:00,25.4953,soccer.double_chance,period=ft,home_draw,,1.88,1.9
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.05,2.06
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.83,1.82
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,home,handicap=-1.5,4.1,4.15
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.6,3.65
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,away,handicap=-1,1.38,1.37
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.6,1.59
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.12,2.11
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.match_odds,period=ft,home,,2.04,2.05
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,over,total=2.25,1.94,1.95
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,under,total=2.25,1.92,1.91
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,over,total=1.5,1.37,1.38
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,under,total=1.75,2.7,2.65
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,over,total=2,1.63,1.64
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,under,total=2,2.3,2.25
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,under,total=2.5,1.69,1.68
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,under,total=2.75,1.52,1.51
+2026-10-02T23:34:30.283908+02:00,36440117,Brasileiro Serie A,Brazil,Sao Paulo FC SP,Santos FC SP,2026-10-02T23:00:00+00:00,85.4953,soccer.total_goals,period=ft,over,total=3.5,3.95,4.0
