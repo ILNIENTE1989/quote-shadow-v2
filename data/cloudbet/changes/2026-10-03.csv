@@ -12932,3 +12932,593 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-03T12:54:29.776867+02:00,36612103,"Division 2, Norra Gotaland",Sweden,Stenungsunds IF,IFK Skovde FK,2026-10-03T11:00:00+00:00,5.5037,soccer.total_goals,period=ft,under,total=3.5,1.49,1.51
 2026-10-03T12:54:29.776867+02:00,36612103,"Division 2, Norra Gotaland",Sweden,Stenungsunds IF,IFK Skovde FK,2026-10-03T11:00:00+00:00,5.5037,soccer.total_goals,period=ft,over,total=3.75,2.65,2.6
 2026-10-03T12:54:29.776867+02:00,36612103,"Division 2, Norra Gotaland",Sweden,Stenungsunds IF,IFK Skovde FK,2026-10-03T11:00:00+00:00,5.5037,soccer.total_goals,period=ft,under,total=3.75,1.37,1.38
+2026-10-03T12:56:32.298793+02:00,36604612,3rd Division,Denmark,Sundby BK,Vanloese IF,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,draw_away,,1.41,1.43
+2026-10-03T12:56:32.298793+02:00,36604612,3rd Division,Denmark,Sundby BK,Vanloese IF,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,home_away,,1.26,1.27
+2026-10-03T12:56:32.298793+02:00,36604612,3rd Division,Denmark,Sundby BK,Vanloese IF,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,home_draw,,1.44,1.41
+2026-10-03T12:56:32.298793+02:00,36612573,Indonesia Championship Cup,Indonesia,PSIS Semarang,FC Bekasi City,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,draw_away,,2.6,2.65
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,2.5,2.65
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.16,1.15
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.1,1.06
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.36,1.4
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,4.4,4.45
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,6.4,6.5
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,1.55,1.57
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,2.25,2.2
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=1.5,1.16,1.18
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=1.5,4.25,4.2
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.5,2.35,2.4
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.5,1.5,1.47
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.5,3.95,4.05
+2026-10-03T12:56:32.298793+02:00,36612072,NB III,Hungary,Debreceni Eac,Fuzesabonyi SC,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.5,1.2,1.18
+2026-10-03T12:56:32.298793+02:00,36612081,NB III,Hungary,Erdi VSE,Kaposvari Rakoczi FC,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.26,1.2
+2026-10-03T12:56:32.298793+02:00,36612081,NB III,Hungary,Erdi VSE,Kaposvari Rakoczi FC,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.21,1.18
+2026-10-03T12:56:32.298793+02:00,36612081,NB III,Hungary,Erdi VSE,Kaposvari Rakoczi FC,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.83,1.85
+2026-10-03T12:56:32.298793+02:00,36612081,NB III,Hungary,Erdi VSE,Kaposvari Rakoczi FC,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,3.4,3.65
+2026-10-03T12:56:32.298793+02:00,36612081,NB III,Hungary,Erdi VSE,Kaposvari Rakoczi FC,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.95,3.85
+2026-10-03T12:56:32.298793+02:00,36612081,NB III,Hungary,Erdi VSE,Kaposvari Rakoczi FC,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,1.74,1.75
+2026-10-03T12:56:32.298793+02:00,36612125,NB III,Hungary,Király SE,Balatonalmádi SE,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,2.0,2.05
+2026-10-03T12:56:32.298793+02:00,36612125,NB III,Hungary,Király SE,Balatonalmádi SE,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.16,1.18
+2026-10-03T12:56:32.298793+02:00,36612125,NB III,Hungary,Király SE,Balatonalmádi SE,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,4.05,4.15
+2026-10-03T12:56:32.298793+02:00,36612125,NB III,Hungary,Király SE,Balatonalmádi SE,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,4.0,4.05
+2026-10-03T12:56:32.298793+02:00,36612074,NB III,Hungary,Komarom Vse,FC Tatabanya,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.2,1.14
+2026-10-03T12:56:32.298793+02:00,36612074,NB III,Hungary,Komarom Vse,FC Tatabanya,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.22,1.18
+2026-10-03T12:56:32.298793+02:00,36612074,NB III,Hungary,Komarom Vse,FC Tatabanya,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.94,2.1
+2026-10-03T12:56:32.298793+02:00,36612074,NB III,Hungary,Komarom Vse,FC Tatabanya,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,4.05,4.55
+2026-10-03T12:56:32.298793+02:00,36612074,NB III,Hungary,Komarom Vse,FC Tatabanya,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.75,3.85
+2026-10-03T12:56:32.298793+02:00,36612074,NB III,Hungary,Komarom Vse,FC Tatabanya,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,1.64,1.6
+2026-10-03T12:56:32.298793+02:00,36612078,NB III,Hungary,Majosi SE,Pte Peac,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.63,1.6
+2026-10-03T12:56:32.298793+02:00,36612078,NB III,Hungary,Majosi SE,Pte Peac,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.24,1.2
+2026-10-03T12:56:32.298793+02:00,36612078,NB III,Hungary,Majosi SE,Pte Peac,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.34,1.37
+2026-10-03T12:56:32.298793+02:00,36612078,NB III,Hungary,Majosi SE,Pte Peac,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.99,2.15
+2026-10-03T12:56:32.298793+02:00,36612078,NB III,Hungary,Majosi SE,Pte Peac,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.7,3.75
+2026-10-03T12:56:32.298793+02:00,36612078,NB III,Hungary,Majosi SE,Pte Peac,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,2.85,2.75
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.7,2.65
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.36,1.38
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.3,2.25
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.5,1.51
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.05,2.02
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.65,1.67
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,1.56,1.57
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.43,1.44
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,2.5,2.45
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.3,1.32
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,2.95,2.9
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.25,1.37,0.0
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.25,2.7,0.0
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,1.53,1.41
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,2.2,2.5
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.66,1.51
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,2.04,2.25
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,1.87,1.65
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,1.82,2.05
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,2.08,1.88
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,1.63,1.82
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.5,2.25,2.06
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.5,1.5,1.65
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,2.65,2.3
+2026-10-03T12:56:32.298793+02:00,36612073,NB III,Hungary,NYIREGYHAZA SPARTACUS,Salgotarjan,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,1.38,1.49
+2026-10-03T12:56:32.298793+02:00,36612077,NB III,Hungary,Pecsi MFC,Budafoki Mte,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.98,2.05
+2026-10-03T12:56:32.298793+02:00,36612077,NB III,Hungary,Pecsi MFC,Budafoki Mte,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.21,1.16
+2026-10-03T12:56:32.298793+02:00,36612077,NB III,Hungary,Pecsi MFC,Budafoki Mte,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.19,1.15
+2026-10-03T12:56:32.298793+02:00,36612077,NB III,Hungary,Pecsi MFC,Budafoki Mte,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.61,1.6
+2026-10-03T12:56:32.298793+02:00,36612077,NB III,Hungary,Pecsi MFC,Budafoki Mte,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.9,4.1
+2026-10-03T12:56:32.298793+02:00,36612077,NB III,Hungary,Pecsi MFC,Budafoki Mte,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,4.1,4.2
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.77,2.0
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.93,1.72
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.8,3.15
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.34,1.27
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.35,2.6
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.48,1.39
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.07,2.3
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.65,1.51
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,1.55,1.68
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,2.2,2.01
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.41,1.51
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,2.5,2.25
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.29,1.36
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,3.05,2.7
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.58,1.57
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.26,1.22
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.35,1.32
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,2.09,2.15
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,2.8,2.85
+2026-10-03T12:56:32.298793+02:00,36612071,NB III,Hungary,Tiszaujvaros,Mateszalka MTK,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,1.43,1.42
+2026-10-03T12:56:32.298793+02:00,36612075,NB III,Hungary,Veszprem FC,Sarisapi Banyasz,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.65,1.6
+2026-10-03T12:56:32.298793+02:00,36612075,NB III,Hungary,Veszprem FC,Sarisapi Banyasz,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.24,1.2
+2026-10-03T12:56:32.298793+02:00,36612075,NB III,Hungary,Veszprem FC,Sarisapi Banyasz,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.32,1.35
+2026-10-03T12:56:32.298793+02:00,36612075,NB III,Hungary,Veszprem FC,Sarisapi Banyasz,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.96,2.1
+2026-10-03T12:56:32.298793+02:00,36612075,NB III,Hungary,Veszprem FC,Sarisapi Banyasz,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.7,3.8
+2026-10-03T12:56:32.298793+02:00,36612075,NB III,Hungary,Veszprem FC,Sarisapi Banyasz,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,2.9,2.8
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=2.75,1.77,1.79
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=2.75,1.9,1.87
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=2,2.4,2.45
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=2,1.44,1.43
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=2.25,2.1,2.13
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=2.25,1.58,1.56
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=2.5,1.92,1.95
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=2.5,1.73,1.7
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=3,1.59,1.61
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=3,2.12,2.09
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=3.25,1.48,1.49
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=3.25,2.3,2.25
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=3.5,1.4,1.41
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=3.5,2.5,2.45
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.04,1.03
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.05,1.04
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,3.9,4.1
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,10.0,11.0
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,7.6,8.25
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,1.12,1.1
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5,1.9,1.87
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5,1.76,1.8
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.25,1.43,1.39
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.25,2.45,2.55
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.5,1.56,1.53
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.5,2.13,2.2
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.75,1.7,1.66
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.75,1.96,2.01
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5.25,2.1,2.08
+2026-10-03T12:56:32.298793+02:00,36612096,Kolmonen,Finland,Ajax Sarkkiranta,Kajaanin Palloilijat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5.25,1.6,1.61
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.81,1.83
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.89,1.86
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1,2.6,2.7
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1,1.38,1.36
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.2,2.25
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.54,1.51
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.99,2.01
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.7,1.68
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.61,1.62
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0,2.12,2.11
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,2.3,2.35
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.99,2.02
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,4.15,3.95
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.5,2.5,0.0
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.5,1.43,0.0
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,1.37,1.5
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,2.7,2.3
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,1.53,1.7
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,2.2,1.99
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.5,1.7,1.91
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.5,1.99,1.79
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,1.87,2.11
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,1.82,1.62
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4,2.08,2.4
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4,1.63,1.45
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.25,2.25,2.65
+2026-10-03T12:56:32.298793+02:00,36612098,Kolmonen,Finland,Kemin Palloseura,Villan Pojat,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.25,1.51,1.37
+2026-10-03T12:56:32.298793+02:00,36612079,Kolmonen,Finland,Piikkion Palloseura,Vg-62 Naantali,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.42,1.45
+2026-10-03T12:56:32.298793+02:00,36612079,Kolmonen,Finland,Piikkion Palloseura,Vg-62 Naantali,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.16,1.12
+2026-10-03T12:56:32.298793+02:00,36612079,Kolmonen,Finland,Piikkion Palloseura,Vg-62 Naantali,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.37,1.4
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.89,1.92
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,1.8,1.78
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=0,3.0,3.05
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.3,1.29
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,2.4,2.45
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,1.46,1.44
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,2.1,2.13
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,1.62,1.6
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.65,1.67
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=1,2.05,2.02
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.5,1.51
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=1.25,2.3,2.25
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,home,handicap=1.5,1.4,1.41
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.asian_handicap,period=ft,away,handicap=1.5,2.55,2.5
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.match_odds,period=ft,home,,3.7,3.75
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.match_odds,period=ft,away,,1.62,1.61
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,under,total=3,1.8,1.81
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,over,total=2.25,1.37,1.36
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,over,total=2.5,1.52,1.51
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,over,total=2.75,1.66,1.65
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,under,total=2.75,2.04,2.05
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,over,total=3.25,2.13,2.12
+2026-10-03T12:56:32.298793+02:00,36576313,FA Cup,England,Brentwood Town FC,Dagenham and Redbridge FC,2026-10-03T11:30:00+00:00,33.4617,soccer.total_goals,period=ft,under,total=3.25,1.6,1.61
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.91,1.89
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.86,1.88
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.95,2.9
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.35,1.36
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.45,2.4
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.49,1.5
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.19,2.16
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.63,1.65
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,1.66,1.65
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.36,1.37
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.49,1.51
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.27,1.25
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,2.5,2.45
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.55,3.65
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,2.45,2.4
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2,1.3,0.0
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2,3.2,0.0
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.25,1.49,1.42
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.25,2.45,2.65
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,1.68,1.58
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,2.1,2.2
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.88,1.75
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,1.89,2.01
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,2.16,2.02
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,1.65,1.76
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,2.4,2.25
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,1.5,1.58
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.5,2.7,2.55
+2026-10-03T12:56:32.298793+02:00,36585996,II Liga,Poland,CWKS Resovia,Avia Swidnik,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.5,1.4,1.46
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,2.01,2.04
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.26,1.25
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,1.99,1.94
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,1.79,1.83
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.25,1.41,1.39
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.25,2.65,2.75
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,1.59,1.55
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,2.2,2.25
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.74,1.71
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,2.01,2.06
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,2.2,2.17
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,1.61,1.64
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.5,2.45,2.4
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.5,1.49,1.51
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,2.9,2.8
+2026-10-03T12:56:32.298793+02:00,36585997,II Liga,Poland,Podhale Nowy Targ,Rekord Bielsko Biala,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,1.36,1.38
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.99,1.89
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1,1.7,1.81
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,0.0,3.0
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,0.0,1.29
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,2.55,2.4
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,1.41,1.45
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,2.25,2.17
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,1.51,1.58
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.72,1.63
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.25,1.99,2.09
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.5,1.55,1.48
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.5,2.2,2.35
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.75,1.4,1.34
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.75,2.6,2.8
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,1.65,1.85
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,2.05,1.84
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2,1.28,1.39
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2,3.05,2.6
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.25,1.46,1.62
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.25,2.35,2.1
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.84,2.07
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,1.85,1.64
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,2.11,2.45
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,1.62,1.44
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,2.35,2.75
+2026-10-03T12:56:32.298793+02:00,36615695,Thai League 3,Thailand,Ranong FC,Nakhon SI United,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,1.48,1.35
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.85,1.83
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,1.93,1.95
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.36,1.37
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.46,1.47
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,2.08,2.06
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,1.69,1.71
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.62,1.6
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.39,1.38
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1,2.75,2.8
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.31,1.3
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.3,1.31
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.82,1.8
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,3.3,3.25
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,1.92,1.94
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.87,1.88
+2026-10-03T12:56:32.298793+02:00,36586024,"Ettan, Norra",Sweden,Enkopings SK,Gefle IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,1.9,1.89
+2026-10-03T12:56:32.298793+02:00,36612108,"Ettan, Norra",Sweden,FC Stockholm Internazionale,Assyriska FF,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,2.65,2.7
+2026-10-03T12:56:32.298793+02:00,36612108,"Ettan, Norra",Sweden,FC Stockholm Internazionale,Assyriska FF,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.07,1.08
+2026-10-03T12:56:32.298793+02:00,36612108,"Ettan, Norra",Sweden,FC Stockholm Internazionale,Assyriska FF,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,4.95,5.0
+2026-10-03T12:56:32.298793+02:00,36612108,"Ettan, Norra",Sweden,FC Stockholm Internazionale,Assyriska FF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,3.1,3.05
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.96,1.91
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.82,1.86
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1.5,3.05,2.95
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.32,1.35
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.7,2.6
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.4,1.43
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1,2.35,2.25
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1,1.54,1.59
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.71,1.68
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.06,2.1
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.45,1.44
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.55,2.6
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,2.05,2.09
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.35,1.33
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.72,1.69
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.05,3.1
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.25,1.9,1.78
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.25,1.87,2.01
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=1.5,1.34,1.29
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=1.5,3.0,3.25
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=1.75,1.43,1.36
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=1.75,2.6,2.85
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2,1.59,1.5
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2,2.25,2.45
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,2.17,2.03
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,1.64,1.73
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,2.5,2.3
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,1.47,1.54
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,3.15,2.9
+2026-10-03T12:56:32.298793+02:00,36572696,Primera Federacion,Spain,Hercules de Alicante CF,Real Jaen CF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,1.3,1.36
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.85,1.87
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,1.84,1.82
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.39,1.38
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.48,1.47
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,2.04,2.06
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.7,1.71
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,1.99,1.98
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.54,1.55
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1,2.2,2.18
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.46,1.47
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.25,2.4,2.35
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,0.0,1.16
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,0.0,1.08
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,0.0,1.95
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,2.9,2.95
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,1.83,1.82
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,2.5,2.55
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.25,1.67,1.66
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.75,2.01,2.0
+2026-10-03T12:56:32.298793+02:00,36612251,3rd Division Group 1,Norway,Frigg Oslo FK,Gamle Oslo FK,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5,2.25,2.2
+2026-10-03T12:56:32.298793+02:00,36612250,3rd Division Group 1,Norway,Konnerud IL,IL Heming,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.07,1.08
+2026-10-03T12:56:32.298793+02:00,36612250,3rd Division Group 1,Norway,Konnerud IL,IL Heming,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,2.35,2.25
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.75,1.77
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-2,2.45,2.4
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-2,1.44,1.45
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.59,1.61
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.76,1.74
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.94,1.93
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1,1.57,1.56
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1,2.19,2.18
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.92,2.4
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.18,1.06
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.23,1.08
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,4.9,5.0
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,4.8,4.65
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,1.42,1.4
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,2.5,2.55
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4,1.51,1.48
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4,2.25,2.35
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.25,1.67,1.65
+2026-10-03T12:56:32.298793+02:00,36612247,3rd Division Group 1,Norway,Nordstrand,Valerenga IF 2,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.25,2.03,2.05
+2026-10-03T12:56:32.298793+02:00,36612249,3rd Division Group 1,Norway,SF Grei,Asker Fotball,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,4.1,0.0
+2026-10-03T12:56:32.298793+02:00,36612249,3rd Division Group 1,Norway,SF Grei,Asker Fotball,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.04,0.0
+2026-10-03T12:56:32.298793+02:00,36612249,3rd Division Group 1,Norway,SF Grei,Asker Fotball,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.03,0.0
+2026-10-03T12:56:32.298793+02:00,36612249,3rd Division Group 1,Norway,SF Grei,Asker Fotball,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,11.0,10.0
+2026-10-03T12:56:32.298793+02:00,36612249,3rd Division Group 1,Norway,SF Grei,Asker Fotball,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,8.0,7.25
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.68,1.84
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.25,2.01,1.85
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,2.2,2.4
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,1.55,1.45
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,2.03,2.2
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,1.67,1.54
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.85,2.03
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1,1.84,1.67
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.5,1.56,1.68
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.5,2.18,2.01
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=1.75,1.43,1.53
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=1.75,2.45,2.2
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,3.25,3.65
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,5.45,5.75
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,1.56,1.47
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.5,1.88,1.8
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.5,1.81,1.89
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,1.43,1.38
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,2.45,2.65
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4,1.52,1.46
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4,2.25,2.4
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.25,1.7,1.63
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.25,1.99,2.09
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.75,2.07,1.98
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.75,1.64,1.71
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5,2.35,2.2
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5,1.47,1.53
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5.25,2.6,2.45
+2026-10-03T12:56:32.298793+02:00,36612682,3rd Division Group 1,Norway,Stord FK,Vard Haugesund,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5.25,1.39,1.44
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-3.5,1.8,1.81
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-3.5,1.83,1.85
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-4.25,1.42,1.41
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-4,1.53,1.5
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-3.75,2.01,1.99
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-3.75,1.68,1.67
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-3.25,1.63,1.64
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-3.25,2.01,2.04
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-2.75,1.43,1.38
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-2.75,2.45,2.55
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,1.02,0.0
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.04,0.0
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,4.3,0.0
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.07,1.03
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,7.65,8.5
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,15.0,16.0
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.75,1.66,1.85
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.75,2.01,1.82
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4,1.32,1.36
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4,2.8,2.65
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.25,1.41,1.52
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.25,2.5,2.2
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4.5,1.54,1.68
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4.5,2.17,1.98
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5,1.83,2.04
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5,1.83,1.64
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5.25,2.01,2.2
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5.25,1.66,1.51
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=5.5,2.16,2.4
+2026-10-03T12:56:32.298793+02:00,36612248,3rd Division Group 1,Norway,Volda,Orkla,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=5.5,1.54,1.43
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.89,1.8
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.81,1.89
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-1,2.75,2.6
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-1,1.35,1.39
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.3,2.2
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.49,1.55
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.06,1.97
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.65,1.71
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.67,1.6
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0,2.02,2.14
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,1.53,1.48
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,2.2,2.35
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.44,1.4
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,2.45,2.6
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,draw_away,,1.41,1.47
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,home_draw,,1.52,1.46
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,home,,2.07,1.98
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,draw,,4.1,4.15
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,away,,2.5,2.6
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4,1.87,1.86
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4,1.82,1.83
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.25,2.45,2.5
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.5,1.57,1.56
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.5,2.16,2.17
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.75,2.0,2.01
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.25,2.05,2.04
+2026-10-03T12:56:32.298793+02:00,36613426,3rd Division Group 1,Norway,Drobak-Frogn,Sarpsborg 08 2,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.25,1.65,1.66
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=1.5,1.8,1.82
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1.5,1.89,1.87
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,1.42,1.41
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1,1.52,1.5
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.99,2.01
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1.25,1.7,1.69
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=1.75,1.63,1.65
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1.75,2.09,2.06
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=2,1.45,1.47
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=2,2.4,2.35
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=2.25,1.38,1.39
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=2.25,2.65,2.6
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,draw,,5.0,5.05
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.25,1.37,0.0
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.25,2.7,0.0
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.5,1.5,1.46
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.5,2.3,2.4
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.75,1.61,1.56
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.75,2.12,2.18
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4,1.78,1.7
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4,1.92,1.98
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.25,1.97,1.92
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.25,1.71,1.78
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.5,2.14,2.09
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.5,1.57,1.63
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.75,2.4,2.3
+2026-10-03T12:56:32.298793+02:00,36612685,3rd Division Group 1,Norway,Gneist,SK Djerv 1919,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.75,1.45,1.49
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.65,0.0
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.38,0.0
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0,2.35,2.65
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.46,1.38
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,2.06,2.25
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,1.65,1.52
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.86,2.02
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,1.83,1.68
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.68,1.84
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,2.01,1.85
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.5,1.62
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1,2.3,2.11
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=1.25,1.41,1.49
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1.25,2.55,2.3
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,home,,2.95,3.2
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,draw,,4.15,4.5
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,away,,1.82,1.68
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.25,1.38,0.0
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.25,2.65,0.0
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.5,1.51,1.5
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.5,2.25,2.3
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.75,1.62,1.59
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4,1.77,1.74
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.25,1.73,1.76
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.5,2.11,2.1
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.5,1.6,1.62
+2026-10-03T12:56:32.298793+02:00,36612683,3rd Division Group 1,Norway,Nardo FK,Strindheim TF,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.75,1.47,1.48
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.76,1.8
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.89,1.84
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.4,2.45
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.42,1.4
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.12,2.16
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.55,1.53
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.95,1.99
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.68,1.65
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,1.59,1.62
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,2.07,2.03
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.48,1.5
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,2.25,2.2
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.37,1.39
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,2.55,2.5
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,home,,2.15,2.19
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,draw,,3.95,4.0
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,away,,2.25,2.2
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.5,1.79,1.78
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.75,1.95,1.94
+2026-10-03T12:56:32.298793+02:00,36613420,3rd Division Group 1,Norway,SK Brann 2,Varegg,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=4.75,1.68,1.69
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.93,1.94
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=0,1.77,1.76
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.9,2.95
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.32,1.31
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.44,1.43
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,3.4,3.35
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,1.87,1.88
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.51,1.52
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,1.65,1.67
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,2.06,2.03
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,2.25,2.3
+2026-10-03T12:56:32.298793+02:00,36612118,"Division 2, Norra Gotaland",Sweden,IF Boljan Falkenberg,Jonsereds IF,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,1.51,1.5
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.31,0.0
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.9,0.0
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-2.25,2.5,2.3
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.42,1.49
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-2,2.2,2.06
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-2,1.53,1.63
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1.75,1.94,1.82
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.74,1.85
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1.5,1.75,1.65
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.96,2.04
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.57,1.49
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1.25,2.2,2.3
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,home,handicap=-1,1.38,1.33
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.asian_handicap,period=ft,away,handicap=-1,2.6,2.8
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,home,,1.27,1.24
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,draw,,5.0,5.25
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.match_odds,period=ft,away,,7.05,7.15
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.5,1.35,0.0
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.5,2.75,0.0
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=2.75,1.43,0.0
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=2.75,2.45,0.0
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3,1.55,1.38
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3,2.2,2.6
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.25,1.76,1.54
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.25,1.95,2.19
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.5,1.94,1.71
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.5,1.74,1.96
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=3.75,2.17,1.9
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=3.75,1.56,1.78
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,over,total=4,2.55,2.17
+2026-10-03T12:56:32.298793+02:00,36612109,"Division 2, Norra Gotaland",Sweden,Vaxjo Norra,IFK Karlshamn,2026-10-03T11:00:00+00:00,3.4617,soccer.total_goals,period=ft,under,total=4,1.4,1.57
+2026-10-03T12:56:32.298793+02:00,36612254,"III Liga, Group 3",Poland,Elana Torun,KTS-K Luzino,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,draw_away,,1.13,1.09
+2026-10-03T12:56:32.298793+02:00,36612254,"III Liga, Group 3",Poland,Elana Torun,KTS-K Luzino,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_away,,1.17,1.12
+2026-10-03T12:56:32.298793+02:00,36612254,"III Liga, Group 3",Poland,Elana Torun,KTS-K Luzino,2026-10-03T11:00:00+00:00,3.4617,soccer.double_chance,period=ft,home_draw,,2.25,2.0
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0,1.84,1.94
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0,2.02,1.92
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-1,4.05,4.5
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-1,1.25,1.21
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.0,3.2
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.4,1.35
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.45,2.6
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.56,1.5
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.16,2.25
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.73,1.65
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.25,1.6,1.66
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.25,2.35,2.25
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.5,1.47,1.51
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.5,2.7,2.6
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=0.75,1.33,1.36
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=0.75,3.35,3.2
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,home,handicap=1,1.19,1.21
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.asian_handicap,period=ft,away,handicap=1,4.8,4.5
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,draw_away,,1.53,1.48
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,home_away,,1.31,1.32
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.double_chance,period=ft,home_draw,,1.47,1.51
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,home,,2.45,2.65
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,draw,,3.55,3.5
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.match_odds,period=ft,away,,2.75,2.6
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=2.75,2.0,2.01
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=2.75,1.85,1.83
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=1.5,4.15,4.05
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=2.25,1.55,1.57
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=2.25,2.45,2.4
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=2.5,1.76,1.78
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=2.5,2.08,2.06
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3,2.35,2.4
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3,1.6,1.58
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=3.25,2.7,2.75
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.25,1.46,1.45
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,under,total=3.5,1.38,1.37
+2026-10-03T12:56:32.298793+02:00,36532533,Segunda División,Spain,Albacete Balompie,Eibar,2026-10-03T12:00:00+00:00,63.4617,soccer.total_goals,period=ft,over,total=4.5,6.0,6.05
