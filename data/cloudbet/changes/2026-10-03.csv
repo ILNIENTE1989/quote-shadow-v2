@@ -7542,3 +7542,41 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-03T11:36:29.115653+02:00,36586031,"Ettan, Norra",Sweden,Angelholms FF,FC Rosengaard 1917,2026-10-03T11:00:00+00:00,83.5147,soccer.total_goals,period=ft,over,total=3.5,2.5,2.45
 2026-10-03T11:36:29.115653+02:00,36586031,"Ettan, Norra",Sweden,Angelholms FF,FC Rosengaard 1917,2026-10-03T11:00:00+00:00,83.5147,soccer.total_goals,period=ft,under,total=3.5,1.47,1.48
 2026-10-03T11:36:29.115653+02:00,36586031,"Ettan, Norra",Sweden,Angelholms FF,FC Rosengaard 1917,2026-10-03T11:00:00+00:00,83.5147,soccer.total_goals,period=ft,over,total=3.75,2.95,2.9
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.82,1.81
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.02,2.04
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.7,2.65
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.45,1.46
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.4,2.35
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.56,1.58
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-1,2.1,2.07
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-1,1.74,1.75
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.64,1.62
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.44,1.43
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=0,1.24,1.23
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=0,4.0,4.05
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.double_chance,period=ft,draw_away,,2.2,2.25
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.double_chance,period=ft,home_away,,1.28,1.27
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.double_chance,period=ft,home_draw,,1.16,1.15
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.match_odds,period=ft,home,,1.65,1.63
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.match_odds,period=ft,draw,,3.7,3.75
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.match_odds,period=ft,away,,5.3,5.4
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,over,total=2.75,1.77,1.76
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,under,total=2.75,2.03,2.04
+2026-10-03T11:38:28.130335+02:00,36605239,J.League Cup,Japan,Kashiwa Reysol,Gamba Osaka,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,over,total=3.25,2.3,2.25
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.41,1.4
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-1,2.1,2.11
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.62,1.63
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.2,2.19
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.6,2.55
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=0,1.26,1.27
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=0,3.45,3.4
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.match_odds,period=ft,home,,1.63,1.64
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.match_odds,period=ft,draw,,3.95,3.9
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.match_odds,period=ft,away,,4.45,4.4
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,under,total=2.5,1.84,1.83
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,over,total=2,1.45,1.46
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,over,total=2.25,1.69,1.7
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,over,total=2.75,2.19,2.2
+2026-10-03T11:38:28.130335+02:00,36606677,FIFA ASEAN Cup,International,Hong Kong,Cambodia,2026-10-03T10:00:00+00:00,21.5312,soccer.total_goals,period=ft,under,total=2.75,1.63,1.62
+2026-10-03T11:38:28.130335+02:00,36611421,CLJ,Poland,MKS Korona Kielce,Escola Varsovia Warszawa,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.85,0.0
+2026-10-03T11:38:28.130335+02:00,36611421,CLJ,Poland,MKS Korona Kielce,Escola Varsovia Warszawa,2026-10-03T10:00:00+00:00,21.5312,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.33,0.0
