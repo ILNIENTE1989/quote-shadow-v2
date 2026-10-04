@@ -20253,3 +20253,148 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-04T15:48:33.615970+02:00,36629542,Ligue 2,Tunisia,Ksour Essef,Club Olympique de Medenine,2026-10-04T14:00:00+00:00,11.4397,soccer.double_chance,period=ft,home_draw,,1.19,1.2
 2026-10-04T15:48:33.615970+02:00,36629538,Ligue 2,Tunisia,Stade Gabesien,SC Moknine,2026-10-04T14:00:00+00:00,11.4397,soccer.double_chance,period=ft,draw_away,,2.15,2.2
 2026-10-04T15:48:33.615970+02:00,36629538,Ligue 2,Tunisia,Stade Gabesien,SC Moknine,2026-10-04T14:00:00+00:00,11.4397,soccer.double_chance,period=ft,home_away,,1.2,1.22
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0,1.29,0.0
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0,3.15,0.0
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.6,2.45
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.42,1.46
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.3,2.2
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.52,1.59
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1,2.04,1.96
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1,1.7,1.79
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.78,1.7
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.97,2.04
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.6,1.54
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.19,2.25
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.44,1.4
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.5,2.65
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,home,,1.61,1.56
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,draw,,4.25,4.35
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,away,,3.95,4.2
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=3,1.82,1.8
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3,1.92,1.94
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.5,1.49,1.48
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.5,2.35,2.4
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.75,1.62,1.61
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.75,2.16,2.18
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=3.25,2.05,2.03
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3.25,1.69,1.7
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3.5,1.54,1.55
+2026-10-04T15:50:50.724877+02:00,36622046,CFL,Czechia,FC Zenit Caslav,Velke Hamry,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3.75,1.42,1.43
+2026-10-04T15:50:50.724877+02:00,36622048,CFL,Czechia,SK Benatky Nad Jizerou,MFK Chrudim,2026-10-04T14:00:00+00:00,9.1546,soccer.double_chance,period=ft,home_away,,1.17,1.1
+2026-10-04T15:50:50.724877+02:00,36622048,CFL,Czechia,SK Benatky Nad Jizerou,MFK Chrudim,2026-10-04T14:00:00+00:00,9.1546,soccer.double_chance,period=ft,home_draw,,1.12,1.01
+2026-10-04T15:50:50.724877+02:00,36590746,Croatian Cup,Croatia,HNK Vukovar 1991,GNK Dinamo Zagreb,2026-10-04T14:00:00+00:00,9.1546,soccer.double_chance,period=ft,home_away,,1.02,1.01
+2026-10-04T15:50:50.724877+02:00,36590746,Croatian Cup,Croatia,HNK Vukovar 1991,GNK Dinamo Zagreb,2026-10-04T14:00:00+00:00,9.1546,soccer.double_chance,period=ft,home_draw,,3.9,3.8
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0.25,1.89,1.9
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0.25,1.78,1.79
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.0,3.05
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0.5,2.03,2.04
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0.75,1.47,1.48
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=1,1.29,1.3
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.25,1.83,1.84
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=1.5,2.85,2.9
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=1.75,1.4,1.41
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.5,2.07,2.08
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.5,1.63,1.64
+2026-10-04T15:50:50.724877+02:00,36633142,2. CFL,Montenegro,FK Zeta Golubovci,OFK Grbalj,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=3,2.95,3.0
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-2.25,3.1,0.0
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.28,0.0
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-2,2.75,2.95
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-2,1.36,1.3
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.18,2.3
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.57,1.5
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1.5,1.9,2.0
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.8,1.7
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.64,1.74
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1.25,2.07,1.97
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1,1.38,1.45
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1,2.6,2.45
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.29,1.33
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.75,3.05,2.85
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.5,0.0,1.26
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.5,0.0,3.25
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,home,,1.24,1.27
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,draw,,4.2,4.0
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,away,,13.0,12.0
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2,1.72,1.78
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2,2.0,1.91
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=1.25,1.24,1.26
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=1.25,3.35,3.2
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=1.5,1.39,1.42
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=1.5,2.6,2.5
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=1.75,1.51,1.56
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=1.75,2.3,2.2
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.25,2.01,2.07
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.25,1.69,1.64
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.5,2.25,2.35
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.5,1.51,1.48
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.75,2.7,2.8
+2026-10-04T15:50:50.724877+02:00,36606598,Torneo Federal A,Argentina,CLUB CIPOLLETTI,CA Sol de America de Formosa,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.75,1.36,1.34
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=0,1.91,1.87
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=0,1.86,1.9
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.2,3.05
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.3,1.32
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.6,2.5
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.44,1.46
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.25,2.2
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.59,1.62
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=0.25,1.62,1.59
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=0.25,2.2,2.25
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=0.5,1.46,1.44
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=0.5,2.5,2.6
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,home,handicap=0.75,1.32,1.3
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.asian_handicap,period=ft,away,handicap=0.75,3.1,3.2
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.double_chance,period=ft,draw_away,,1.44,1.5
+2026-10-04T15:50:50.724877+02:00,36572281,Primera Federacion,Spain,SD Ponferradina,CD Mirandes,2026-10-04T14:30:00+00:00,39.1546,soccer.double_chance,period=ft,home_draw,,1.47,1.42
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.81,1.76
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.89,1.94
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.75,2.65
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.35,1.37
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-1,2.45,2.35
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-1,1.44,1.48
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.03,1.98
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.66,1.71
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.53,1.49
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.25,2.35
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0,1.24,1.22
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0,3.35,3.5
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0.25,1.17,1.16
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0.25,3.95,4.15
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,home,,1.8,1.75
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,draw,,2.75,2.8
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,away,,4.75,4.95
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.5,1.89,1.87
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.5,1.81,1.82
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=1.75,1.3,1.29
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=1.75,3.0,3.05
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2,1.39,1.38
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2,2.6,2.65
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.25,1.64,1.63
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.25,2.07,2.09
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.75,2.1,2.08
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.75,1.62,1.64
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=3,2.45,2.4
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3,1.44,1.45
+2026-10-04T15:50:50.724877+02:00,36560698,Prva Liga,Serbia,FK Javor Ivanjica,FK Borac Cacak,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3.25,1.36,1.37
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0.25,1.76,1.77
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0.25,1.95,1.93
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0.5,1.55,1.57
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0.5,2.2,2.19
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=0.75,1.39,1.41
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=0.75,2.6,2.55
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,home,handicap=1,1.24,1.25
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.asian_handicap,period=ft,away,handicap=1,3.4,3.3
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.match_odds,period=ft,draw,,3.0,3.1
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.5,1.96,1.84
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.5,1.75,1.85
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=1.75,1.34,1.29
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=1.75,2.8,3.05
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2,1.45,1.37
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2,2.4,2.65
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.25,1.7,1.61
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.25,1.99,2.13
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=2.75,2.2,2.06
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=2.75,1.56,1.65
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=3,2.65,2.45
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3,1.37,1.44
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,over,total=3.25,3.0,2.75
+2026-10-04T15:50:50.724877+02:00,36629640,"Serie D, Girone H",Italy,ASD Licata 1931,AS Sambiase,2026-10-04T14:00:00+00:00,9.1546,soccer.total_goals,period=ft,under,total=3.25,1.3,1.35
