@@ -11513,3 +11513,44 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-04T12:40:56.123054+02:00,36620751,2nd Division Group 1,Norway,Tromsdalen UIL,Levanger FK,2026-10-04T12:00:00+00:00,79.0646,soccer.match_odds,period=ft,away,,2.01,1.99
 2026-10-04T12:40:56.123054+02:00,36620751,2nd Division Group 1,Norway,Tromsdalen UIL,Levanger FK,2026-10-04T12:00:00+00:00,79.0646,soccer.total_goals,period=ft,over,total=3.5,2.02,2.03
 2026-10-04T12:40:56.123054+02:00,36620751,2nd Division Group 1,Norway,Tromsdalen UIL,Levanger FK,2026-10-04T12:00:00+00:00,79.0646,soccer.total_goals,period=ft,under,total=3.5,1.74,1.73
+2026-10-04T12:42:32.733709+02:00,36627591,"Division 2, Norra Gotaland",Sweden,BK Astrio,Vastra Frolunda IF,2026-10-04T11:00:00+00:00,17.4544,soccer.double_chance,period=ft,draw_away,,1.14,1.16
+2026-10-04T12:42:32.733709+02:00,36627591,"Division 2, Norra Gotaland",Sweden,BK Astrio,Vastra Frolunda IF,2026-10-04T11:00:00+00:00,17.4544,soccer.double_chance,period=ft,home_away,,1.17,1.18
+2026-10-04T12:42:32.733709+02:00,36627591,"Division 2, Norra Gotaland",Sweden,BK Astrio,Vastra Frolunda IF,2026-10-04T11:00:00+00:00,17.4544,soccer.double_chance,period=ft,home_draw,,2.25,2.2
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=1,1.31,0.0
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=1,2.95,0.0
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.75,2.4
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.35,1.45
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.45,2.17
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.44,1.59
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=0,2.15,1.89
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=0,1.6,1.81
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=0.25,1.83,1.63
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=0.25,1.86,2.08
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=0.5,1.63,1.49
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=0.5,2.09,2.3
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=0.75,1.46,1.35
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=0.75,2.4,2.75
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,over,total=3,1.8,1.81
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=3,1.9,1.89
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,over,total=2.5,1.49,1.5
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,over,total=2.75,1.61,1.62
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=2.75,2.12,2.1
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,over,total=3.25,2.01,2.02
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=3.25,1.68,1.67
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,over,total=3.75,2.5,2.55
+2026-10-04T12:42:32.733709+02:00,36627569,NB III,Hungary,Dabas FC,Csepel FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=3.75,1.41,1.4
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-1,1.93,1.91
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.39,1.38
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.2,2.25
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.53,1.52
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.01,2.02
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.68,1.67
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.58,1.59
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.18,2.17
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.45,1.46
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.95,2.9
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,over,total=3,1.95,1.96
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=2.25,2.6,2.55
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=2.5,2.18,2.17
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=3.5,1.46,1.45
+2026-10-04T12:42:32.733709+02:00,36631129,Thai League 3,Thailand,Chiangmai United,Phitsanulok FC,2026-10-04T11:00:00+00:00,17.4544,soccer.total_goals,period=ft,under,total=3.75,1.34,1.33
