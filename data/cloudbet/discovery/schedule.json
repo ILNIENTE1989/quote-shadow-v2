@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-04T21:01:21.871148+00:00",
+  "generated_at_utc": "2026-10-04T23:02:38.652036+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -16,29 +16,10 @@
       ]
     },
     {
-      "category": "Argentina",
-      "name": "Primera Nacional",
-      "key": "soccer-argentina-primera-nacional",
-      "events": [
-        {
-          "event_id": "36537104",
-          "home": "San Martin de Tucuman",
-          "away": "Gimnasia Y Tiro de Salta",
-          "kickoff_utc": "2026-10-04T21:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36631730",
-          "home": "Guabira Montero",
-          "away": "Oriente Petrolero",
-          "kickoff_utc": "2026-10-04T21:15:00+00:00"
-        },
         {
           "event_id": "36631732",
           "home": "Independiente Petrolero",
@@ -53,18 +34,6 @@
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
         {
-          "event_id": "36549995",
-          "home": "Cucuta Deportivo FC",
-          "away": "CS Deportivo Pereira",
-          "kickoff_utc": "2026-10-04T21:05:00+00:00"
-        },
-        {
-          "event_id": "36594411",
-          "home": "Internacional de Bogotá",
-          "away": "CD Once Caldas",
-          "kickoff_utc": "2026-10-04T21:05:00+00:00"
-        },
-        {
           "event_id": "36537633",
           "home": "Llaneros FC",
           "away": "America de Cali",
@@ -78,12 +47,6 @@
       "key": "soccer-el-salvador-primera-division-clausura",
       "events": [
         {
-          "event_id": "36595583",
-          "home": "Santa Tecla FC",
-          "away": "CD Fuerte San Francisco Morazan",
-          "kickoff_utc": "2026-10-04T23:00:00+00:00"
-        },
-        {
           "event_id": "36597227",
           "home": "CD FAS Santa Ana",
           "away": "CD Inca",
@@ -92,16 +55,23 @@
       ]
     },
     {
+      "category": "Greece",
+      "name": "Super League 2",
+      "key": "soccer-greece-super-league-2",
+      "events": [
+        {
+          "event_id": "36635319",
+          "home": "APS Zakynthos",
+          "away": "Apollon Pontou",
+          "kickoff_utc": "2026-10-05T11:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
-        {
-          "event_id": "36611740",
-          "home": "CD Guastatoya",
-          "away": "Club Aurora",
-          "kickoff_utc": "2026-10-04T23:00:00+00:00"
-        },
         {
           "event_id": "36611351",
           "home": "Comunicaciones FC",
@@ -124,19 +94,6 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Mexico Liga TDP",
-      "key": "soccer-mexico-tb46e-mexico-liga-tdp",
-      "events": [
-        {
-          "event_id": "36634165",
-          "home": "SK Sport Street Soccer FC",
-          "away": "Ecatepec FC",
-          "kickoff_utc": "2026-10-04T21:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Panama",
       "name": "Liga Panamena de Futbol, Apertura",
       "key": "soccer-panama-liga-panamena-de-futbol-apertura",
@@ -150,32 +107,6 @@
       ]
     },
     {
-      "category": "USA",
-      "name": "USL Championship",
-      "key": "soccer-usa-usl-championship",
-      "events": [
-        {
-          "event_id": "36581948",
-          "home": "New Mexico United",
-          "away": "Phoenix Rising FC",
-          "kickoff_utc": "2026-10-04T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Primera Division",
-      "key": "soccer-uruguay-primera-division",
-      "events": [
-        {
-          "event_id": "36581498",
-          "home": "Racing Club Montevideo",
-          "away": "CA Penarol Montevideo",
-          "kickoff_utc": "2026-10-04T22:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Uruguay",
       "name": "Primera Division Amateur",
       "key": "soccer-uruguay-primera-division-amateur",
@@ -185,19 +116,6 @@
           "home": "Bella Italia",
           "away": "Mar de Fondo FC",
           "kickoff_utc": "2026-10-04T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Segunda Division",
-      "key": "soccer-uruguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36591747",
-          "home": "La Luz FC",
-          "away": "CA River Plate (URU)",
-          "kickoff_utc": "2026-10-04T22:00:00+00:00"
         }
       ]
     }
