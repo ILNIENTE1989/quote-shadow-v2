@@ -1,33 +1,7 @@
 {
-  "generated_at_utc": "2026-10-04T23:02:38.652036+00:00",
+  "generated_at_utc": "2026-10-05T01:02:39.316325+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
-      "events": [
-        {
-          "event_id": "36382082",
-          "home": "Estudiantes Rio Cuarto",
-          "away": "Racing Club Avellaneda",
-          "kickoff_utc": "2026-10-05T00:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bolivia",
-      "name": "Copa Division Profesional",
-      "key": "soccer-bolivia-t8ca3-copa-division-profesional",
-      "events": [
-        {
-          "event_id": "36631732",
-          "home": "Independiente Petrolero",
-          "away": "Club Bolivar",
-          "kickoff_utc": "2026-10-04T23:30:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Colombia",
       "name": "Primera A, Clausura",
@@ -42,19 +16,6 @@
       ]
     },
     {
-      "category": "El Salvador",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-el-salvador-primera-division-clausura",
-      "events": [
-        {
-          "event_id": "36597227",
-          "home": "CD FAS Santa Ana",
-          "away": "CD Inca",
-          "kickoff_utc": "2026-10-05T01:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Greece",
       "name": "Super League 2",
       "key": "soccer-greece-super-league-2",
@@ -64,19 +25,38 @@
           "home": "APS Zakynthos",
           "away": "Apollon Pontou",
           "kickoff_utc": "2026-10-05T11:00:00+00:00"
+        },
+        {
+          "event_id": "36635734",
+          "home": "Nestos Chrysoupoli FC",
+          "away": "Marko",
+          "kickoff_utc": "2026-10-05T12:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36611351",
-          "home": "Comunicaciones FC",
-          "away": "CD Suchitepequez",
-          "kickoff_utc": "2026-10-05T01:00:00+00:00"
+          "event_id": "36642907",
+          "home": "South United FC",
+          "away": "Megt & Centre",
+          "kickoff_utc": "2026-10-05T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "India IFA Shield",
+      "key": "soccer-india-tb6e4-india-ifa-shield",
+      "events": [
+        {
+          "event_id": "36642906",
+          "home": "SC East Bengal",
+          "away": "Northeast United FC",
+          "kickoff_utc": "2026-10-05T11:30:00+00:00"
         }
       ]
     },
@@ -94,28 +74,28 @@
       ]
     },
     {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "category": "Norway",
+      "name": "3rd Division Group 1",
+      "key": "soccer-norway-3rd-division-group-1",
       "events": [
         {
-          "event_id": "36592417",
-          "home": "CA Independiente de La Chorrera",
-          "away": "CD Arabe Unido",
-          "kickoff_utc": "2026-10-04T23:15:00+00:00"
+          "event_id": "36642748",
+          "home": "Odds BK 2",
+          "away": "Viking FK 2",
+          "kickoff_utc": "2026-10-05T11:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Uruguay",
-      "name": "Primera Division Amateur",
-      "key": "soccer-uruguay-primera-division-amateur",
+      "category": "Serbia",
+      "name": "Prva Liga",
+      "key": "soccer-serbia-prva-liga",
       "events": [
         {
-          "event_id": "36635462",
-          "home": "Bella Italia",
-          "away": "Mar de Fondo FC",
-          "kickoff_utc": "2026-10-04T23:30:00+00:00"
+          "event_id": "36630952",
+          "home": "FK Smederevo 1924",
+          "away": "FK Vozdovac Belgrade",
+          "kickoff_utc": "2026-10-05T13:00:00+00:00"
         }
       ]
     }
