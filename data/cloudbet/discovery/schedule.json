@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T09:06:41.031194+00:00",
+  "generated_at_utc": "2026-10-05T11:08:43.597506+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,6 +12,18 @@
           "home": "Deportivo Riestra",
           "away": "CA Central Cordoba SE",
           "kickoff_utc": "2026-10-05T19:45:00+00:00"
+        },
+        {
+          "event_id": "36397544",
+          "home": "Estudiantes de La Plata",
+          "away": "Gimnasia y Esgrima Mendoza",
+          "kickoff_utc": "2026-10-05T22:00:00+00:00"
+        },
+        {
+          "event_id": "36397556",
+          "home": "Velez Sarsfield",
+          "away": "CA Platense",
+          "kickoff_utc": "2026-10-05T22:00:00+00:00"
         }
       ]
     },
@@ -25,6 +37,12 @@
           "home": "CD UAI Urquiza",
           "away": "Ituzaingo",
           "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        },
+        {
+          "event_id": "36557050",
+          "home": "Deportivo Merlo",
+          "away": "CA Brown de Adrogue",
+          "kickoff_utc": "2026-10-05T22:00:00+00:00"
         }
       ]
     },
@@ -111,6 +129,19 @@
       ]
     },
     {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36607799",
+          "home": "Bogota FC",
+          "away": "Envigado FC",
+          "kickoff_utc": "2026-10-05T22:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Croatia",
       "name": "Croatia Division 3 (Treća HNL)",
       "key": "soccer-croatia-tb414-croatia-division-3-treca-hnl",
@@ -129,29 +160,10 @@
       "key": "soccer-greece-super-league-2",
       "events": [
         {
-          "event_id": "36635319",
-          "home": "APS Zakynthos",
-          "away": "Apollon Pontou",
-          "kickoff_utc": "2026-10-05T11:00:00+00:00"
-        },
-        {
           "event_id": "36635734",
           "home": "Nestos Chrysoupoli FC",
           "away": "Marko",
           "kickoff_utc": "2026-10-05T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36645672",
-          "home": "Kodagu Fc",
-          "away": "Technico FF",
-          "kickoff_utc": "2026-10-05T10:30:00+00:00"
         }
       ]
     },
@@ -226,12 +238,6 @@
       "key": "soccer-norway-3rd-division-group-1",
       "events": [
         {
-          "event_id": "36642748",
-          "home": "Odds BK 2",
-          "away": "Viking FK 2",
-          "kickoff_utc": "2026-10-05T11:00:00+00:00"
-        },
-        {
           "event_id": "36645349",
           "home": "Fana IL",
           "away": "Aasane Fotball 2",
@@ -249,6 +255,12 @@
           "home": "Sportivo Trinidense",
           "away": "Sportivo Luqueno",
           "kickoff_utc": "2026-10-05T20:00:00+00:00"
+        },
+        {
+          "event_id": "36550781",
+          "home": "Cerro Porteno",
+          "away": "CS 2 de Mayo",
+          "kickoff_utc": "2026-10-05T22:15:00+00:00"
         }
       ]
     },
@@ -281,6 +293,12 @@
           "home": "12 de Junio de Villa Hayes",
           "away": "Sol de America Villa Elisa",
           "kickoff_utc": "2026-10-05T20:00:00+00:00"
+        },
+        {
+          "event_id": "36646343",
+          "home": "Club Fernando de La Mora",
+          "away": "Club General Caballero JLM",
+          "kickoff_utc": "2026-10-05T22:30:00+00:00"
         }
       ]
     },
@@ -358,6 +376,19 @@
           "home": "Sanliurfaspor",
           "away": "Gebzespor",
           "kickoff_utc": "2026-10-05T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Uruguay",
+      "name": "Primera Division",
+      "key": "soccer-uruguay-primera-division",
+      "events": [
+        {
+          "event_id": "36581499",
+          "home": "Club Nacional de Football",
+          "away": "Montevideo City Torque",
+          "kickoff_utc": "2026-10-05T23:00:00+00:00"
         }
       ]
     }
