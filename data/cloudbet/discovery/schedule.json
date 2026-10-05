@@ -1,7 +1,20 @@
 {
-  "generated_at_utc": "2026-10-05T03:02:39.616799+00:00",
+  "generated_at_utc": "2026-10-05T05:05:14.897750+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Argentina",
+      "name": "Torneo Regional Federal Amateur",
+      "key": "soccer-argentina-torneo-regional-federal-amateur",
+      "events": [
+        {
+          "event_id": "36634203",
+          "home": "Social Atletico Television",
+          "away": "Deportivo Metalurgico",
+          "kickoff_utc": "2026-10-05T16:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Greece",
       "name": "Super League 2",
@@ -37,6 +50,12 @@
           "home": "United Stars FC",
           "away": "Roots FC",
           "kickoff_utc": "2026-10-05T08:00:00+00:00"
+        },
+        {
+          "event_id": "36645672",
+          "home": "Kodagu Fc",
+          "away": "Technico FF",
+          "kickoff_utc": "2026-10-05T10:30:00+00:00"
         }
       ]
     },
@@ -67,6 +86,32 @@
       ]
     },
     {
+      "category": "Ivory Coast",
+      "name": "Ligue 1",
+      "key": "soccer-ivory-coast-ligue-1",
+      "events": [
+        {
+          "event_id": "36645096",
+          "home": "Mouna FC",
+          "away": "Yamoussoukro FC",
+          "kickoff_utc": "2026-10-05T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "1st Division",
+      "key": "soccer-norway-1st-division",
+      "events": [
+        {
+          "event_id": "36440757",
+          "home": "Moss FK",
+          "away": "Kongsvinger IL Fotball",
+          "kickoff_utc": "2026-10-05T17:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Norway",
       "name": "3rd Division Group 1",
       "key": "soccer-norway-3rd-division-group-1",
@@ -76,6 +121,12 @@
           "home": "Odds BK 2",
           "away": "Viking FK 2",
           "kickoff_utc": "2026-10-05T11:00:00+00:00"
+        },
+        {
+          "event_id": "36645349",
+          "home": "Fana IL",
+          "away": "Aasane Fotball 2",
+          "kickoff_utc": "2026-10-05T16:00:00+00:00"
         }
       ]
     },
@@ -95,6 +146,12 @@
           "home": "FK Napredak Krusevac",
           "away": "FK Loznica",
           "kickoff_utc": "2026-10-05T14:00:00+00:00"
+        },
+        {
+          "event_id": "36577055",
+          "home": "FK TSC Backa Topola",
+          "away": "RFK Graficar Beograd",
+          "kickoff_utc": "2026-10-05T16:00:00+00:00"
         }
       ]
     },
@@ -108,6 +165,32 @@
           "home": "MFK Tatran Liptovsky Mikulas",
           "away": "FC STK 1914 Samorin",
           "kickoff_utc": "2026-10-05T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Sweden",
+      "name": "Division 2, Norra Gotaland",
+      "key": "soccer-sweden-2nd-div-norra-gotaland",
+      "events": [
+        {
+          "event_id": "36633901",
+          "home": "Herrestads AIF",
+          "away": "Grebbestads IF",
+          "kickoff_utc": "2026-10-05T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Turkey",
+      "name": "2. Lig",
+      "key": "soccer-turkey-2nd-lig",
+      "events": [
+        {
+          "event_id": "36638600",
+          "home": "Sanliurfaspor",
+          "away": "Gebzespor",
+          "kickoff_utc": "2026-10-05T16:00:00+00:00"
         }
       ]
     }
