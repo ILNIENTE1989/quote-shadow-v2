@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T13:10:55.481579+00:00",
+  "generated_at_utc": "2026-10-05T15:10:58.912788+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -212,6 +212,19 @@
       ]
     },
     {
+      "category": "Mexico",
+      "name": "Liga MX, Apertura",
+      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "events": [
+        {
+          "event_id": "36636943",
+          "home": "Club Celaya FC",
+          "away": "Jaguares de Chiapas",
+          "kickoff_utc": "2026-10-06T02:05:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Norway",
       "name": "1st Division",
       "key": "soccer-norway-1st-division",
@@ -294,29 +307,10 @@
       "key": "soccer-serbia-prva-liga",
       "events": [
         {
-          "event_id": "36630974",
-          "home": "FK Napredak Krusevac",
-          "away": "FK Loznica",
-          "kickoff_utc": "2026-10-05T14:00:00+00:00"
-        },
-        {
           "event_id": "36577055",
           "home": "FK TSC Backa Topola",
           "away": "RFK Graficar Beograd",
           "kickoff_utc": "2026-10-05T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Slovakia",
-      "name": "2. Liga",
-      "key": "soccer-slovakia-2-liga",
-      "events": [
-        {
-          "event_id": "36586018",
-          "home": "MFK Tatran Liptovsky Mikulas",
-          "away": "FC STK 1914 Samorin",
-          "kickoff_utc": "2026-10-05T15:00:00+00:00"
         }
       ]
     },
