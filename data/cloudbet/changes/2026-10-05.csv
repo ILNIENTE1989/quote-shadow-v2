@@ -598,3 +598,15 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-05T02:22:36.784243+02:00,36382082,Liga Profesional,Argentina,Estudiantes Rio Cuarto,Racing Club Avellaneda,2026-10-05T00:30:00+00:00,7.3869,soccer.total_goals,period=ft,over,total=3.5,5.2,5.25
 2026-10-05T02:31:07.022848+02:00,36597227,"Primera Division, Clausura",El Salvador,CD FAS Santa Ana,CD Inca,2026-10-05T01:00:00+00:00,28.883,soccer.double_chance,period=ft,draw_away,,3.85,4.25
 2026-10-05T02:31:07.022848+02:00,36597227,"Primera Division, Clausura",El Salvador,CD FAS Santa Ana,CD Inca,2026-10-05T01:00:00+00:00,28.883,soccer.double_chance,period=ft,home_away,,1.04,1.05
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,home,handicap=0.25,2.01,2.03
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,away,handicap=0.25,1.82,1.8
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,home,handicap=-0.75,4.95,5.0
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.7,3.75
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.35,1.34
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,away,handicap=0.5,2.13,2.11
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,home,handicap=0.75,1.52,1.53
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,home,handicap=1,1.32,1.33
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.asian_handicap,period=ft,away,handicap=1,3.3,3.25
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.match_odds,period=ft,home,,3.75,3.8
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.match_odds,period=ft,away,,2.13,2.11
+2026-10-05T02:32:40.770808+02:00,36537633,"Primera A, Clausura",Colombia,Llaneros FC,America de Cali,2026-10-05T01:15:00+00:00,42.3205,soccer.total_goals,period=ft,over,total=2,1.59,1.58
