@@ -1164,3 +1164,15 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-05T10:04:42.864103+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,55.2856,soccer.total_goals,period=ft,under,total=2.25,2.14,2.15
 2026-10-05T10:04:42.864103+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,55.2856,soccer.total_goals,period=ft,under,total=2.75,1.65,1.66
 2026-10-05T10:04:42.864103+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,55.2856,soccer.total_goals,period=ft,over,total=3.25,3.0,2.95
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,home,handicap=0,2.04,2.05
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,away,handicap=0,1.78,1.76
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.65,2.7
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.44,1.43
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,home,handicap=0.25,1.73,1.74
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,away,handicap=0.25,2.07,2.05
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,home,handicap=0.5,1.55,1.56
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,away,handicap=0.5,2.35,2.3
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,home,handicap=0.75,1.39,1.4
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.asian_handicap,period=ft,away,handicap=0.75,2.85,2.8
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.double_chance,period=ft,draw_away,,1.44,1.43
+2026-10-05T10:14:41.715184+02:00,36628995,FIFA ASEAN Cup,International,Malaysia,Vietnam,2026-10-05T09:00:00+00:00,45.3047,soccer.match_odds,period=ft,home,,2.7,2.75
