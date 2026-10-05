@@ -1,7 +1,39 @@
 {
-  "generated_at_utc": "2026-10-05T05:05:14.897750+00:00",
+  "generated_at_utc": "2026-10-05T07:06:39.208442+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Argentina",
+      "name": "Primera B",
+      "key": "soccer-argentina-primera-b",
+      "events": [
+        {
+          "event_id": "36591952",
+          "home": "CD UAI Urquiza",
+          "away": "Ituzaingo",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Argentina",
+      "name": "Primera C",
+      "key": "soccer-argentina-primera-c",
+      "events": [
+        {
+          "event_id": "36646727",
+          "home": "CS Barracas",
+          "away": "Leones de Rosario",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        },
+        {
+          "event_id": "36633914",
+          "home": "Club Lujan",
+          "away": "General Lamadrid",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Argentina",
       "name": "Torneo Regional Federal Amateur",
@@ -12,6 +44,50 @@
           "home": "Social Atletico Television",
           "away": "Deportivo Metalurgico",
           "kickoff_utc": "2026-10-05T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Carioca, Serie B1",
+      "key": "soccer-brazil-carioca-serie-b2",
+      "events": [
+        {
+          "event_id": "36638818",
+          "home": "Barra Mansa FC RJ",
+          "away": "Cardoso Moreira FC",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        },
+        {
+          "event_id": "36639120",
+          "home": "Campos AA",
+          "away": "Buzios RJ",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        },
+        {
+          "event_id": "36639144",
+          "home": "SE Paraty RJ",
+          "away": "Marica FC RJ",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        },
+        {
+          "event_id": "36638649",
+          "home": "Serra Macaense FC RJ",
+          "away": "SANTA CRUZ FC RJ",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Croatia",
+      "name": "Croatia Division 3 (Treća HNL)",
+      "key": "soccer-croatia-tb414-croatia-division-3-treca-hnl",
+      "events": [
+        {
+          "event_id": "36646773",
+          "home": "Primorac Biograd",
+          "away": "NK Neretva Metkovic",
+          "kickoff_utc": "2026-10-05T12:30:00+00:00"
         }
       ]
     },
@@ -39,12 +115,6 @@
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
-        {
-          "event_id": "36642907",
-          "home": "South United FC",
-          "away": "Megt & Centre",
-          "kickoff_utc": "2026-10-05T05:30:00+00:00"
-        },
         {
           "event_id": "36644204",
           "home": "United Stars FC",
@@ -74,6 +144,19 @@
     },
     {
       "category": "International",
+      "name": "England Isthmian League Division 1 North",
+      "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
+      "events": [
+        {
+          "event_id": "36646352",
+          "home": "Redbridge",
+          "away": "Concord Rangers",
+          "kickoff_utc": "2026-10-05T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
       "name": "FIFA ASEAN Cup",
       "key": "soccer-international-tc477-fifa-asean-cup",
       "events": [
@@ -82,6 +165,19 @@
           "home": "Malaysia",
           "away": "Vietnam",
           "kickoff_utc": "2026-10-05T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36646752",
+          "home": "Hapoel Kaukab",
+          "away": "Hapoel Dir Hana",
+          "kickoff_utc": "2026-10-05T16:00:00+00:00"
         }
       ]
     },
@@ -131,6 +227,25 @@
       ]
     },
     {
+      "category": "Paraguay",
+      "name": "Primera Division B (APF)",
+      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
+      "events": [
+        {
+          "event_id": "36646334",
+          "home": "CS Limpeno",
+          "away": "Presidente Hayes",
+          "kickoff_utc": "2026-10-05T13:00:00+00:00"
+        },
+        {
+          "event_id": "36646336",
+          "home": "Club Silvio Pettirossi",
+          "away": "Cristobal Colon JAS",
+          "kickoff_utc": "2026-10-05T13:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Serbia",
       "name": "Prva Liga",
       "key": "soccer-serbia-prva-liga",
@@ -165,6 +280,19 @@
           "home": "MFK Tatran Liptovsky Mikulas",
           "away": "FC STK 1914 Samorin",
           "kickoff_utc": "2026-10-05T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Segunda División",
+      "key": "soccer-spain-laliga-2",
+      "events": [
+        {
+          "event_id": "36544066",
+          "home": "Cordoba CF",
+          "away": "Tenerife CD",
+          "kickoff_utc": "2026-10-05T18:30:00+00:00"
         }
       ]
     },
