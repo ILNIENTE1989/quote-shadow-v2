@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T17:12:44.510733+00:00",
+  "generated_at_utc": "2026-10-05T19:12:50.322039+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -39,41 +39,10 @@
       "key": "soccer-argentina-primera-b",
       "events": [
         {
-          "event_id": "36591952",
-          "home": "CD UAI Urquiza",
-          "away": "Ituzaingo",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
-        },
-        {
           "event_id": "36557050",
           "home": "Deportivo Merlo",
           "away": "CA Brown de Adrogue",
           "kickoff_utc": "2026-10-05T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Argentina",
-      "name": "Primera C",
-      "key": "soccer-argentina-primera-c",
-      "events": [
-        {
-          "event_id": "36646727",
-          "home": "CS Barracas",
-          "away": "Leones de Rosario",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
-        },
-        {
-          "event_id": "36647411",
-          "home": "Club El Porvenir",
-          "away": "Canuelas FC",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
-        },
-        {
-          "event_id": "36633914",
-          "home": "Club Lujan",
-          "away": "General Lamadrid",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
         }
       ]
     },
@@ -92,32 +61,33 @@
     },
     {
       "category": "Brazil",
-      "name": "Carioca, Serie B1",
-      "key": "soccer-brazil-carioca-serie-b2",
+      "name": "Brazil Campeonato Paraibano (PB) Division 2",
+      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
       "events": [
         {
-          "event_id": "36638818",
-          "home": "Barra Mansa FC RJ",
-          "away": "Cardoso Moreira FC",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+          "event_id": "36653819",
+          "home": "AD Guarabira",
+          "away": "Spartax FC",
+          "kickoff_utc": "2026-10-05T23:15:00+00:00"
         },
         {
-          "event_id": "36639120",
-          "home": "Campos AA",
-          "away": "Buzios RJ",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
-        },
+          "event_id": "36653820",
+          "home": "Auto EC (PB)",
+          "away": "Grêmio Recreativo Serrano (PB)",
+          "kickoff_utc": "2026-10-05T23:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "China",
+      "name": "China League 2",
+      "key": "soccer-china-division-2",
+      "events": [
         {
-          "event_id": "36639144",
-          "home": "SE Paraty RJ",
-          "away": "Marica FC RJ",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
-        },
-        {
-          "event_id": "36638649",
-          "home": "Serra Macaense FC RJ",
-          "away": "SANTA CRUZ FC RJ",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+          "event_id": "36649689",
+          "home": "Changchun Xidu",
+          "away": "Guangzhou Dandelion Alpha FC",
+          "kickoff_utc": "2026-10-06T07:00:00+00:00"
         }
       ]
     },
@@ -150,19 +120,6 @@
           "home": "Orsomarso SC",
           "away": "Deportes Quindio",
           "kickoff_utc": "2026-10-06T00:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "England Isthmian League Division 1 North",
-      "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
-      "events": [
-        {
-          "event_id": "36646352",
-          "home": "Redbridge",
-          "away": "Concord Rangers",
-          "kickoff_utc": "2026-10-05T18:45:00+00:00"
         }
       ]
     },
@@ -227,19 +184,6 @@
           "home": "Club Fernando de La Mora",
           "away": "Club General Caballero JLM",
           "kickoff_utc": "2026-10-05T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Segunda División",
-      "key": "soccer-spain-laliga-2",
-      "events": [
-        {
-          "event_id": "36544066",
-          "home": "Cordoba CF",
-          "away": "Tenerife CD",
-          "kickoff_utc": "2026-10-05T18:30:00+00:00"
         }
       ]
     },
