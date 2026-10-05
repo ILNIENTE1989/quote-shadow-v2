@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T15:10:58.912788+00:00",
+  "generated_at_utc": "2026-10-05T17:12:44.510733+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -91,19 +91,6 @@
       ]
     },
     {
-      "category": "Argentina",
-      "name": "Torneo Regional Federal Amateur",
-      "key": "soccer-argentina-torneo-regional-federal-amateur",
-      "events": [
-        {
-          "event_id": "36634203",
-          "home": "Social Atletico Television",
-          "away": "Deportivo Metalurgico",
-          "kickoff_utc": "2026-10-05T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Brazil",
       "name": "Carioca, Serie B1",
       "key": "soccer-brazil-carioca-serie-b2",
@@ -112,12 +99,6 @@
           "event_id": "36638818",
           "home": "Barra Mansa FC RJ",
           "away": "Cardoso Moreira FC",
-          "kickoff_utc": "2026-10-05T18:00:00+00:00"
-        },
-        {
-          "event_id": "36650703",
-          "home": "CD Campos",
-          "away": "Buzios RJ",
           "kickoff_utc": "2026-10-05T18:00:00+00:00"
         },
         {
@@ -186,32 +167,6 @@
       ]
     },
     {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36646752",
-          "home": "Hapoel Kaukab",
-          "away": "Hapoel Dir Hana",
-          "kickoff_utc": "2026-10-05T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
-      "events": [
-        {
-          "event_id": "36645096",
-          "home": "Mouna FC",
-          "away": "Yamoussoukro FC",
-          "kickoff_utc": "2026-10-05T15:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
@@ -221,32 +176,6 @@
           "home": "Club Celaya FC",
           "away": "Jaguares de Chiapas",
           "kickoff_utc": "2026-10-06T02:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "1st Division",
-      "key": "soccer-norway-1st-division",
-      "events": [
-        {
-          "event_id": "36440757",
-          "home": "Moss FK",
-          "away": "Kongsvinger IL Fotball",
-          "kickoff_utc": "2026-10-05T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "3rd Division Group 1",
-      "key": "soccer-norway-3rd-division-group-1",
-      "events": [
-        {
-          "event_id": "36645349",
-          "home": "Fana IL",
-          "away": "Aasane Fotball 2",
-          "kickoff_utc": "2026-10-05T16:00:00+00:00"
         }
       ]
     },
@@ -302,19 +231,6 @@
       ]
     },
     {
-      "category": "Serbia",
-      "name": "Prva Liga",
-      "key": "soccer-serbia-prva-liga",
-      "events": [
-        {
-          "event_id": "36577055",
-          "home": "FK TSC Backa Topola",
-          "away": "RFK Graficar Beograd",
-          "kickoff_utc": "2026-10-05T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Spain",
       "name": "Segunda División",
       "key": "soccer-spain-laliga-2",
@@ -324,32 +240,6 @@
           "home": "Cordoba CF",
           "away": "Tenerife CD",
           "kickoff_utc": "2026-10-05T18:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Sweden",
-      "name": "Division 2, Norra Gotaland",
-      "key": "soccer-sweden-2nd-div-norra-gotaland",
-      "events": [
-        {
-          "event_id": "36633901",
-          "home": "Herrestads AIF",
-          "away": "Grebbestads IF",
-          "kickoff_utc": "2026-10-05T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Turkey",
-      "name": "2. Lig",
-      "key": "soccer-turkey-2nd-lig",
-      "events": [
-        {
-          "event_id": "36638600",
-          "home": "Sanliurfaspor",
-          "away": "Gebzespor",
-          "kickoff_utc": "2026-10-05T16:00:00+00:00"
         }
       ]
     },
