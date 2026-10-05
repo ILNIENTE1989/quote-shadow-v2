@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T21:29:47.840151+00:00",
+  "generated_at_utc": "2026-10-05T23:31:11.530323+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -7,18 +7,6 @@
       "name": "Liga Profesional",
       "key": "soccer-argentina-superliga",
       "events": [
-        {
-          "event_id": "36397544",
-          "home": "Estudiantes de La Plata",
-          "away": "Gimnasia y Esgrima Mendoza",
-          "kickoff_utc": "2026-10-05T22:00:00+00:00"
-        },
-        {
-          "event_id": "36397556",
-          "home": "Velez Sarsfield",
-          "away": "CA Platense",
-          "kickoff_utc": "2026-10-05T22:00:00+00:00"
-        },
         {
           "event_id": "36382077",
           "home": "CA Banfield",
@@ -28,23 +16,16 @@
       ]
     },
     {
-      "category": "Argentina",
-      "name": "Primera B",
-      "key": "soccer-argentina-primera-b",
-      "events": [
-        {
-          "event_id": "36557050",
-          "home": "Deportivo Merlo",
-          "away": "CA Brown de Adrogue",
-          "kickoff_utc": "2026-10-05T22:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Bangladesh",
       "name": "Federation Cup",
       "key": "soccer-bangladesh-federation-cup",
       "events": [
+        {
+          "event_id": "36656341",
+          "home": "Bangladesh Police FC",
+          "away": "City Club",
+          "kickoff_utc": "2026-10-06T09:00:00+00:00"
+        },
         {
           "event_id": "36656080",
           "home": "Dhaka Wanderers Club",
@@ -60,21 +41,39 @@
       ]
     },
     {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
+      "category": "China",
+      "name": "China League 1",
+      "key": "soccer-china-china-league",
       "events": [
         {
-          "event_id": "36653819",
-          "home": "AD Guarabira",
-          "away": "Spartax FC",
-          "kickoff_utc": "2026-10-05T23:15:00+00:00"
+          "event_id": "36648301",
+          "home": "Changchun Yatai",
+          "away": "Yanbian Longding",
+          "kickoff_utc": "2026-10-06T11:00:00+00:00"
         },
         {
-          "event_id": "36653820",
-          "home": "Auto EC (PB)",
-          "away": "Grêmio Recreativo Serrano (PB)",
-          "kickoff_utc": "2026-10-05T23:15:00+00:00"
+          "event_id": "36648302",
+          "home": "Wuxi Wugou",
+          "away": "Suzhou Dongwu",
+          "kickoff_utc": "2026-10-06T11:00:00+00:00"
+        },
+        {
+          "event_id": "36648368",
+          "home": "Heilongjiang Ice City",
+          "away": "Meizhou Hakka",
+          "kickoff_utc": "2026-10-06T11:30:00+00:00"
+        },
+        {
+          "event_id": "36648436",
+          "home": "Nantong Zhiyun",
+          "away": "Ningbo Professional",
+          "kickoff_utc": "2026-10-06T11:30:00+00:00"
+        },
+        {
+          "event_id": "36648427",
+          "home": "Shijiazhuang Gongfu FC",
+          "away": "Dalian Kun City",
+          "kickoff_utc": "2026-10-06T11:30:00+00:00"
         }
       ]
     },
@@ -100,6 +99,12 @@
           "home": "Hubei Istar",
           "away": "Rizhao Yuqi",
           "kickoff_utc": "2026-10-06T09:00:00+00:00"
+        },
+        {
+          "event_id": "36649315",
+          "home": "Langfang Glory City FC",
+          "away": "Xi An Ronghai",
+          "kickoff_utc": "2026-10-06T11:30:00+00:00"
         }
       ]
     },
@@ -121,12 +126,6 @@
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
-        {
-          "event_id": "36607799",
-          "home": "Bogota FC",
-          "away": "Envigado FC",
-          "kickoff_utc": "2026-10-05T22:00:00+00:00"
-        },
         {
           "event_id": "36606995",
           "home": "Orsomarso SC",
@@ -150,8 +149,8 @@
     },
     {
       "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "name": "Liga Premier Serie A",
+      "key": "soccer-mexico-t924f-liga-premier-serie-a",
       "events": [
         {
           "event_id": "36636943",
@@ -175,32 +174,6 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Division de Honor, Apertura",
-      "key": "soccer-paraguay-primera-division-apertura",
-      "events": [
-        {
-          "event_id": "36550781",
-          "home": "Cerro Porteno",
-          "away": "CS 2 de Mayo",
-          "kickoff_utc": "2026-10-05T22:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Segunda Division",
-      "key": "soccer-paraguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36646343",
-          "home": "Club Fernando de La Mora",
-          "away": "Club General Caballero JLM",
-          "kickoff_utc": "2026-10-05T22:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Ukraine",
       "name": "Ukraine Cup",
       "key": "soccer-ukraine-ukraine-cup",
@@ -214,19 +187,6 @@
       ]
     },
     {
-      "category": "Uruguay",
-      "name": "Primera Division",
-      "key": "soccer-uruguay-primera-division",
-      "events": [
-        {
-          "event_id": "36581499",
-          "home": "Club Nacional de Football",
-          "away": "Montevideo City Torque",
-          "kickoff_utc": "2026-10-05T23:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Vietnam",
       "name": "Vietnam Cup",
       "key": "soccer-vietnam-vietnam-cup",
@@ -236,6 +196,12 @@
           "home": "Lam Dong",
           "away": "Song Lam Nghe An",
           "kickoff_utc": "2026-10-06T08:30:00+00:00"
+        },
+        {
+          "event_id": "36657194",
+          "home": "PVF-CAND FC",
+          "away": "Huda Hue",
+          "kickoff_utc": "2026-10-06T11:00:00+00:00"
         }
       ]
     }
