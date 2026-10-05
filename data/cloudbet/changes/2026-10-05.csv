@@ -2991,3 +2991,10 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-05T14:48:41.261362+02:00,36630952,Prva Liga,Serbia,FK Smederevo 1924,FK Vozdovac Belgrade,2026-10-05T13:00:00+00:00,11.3123,soccer.double_chance,period=ft,home_away,,1.33,1.2
 2026-10-05T14:48:41.261362+02:00,36630952,Prva Liga,Serbia,FK Smederevo 1924,FK Vozdovac Belgrade,2026-10-05T13:00:00+00:00,11.3123,soccer.double_chance,period=ft,home_draw,,1.27,1.15
 2026-10-05T14:56:45.785862+02:00,36630952,Prva Liga,Serbia,FK Smederevo 1924,FK Vozdovac Belgrade,2026-10-05T13:00:00+00:00,3.2369,soccer.double_chance,period=ft,draw_away,,1.7,1.65
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.4,0.0
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.45,0.0
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.double_chance,period=ft,home_draw,,1.35,1.37
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.match_odds,period=ft,home,,2.45,2.5
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.match_odds,period=ft,away,,2.45,2.4
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.total_goals,period=ft,over,total=2.5,2.05,2.0
+2026-10-05T14:59:17.028023+02:00,36650987,Primera Division B (APF),Paraguay,CS Limpeno,Presidente Hayes,2026-10-05T13:00:00+00:00,0.7162,soccer.total_goals,period=ft,under,total=2.5,1.6,1.65
