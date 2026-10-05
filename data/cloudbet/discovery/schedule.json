@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-05T01:02:39.316325+00:00",
+  "generated_at_utc": "2026-10-05T03:02:39.616799+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
-      "events": [
-        {
-          "event_id": "36537633",
-          "home": "Llaneros FC",
-          "away": "America de Cali",
-          "kickoff_utc": "2026-10-05T01:15:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Greece",
       "name": "Super League 2",
@@ -44,6 +31,12 @@
           "home": "South United FC",
           "away": "Megt & Centre",
           "kickoff_utc": "2026-10-05T05:30:00+00:00"
+        },
+        {
+          "event_id": "36644204",
+          "home": "United Stars FC",
+          "away": "Roots FC",
+          "kickoff_utc": "2026-10-05T08:00:00+00:00"
         }
       ]
     },
@@ -96,6 +89,25 @@
           "home": "FK Smederevo 1924",
           "away": "FK Vozdovac Belgrade",
           "kickoff_utc": "2026-10-05T13:00:00+00:00"
+        },
+        {
+          "event_id": "36630974",
+          "home": "FK Napredak Krusevac",
+          "away": "FK Loznica",
+          "kickoff_utc": "2026-10-05T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovakia",
+      "name": "2. Liga",
+      "key": "soccer-slovakia-2-liga",
+      "events": [
+        {
+          "event_id": "36586018",
+          "home": "MFK Tatran Liptovsky Mikulas",
+          "away": "FC STK 1914 Samorin",
+          "kickoff_utc": "2026-10-05T15:00:00+00:00"
         }
       ]
     }
