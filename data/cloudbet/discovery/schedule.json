@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T11:08:43.597506+00:00",
+  "generated_at_utc": "2026-10-05T13:10:55.481579+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -24,6 +24,12 @@
           "home": "Velez Sarsfield",
           "away": "CA Platense",
           "kickoff_utc": "2026-10-05T22:00:00+00:00"
+        },
+        {
+          "event_id": "36382077",
+          "home": "CA Banfield",
+          "away": "Club Atletico Rosario Central",
+          "kickoff_utc": "2026-10-06T00:15:00+00:00"
         }
       ]
     },
@@ -109,6 +115,12 @@
           "kickoff_utc": "2026-10-05T18:00:00+00:00"
         },
         {
+          "event_id": "36650703",
+          "home": "CD Campos",
+          "away": "Buzios RJ",
+          "kickoff_utc": "2026-10-05T18:00:00+00:00"
+        },
+        {
           "event_id": "36639120",
           "home": "Campos AA",
           "away": "Buzios RJ",
@@ -130,6 +142,19 @@
     },
     {
       "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36543265",
+          "home": "Independiente Medellin",
+          "away": "Independiente Santa Fe",
+          "kickoff_utc": "2026-10-06T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
@@ -138,45 +163,12 @@
           "home": "Bogota FC",
           "away": "Envigado FC",
           "kickoff_utc": "2026-10-05T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Croatia",
-      "name": "Croatia Division 3 (Treća HNL)",
-      "key": "soccer-croatia-tb414-croatia-division-3-treca-hnl",
-      "events": [
+        },
         {
-          "event_id": "36646773",
-          "home": "Primorac Biograd",
-          "away": "NK Neretva Metkovic",
-          "kickoff_utc": "2026-10-05T12:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Greece",
-      "name": "Super League 2",
-      "key": "soccer-greece-super-league-2",
-      "events": [
-        {
-          "event_id": "36635734",
-          "home": "Nestos Chrysoupoli FC",
-          "away": "Marko",
-          "kickoff_utc": "2026-10-05T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "India IFA Shield",
-      "key": "soccer-india-tb6e4-india-ifa-shield",
-      "events": [
-        {
-          "event_id": "36642906",
-          "home": "SC East Bengal",
-          "away": "Northeast United FC",
-          "kickoff_utc": "2026-10-05T11:30:00+00:00"
+          "event_id": "36606995",
+          "home": "Orsomarso SC",
+          "away": "Deportes Quindio",
+          "kickoff_utc": "2026-10-06T00:30:00+00:00"
         }
       ]
     },
@@ -246,6 +238,19 @@
       ]
     },
     {
+      "category": "Panama",
+      "name": "Liga Panamena de Futbol, Apertura",
+      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "events": [
+        {
+          "event_id": "36592823",
+          "home": "AF Sporting San Miguelito",
+          "away": "Cocle FC",
+          "kickoff_utc": "2026-10-06T01:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Paraguay",
       "name": "Division de Honor, Apertura",
       "key": "soccer-paraguay-primera-division-apertura",
@@ -261,25 +266,6 @@
           "home": "Cerro Porteno",
           "away": "CS 2 de Mayo",
           "kickoff_utc": "2026-10-05T22:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Primera Division B (APF)",
-      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
-      "events": [
-        {
-          "event_id": "36646334",
-          "home": "CS Limpeno",
-          "away": "Presidente Hayes",
-          "kickoff_utc": "2026-10-05T13:00:00+00:00"
-        },
-        {
-          "event_id": "36646336",
-          "home": "Club Silvio Pettirossi",
-          "away": "Cristobal Colon JAS",
-          "kickoff_utc": "2026-10-05T13:00:00+00:00"
         }
       ]
     },
@@ -307,12 +293,6 @@
       "name": "Prva Liga",
       "key": "soccer-serbia-prva-liga",
       "events": [
-        {
-          "event_id": "36630952",
-          "home": "FK Smederevo 1924",
-          "away": "FK Vozdovac Belgrade",
-          "kickoff_utc": "2026-10-05T13:00:00+00:00"
-        },
         {
           "event_id": "36630974",
           "home": "FK Napredak Krusevac",
