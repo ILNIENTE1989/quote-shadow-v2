@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T07:36:36.501673+00:00",
+  "generated_at_utc": "2026-10-06T09:36:41.291337+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -37,31 +37,6 @@
           "home": "CDM Leandro N. Alem",
           "away": "Centro Espanol",
           "kickoff_utc": "2026-10-06T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bangladesh",
-      "name": "Federation Cup",
-      "key": "soccer-bangladesh-federation-cup",
-      "events": [
-        {
-          "event_id": "36656341",
-          "home": "Bangladesh Police FC",
-          "away": "City Club",
-          "kickoff_utc": "2026-10-06T09:00:00+00:00"
-        },
-        {
-          "event_id": "36656080",
-          "home": "Dhaka Wanderers Club",
-          "away": "Bashundhara Kings",
-          "kickoff_utc": "2026-10-06T09:00:00+00:00"
-        },
-        {
-          "event_id": "36656079",
-          "home": "Mohammedan SC Dhaka",
-          "away": "Arambagh KS",
-          "kickoff_utc": "2026-10-06T09:00:00+00:00"
         }
       ]
     },
@@ -139,12 +114,6 @@
       "name": "China League 2",
       "key": "soccer-china-division-2",
       "events": [
-        {
-          "event_id": "36649518",
-          "home": "Hubei Istar",
-          "away": "Rizhao Yuqi",
-          "kickoff_utc": "2026-10-06T09:00:00+00:00"
-        },
         {
           "event_id": "36649315",
           "home": "Langfang Glory City FC",
@@ -311,9 +280,27 @@
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         },
         {
+          "event_id": "36662585",
+          "home": "Bognor Regis Town",
+          "away": "Hartley Wintney",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
           "event_id": "36661962",
           "home": "Moneyfields",
           "away": "Winchester City FC",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662586",
+          "home": "Raynes Park Vale",
+          "away": "Harrow Borough",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662584",
+          "home": "Westfield",
+          "away": "Kingstonian FC",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         }
       ]
@@ -375,12 +362,6 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36658977",
-          "home": "FC Bengaluru United",
-          "away": "Rebels FC",
-          "kickoff_utc": "2026-10-06T08:00:00+00:00"
-        },
-        {
           "event_id": "36660215",
           "home": "ASC And Center FC",
           "away": "FC Real Bengaluru",
@@ -420,9 +401,27 @@
       "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
       "events": [
         {
+          "event_id": "36662590",
+          "home": "Brightlingsea Regent",
+          "away": "Lowestoft Town",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
           "event_id": "36661959",
           "home": "Buckhurst Hill",
           "away": "Tilbury FC",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662588",
+          "home": "Walthamstow FC",
+          "away": "Bowers & Pitsea FC",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662583",
+          "home": "Witham Town",
+          "away": "Newmarket Town",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         }
       ]
@@ -457,9 +456,21 @@
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         },
         {
+          "event_id": "36662591",
+          "home": "Clitheroe FC",
+          "away": "Congleton Town",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
           "event_id": "36661965",
           "home": "Garforth Town",
           "away": "Ossett United",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662589",
+          "home": "Kidsgrove Athletic FC",
+          "away": "Lower Breck",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         },
         {
@@ -481,9 +492,27 @@
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         },
         {
+          "event_id": "36662593",
+          "home": "Nantwich Town",
+          "away": "Runcorn Linnets",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
           "event_id": "36661972",
           "home": "Nuneaton Town FC",
           "away": "Boston Town FC",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662587",
+          "home": "Stafford Rangers",
+          "away": "Atherton Collieries",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
+          "event_id": "36662594",
+          "home": "Vauxhall Motors",
+          "away": "Shifnal Town",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         },
         {
@@ -497,32 +526,6 @@
           "home": "Witton Albion",
           "away": "Padiham FC",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "Fiji Inter District Championship",
-      "key": "soccer-international-tb6b3-fiji-inter-district-championship",
-      "events": [
-        {
-          "event_id": "36661934",
-          "home": "Labasa FC",
-          "away": "Suva FC",
-          "kickoff_utc": "2026-10-06T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "Hun Sen Cup",
-      "key": "soccer-international-t87aa-hun-sen-cup",
-      "events": [
-        {
-          "event_id": "36659196",
-          "home": "Tboung Khmum FC",
-          "away": "Kampong Speu",
-          "kickoff_utc": "2026-10-06T08:30:00+00:00"
         }
       ]
     },
@@ -561,6 +564,12 @@
           "home": "Aztecas A.M.F.",
           "away": "CF America",
           "kickoff_utc": "2026-10-06T17:00:00+00:00"
+        },
+        {
+          "event_id": "36663455",
+          "home": "Estudiantes de Queretaro FC",
+          "away": "Queretaro FC",
+          "kickoff_utc": "2026-10-06T21:00:00+00:00"
         }
       ]
     },
@@ -611,6 +620,19 @@
     },
     {
       "category": "Paraguay",
+      "name": "Division de Honor, Apertura",
+      "key": "soccer-paraguay-primera-division-apertura",
+      "events": [
+        {
+          "event_id": "36564357",
+          "home": "Sportivo Ameliano",
+          "away": "Rubio Nu",
+          "kickoff_utc": "2026-10-06T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
       "name": "Primera Division B (APF)",
       "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
       "events": [
@@ -625,6 +647,32 @@
           "home": "Sportivo Trinidense Res.",
           "away": "Sportivo Luqueno Res.",
           "kickoff_utc": "2026-10-06T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Segunda Division",
+      "key": "soccer-paraguay-segunda-division",
+      "events": [
+        {
+          "event_id": "36661025",
+          "home": "Club Dr Benjamin Aceval",
+          "away": "Independiente Campo Grande",
+          "kickoff_utc": "2026-10-06T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Peru",
+      "name": "Peru Cup",
+      "key": "soccer-peru-tc1d5-peru-cup",
+      "events": [
+        {
+          "event_id": "36651170",
+          "home": "Alianza Atletico",
+          "away": "Sport Boys Association",
+          "kickoff_utc": "2026-10-06T20:00:00+00:00"
         }
       ]
     },
@@ -644,6 +692,12 @@
           "home": "Union Minas",
           "away": "Union Comercio",
           "kickoff_utc": "2026-10-06T18:15:00+00:00"
+        },
+        {
+          "event_id": "36651896",
+          "home": "CDU San Martin",
+          "away": "Alianza Universidad de Huanuco",
+          "kickoff_utc": "2026-10-06T20:30:00+00:00"
         }
       ]
     },
@@ -687,29 +741,10 @@
       ]
     },
     {
-      "category": "Ukraine",
-      "name": "Ukraine Cup",
-      "key": "soccer-ukraine-ukraine-cup",
-      "events": [
-        {
-          "event_id": "36648299",
-          "home": "Fc Trostianets",
-          "away": "FC Chernigiv",
-          "kickoff_utc": "2026-10-06T08:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Vietnam",
       "name": "Vietnam Cup",
       "key": "soccer-vietnam-vietnam-cup",
       "events": [
-        {
-          "event_id": "36650774",
-          "home": "Lam Dong",
-          "away": "Song Lam Nghe An",
-          "kickoff_utc": "2026-10-06T08:30:00+00:00"
-        },
         {
           "event_id": "36657194",
           "home": "PVF-CAND FC",
