@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T13:38:40.178987+00:00",
+  "generated_at_utc": "2026-10-06T15:38:40.444334+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Algeria",
-      "name": "Ligue 1",
-      "key": "soccer-algeria-ligue-1",
-      "events": [
-        {
-          "event_id": "36661341",
-          "home": "JS Kabylie",
-          "away": "MC Alger",
-          "kickoff_utc": "2026-10-06T18:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Argentina",
       "name": "Primera C",
@@ -510,35 +497,10 @@
       ]
     },
     {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
-      "events": [
-        {
-          "event_id": "36653841",
-          "home": "Mouna FC",
-          "away": "Yamoussoukro FC",
-          "kickoff_utc": "2026-10-06T15:30:00+00:00"
-        },
-        {
-          "event_id": "36663543",
-          "home": "Zoman FC",
-          "away": "Club Omnisports de Korhogo",
-          "kickoff_utc": "2026-10-06T15:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Mexico Copa Mexico",
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
       "events": [
-        {
-          "event_id": "36659441",
-          "home": "Boston Cancun FC",
-          "away": "Deportiva Venados",
-          "kickoff_utc": "2026-10-06T15:00:00+00:00"
-        },
         {
           "event_id": "36661567",
           "home": "FC Politecnico",
@@ -556,6 +518,12 @@
           "home": "Estudiantes de Queretaro FC",
           "away": "Queretaro FC",
           "kickoff_utc": "2026-10-06T21:00:00+00:00"
+        },
+        {
+          "event_id": "36666894",
+          "home": "Soles de Sonora",
+          "away": "La Tribu de Ciudad Juarez",
+          "kickoff_utc": "2026-10-07T02:00:00+00:00"
         }
       ]
     },
@@ -582,19 +550,6 @@
           "home": "Skjetten",
           "away": "Kongsvinger IL Fotball 2",
           "kickoff_utc": "2026-10-06T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "NM Cup",
-      "key": "soccer-norway-nm-cup",
-      "events": [
-        {
-          "event_id": "36649628",
-          "home": "Raufoss IL",
-          "away": "IK Start",
-          "kickoff_utc": "2026-10-06T15:00:00+00:00"
         }
       ]
     },
@@ -684,32 +639,6 @@
           "home": "Villa FC Waterford",
           "away": "CK United",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Slovenia",
-      "name": "2. Liga",
-      "key": "soccer-slovenia-2nd-liga",
-      "events": [
-        {
-          "event_id": "36648300",
-          "home": "NK Bilje",
-          "away": "NK Dekani",
-          "kickoff_utc": "2026-10-06T14:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Sweden",
-      "name": "Svenska Cup",
-      "key": "soccer-sweden-svenska-cup",
-      "events": [
-        {
-          "event_id": "36659436",
-          "home": "FC Trollhattan",
-          "away": "Mjallby AIF",
-          "kickoff_utc": "2026-10-06T15:00:00+00:00"
         }
       ]
     },
