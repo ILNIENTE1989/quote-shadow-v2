@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T11:38:39.129754+00:00",
+  "generated_at_utc": "2026-10-06T13:38:40.178987+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -62,6 +62,12 @@
           "home": "Real Potosi",
           "away": "San Antonio Bulo Bulo",
           "kickoff_utc": "2026-10-06T22:00:00+00:00"
+        },
+        {
+          "event_id": "36665379",
+          "home": "Club Aurora",
+          "away": "Academia del Balompie Boliviano",
+          "kickoff_utc": "2026-10-07T00:00:00+00:00"
         }
       ]
     },
@@ -81,6 +87,12 @@
           "home": "Goias EC GO",
           "away": "Athletic Club Sjdr MG",
           "kickoff_utc": "2026-10-06T23:30:00+00:00"
+        },
+        {
+          "event_id": "36609359",
+          "home": "AA Ponte Preta SP",
+          "away": "EC Juventude RS",
+          "kickoff_utc": "2026-10-07T00:35:00+00:00"
         }
       ]
     },
@@ -548,21 +560,15 @@
       ]
     },
     {
-      "category": "Montenegro",
-      "name": "2. CFL",
-      "key": "soccer-montenegro-t926a-2-cfl",
+      "category": "Nicaragua",
+      "name": "Primera Division",
+      "key": "soccer-nicaragua-primera-division",
       "events": [
         {
-          "event_id": "36661912",
-          "home": "FK Iskra Danilovgrad",
-          "away": "FK Rudar Pljevlja",
-          "kickoff_utc": "2026-10-06T13:00:00+00:00"
-        },
-        {
-          "event_id": "36661973",
-          "home": "FK Podgorica",
-          "away": "FK Lovcen",
-          "kickoff_utc": "2026-10-06T13:00:00+00:00"
+          "event_id": "36657972",
+          "home": "FC San Marcos",
+          "away": "Diriangen FC Diriamba",
+          "kickoff_utc": "2026-10-07T00:00:00+00:00"
         }
       ]
     },
