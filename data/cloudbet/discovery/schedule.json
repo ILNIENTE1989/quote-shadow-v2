@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T01:32:40.242820+00:00",
+  "generated_at_utc": "2026-10-06T03:34:36.455811+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -105,19 +105,90 @@
           "home": "Bangalore Dream United FC",
           "away": "Hal Fc",
           "kickoff_utc": "2026-10-06T05:30:00+00:00"
+        },
+        {
+          "event_id": "36658977",
+          "home": "FC Bengaluru United",
+          "away": "Rebels FC",
+          "kickoff_utc": "2026-10-06T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
+      "name": "Hun Sen Cup",
+      "key": "soccer-international-t87aa-hun-sen-cup",
+      "events": [
+        {
+          "event_id": "36659196",
+          "home": "Tboung Khmum FC",
+          "away": "Kampong Speu",
+          "kickoff_utc": "2026-10-06T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Ivory Coast",
+      "name": "Ligue 1",
+      "key": "soccer-ivory-coast-ligue-1",
+      "events": [
+        {
+          "event_id": "36653841",
+          "home": "Mouna FC",
+          "away": "Yamoussoukro FC",
+          "kickoff_utc": "2026-10-06T15:30:00+00:00"
         }
       ]
     },
     {
       "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "name": "Mexico Copa Mexico",
+      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
       "events": [
         {
-          "event_id": "36636943",
-          "home": "Club Celaya FC",
-          "away": "Jaguares de Chiapas",
-          "kickoff_utc": "2026-10-06T02:05:00+00:00"
+          "event_id": "36659441",
+          "home": "Boston Cancun FC",
+          "away": "Deportiva Venados",
+          "kickoff_utc": "2026-10-06T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "NM Cup",
+      "key": "soccer-norway-nm-cup",
+      "events": [
+        {
+          "event_id": "36649628",
+          "home": "Raufoss IL",
+          "away": "IK Start",
+          "kickoff_utc": "2026-10-06T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovenia",
+      "name": "2. Liga",
+      "key": "soccer-slovenia-2nd-liga",
+      "events": [
+        {
+          "event_id": "36648300",
+          "home": "NK Bilje",
+          "away": "NK Dekani",
+          "kickoff_utc": "2026-10-06T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Sweden",
+      "name": "Svenska Cup",
+      "key": "soccer-sweden-svenska-cup",
+      "events": [
+        {
+          "event_id": "36659436",
+          "home": "FC Trollhattan",
+          "away": "Mjallby AIF",
+          "kickoff_utc": "2026-10-06T15:00:00+00:00"
         }
       ]
     },
