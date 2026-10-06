@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T09:36:41.291337+00:00",
+  "generated_at_utc": "2026-10-06T11:38:39.129754+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -37,6 +37,12 @@
           "home": "CDM Leandro N. Alem",
           "away": "Centro Espanol",
           "kickoff_utc": "2026-10-06T17:00:00+00:00"
+        },
+        {
+          "event_id": "36663802",
+          "home": "Central Ballester",
+          "away": "Deportivo Muniz",
+          "kickoff_utc": "2026-10-06T17:00:00+00:00"
         }
       ]
     },
@@ -50,6 +56,31 @@
           "home": "Cdt Real Oruro",
           "away": "CD Real Tomayapo",
           "kickoff_utc": "2026-10-06T19:00:00+00:00"
+        },
+        {
+          "event_id": "36661041",
+          "home": "Real Potosi",
+          "away": "San Antonio Bulo Bulo",
+          "kickoff_utc": "2026-10-06T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36609360",
+          "home": "SC Recife PE",
+          "away": "Sao Bernardo FC",
+          "kickoff_utc": "2026-10-06T22:30:00+00:00"
+        },
+        {
+          "event_id": "36597225",
+          "home": "Goias EC GO",
+          "away": "Athletic Club Sjdr MG",
+          "kickoff_utc": "2026-10-06T23:30:00+00:00"
         }
       ]
     },
@@ -69,56 +100,6 @@
           "home": "Friburguense AC RJ",
           "away": "Paduano EC RJ",
           "kickoff_utc": "2026-10-06T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "China",
-      "name": "China League 1",
-      "key": "soccer-china-china-league",
-      "events": [
-        {
-          "event_id": "36648301",
-          "home": "Changchun Yatai",
-          "away": "Yanbian Longding",
-          "kickoff_utc": "2026-10-06T11:00:00+00:00"
-        },
-        {
-          "event_id": "36648302",
-          "home": "Wuxi Wugou",
-          "away": "Suzhou Dongwu",
-          "kickoff_utc": "2026-10-06T11:00:00+00:00"
-        },
-        {
-          "event_id": "36648368",
-          "home": "Heilongjiang Ice City",
-          "away": "Meizhou Hakka",
-          "kickoff_utc": "2026-10-06T11:30:00+00:00"
-        },
-        {
-          "event_id": "36648436",
-          "home": "Nantong Zhiyun",
-          "away": "Ningbo Professional",
-          "kickoff_utc": "2026-10-06T11:30:00+00:00"
-        },
-        {
-          "event_id": "36648427",
-          "home": "Shijiazhuang Gongfu FC",
-          "away": "Dalian Kun City",
-          "kickoff_utc": "2026-10-06T11:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "China",
-      "name": "China League 2",
-      "key": "soccer-china-division-2",
-      "events": [
-        {
-          "event_id": "36649315",
-          "home": "Langfang Glory City FC",
-          "away": "Xi An Ronghai",
-          "kickoff_utc": "2026-10-06T11:30:00+00:00"
         }
       ]
     },
@@ -274,6 +255,12 @@
       "key": "soccer-england-isthmian-league-division-one-south-central",
       "events": [
         {
+          "event_id": "36663544",
+          "home": "AFC Stoneham",
+          "away": "Jersey Bulls FC",
+          "kickoff_utc": "2026-10-06T18:45:00+00:00"
+        },
+        {
           "event_id": "36661960",
           "home": "Ashford Town Middlesex",
           "away": "Egham Town FC",
@@ -353,19 +340,6 @@
           "home": "Leamington FC",
           "away": "Halesowen Town FC",
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36660215",
-          "home": "ASC And Center FC",
-          "away": "FC Real Bengaluru",
-          "kickoff_utc": "2026-10-06T10:30:00+00:00"
         }
       ]
     },
@@ -504,12 +478,6 @@
           "kickoff_utc": "2026-10-06T18:45:00+00:00"
         },
         {
-          "event_id": "36662587",
-          "home": "Stafford Rangers",
-          "away": "Atherton Collieries",
-          "kickoff_utc": "2026-10-06T18:45:00+00:00"
-        },
-        {
           "event_id": "36662594",
           "home": "Vauxhall Motors",
           "away": "Shifnal Town",
@@ -538,6 +506,12 @@
           "event_id": "36653841",
           "home": "Mouna FC",
           "away": "Yamoussoukro FC",
+          "kickoff_utc": "2026-10-06T15:30:00+00:00"
+        },
+        {
+          "event_id": "36663543",
+          "home": "Zoman FC",
+          "away": "Club Omnisports de Korhogo",
           "kickoff_utc": "2026-10-06T15:30:00+00:00"
         }
       ]
@@ -628,25 +602,12 @@
           "home": "Sportivo Ameliano",
           "away": "Rubio Nu",
           "kickoff_utc": "2026-10-06T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Primera Division B (APF)",
-      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
-      "events": [
-        {
-          "event_id": "36660549",
-          "home": "Olimpia A. Res.",
-          "away": "Nacional Asuncion",
-          "kickoff_utc": "2026-10-06T11:00:00+00:00"
         },
         {
-          "event_id": "36660548",
-          "home": "Sportivo Trinidense Res.",
-          "away": "Sportivo Luqueno Res.",
-          "kickoff_utc": "2026-10-06T11:00:00+00:00"
+          "event_id": "36565857",
+          "home": "Club Olimpia",
+          "away": "Nacional Asuncion",
+          "kickoff_utc": "2026-10-06T22:15:00+00:00"
         }
       ]
     },
@@ -660,6 +621,12 @@
           "home": "Club Dr Benjamin Aceval",
           "away": "Independiente Campo Grande",
           "kickoff_utc": "2026-10-06T20:00:00+00:00"
+        },
+        {
+          "event_id": "36661034",
+          "home": "Deportivo Santani",
+          "away": "Guairena FC",
+          "kickoff_utc": "2026-10-06T22:30:00+00:00"
         }
       ]
     },
@@ -741,21 +708,15 @@
       ]
     },
     {
-      "category": "Vietnam",
-      "name": "Vietnam Cup",
-      "key": "soccer-vietnam-vietnam-cup",
+      "category": "Uruguay",
+      "name": "Primera Division Amateur",
+      "key": "soccer-uruguay-primera-division-amateur",
       "events": [
         {
-          "event_id": "36657194",
-          "home": "PVF-CAND FC",
-          "away": "Huda Hue",
-          "kickoff_utc": "2026-10-06T11:00:00+00:00"
-        },
-        {
-          "event_id": "36660079",
-          "home": "Truong Tuoi Dong Nai",
-          "away": "Sai Gon FC",
-          "kickoff_utc": "2026-10-06T11:00:00+00:00"
+          "event_id": "36665047",
+          "home": "CA Terremoto Buceo",
+          "away": "Salus FC",
+          "kickoff_utc": "2026-10-06T23:00:00+00:00"
         }
       ]
     },
