@@ -1,7 +1,32 @@
 {
-  "generated_at_utc": "2026-10-06T03:34:36.455811+00:00",
+  "generated_at_utc": "2026-10-06T05:34:39.681638+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Argentina",
+      "name": "Primera C",
+      "key": "soccer-argentina-primera-c",
+      "events": [
+        {
+          "event_id": "36660838",
+          "home": "CA Claypole",
+          "away": "Deportivo Espanol",
+          "kickoff_utc": "2026-10-06T17:00:00+00:00"
+        },
+        {
+          "event_id": "36660840",
+          "home": "CA Fenix Pilar",
+          "away": "CA Atlas",
+          "kickoff_utc": "2026-10-06T17:00:00+00:00"
+        },
+        {
+          "event_id": "36660839",
+          "home": "CDM Leandro N. Alem",
+          "away": "Centro Espanol",
+          "kickoff_utc": "2026-10-06T17:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Bangladesh",
       "name": "Federation Cup",
@@ -101,16 +126,16 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36657406",
-          "home": "Bangalore Dream United FC",
-          "away": "Hal Fc",
-          "kickoff_utc": "2026-10-06T05:30:00+00:00"
-        },
-        {
           "event_id": "36658977",
           "home": "FC Bengaluru United",
           "away": "Rebels FC",
           "kickoff_utc": "2026-10-06T08:00:00+00:00"
+        },
+        {
+          "event_id": "36660215",
+          "home": "ASC And Center FC",
+          "away": "FC Real Bengaluru",
+          "kickoff_utc": "2026-10-06T10:30:00+00:00"
         }
       ]
     },
@@ -150,6 +175,25 @@
           "home": "Boston Cancun FC",
           "away": "Deportiva Venados",
           "kickoff_utc": "2026-10-06T15:00:00+00:00"
+        },
+        {
+          "event_id": "36660551",
+          "home": "Aztecas A.M.F.",
+          "away": "CF America",
+          "kickoff_utc": "2026-10-06T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Norway",
+      "name": "3rd Division Group 1",
+      "key": "soccer-norway-3rd-division-group-1",
+      "events": [
+        {
+          "event_id": "36660098",
+          "home": "Skjetten",
+          "away": "Kongsvinger IL Fotball 2",
+          "kickoff_utc": "2026-10-06T16:00:00+00:00"
         }
       ]
     },
@@ -163,6 +207,38 @@
           "home": "Raufoss IL",
           "away": "IK Start",
           "kickoff_utc": "2026-10-06T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Primera Division B (APF)",
+      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
+      "events": [
+        {
+          "event_id": "36660549",
+          "home": "Olimpia A. Res.",
+          "away": "Nacional Asuncion",
+          "kickoff_utc": "2026-10-06T11:00:00+00:00"
+        },
+        {
+          "event_id": "36660548",
+          "home": "Sportivo Trinidense Res.",
+          "away": "Sportivo Luqueno Res.",
+          "kickoff_utc": "2026-10-06T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Peru",
+      "name": "Segunda Division",
+      "key": "soccer-peru-segunda-division",
+      "events": [
+        {
+          "event_id": "36651932",
+          "home": "Pirata FC",
+          "away": "Ayacucho FC",
+          "kickoff_utc": "2026-10-06T16:00:00+00:00"
         }
       ]
     },
@@ -220,6 +296,12 @@
           "event_id": "36657194",
           "home": "PVF-CAND FC",
           "away": "Huda Hue",
+          "kickoff_utc": "2026-10-06T11:00:00+00:00"
+        },
+        {
+          "event_id": "36660079",
+          "home": "Truong Tuoi Dong Nai",
+          "away": "Sai Gon FC",
           "kickoff_utc": "2026-10-06T11:00:00+00:00"
         }
       ]
