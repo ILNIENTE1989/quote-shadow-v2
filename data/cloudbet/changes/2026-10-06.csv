@@ -3170,3 +3170,37 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-06T12:46:38.363389+02:00,36648301,China League 1,China,Changchun Yatai,Yanbian Longding,2026-10-06T11:00:00+00:00,13.3606,soccer.total_goals,period=ft,under,total=1.75,3.1,3.15
 2026-10-06T12:46:38.363389+02:00,36648301,China League 1,China,Changchun Yatai,Yanbian Longding,2026-10-06T11:00:00+00:00,13.3606,soccer.total_goals,period=ft,under,total=2.25,2.16,2.17
 2026-10-06T12:46:38.363389+02:00,36648301,China League 1,China,Changchun Yatai,Yanbian Longding,2026-10-06T11:00:00+00:00,13.3606,soccer.total_goals,period=ft,under,total=2.75,1.67,1.68
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,home,handicap=-2.5,1.84,1.7
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,away,handicap=-2.5,1.79,1.95
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.double_chance,period=ft,home_draw,,1.01,0.0
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.double_chance,period=ft,home_away,,1.03,0.0
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.double_chance,period=ft,draw_away,,4.7,0.0
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.match_odds,period=ft,home,,1.06,1.04
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.match_odds,period=ft,draw,,8.3,6.75
+2026-10-06T12:48:40.668320+02:00,36657194,Vietnam Cup,Vietnam,PVF-CAND FC,Huda Hue,2026-10-06T11:00:00+00:00,11.3222,soccer.match_odds,period=ft,away,,18.0,23.0
+2026-10-06T12:48:40.668320+02:00,36660079,Vietnam Cup,Vietnam,Truong Tuoi Dong Nai,Sai Gon FC,2026-10-06T11:00:00+00:00,11.3222,soccer.double_chance,period=ft,draw_away,,3.0,3.05
+2026-10-06T12:48:40.668320+02:00,36660079,Vietnam Cup,Vietnam,Truong Tuoi Dong Nai,Sai Gon FC,2026-10-06T11:00:00+00:00,11.3222,soccer.double_chance,period=ft,home_away,,1.12,1.06
+2026-10-06T12:48:40.668320+02:00,36660079,Vietnam Cup,Vietnam,Truong Tuoi Dong Nai,Sai Gon FC,2026-10-06T11:00:00+00:00,11.3222,soccer.double_chance,period=ft,home_draw,,1.06,0.0
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.99,1.98
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.72,1.74
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,home,handicap=-1,3.2,3.15
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,away,handicap=-1,1.26,1.27
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.55,2.5
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.4,1.41
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.55,1.56
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,home,handicap=0,1.7,1.69
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.asian_handicap,period=ft,home,handicap=0.5,1.4,1.41
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=3.25,1.93,1.8
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=3.25,1.77,1.89
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=2.5,1.45,1.38
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=2.5,2.4,2.6
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=2.75,1.54,1.46
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=2.75,2.2,2.35
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=3,1.7,1.59
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=3,1.99,2.15
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=3.5,2.12,1.99
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=3.5,1.61,1.7
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=3.75,2.35,2.2
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=3.75,1.47,1.54
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,over,total=4,2.85,2.6
+2026-10-06T12:48:40.668320+02:00,36660548,Primera Division B (APF),Paraguay,Sportivo Trinidense Res.,Sportivo Luqueno Res.,2026-10-06T11:00:00+00:00,11.3222,soccer.total_goals,period=ft,under,total=4,1.33,1.39
