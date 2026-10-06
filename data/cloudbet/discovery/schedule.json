@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-05T23:31:11.530323+00:00",
+  "generated_at_utc": "2026-10-06T01:32:40.242820+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
-      "events": [
-        {
-          "event_id": "36382077",
-          "home": "CA Banfield",
-          "away": "Club Atletico Rosario Central",
-          "kickoff_utc": "2026-10-06T00:15:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Bangladesh",
       "name": "Federation Cup",
@@ -109,67 +96,28 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36543265",
-          "home": "Independiente Medellin",
-          "away": "Independiente Santa Fe",
-          "kickoff_utc": "2026-10-06T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36606995",
-          "home": "Orsomarso SC",
-          "away": "Deportes Quindio",
-          "kickoff_utc": "2026-10-06T00:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "Fiji Inter District Championship",
-      "key": "soccer-international-tb6b3-fiji-inter-district-championship",
-      "events": [
-        {
-          "event_id": "36655145",
-          "home": "Navua FC",
-          "away": "Nadi FC",
-          "kickoff_utc": "2026-10-06T01:30:00+00:00"
+          "event_id": "36657406",
+          "home": "Bangalore Dream United FC",
+          "away": "Hal Fc",
+          "kickoff_utc": "2026-10-06T05:30:00+00:00"
         }
       ]
     },
     {
       "category": "Mexico",
-      "name": "Liga Premier Serie A",
-      "key": "soccer-mexico-t924f-liga-premier-serie-a",
+      "name": "Liga MX, Apertura",
+      "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
         {
           "event_id": "36636943",
           "home": "Club Celaya FC",
           "away": "Jaguares de Chiapas",
           "kickoff_utc": "2026-10-06T02:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
-      "events": [
-        {
-          "event_id": "36592823",
-          "home": "AF Sporting San Miguelito",
-          "away": "Cocle FC",
-          "kickoff_utc": "2026-10-06T01:00:00+00:00"
         }
       ]
     },
