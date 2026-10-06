@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T19:40:54.952706+00:00",
+  "generated_at_utc": "2026-10-06T21:40:56.600524+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -47,6 +47,19 @@
       ]
     },
     {
+      "category": "China",
+      "name": "China League 2",
+      "key": "soccer-china-division-2",
+      "events": [
+        {
+          "event_id": "36662582",
+          "home": "Taian Tiankuang",
+          "away": "Ganzhou Ruishi FC",
+          "kickoff_utc": "2026-10-07T08:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "International",
       "name": "Fiji Inter District Championship",
       "key": "soccer-international-tb6b3-fiji-inter-district-championship",
@@ -60,16 +73,41 @@
       ]
     },
     {
+      "category": "Japan",
+      "name": "Emperor Cup",
+      "key": "soccer-japan-emperor-cup",
+      "events": [
+        {
+          "event_id": "36663448",
+          "home": "Urawa Red Diamonds",
+          "away": "Omiya Ardija",
+          "kickoff_utc": "2026-10-07T09:00:00+00:00"
+        },
+        {
+          "event_id": "36663447",
+          "home": "Avispa Fukuoka",
+          "away": "Yokohama FC",
+          "kickoff_utc": "2026-10-07T09:30:00+00:00"
+        },
+        {
+          "event_id": "36663438",
+          "home": "Cerezo Osaka",
+          "away": "Kagoshima United",
+          "kickoff_utc": "2026-10-07T09:30:00+00:00"
+        },
+        {
+          "event_id": "36663463",
+          "home": "Sanfrecce Hiroshima",
+          "away": "Iwaki FC",
+          "kickoff_utc": "2026-10-07T09:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Mexico",
       "name": "Mexico Copa Mexico",
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
       "events": [
-        {
-          "event_id": "36663455",
-          "home": "Estudiantes de Queretaro FC",
-          "away": "Queretaro FC",
-          "kickoff_utc": "2026-10-06T21:00:00+00:00"
-        },
         {
           "event_id": "36666894",
           "home": "Soles de Sonora",
@@ -97,12 +135,6 @@
       "key": "soccer-paraguay-primera-division-apertura",
       "events": [
         {
-          "event_id": "36564357",
-          "home": "Sportivo Ameliano",
-          "away": "Rubio Nu",
-          "kickoff_utc": "2026-10-06T20:00:00+00:00"
-        },
-        {
           "event_id": "36565857",
           "home": "Club Olimpia",
           "away": "Nacional Asuncion",
@@ -116,42 +148,10 @@
       "key": "soccer-paraguay-segunda-division",
       "events": [
         {
-          "event_id": "36661025",
-          "home": "Club Dr Benjamin Aceval",
-          "away": "Independiente Campo Grande",
-          "kickoff_utc": "2026-10-06T20:00:00+00:00"
-        },
-        {
           "event_id": "36661034",
           "home": "Deportivo Santani",
           "away": "Guairena FC",
           "kickoff_utc": "2026-10-06T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Peru Cup",
-      "key": "soccer-peru-tc1d5-peru-cup",
-      "events": [
-        {
-          "event_id": "36651170",
-          "home": "Alianza Atletico",
-          "away": "Sport Boys Association",
-          "kickoff_utc": "2026-10-06T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Segunda Division",
-      "key": "soccer-peru-segunda-division",
-      "events": [
-        {
-          "event_id": "36651896",
-          "home": "CDU San Martin",
-          "away": "Alianza Universidad de Huanuco",
-          "kickoff_utc": "2026-10-06T20:30:00+00:00"
         }
       ]
     },
