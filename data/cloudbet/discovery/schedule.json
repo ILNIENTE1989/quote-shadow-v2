@@ -1,38 +1,7 @@
 {
-  "generated_at_utc": "2026-10-06T15:38:40.444334+00:00",
+  "generated_at_utc": "2026-10-06T17:38:41.849970+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Primera C",
-      "key": "soccer-argentina-primera-c",
-      "events": [
-        {
-          "event_id": "36660838",
-          "home": "CA Claypole",
-          "away": "Deportivo Espanol",
-          "kickoff_utc": "2026-10-06T17:00:00+00:00"
-        },
-        {
-          "event_id": "36660840",
-          "home": "CA Fenix Pilar",
-          "away": "CA Atlas",
-          "kickoff_utc": "2026-10-06T17:00:00+00:00"
-        },
-        {
-          "event_id": "36660839",
-          "home": "CDM Leandro N. Alem",
-          "away": "Centro Espanol",
-          "kickoff_utc": "2026-10-06T17:00:00+00:00"
-        },
-        {
-          "event_id": "36663802",
-          "home": "Central Ballester",
-          "away": "Deportivo Muniz",
-          "kickoff_utc": "2026-10-06T17:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
@@ -502,18 +471,6 @@
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
       "events": [
         {
-          "event_id": "36661567",
-          "home": "FC Politecnico",
-          "away": "Atlante FC",
-          "kickoff_utc": "2026-10-06T16:00:00+00:00"
-        },
-        {
-          "event_id": "36660551",
-          "home": "Aztecas A.M.F.",
-          "away": "CF America",
-          "kickoff_utc": "2026-10-06T17:00:00+00:00"
-        },
-        {
           "event_id": "36663455",
           "home": "Estudiantes de Queretaro FC",
           "away": "Queretaro FC",
@@ -537,19 +494,6 @@
           "home": "FC San Marcos",
           "away": "Diriangen FC Diriamba",
           "kickoff_utc": "2026-10-07T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Norway",
-      "name": "3rd Division Group 1",
-      "key": "soccer-norway-3rd-division-group-1",
-      "events": [
-        {
-          "event_id": "36660098",
-          "home": "Skjetten",
-          "away": "Kongsvinger IL Fotball 2",
-          "kickoff_utc": "2026-10-06T16:00:00+00:00"
         }
       ]
     },
@@ -609,12 +553,6 @@
       "name": "Segunda Division",
       "key": "soccer-peru-segunda-division",
       "events": [
-        {
-          "event_id": "36651932",
-          "home": "Pirata FC",
-          "away": "Ayacucho FC",
-          "kickoff_utc": "2026-10-06T16:00:00+00:00"
-        },
         {
           "event_id": "36651934",
           "home": "Union Minas",

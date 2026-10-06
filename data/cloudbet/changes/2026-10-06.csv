@@ -9835,3 +9835,11 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-06T19:36:41.927168+02:00,36618696,EFL Trophy,England,Crawley Town,Bromley FC,2026-10-06T18:45:00+00:00,68.3012,soccer.double_chance,period=ft,home_draw,,1.52,1.51
 2026-10-06T19:36:41.927168+02:00,36618696,EFL Trophy,England,Crawley Town,Bromley FC,2026-10-06T18:45:00+00:00,68.3012,soccer.match_odds,period=ft,home,,2.35,2.4
 2026-10-06T19:36:41.927168+02:00,36633968,FA Cup,England,Halesowen Town FC,Stafford Rangers,2026-10-06T18:45:00+00:00,68.3012,soccer.double_chance,period=ft,draw_away,,1.68,1.69
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.asian_handicap,period=ft,away,handicap=0.5,1.86,1.85
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.asian_handicap,period=ft,away,handicap=0.25,1.65,1.64
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.asian_handicap,period=ft,home,handicap=0.75,1.73,1.74
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.asian_handicap,period=ft,away,handicap=0.75,2.07,2.06
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.double_chance,period=ft,home_away,,1.24,1.23
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.double_chance,period=ft,home_draw,,1.92,1.93
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.total_goals,period=ft,over,total=3,1.89,1.88
+2026-10-06T19:38:41.849970+02:00,36618257,EFL Trophy,England,Newport County,Plymouth Argyle,2026-10-06T18:00:00+00:00,21.3025,soccer.total_goals,period=ft,under,total=2.25,2.85,2.9
