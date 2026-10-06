@@ -745,3 +745,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-06T02:10:53.632377+02:00,36382077,Liga Profesional,Argentina,CA Banfield,Club Atletico Rosario Central,2026-10-06T00:15:00+00:00,4.1061,soccer.total_goals,period=ft,over,total=2,1.67,1.66
 2026-10-06T02:10:53.632377+02:00,36382077,Liga Profesional,Argentina,CA Banfield,Club Atletico Rosario Central,2026-10-06T00:15:00+00:00,4.1061,soccer.total_goals,period=ft,under,total=2.5,1.66,1.67
 2026-10-06T02:10:53.632377+02:00,36382077,Liga Profesional,Argentina,CA Banfield,Club Atletico Rosario Central,2026-10-06T00:15:00+00:00,4.1061,soccer.total_goals,period=ft,under,total=3.5,1.22,1.23
+2026-10-06T02:16:39.573399+02:00,36606995,Primera B,Colombia,Orsomarso SC,Deportes Quindio,2026-10-06T00:30:00+00:00,13.3404,soccer.double_chance,period=ft,draw_away,,1.48,1.49
+2026-10-06T02:16:39.573399+02:00,36606995,Primera B,Colombia,Orsomarso SC,Deportes Quindio,2026-10-06T00:30:00+00:00,13.3404,soccer.double_chance,period=ft,home_away,,1.43,1.4
+2026-10-06T02:16:39.573399+02:00,36606995,Primera B,Colombia,Orsomarso SC,Deportes Quindio,2026-10-06T00:30:00+00:00,13.3404,soccer.double_chance,period=ft,home_draw,,1.37,1.39
+2026-10-06T02:16:39.573399+02:00,36606995,Primera B,Colombia,Orsomarso SC,Deportes Quindio,2026-10-06T00:30:00+00:00,13.3404,soccer.total_goals,period=ft,under,total=2.5,1.52,1.53
