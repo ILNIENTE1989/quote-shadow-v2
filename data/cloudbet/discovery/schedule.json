@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-07T13:48:39.916136+00:00",
+  "generated_at_utc": "2026-10-07T15:48:45.299192+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -229,18 +229,6 @@
       "key": "soccer-egypt-t798b-league-cup",
       "events": [
         {
-          "event_id": "36660983",
-          "home": "Asyut Petroleum",
-          "away": "AL Ahly SC (Egy)",
-          "kickoff_utc": "2026-10-07T14:00:00+00:00"
-        },
-        {
-          "event_id": "36660489",
-          "home": "Pyramids FC",
-          "away": "Alqana",
-          "kickoff_utc": "2026-10-07T14:00:00+00:00"
-        },
-        {
           "event_id": "36660488",
           "home": "Ceramica Cleopatra",
           "away": "Al Masry Club",
@@ -311,6 +299,12 @@
       "key": "soccer-guatemala-primera-division",
       "events": [
         {
+          "event_id": "36682755",
+          "home": "Toros de Taxisco",
+          "away": "Deportivo Nueva Concepcion",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
+        },
+        {
           "event_id": "36676488",
           "home": "Deportivo Gomerano",
           "away": "Quiche FC",
@@ -333,6 +327,12 @@
           "home": "Deportivo Iztapa",
           "away": "Csd Amatitlan",
           "kickoff_utc": "2026-10-07T21:00:00+00:00"
+        },
+        {
+          "event_id": "36682110",
+          "home": "CSD Sacachispas",
+          "away": "Deportivo Fraijanes",
+          "kickoff_utc": "2026-10-08T02:00:00+00:00"
         }
       ]
     },
@@ -373,36 +373,6 @@
       "name": "Coppa Italia Serie D",
       "key": "soccer-italy-coppa-italia-serie-d",
       "events": [
-        {
-          "event_id": "36673724",
-          "home": "ASD Terranuova Traiana",
-          "away": "Prato",
-          "kickoff_utc": "2026-10-07T14:00:00+00:00"
-        },
-        {
-          "event_id": "36677364",
-          "home": "Avola 1949",
-          "away": "ASD Polisportiva Modica Calcio",
-          "kickoff_utc": "2026-10-07T14:00:00+00:00"
-        },
-        {
-          "event_id": "36674773",
-          "home": "AC Este",
-          "away": "Calcio Caldiero Terme",
-          "kickoff_utc": "2026-10-07T15:00:00+00:00"
-        },
-        {
-          "event_id": "36673719",
-          "home": "Biellese",
-          "away": "US Alessandria Calcio 1912",
-          "kickoff_utc": "2026-10-07T15:00:00+00:00"
-        },
-        {
-          "event_id": "36677365",
-          "home": "SSD FC Trapani 1905",
-          "away": "ASD Licata 1931",
-          "kickoff_utc": "2026-10-07T15:30:00+00:00"
-        },
         {
           "event_id": "36673721",
           "home": "AC Pavia",
@@ -467,19 +437,6 @@
       ]
     },
     {
-      "category": "Jordan",
-      "name": "Jordan Cup",
-      "key": "soccer-jordan-jordan-cup",
-      "events": [
-        {
-          "event_id": "36665709",
-          "home": "Amman FC",
-          "away": "Ittihad Jarash",
-          "kickoff_utc": "2026-10-07T14:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Mexico Copa Mexico",
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
@@ -524,29 +481,10 @@
       ]
     },
     {
-      "category": "Nigeria",
-      "name": "NPFL",
-      "key": "soccer-nigeria-professional-league",
-      "events": [
-        {
-          "event_id": "36674770",
-          "home": "Shooting Stars",
-          "away": "Kano Pillars FC",
-          "kickoff_utc": "2026-10-07T15:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Peru",
       "name": "Segunda Division",
       "key": "soccer-peru-segunda-division",
       "events": [
-        {
-          "event_id": "36667320",
-          "home": "AD Cantolao",
-          "away": "Santos FC Nasca",
-          "kickoff_utc": "2026-10-07T15:45:00+00:00"
-        },
         {
           "event_id": "36667683",
           "home": "CD Estudiantil CNI",
@@ -648,19 +586,6 @@
           "home": "Plaza Colonia",
           "away": "CA Juventud de Las Piedras",
           "kickoff_utc": "2026-10-07T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uzbekistan",
-      "name": "Superliga",
-      "key": "soccer-uzbekistan-pfl",
-      "events": [
-        {
-          "event_id": "36665565",
-          "home": "FK Neftchi Fargona",
-          "away": "Xorazm Fk Urganch",
-          "kickoff_utc": "2026-10-07T14:00:00+00:00"
         }
       ]
     },
