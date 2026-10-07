@@ -12754,3 +12754,104 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-07T14:10:57.212672+02:00,36673710,Coppa Italia Serie D,Italy,ASD Flaminia Civita Castellana,Siena 1904,2026-10-07T13:00:00+00:00,49.0465,soccer.total_goals,period=ft,under,total=3.5,1.36,1.37
 2026-10-07T14:10:57.212672+02:00,36673711,Coppa Italia Serie D,Italy,Asd Sasso Marconi 1924,Cittadella Vis Modena,2026-10-07T13:00:00+00:00,49.0465,soccer.double_chance,period=ft,draw_away,,1.29,1.3
 2026-10-07T14:10:57.212672+02:00,36673711,Coppa Italia Serie D,Italy,Asd Sasso Marconi 1924,Cittadella Vis Modena,2026-10-07T13:00:00+00:00,49.0465,soccer.double_chance,period=ft,home_draw,,1.56,1.53
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=0.25,1.74,1.75
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=0.25,1.97,1.96
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.55,2.5
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.51,1.52
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=0.5,2.2,2.19
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=0.75,1.41,1.42
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=1,1.26,1.27
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=1,3.2,3.15
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.match_odds,period=ft,home,,2.6,2.55
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.match_odds,period=ft,draw,,3.45,3.5
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=3,1.91,1.87
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=3,1.78,1.82
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2.25,1.38,1.36
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2.25,2.6,2.7
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2.5,1.55,1.52
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2.5,2.2,2.25
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2.75,1.69,1.65
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2.75,2.0,2.05
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=3.25,2.14,2.09
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=3.25,1.6,1.63
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=3.5,2.35,2.3
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=3.5,1.48,1.5
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=3.75,2.7,2.65
+2026-10-07T14:14:43.840160+02:00,36665904,CLJ,Poland,Wisla Krakow,Polonia Warszawa,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=3.75,1.36,1.38
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=0.5,1.86,1.85
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=0.5,1.83,1.85
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=0.25,2.15,2.13
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=0.75,1.64,1.62
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=0.75,2.08,2.1
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=1,1.41,1.4
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,away,handicap=1,2.5,2.55
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.asian_handicap,period=ft,home,handicap=1.25,1.32,1.31
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.match_odds,period=ft,draw,,3.3,3.25
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.match_odds,period=ft,away,,1.82,1.84
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2.5,1.9,1.97
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2.5,1.79,1.74
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=1.75,1.33,1.36
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=1.75,2.85,2.7
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2,1.43,1.47
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2,2.45,2.35
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2.25,1.67,1.72
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2.25,2.03,1.97
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=2.75,2.15,2.2
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=2.75,1.59,1.55
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=3,2.55,2.7
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=3,1.4,1.36
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,over,total=3.25,2.9,3.0
+2026-10-07T14:14:43.840160+02:00,36673709,Coppa Italia Serie D,Italy,Igea Virtus Barcellona,Reggina 1914,2026-10-07T13:00:00+00:00,45.2693,soccer.total_goals,period=ft,under,total=3.25,1.32,1.29
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.28,1.29
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.57,1.58
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=0.25,1.55,1.56
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=0.5,1.4,1.41
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=0.75,1.27,1.28
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=0.75,3.15,3.1
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2.25,1.88,1.84
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2.25,1.82,1.85
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=1.5,1.33,1.32
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=1.5,2.85,2.9
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=1.75,1.42,1.4
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=1.75,2.5,2.55
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2,1.58,1.55
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2,2.17,2.2
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2.5,2.13,2.09
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2.5,1.6,1.63
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2.75,2.45,2.4
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2.75,1.44,1.46
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=3,3.1,3.0
+2026-10-07T14:14:43.840160+02:00,36662959,2nd Division,Egypt,Luxor SC,Tahta FC,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=3,1.28,1.29
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.27,0.0
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.15,0.0
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-2,0.0,3.45
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-2,0.0,1.22
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.95,2.65
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.31,1.38
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.4,2.25
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.45,1.54
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.16,2.0
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.59,1.71
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-1,1.85,1.69
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-1,1.84,2.01
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.6,1.49
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.14,2.3
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.45,1.38
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.4,2.65
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.match_odds,period=ft,home,,1.46,1.39
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.match_odds,period=ft,draw,,3.25,3.5
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.match_odds,period=ft,away,,7.2,8.15
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2.25,1.99,1.91
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2.25,1.72,1.78
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=1.5,1.39,1.36
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=1.5,2.6,2.7
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=1.75,1.5,1.46
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=1.75,2.3,2.4
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2,1.69,1.63
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2,2.0,2.09
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2.5,2.25,2.16
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2.5,1.54,1.59
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=2.75,2.6,2.45
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=2.75,1.39,1.43
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,over,total=3,3.3,3.1
+2026-10-07T14:14:43.840160+02:00,36680382,2nd Division,Egypt,Ra SC,Alo Egypt,2026-10-07T12:30:00+00:00,15.2693,soccer.total_goals,period=ft,under,total=3,1.25,1.27
