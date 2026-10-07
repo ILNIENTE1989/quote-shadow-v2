@@ -1,7 +1,26 @@
 {
-  "generated_at_utc": "2026-10-07T03:42:40.146491+00:00",
+  "generated_at_utc": "2026-10-07T05:44:39.751125+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Algeria",
+      "name": "Ligue 1",
+      "key": "soccer-algeria-ligue-1",
+      "events": [
+        {
+          "event_id": "36657971",
+          "home": "Ben Aknoun",
+          "away": "Js El Biar",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
+        },
+        {
+          "event_id": "36658199",
+          "home": "CS Constantine",
+          "away": "US Biskra",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Azerbaijan",
       "name": "First Division",
@@ -12,6 +31,25 @@
           "home": "FK Shahdag-Samur Qusar",
           "away": "Zaqatala FK",
           "kickoff_utc": "2026-10-07T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Bahrain",
+      "name": "King of Bahrain Cup",
+      "key": "soccer-bahrain-king-of-bahrain-cup",
+      "events": [
+        {
+          "event_id": "36665706",
+          "home": "AL Tadamun Buri",
+          "away": "Etehad Alreef",
+          "kickoff_utc": "2026-10-07T16:00:00+00:00"
+        },
+        {
+          "event_id": "36665708",
+          "home": "Busaiteen",
+          "away": "Qalali Club",
+          "kickoff_utc": "2026-10-07T16:00:00+00:00"
         }
       ]
     },
@@ -118,6 +156,44 @@
           "home": "Pyramids FC",
           "away": "Alqana",
           "kickoff_utc": "2026-10-07T14:00:00+00:00"
+        },
+        {
+          "event_id": "36660488",
+          "home": "Ceramica Cleopatra",
+          "away": "Al Masry Club",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
+        },
+        {
+          "event_id": "36660820",
+          "home": "Zamalek SC",
+          "away": "Zed FC",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Finland",
+      "name": "Veikkausliiga",
+      "key": "soccer-finland-veikkausliiga",
+      "events": [
+        {
+          "event_id": "36449259",
+          "home": "IF Gnistan",
+          "away": "FC Inter Turku",
+          "kickoff_utc": "2026-10-07T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Finland",
+      "name": "Ykkonen",
+      "key": "soccer-finland-ykkonen",
+      "events": [
+        {
+          "event_id": "36653117",
+          "home": "KuPS Akatemia",
+          "away": "FC Inter Turku",
+          "kickoff_utc": "2026-10-07T16:00:00+00:00"
         }
       ]
     },
@@ -127,16 +203,16 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36672747",
-          "home": "Bangalore City FC",
-          "away": "Prarikrma FC",
-          "kickoff_utc": "2026-10-07T05:30:00+00:00"
-        },
-        {
           "event_id": "36674173",
           "home": "Megt & Centre",
           "away": "Bengaluru FC",
           "kickoff_utc": "2026-10-07T08:00:00+00:00"
+        },
+        {
+          "event_id": "36675651",
+          "home": "Stride Sports FC",
+          "away": "Bengaluru FC",
+          "kickoff_utc": "2026-10-07T10:30:00+00:00"
         }
       ]
     },
@@ -145,12 +221,6 @@
       "name": "Fiji Inter District Championship",
       "key": "soccer-international-tb6b3-fiji-inter-district-championship",
       "events": [
-        {
-          "event_id": "36672753",
-          "home": "Ba FC",
-          "away": "Navua FC",
-          "kickoff_utc": "2026-10-07T05:30:00+00:00"
-        },
         {
           "event_id": "36673952",
           "home": "Labasa FC",
@@ -290,6 +360,18 @@
           "home": "Biellese",
           "away": "US Alessandria Calcio 1912",
           "kickoff_utc": "2026-10-07T15:00:00+00:00"
+        },
+        {
+          "event_id": "36675652",
+          "home": "ASD Seravezza Pozzi Calcio",
+          "away": "Lucchese Libertas 1905",
+          "kickoff_utc": "2026-10-07T16:30:00+00:00"
+        },
+        {
+          "event_id": "36675787",
+          "home": "Vigor Lamezia",
+          "away": "ASD Gelbison",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
         }
       ]
     },
@@ -377,6 +459,19 @@
           "home": "Shooting Stars",
           "away": "Kano Pillars FC",
           "kickoff_utc": "2026-10-07T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Peru",
+      "name": "Segunda Division",
+      "key": "soccer-peru-segunda-division",
+      "events": [
+        {
+          "event_id": "36667320",
+          "home": "AD Cantolao",
+          "away": "Santos FC Nasca",
+          "kickoff_utc": "2026-10-07T15:45:00+00:00"
         }
       ]
     },
@@ -494,6 +589,12 @@
           "home": "Karabuk Idmanyurdu Spor",
           "away": "Tuzlaspor",
           "kickoff_utc": "2026-10-07T12:00:00+00:00"
+        },
+        {
+          "event_id": "36673192",
+          "home": "Eskisehirspor",
+          "away": "Akşehirspor",
+          "kickoff_utc": "2026-10-07T17:00:00+00:00"
         }
       ]
     },
