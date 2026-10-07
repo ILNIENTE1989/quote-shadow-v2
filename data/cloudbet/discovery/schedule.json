@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-07T19:50:58.817148+00:00",
+  "generated_at_utc": "2026-10-07T21:52:42.314912+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -7,12 +7,6 @@
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36678833",
-          "home": "Independiente Petrolero",
-          "away": "San Jose Oruro",
-          "kickoff_utc": "2026-10-07T21:30:00+00:00"
-        },
         {
           "event_id": "36681048",
           "home": "Guabira Montero",
@@ -148,52 +142,15 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36656215",
-          "home": "Itagui Leones FC",
-          "away": "Barranquilla FC",
-          "kickoff_utc": "2026-10-07T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Primera Division",
       "key": "soccer-guatemala-primera-division",
       "events": [
         {
-          "event_id": "36678297",
-          "home": "Aff Guatemala",
-          "away": "Nueva Santa Rosa Cdf",
-          "kickoff_utc": "2026-10-07T21:00:00+00:00"
-        },
-        {
-          "event_id": "36683830",
-          "home": "Club America Salcaja",
-          "away": "Sija FC",
-          "kickoff_utc": "2026-10-07T21:00:00+00:00"
-        },
-        {
-          "event_id": "36683835",
-          "home": "Cuilapa FC",
-          "away": "Monjas",
-          "kickoff_utc": "2026-10-07T21:00:00+00:00"
-        },
-        {
-          "event_id": "36683324",
-          "home": "Deportivo Carcha",
-          "away": "Club Juventud Teculuteca",
-          "kickoff_utc": "2026-10-07T21:00:00+00:00"
-        },
-        {
-          "event_id": "36678298",
-          "home": "Deportivo Iztapa",
-          "away": "Csd Amatitlan",
-          "kickoff_utc": "2026-10-07T21:00:00+00:00"
+          "event_id": "36685916",
+          "home": "San Jose Del Golfo",
+          "away": "Deportivo Catocha",
+          "kickoff_utc": "2026-10-08T01:00:00+00:00"
         },
         {
           "event_id": "36682110",
@@ -221,12 +178,6 @@
       "name": "Mexico Copa Mexico",
       "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
       "events": [
-        {
-          "event_id": "36678834",
-          "home": "Huracanes Izcalli FC",
-          "away": "Pumas UNAM",
-          "kickoff_utc": "2026-10-07T21:30:00+00:00"
-        },
         {
           "event_id": "36679158",
           "home": "Cordobes FC",
@@ -261,19 +212,6 @@
       ]
     },
     {
-      "category": "Peru",
-      "name": "Segunda Division",
-      "key": "soccer-peru-segunda-division",
-      "events": [
-        {
-          "event_id": "36667683",
-          "home": "CD Estudiantil CNI",
-          "away": "CD Universidad Cesar Vallejo",
-          "kickoff_utc": "2026-10-07T20:15:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Uruguay",
       "name": "Copa Uruguay",
       "key": "soccer-uruguay-t82ec-copa-uruguay",
@@ -297,12 +235,6 @@
       "name": "Copa Venezuela",
       "key": "soccer-venezuela-copa-venezuela",
       "events": [
-        {
-          "event_id": "36667064",
-          "home": "Urena SC",
-          "away": "Trujillanos FC",
-          "kickoff_utc": "2026-10-07T20:00:00+00:00"
-        },
         {
           "event_id": "36666620",
           "home": "Caracas FC",
