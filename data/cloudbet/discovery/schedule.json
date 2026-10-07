@@ -1,7 +1,20 @@
 {
-  "generated_at_utc": "2026-10-07T21:52:42.314912+00:00",
+  "generated_at_utc": "2026-10-07T23:54:38.351938+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Azerbaijan",
+      "name": "First Division",
+      "key": "soccer-azerbaijan-first-division",
+      "events": [
+        {
+          "event_id": "36687654",
+          "home": "Sabail FK",
+          "away": "FK Karvan Yevlakh",
+          "kickoff_utc": "2026-10-08T11:30:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
@@ -27,117 +40,10 @@
       "key": "soccer-brazil-brasileiro-serie-a",
       "events": [
         {
-          "event_id": "36435229",
-          "home": "Clube do Remo PA",
-          "away": "Gremio FB Porto Alegrense RS",
-          "kickoff_utc": "2026-10-07T22:30:00+00:00"
-        },
-        {
-          "event_id": "36435228",
-          "home": "Red Bull Bragantino SP",
-          "away": "Mirassol FC SP",
-          "kickoff_utc": "2026-10-07T22:30:00+00:00"
-        },
-        {
-          "event_id": "36435230",
-          "home": "SC Internacional RS",
-          "away": "SC Corinthians SP",
-          "kickoff_utc": "2026-10-07T22:30:00+00:00"
-        },
-        {
-          "event_id": "36435231",
-          "home": "EC Vitoria BA",
-          "away": "Chapecoense SC",
-          "kickoff_utc": "2026-10-07T23:00:00+00:00"
-        },
-        {
-          "event_id": "36435232",
-          "home": "Botafogo FR RJ",
-          "away": "CR Vasco da Gama RJ",
-          "kickoff_utc": "2026-10-07T23:30:00+00:00"
-        },
-        {
           "event_id": "36435233",
           "home": "Cruzeiro EC MG",
           "away": "Sao Paulo FC SP",
           "kickoff_utc": "2026-10-08T00:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie B",
-      "key": "soccer-brazil-brasileiro-serie-b",
-      "events": [
-        {
-          "event_id": "36609416",
-          "home": "Avai FC SC",
-          "away": "Londrina EC PR",
-          "kickoff_utc": "2026-10-07T22:30:00+00:00"
-        },
-        {
-          "event_id": "36609397",
-          "home": "Operario Ferroviario EC PR",
-          "away": "Botafogo FC SP",
-          "kickoff_utc": "2026-10-07T22:30:00+00:00"
-        },
-        {
-          "event_id": "36609422",
-          "home": "America FC MG",
-          "away": "Fortaleza EC CE",
-          "kickoff_utc": "2026-10-07T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
-      "events": [
-        {
-          "event_id": "36683104",
-          "home": "Sao Paulo Crystal FC",
-          "away": "Grêmio Recreativo Serrano (PB)",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Piauiense 2 (PI)",
-      "key": "soccer-brazil-tc4ae-brazil-campeonato-piauiense-2-pi",
-      "events": [
-        {
-          "event_id": "36668164",
-          "home": "Comercial AC (PI)",
-          "away": "EC Flamengo (PI)",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Gaucho, Serie B",
-      "key": "soccer-brazil-gaucho-2nd-division",
-      "events": [
-        {
-          "event_id": "36683284",
-          "home": "Clube 1992",
-          "away": "SC São Paulo (RS)",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Chile",
-      "name": "Tercera Division",
-      "key": "soccer-chile-tercera-division",
-      "events": [
-        {
-          "event_id": "36680024",
-          "home": "Club de Deportes Quintero Unido",
-          "away": "Lautaro de Bui­n",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
         }
       ]
     },
@@ -161,6 +67,19 @@
       ]
     },
     {
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
+      "events": [
+        {
+          "event_id": "36687652",
+          "home": "Roots FC",
+          "away": "Kodagu Fc",
+          "kickoff_utc": "2026-10-08T05:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "International",
       "name": "Fiji Inter District Championship",
       "key": "soccer-international-tb6b3-fiji-inter-district-championship",
@@ -170,31 +89,25 @@
           "home": "Lautoka FC",
           "away": "Navua FC",
           "kickoff_utc": "2026-10-08T01:30:00+00:00"
+        },
+        {
+          "event_id": "36687653",
+          "home": "Nadi FC",
+          "away": "Ba FC",
+          "kickoff_utc": "2026-10-08T05:30:00+00:00"
         }
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Mexico Copa Mexico",
-      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
+      "category": "International Clubs",
+      "name": "ASEAN Club Championship",
+      "key": "soccer-international-clubs-ta064-asean-club-championship",
       "events": [
         {
-          "event_id": "36679158",
-          "home": "Cordobes FC",
-          "away": "Artesanos Metepec FC",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        },
-        {
-          "event_id": "36679157",
-          "home": "Titanes de Queretaro",
-          "away": "Club Celaya FC",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        },
-        {
-          "event_id": "36679767",
-          "home": "Inter Playa Del Carmen",
-          "away": "Ejidatarios de Bonfil FC",
-          "kickoff_utc": "2026-10-07T23:00:00+00:00"
+          "event_id": "36672748",
+          "home": "Lion City Sailors FC",
+          "away": "Hanoi Police FC",
+          "kickoff_utc": "2026-10-08T11:30:00+00:00"
         }
       ]
     },
@@ -208,50 +121,6 @@
           "home": "Unan Managua",
           "away": "Real Esteli FC",
           "kickoff_utc": "2026-10-08T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Copa Uruguay",
-      "key": "soccer-uruguay-t82ec-copa-uruguay",
-      "events": [
-        {
-          "event_id": "36667093",
-          "home": "Libertad",
-          "away": "CA Bella Vista",
-          "kickoff_utc": "2026-10-07T23:00:00+00:00"
-        },
-        {
-          "event_id": "36657172",
-          "home": "Plaza Colonia",
-          "away": "CA Juventud de Las Piedras",
-          "kickoff_utc": "2026-10-07T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Venezuela",
-      "name": "Copa Venezuela",
-      "key": "soccer-venezuela-copa-venezuela",
-      "events": [
-        {
-          "event_id": "36666620",
-          "home": "Caracas FC",
-          "away": "Yaracuyanos FC",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        },
-        {
-          "event_id": "36667046",
-          "home": "Dynamo Puerto FC",
-          "away": "Club Bolivar",
-          "kickoff_utc": "2026-10-07T22:00:00+00:00"
-        },
-        {
-          "event_id": "36666889",
-          "home": "Barquisimeto SC",
-          "away": "Aragua FC",
-          "kickoff_utc": "2026-10-07T22:30:00+00:00"
         }
       ]
     }
