@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08T12:01:34.053786+00:00",
+  "generated_at_utc": "2026-10-08T14:02:50.669704+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -62,6 +62,18 @@
           "home": "CA Paranaense PR",
           "away": "Atletico Mineiro MG",
           "kickoff_utc": "2026-10-08T23:00:00+00:00"
+        },
+        {
+          "event_id": "36435236",
+          "home": "Fluminense FC RJ",
+          "away": "Coritiba FC PR",
+          "kickoff_utc": "2026-10-09T00:30:00+00:00"
+        },
+        {
+          "event_id": "36435237",
+          "home": "SE Palmeiras SP",
+          "away": "EC Bahia BA",
+          "kickoff_utc": "2026-10-09T00:30:00+00:00"
         }
       ]
     },
@@ -85,6 +97,25 @@
       ]
     },
     {
+      "category": "Brazil",
+      "name": "Brazil Campeonato Paraibano (PB) Division 2",
+      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
+      "events": [
+        {
+          "event_id": "36695611",
+          "home": "Picuiense PB",
+          "away": "Paraíba SC (PB)",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
+        },
+        {
+          "event_id": "36695612",
+          "home": "Spartax FC",
+          "away": "CD Cruzeiro",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
@@ -94,6 +125,12 @@
           "home": "Atletico Nacional Medellin",
           "away": "CD Tolima",
           "kickoff_utc": "2026-10-08T23:05:00+00:00"
+        },
+        {
+          "event_id": "36640247",
+          "home": "Fortaleza FC",
+          "away": "Millonarios FC",
+          "kickoff_utc": "2026-10-09T01:10:00+00:00"
         }
       ]
     },
@@ -118,58 +155,9 @@
     },
     {
       "category": "Egypt",
-      "name": "Egypt Division 2 A",
-      "key": "soccer-egypt-tbb45-egypt-division-2-a",
-      "events": [
-        {
-          "event_id": "36674207",
-          "home": "Al Nasr (EGY)",
-          "away": "Proxy SC",
-          "kickoff_utc": "2026-10-08T12:30:00+00:00"
-        },
-        {
-          "event_id": "36675510",
-          "home": "Delta United FC",
-          "away": "Dayrout",
-          "kickoff_utc": "2026-10-08T12:30:00+00:00"
-        },
-        {
-          "event_id": "36674810",
-          "home": "El Terasanah",
-          "away": "Kahrabaa Ismailia",
-          "kickoff_utc": "2026-10-08T12:30:00+00:00"
-        },
-        {
-          "event_id": "36674646",
-          "home": "FC Masar",
-          "away": "El Daklyeh",
-          "kickoff_utc": "2026-10-08T12:30:00+00:00"
-        },
-        {
-          "event_id": "36674897",
-          "home": "Haras El Hodood",
-          "away": "El Sekka El Hadid",
-          "kickoff_utc": "2026-10-08T12:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Egypt",
       "name": "League Cup",
       "key": "soccer-egypt-t798b-league-cup",
       "events": [
-        {
-          "event_id": "36673714",
-          "home": "Al Ittihad Al Sakandary",
-          "away": "Wadi Degla SC",
-          "kickoff_utc": "2026-10-08T14:00:00+00:00"
-        },
-        {
-          "event_id": "36675133",
-          "home": "Al Mokawloon Al Arab",
-          "away": "El Gouna FC",
-          "kickoff_utc": "2026-10-08T14:00:00+00:00"
-        },
         {
           "event_id": "36674906",
           "home": "Future FC",
@@ -181,6 +169,19 @@
           "home": "Ghazl El Mahallah",
           "away": "ABO QAIR SEMADS",
           "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "El Salvador",
+      "name": "Primera Division, Clausura",
+      "key": "soccer-el-salvador-primera-division-clausura",
+      "events": [
+        {
+          "event_id": "36683321",
+          "home": "CD FAS Santa Ana",
+          "away": "Alianza FC San Salvador",
+          "kickoff_utc": "2026-10-09T01:30:00+00:00"
         }
       ]
     },
@@ -204,28 +205,28 @@
       ]
     },
     {
-      "category": "International",
-      "name": "Mocambola",
-      "key": "soccer-international-mocambola",
+      "category": "Guatemala",
+      "name": "Liga Nacional. Clausura",
+      "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
         {
-          "event_id": "36688720",
-          "home": "Ferroviario de Maputo",
-          "away": "Vilankulo FC",
-          "kickoff_utc": "2026-10-08T13:00:00+00:00"
+          "event_id": "36696558",
+          "home": "Antigua GFC",
+          "away": "CSD Municipal",
+          "kickoff_utc": "2026-10-09T01:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Iraq",
-      "name": "Iraq Premier Division",
-      "key": "soccer-iraq-tb7d4-iraq-premier-division",
+      "category": "Guatemala",
+      "name": "Primera Division",
+      "key": "soccer-guatemala-primera-division",
       "events": [
         {
-          "event_id": "36691661",
-          "home": "Al-Ramadi FC",
-          "away": "Al Nasiriyah",
-          "kickoff_utc": "2026-10-08T12:30:00+00:00"
+          "event_id": "36696816",
+          "home": "Deportivo Colomba",
+          "away": "Deportivo Tacaná",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
         }
       ]
     },
@@ -322,31 +323,6 @@
       ]
     },
     {
-      "category": "Jordan",
-      "name": "Jordan Cup",
-      "key": "soccer-jordan-jordan-cup",
-      "events": [
-        {
-          "event_id": "36688682",
-          "home": "Hayy Al-Amir Hassan",
-          "away": "Al Tora",
-          "kickoff_utc": "2026-10-08T13:00:00+00:00"
-        },
-        {
-          "event_id": "36692983",
-          "home": "Sama",
-          "away": "Ittihad AL Ramtha",
-          "kickoff_utc": "2026-10-08T13:00:00+00:00"
-        },
-        {
-          "event_id": "36689293",
-          "home": "Al Yarmouk",
-          "away": "FC Maan",
-          "kickoff_utc": "2026-10-08T14:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Kuwait",
       "name": "Division 1",
       "key": "soccer-kuwait-division-1",
@@ -362,6 +338,19 @@
           "home": "Sporty FC",
           "away": "Khaitan SC",
           "kickoff_utc": "2026-10-08T14:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
+      "name": "Liga de Expansion MX, Apertura",
+      "key": "soccer-mexico-liga-de-ascenso-apertura",
+      "events": [
+        {
+          "event_id": "36628985",
+          "home": "Alebrijes de Oaxaca FC",
+          "away": "CF Correcaminos UAT",
+          "kickoff_utc": "2026-10-09T01:00:00+00:00"
         }
       ]
     },
@@ -444,6 +433,25 @@
           "home": "Bentin Tacna Heroica",
           "away": "Carlos Mannucci",
           "kickoff_utc": "2026-10-08T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Republic Of Ireland",
+      "name": "Leinster Senior League, Senior Division",
+      "key": "soccer-ireland-leinster-senior-league-senior-division",
+      "events": [
+        {
+          "event_id": "36696112",
+          "home": "Drogheda Town FC",
+          "away": "Leicester Celtic FC",
+          "kickoff_utc": "2026-10-08T18:45:00+00:00"
+        },
+        {
+          "event_id": "36696663",
+          "home": "Home Farm FC",
+          "away": "Killester Donnycarney FC",
+          "kickoff_utc": "2026-10-08T18:45:00+00:00"
         }
       ]
     },
@@ -556,12 +564,6 @@
       "key": "soccer-turkey-turkiye-kupasi",
       "events": [
         {
-          "event_id": "36689303",
-          "home": "Denizli Idman Yurdu",
-          "away": "Serik Belediyespor",
-          "kickoff_utc": "2026-10-08T14:00:00+00:00"
-        },
-        {
           "event_id": "36679340",
           "home": "Orduspor 1967",
           "away": "Karadeniz Eregli Bld",
@@ -574,18 +576,6 @@
       "name": "League Cup",
       "key": "soccer-united-arab-emirates-league-cup",
       "events": [
-        {
-          "event_id": "36678453",
-          "home": "Al-Ain FC",
-          "away": "Al-Ittihad Kalba",
-          "kickoff_utc": "2026-10-08T13:10:00+00:00"
-        },
-        {
-          "event_id": "36678131",
-          "home": "Shabab Al-Ahli Dubai FC",
-          "away": "United",
-          "kickoff_utc": "2026-10-08T13:10:00+00:00"
-        },
         {
           "event_id": "36678454",
           "home": "Al-Nasr Dubai CSC",
