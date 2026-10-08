@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08T09:58:42.488214+00:00",
+  "generated_at_utc": "2026-10-08T12:01:34.053786+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -28,19 +28,6 @@
       ]
     },
     {
-      "category": "Azerbaijan",
-      "name": "First Division",
-      "key": "soccer-azerbaijan-first-division",
-      "events": [
-        {
-          "event_id": "36687654",
-          "home": "Sabail FK",
-          "away": "FK Karvan Yevlakh",
-          "kickoff_utc": "2026-10-08T11:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Bahrain",
       "name": "King of Bahrain Cup",
       "key": "soccer-bahrain-king-of-bahrain-cup",
@@ -56,6 +43,57 @@
           "home": "Um Alhassam",
           "away": "Isa Town",
           "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brasileiro Serie A",
+      "key": "soccer-brazil-brasileiro-serie-a",
+      "events": [
+        {
+          "event_id": "36435234",
+          "home": "Santos FC SP",
+          "away": "CR Flamengo RJ",
+          "kickoff_utc": "2026-10-08T22:30:00+00:00"
+        },
+        {
+          "event_id": "36435235",
+          "home": "CA Paranaense PR",
+          "away": "Atletico Mineiro MG",
+          "kickoff_utc": "2026-10-08T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36609426",
+          "home": "Ceara SC CE",
+          "away": "Criciuma EC SC",
+          "kickoff_utc": "2026-10-08T22:30:00+00:00"
+        },
+        {
+          "event_id": "36609429",
+          "home": "Nautico PE",
+          "away": "Gremio Novorizontino SP",
+          "kickoff_utc": "2026-10-08T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36626420",
+          "home": "Atletico Nacional Medellin",
+          "away": "CD Tolima",
+          "kickoff_utc": "2026-10-08T23:05:00+00:00"
         }
       ]
     },
@@ -166,19 +204,6 @@
       ]
     },
     {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36690571",
-          "home": "Kickstart Fc",
-          "away": "United Stars FC",
-          "kickoff_utc": "2026-10-08T10:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "International",
       "name": "Mocambola",
       "key": "soccer-international-mocambola",
@@ -188,31 +213,6 @@
           "home": "Ferroviario de Maputo",
           "away": "Vilankulo FC",
           "kickoff_utc": "2026-10-08T13:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International Clubs",
-      "name": "ASEAN Club Championship",
-      "key": "soccer-international-clubs-ta064-asean-club-championship",
-      "events": [
-        {
-          "event_id": "36672748",
-          "home": "Lion City Sailors FC",
-          "away": "Hanoi Police FC",
-          "kickoff_utc": "2026-10-08T11:30:00+00:00"
-        },
-        {
-          "event_id": "36672834",
-          "home": "Johor Darul Ta'zim FC",
-          "away": "Preah Khan Reach Svay Rieng FC",
-          "kickoff_utc": "2026-10-08T12:00:00+00:00"
-        },
-        {
-          "event_id": "36673122",
-          "home": "Port FC",
-          "away": "Persib Bandung",
-          "kickoff_utc": "2026-10-08T12:00:00+00:00"
         }
       ]
     },
@@ -265,6 +265,12 @@
           "kickoff_utc": "2026-10-08T16:40:00+00:00"
         },
         {
+          "event_id": "36695056",
+          "home": "MS Tira",
+          "away": "Ironi Nesher",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
           "event_id": "36691131",
           "home": "Hapoel Herzelia FC",
           "away": "Hapoel Mahane Yehuda",
@@ -274,6 +280,43 @@
           "event_id": "36691271",
           "home": "Baqa Al-Gharbiyye",
           "away": "Hapoel Nof Hagalil FC",
+          "kickoff_utc": "2026-10-08T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36694608",
+          "home": "Ironi Ashkelon",
+          "away": "Ihud Tzeirey Abu Gosh",
+          "kickoff_utc": "2026-10-08T16:45:00+00:00"
+        },
+        {
+          "event_id": "36694957",
+          "home": "Beitar Tel Aviv Bat Yam FC",
+          "away": "Hapoel Kiryat Ono",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
+          "event_id": "36694958",
+          "home": "MS Shikun Hamizrach",
+          "away": "MS Hapoel Yeroham",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
+          "event_id": "36694956",
+          "home": "Maccabi Bnei Abu Snan",
+          "away": "Hapoel Dir Hana",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
+          "event_id": "36695356",
+          "home": "MS Bnei Jaffa Ortodoxim",
+          "away": "SC Hapoel Lod",
           "kickoff_utc": "2026-10-08T17:30:00+00:00"
         }
       ]
@@ -304,19 +347,6 @@
       ]
     },
     {
-      "category": "Kazakhstan",
-      "name": "Pervaya Liga",
-      "key": "soccer-kazakhstan-pervaya-liga",
-      "events": [
-        {
-          "event_id": "36693711",
-          "home": "Shakhter Karagandy",
-          "away": "Akademia Ontustyk",
-          "kickoff_utc": "2026-10-08T10:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Kuwait",
       "name": "Division 1",
       "key": "soccer-kuwait-division-1",
@@ -340,12 +370,6 @@
       "name": "1. CFL",
       "key": "soccer-montenegro-1-cfl",
       "events": [
-        {
-          "event_id": "36666503",
-          "home": "FK Arsenal Tivat",
-          "away": "FK Decic Tuzi",
-          "kickoff_utc": "2026-10-08T12:00:00+00:00"
-        },
         {
           "event_id": "36668261",
           "home": "FK Bokelj Kotor",
@@ -420,19 +444,6 @@
           "home": "Bentin Tacna Heroica",
           "away": "Carlos Mannucci",
           "kickoff_utc": "2026-10-08T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Philippines",
-      "name": "Philippines UAAP Football Championship",
-      "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
-      "events": [
-        {
-          "event_id": "36690941",
-          "home": "Adamson Falcons Students",
-          "away": "Ateneo Blue Eagles Students",
-          "kickoff_utc": "2026-10-08T11:00:00+00:00"
         }
       ]
     },
@@ -512,6 +523,12 @@
       "name": "Tercera Federacion, Group 7",
       "key": "soccer-spain-tercera-division-group-7",
       "events": [
+        {
+          "event_id": "36695251",
+          "home": "Beti Kozkor KE",
+          "away": "CD Beti Onak",
+          "kickoff_utc": "2026-10-08T17:45:00+00:00"
+        },
         {
           "event_id": "36684438",
           "home": "Udc Chantrea",
