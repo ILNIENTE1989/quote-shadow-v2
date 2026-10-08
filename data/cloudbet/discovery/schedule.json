@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-08T18:04:46.144827+00:00",
+  "generated_at_utc": "2026-10-08T20:06:49.965262+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Algeria",
-      "name": "Ligue 1",
-      "key": "soccer-algeria-ligue-1",
-      "events": [
-        {
-          "event_id": "36669968",
-          "home": "MC Oran",
-          "away": "ES Setif",
-          "kickoff_utc": "2026-10-08T19:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Brazil",
       "name": "Brasileiro Serie A",
@@ -169,19 +156,6 @@
       ]
     },
     {
-      "category": "Morocco",
-      "name": "Botola",
-      "key": "soccer-morocco-botola",
-      "events": [
-        {
-          "event_id": "36670614",
-          "home": "Maghreb AS de Fes",
-          "away": "Raja Casablanca Athletic",
-          "kickoff_utc": "2026-10-08T20:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Peru",
       "name": "Primera Division",
       "key": "soccer-peru-primera-division",
@@ -195,51 +169,6 @@
       ]
     },
     {
-      "category": "Peru",
-      "name": "Segunda Division",
-      "key": "soccer-peru-segunda-division",
-      "events": [
-        {
-          "event_id": "36678422",
-          "home": "Bentin Tacna Heroica",
-          "away": "Carlos Mannucci",
-          "kickoff_utc": "2026-10-08T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Republic Of Ireland",
-      "name": "Leinster Senior League, Senior Division",
-      "key": "soccer-ireland-leinster-senior-league-senior-division",
-      "events": [
-        {
-          "event_id": "36696112",
-          "home": "Drogheda Town FC",
-          "away": "Leicester Celtic FC",
-          "kickoff_utc": "2026-10-08T18:45:00+00:00"
-        },
-        {
-          "event_id": "36696663",
-          "home": "Home Farm FC",
-          "away": "Killester Donnycarney FC",
-          "kickoff_utc": "2026-10-08T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Republic Of Ireland",
-      "name": "Premier Division",
-      "key": "soccer-ireland-premier-division",
-      "events": [
-        {
-          "event_id": "36470614",
-          "home": "Shamrock Rovers",
-          "away": "Drogheda United FC",
-          "kickoff_utc": "2026-10-08T19:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Republic Of Korea",
       "name": "K-League 1",
       "key": "soccer-south-korea-k-league-1",
@@ -249,6 +178,18 @@
           "home": "Daejeon Citizen FC",
           "away": "Jeonbuk Hyundai Motors",
           "kickoff_utc": "2026-10-09T05:00:00+00:00"
+        },
+        {
+          "event_id": "36601574",
+          "home": "Gangwon FC",
+          "away": "Bucheon FC 1995",
+          "kickoff_utc": "2026-10-09T07:30:00+00:00"
+        },
+        {
+          "event_id": "36601576",
+          "home": "Incheon United FC",
+          "away": "Pohang Steelers FC",
+          "kickoff_utc": "2026-10-09T07:30:00+00:00"
         }
       ]
     },
@@ -262,19 +203,18 @@
           "home": "Suwon FC",
           "away": "Hwaseong FC",
           "kickoff_utc": "2026-10-09T05:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Preferente Autonomica",
-      "key": "soccer-spain-t9041-preferente-autonomica",
-      "events": [
+        },
         {
-          "event_id": "36691705",
-          "home": "CD Onda",
-          "away": "Silla CF",
-          "kickoff_utc": "2026-10-08T18:30:00+00:00"
+          "event_id": "36601947",
+          "home": "Chungbuk Cheongju FC",
+          "away": "Seongnam Ilhwa",
+          "kickoff_utc": "2026-10-09T07:30:00+00:00"
+        },
+        {
+          "event_id": "36601946",
+          "home": "Gimpo FC",
+          "away": "Seoul E-Land FC",
+          "kickoff_utc": "2026-10-09T07:30:00+00:00"
         }
       ]
     }
