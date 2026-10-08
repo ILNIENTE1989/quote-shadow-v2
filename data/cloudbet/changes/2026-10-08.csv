@@ -7787,3 +7787,32 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-08T16:28:43.572597+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,21.2738,soccer.total_goals,period=ft,under,total=3,1.47,1.49
 2026-10-08T16:28:43.572597+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,21.2738,soccer.total_goals,period=ft,over,total=3.25,2.65,2.6
 2026-10-08T16:28:43.572597+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,21.2738,soccer.total_goals,period=ft,under,total=3.25,1.37,1.39
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,home,handicap=0.75,1.87,1.85
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,away,handicap=0.75,1.82,1.84
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,home,handicap=0,3.3,3.25
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,home,handicap=0.25,2.5,2.45
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,away,handicap=0.25,1.43,1.44
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,home,handicap=0.5,2.11,2.09
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,away,handicap=0.5,1.62,1.63
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,home,handicap=1,1.59,1.58
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,away,handicap=1,2.15,2.18
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.asian_handicap,period=ft,away,handicap=1.25,2.45,2.5
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.match_odds,period=ft,draw,,3.6,3.55
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.match_odds,period=ft,away,,1.62,1.63
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.total_goals,period=ft,over,total=1.75,1.27,1.28
+2026-10-08T16:31:24.153975+02:00,36689851,Division 1,Kuwait,Burgan SC,AL Jazira FC (Kuwait),2026-10-08T14:50:00+00:00,18.5974,soccer.total_goals,period=ft,over,total=2.25,1.56,1.57
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,home,handicap=-1,1.95,1.96
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,away,handicap=-1,1.91,1.9
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.5,2.55
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.54,1.53
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.2,2.19
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.5,2.45
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,home,handicap=0,1.22,1.21
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.asian_handicap,period=ft,away,handicap=0,4.4,4.45
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.double_chance,period=ft,home_draw,,1.16,1.15
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.match_odds,period=ft,home,,1.55,1.56
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.match_odds,period=ft,draw,,4.35,4.25
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.match_odds,period=ft,away,,5.6,5.7
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.total_goals,period=ft,over,total=2.5,1.62,1.63
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.total_goals,period=ft,under,total=2.75,2.05,2.04
+2026-10-08T16:31:24.153975+02:00,36449256,Veikkausliiga,Finland,HJK Helsinki,Vaasan Palloseura,2026-10-08T15:00:00+00:00,28.5974,soccer.total_goals,period=ft,under,total=3.25,1.62,1.61
