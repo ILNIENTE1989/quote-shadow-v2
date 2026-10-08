@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08T07:58:38.731917+00:00",
+  "generated_at_utc": "2026-10-08T09:58:42.488214+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -56,6 +56,25 @@
           "home": "Um Alhassam",
           "away": "Isa Town",
           "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36681602",
+          "home": "Atletico FC",
+          "away": "Real Cartagena FC",
+          "kickoff_utc": "2026-10-08T20:30:00+00:00"
+        },
+        {
+          "event_id": "36681601",
+          "home": "Yumbo FC",
+          "away": "Tigres FC",
+          "kickoff_utc": "2026-10-08T20:30:00+00:00"
         }
       ]
     },
@@ -151,12 +170,6 @@
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
-        {
-          "event_id": "36689294",
-          "home": "Technico FF",
-          "away": "South United FC",
-          "kickoff_utc": "2026-10-08T08:00:00+00:00"
-        },
         {
           "event_id": "36690571",
           "home": "Kickstart Fc",
@@ -277,10 +290,29 @@
           "kickoff_utc": "2026-10-08T13:00:00+00:00"
         },
         {
+          "event_id": "36692983",
+          "home": "Sama",
+          "away": "Ittihad AL Ramtha",
+          "kickoff_utc": "2026-10-08T13:00:00+00:00"
+        },
+        {
           "event_id": "36689293",
           "home": "Al Yarmouk",
           "away": "FC Maan",
           "kickoff_utc": "2026-10-08T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Kazakhstan",
+      "name": "Pervaya Liga",
+      "key": "soccer-kazakhstan-pervaya-liga",
+      "events": [
+        {
+          "event_id": "36693711",
+          "home": "Shakhter Karagandy",
+          "away": "Akademia Ontustyk",
+          "kickoff_utc": "2026-10-08T10:00:00+00:00"
         }
       ]
     },
@@ -350,6 +382,12 @@
           "home": "Renaissance Zemamra",
           "away": "Hassania Union Sport Agadir",
           "kickoff_utc": "2026-10-08T18:00:00+00:00"
+        },
+        {
+          "event_id": "36670614",
+          "home": "Maghreb AS de Fes",
+          "away": "Raja Casablanca Athletic",
+          "kickoff_utc": "2026-10-08T20:00:00+00:00"
         }
       ]
     },
@@ -363,6 +401,25 @@
           "home": "Ucv Moquegua",
           "away": "CS Cienciano",
           "kickoff_utc": "2026-10-08T18:00:00+00:00"
+        },
+        {
+          "event_id": "36579595",
+          "home": "Atletico Grau",
+          "away": "Los Chankas CYC",
+          "kickoff_utc": "2026-10-08T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Peru",
+      "name": "Segunda Division",
+      "key": "soccer-peru-segunda-division",
+      "events": [
+        {
+          "event_id": "36678422",
+          "home": "Bentin Tacna Heroica",
+          "away": "Carlos Mannucci",
+          "kickoff_utc": "2026-10-08T20:00:00+00:00"
         }
       ]
     },
@@ -399,6 +456,12 @@
       "events": [
         {
           "event_id": "36682785",
+          "home": "ASU Politehnica Timisoara",
+          "away": "Csa Steaua Bucuresti",
+          "kickoff_utc": "2026-10-08T15:00:00+00:00"
+        },
+        {
+          "event_id": "36693692",
           "home": "ASU Politehnica Timisoara",
           "away": "Csa Steaua Bucuresti",
           "kickoff_utc": "2026-10-08T15:00:00+00:00"
