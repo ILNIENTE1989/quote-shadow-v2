@@ -1,7 +1,26 @@
 {
-  "generated_at_utc": "2026-10-08T03:55:15.002367+00:00",
+  "generated_at_utc": "2026-10-08T05:56:40.913568+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Algeria",
+      "name": "Ligue 1",
+      "key": "soccer-algeria-ligue-1",
+      "events": [
+        {
+          "event_id": "36668820",
+          "home": "JS Saoura",
+          "away": "Olympique Akbou",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
+          "event_id": "36668821",
+          "home": "MB Rouisset",
+          "away": "USM Alger",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Azerbaijan",
       "name": "First Division",
@@ -12,6 +31,25 @@
           "home": "Sabail FK",
           "away": "FK Karvan Yevlakh",
           "kickoff_utc": "2026-10-08T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Bahrain",
+      "name": "King of Bahrain Cup",
+      "key": "soccer-bahrain-king-of-bahrain-cup",
+      "events": [
+        {
+          "event_id": "36690286",
+          "home": "AL Hala",
+          "away": "Bouri",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        },
+        {
+          "event_id": "36690283",
+          "home": "Um Alhassam",
+          "away": "Isa Town",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
         }
       ]
     },
@@ -68,6 +106,18 @@
           "home": "Al Mokawloon Al Arab",
           "away": "El Gouna FC",
           "kickoff_utc": "2026-10-08T14:00:00+00:00"
+        },
+        {
+          "event_id": "36674906",
+          "home": "Future FC",
+          "away": "National Bank of Egypt SC",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
+          "event_id": "36674800",
+          "home": "Ghazl El Mahallah",
+          "away": "ABO QAIR SEMADS",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
         }
       ]
     },
@@ -81,6 +131,12 @@
           "home": "HJK Helsinki",
           "away": "Vaasan Palloseura",
           "kickoff_utc": "2026-10-08T15:00:00+00:00"
+        },
+        {
+          "event_id": "36449263",
+          "home": "Kuopion Palloseura",
+          "away": "AC Oulu",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
         }
       ]
     },
@@ -90,16 +146,16 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36687652",
-          "home": "Roots FC",
-          "away": "Kodagu Fc",
-          "kickoff_utc": "2026-10-08T05:30:00+00:00"
-        },
-        {
           "event_id": "36689294",
           "home": "Technico FF",
           "away": "South United FC",
           "kickoff_utc": "2026-10-08T08:00:00+00:00"
+        },
+        {
+          "event_id": "36690571",
+          "home": "Kickstart Fc",
+          "away": "United Stars FC",
+          "kickoff_utc": "2026-10-08T10:30:00+00:00"
         }
       ]
     },
@@ -108,12 +164,6 @@
       "name": "Fiji Inter District Championship",
       "key": "soccer-international-tb6b3-fiji-inter-district-championship",
       "events": [
-        {
-          "event_id": "36687653",
-          "home": "Nadi FC",
-          "away": "Ba FC",
-          "kickoff_utc": "2026-10-08T05:30:00+00:00"
-        },
         {
           "event_id": "36689042",
           "home": "Rewa",
@@ -176,6 +226,36 @@
           "home": "Hapoel Nir Ramat Hasharon FC",
           "away": "Hapoel Azor FC",
           "kickoff_utc": "2026-10-08T15:00:00+00:00"
+        },
+        {
+          "event_id": "36690285",
+          "home": "Hapoel Marmorek FC",
+          "away": "Maccabi Ironi Ashdod FC",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        },
+        {
+          "event_id": "36690567",
+          "home": "Hapoel Migdal Haemeq",
+          "away": "MS Tzeirei Tamra",
+          "kickoff_utc": "2026-10-08T16:30:00+00:00"
+        },
+        {
+          "event_id": "36690717",
+          "home": "FC Holon Yirmiyahu",
+          "away": "AS Nordia Jerusalem",
+          "kickoff_utc": "2026-10-08T16:40:00+00:00"
+        },
+        {
+          "event_id": "36691131",
+          "home": "Hapoel Herzelia FC",
+          "away": "Hapoel Mahane Yehuda",
+          "kickoff_utc": "2026-10-08T17:15:00+00:00"
+        },
+        {
+          "event_id": "36691271",
+          "home": "Baqa Al-Gharbiyye",
+          "away": "Hapoel Nof Hagalil FC",
+          "kickoff_utc": "2026-10-08T17:30:00+00:00"
         }
       ]
     },
@@ -227,6 +307,50 @@
           "home": "FK Arsenal Tivat",
           "away": "FK Decic Tuzi",
           "kickoff_utc": "2026-10-08T12:00:00+00:00"
+        },
+        {
+          "event_id": "36668261",
+          "home": "FK Bokelj Kotor",
+          "away": "OFK Petrovac",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        },
+        {
+          "event_id": "36683322",
+          "home": "FK Mornar Bar",
+          "away": "FK Jezero Plav",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Morocco",
+      "name": "Botola",
+      "key": "soccer-morocco-botola",
+      "events": [
+        {
+          "event_id": "36668262",
+          "home": "Union Touarga",
+          "away": "Rs Berkane",
+          "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Philippines",
+      "name": "Philippines UAAP Football Championship",
+      "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
+      "events": [
+        {
+          "event_id": "36691099",
+          "home": "UP Fighting Maroons Students",
+          "away": "UST Growling Tigers Students",
+          "kickoff_utc": "2026-10-08T06:00:00+00:00"
+        },
+        {
+          "event_id": "36690941",
+          "home": "Adamson Falcons Students",
+          "away": "Ateneo Blue Eagles Students",
+          "kickoff_utc": "2026-10-08T11:00:00+00:00"
         }
       ]
     },
@@ -244,6 +368,45 @@
       ]
     },
     {
+      "category": "Romania",
+      "name": "Liga I",
+      "key": "soccer-romania-liga-i",
+      "events": [
+        {
+          "event_id": "36490472",
+          "home": "FC CFR 1907 Cluj",
+          "away": "FC Universitatea Cluj",
+          "kickoff_utc": "2026-10-08T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 1",
+      "key": "soccer-saudi-arabia-division-1",
+      "events": [
+        {
+          "event_id": "36675879",
+          "home": "Al-Okhdood Club",
+          "away": "AL Ula",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Sweden",
+      "name": "Division 2, Norra Gotaland",
+      "key": "soccer-sweden-2nd-div-norra-gotaland",
+      "events": [
+        {
+          "event_id": "36691270",
+          "home": "Vanersborgs FK",
+          "away": "IFK Kumla",
+          "kickoff_utc": "2026-10-08T17:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Turkey",
       "name": "Turkiye Kupasi",
       "key": "soccer-turkey-turkiye-kupasi",
@@ -253,6 +416,12 @@
           "home": "Denizli Idman Yurdu",
           "away": "Serik Belediyespor",
           "kickoff_utc": "2026-10-08T14:00:00+00:00"
+        },
+        {
+          "event_id": "36679340",
+          "home": "Orduspor 1967",
+          "away": "Karadeniz Eregli Bld",
+          "kickoff_utc": "2026-10-08T17:00:00+00:00"
         }
       ]
     },
