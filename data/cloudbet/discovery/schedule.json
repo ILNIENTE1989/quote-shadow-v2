@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08T20:06:49.965262+00:00",
+  "generated_at_utc": "2026-10-08T22:08:42.188544+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -85,25 +85,6 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36681602",
-          "home": "Atletico FC",
-          "away": "Real Cartagena FC",
-          "kickoff_utc": "2026-10-08T20:30:00+00:00"
-        },
-        {
-          "event_id": "36681601",
-          "home": "Yumbo FC",
-          "away": "Tigres FC",
-          "kickoff_utc": "2026-10-08T20:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "El Salvador",
       "name": "Primera Division, Clausura",
       "key": "soccer-el-salvador-primera-division-clausura",
@@ -130,6 +111,70 @@
       ]
     },
     {
+      "category": "Indonesia",
+      "name": "Indonesia Championship Cup",
+      "key": "soccer-indonesia-tb5a8-indonesia-championship-cup",
+      "events": [
+        {
+          "event_id": "36701040",
+          "home": "Persipura Jayapura",
+          "away": "Rans Nusantara",
+          "kickoff_utc": "2026-10-09T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
+      "events": [
+        {
+          "event_id": "36602644",
+          "home": "Persik Kediri",
+          "away": "Madura United",
+          "kickoff_utc": "2026-10-09T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Liga Alef",
+      "key": "soccer-israel-liga-alef",
+      "events": [
+        {
+          "event_id": "36701564",
+          "home": "FC Jerusalem",
+          "away": "Maccabi Ironi Kiryat Malakhi",
+          "kickoff_utc": "2026-10-09T09:00:00+00:00"
+        },
+        {
+          "event_id": "36702061",
+          "home": "Beitar Nahariya",
+          "away": "Hapoel Umm AL Fahm",
+          "kickoff_utc": "2026-10-09T10:00:00+00:00"
+        },
+        {
+          "event_id": "36702062",
+          "home": "Ironi Beit Shemesh",
+          "away": "FC Tzeirey Tira",
+          "kickoff_utc": "2026-10-09T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Malaysia",
+      "name": "FA Cup",
+      "key": "soccer-malaysia-fa-cup",
+      "events": [
+        {
+          "event_id": "36701563",
+          "home": "Johor Darul Ta'zim FC",
+          "away": "Penang FA",
+          "kickoff_utc": "2026-10-09T09:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Mexico",
       "name": "Liga de Expansion MX, Apertura",
       "key": "soccer-mexico-liga-de-ascenso-apertura",
@@ -139,32 +184,6 @@
           "home": "Alebrijes de Oaxaca FC",
           "away": "CF Correcaminos UAT",
           "kickoff_utc": "2026-10-09T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Mexico Liga TDP",
-      "key": "soccer-mexico-tb46e-mexico-liga-tdp",
-      "events": [
-        {
-          "event_id": "36698976",
-          "home": "Guardianes de Oriente FC",
-          "away": "Lonsdaleita FC",
-          "kickoff_utc": "2026-10-08T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Primera Division",
-      "key": "soccer-peru-primera-division",
-      "events": [
-        {
-          "event_id": "36579595",
-          "home": "Atletico Grau",
-          "away": "Los Chankas CYC",
-          "kickoff_utc": "2026-10-08T20:30:00+00:00"
         }
       ]
     },
@@ -215,6 +234,19 @@
           "home": "Gimpo FC",
           "away": "Seoul E-Land FC",
           "kickoff_utc": "2026-10-09T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Romania",
+      "name": "Liga 3",
+      "key": "soccer-romania-t8e46-liga-3",
+      "events": [
+        {
+          "event_id": "36702072",
+          "home": "CSC Ghiroda SI Giarmata Vii",
+          "away": "ACS Progresul Pecica",
+          "kickoff_utc": "2026-10-09T10:00:00+00:00"
         }
       ]
     }
