@@ -8188,3 +8188,22 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-08T16:54:41.893624+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,65.3018,soccer.total_goals,period=ft,over,total=4.5,6.9,6.75
 2026-10-08T16:54:41.893624+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,65.3018,soccer.total_goals,period=ft,under,total=4.5,1.1,1.11
 2026-10-08T16:54:41.893624+02:00,36689703,Liga Alef,Israel,Hapoel Karmiel FC,Hapoel Tirat Hacarmel,2026-10-08T15:00:00+00:00,5.3018,soccer.double_chance,period=ft,draw_away,,2.6,2.65
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.asian_handicap,period=ft,home,handicap=-1,1.97,1.98
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.asian_handicap,period=ft,away,handicap=-2,1.2,1.19
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.asian_handicap,period=ft,home,handicap=-1.75,3.25,3.3
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.5,1.49
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.64,1.63
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.68,1.69
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.match_odds,period=ft,home,,1.53,1.54
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.match_odds,period=ft,draw,,4.1,4.05
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.match_odds,period=ft,away,,6.45,6.4
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.total_goals,period=ft,under,total=2,2.7,2.65
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.total_goals,period=ft,over,total=2.25,1.73,1.74
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.total_goals,period=ft,under,total=2.25,2.12,2.11
+2026-10-08T16:56:44.611485+02:00,36449263,Veikkausliiga,Finland,Kuopion Palloseura,AC Oulu,2026-10-08T16:00:00+00:00,63.2565,soccer.total_goals,period=ft,under,total=4.5,1.11,1.1
+2026-10-08T16:56:44.611485+02:00,36682785,Liga 2,Romania,ASU Politehnica Timisoara,Csa Steaua Bucuresti,2026-10-08T15:00:00+00:00,3.2565,soccer.double_chance,period=ft,draw_away,,2.05,2.1
+2026-10-08T16:56:44.611485+02:00,36693692,Liga 2,Romania,ASU Politehnica Timisoara,Csa Steaua Bucuresti,2026-10-08T15:00:00+00:00,3.2565,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.52,1.5
+2026-10-08T16:56:44.611485+02:00,36693692,Liga 2,Romania,ASU Politehnica Timisoara,Csa Steaua Bucuresti,2026-10-08T15:00:00+00:00,3.2565,soccer.double_chance,period=ft,draw_away,,2.05,2.1
+2026-10-08T16:56:44.611485+02:00,36693692,Liga 2,Romania,ASU Politehnica Timisoara,Csa Steaua Bucuresti,2026-10-08T15:00:00+00:00,3.2565,soccer.match_odds,period=ft,away,,4.4,4.45
+2026-10-08T16:56:44.611485+02:00,36689704,Liga Alef,Israel,Hapoel Nir Ramat Hasharon FC,Hapoel Azor FC,2026-10-08T15:00:00+00:00,3.2565,soccer.double_chance,period=ft,home_away,,1.22,1.18
+2026-10-08T16:56:44.611485+02:00,36689704,Liga Alef,Israel,Hapoel Nir Ramat Hasharon FC,Hapoel Azor FC,2026-10-08T15:00:00+00:00,3.2565,soccer.double_chance,period=ft,home_draw,,1.1,1.08
