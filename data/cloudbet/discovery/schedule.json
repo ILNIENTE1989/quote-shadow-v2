@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-08T05:56:40.913568+00:00",
+  "generated_at_utc": "2026-10-08T07:58:38.731917+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -18,6 +18,12 @@
           "home": "MB Rouisset",
           "away": "USM Alger",
           "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        },
+        {
+          "event_id": "36669968",
+          "home": "MC Oran",
+          "away": "ES Setif",
+          "kickoff_utc": "2026-10-08T19:00:00+00:00"
         }
       ]
     },
@@ -161,19 +167,6 @@
     },
     {
       "category": "International",
-      "name": "Fiji Inter District Championship",
-      "key": "soccer-international-tb6b3-fiji-inter-district-championship",
-      "events": [
-        {
-          "event_id": "36689042",
-          "home": "Rewa",
-          "away": "Suva FC",
-          "kickoff_utc": "2026-10-08T07:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
       "name": "Mocambola",
       "key": "soccer-international-mocambola",
       "events": [
@@ -207,6 +200,19 @@
           "home": "Port FC",
           "away": "Persib Bandung",
           "kickoff_utc": "2026-10-08T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Iraq",
+      "name": "Iraq Premier Division",
+      "key": "soccer-iraq-tb7d4-iraq-premier-division",
+      "events": [
+        {
+          "event_id": "36691661",
+          "home": "Al-Ramadi FC",
+          "away": "Al Nasiriyah",
+          "kickoff_utc": "2026-10-08T12:30:00+00:00"
         }
       ]
     },
@@ -332,6 +338,31 @@
           "home": "Union Touarga",
           "away": "Rs Berkane",
           "kickoff_utc": "2026-10-08T16:00:00+00:00"
+        },
+        {
+          "event_id": "36669455",
+          "home": "AS Far Rabat",
+          "away": "Wydad Temara",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
+        },
+        {
+          "event_id": "36669454",
+          "home": "Renaissance Zemamra",
+          "away": "Hassania Union Sport Agadir",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Peru",
+      "name": "Primera Division",
+      "key": "soccer-peru-primera-division",
+      "events": [
+        {
+          "event_id": "36579594",
+          "home": "Ucv Moquegua",
+          "away": "CS Cienciano",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
         }
       ]
     },
@@ -341,16 +372,23 @@
       "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
       "events": [
         {
-          "event_id": "36691099",
-          "home": "UP Fighting Maroons Students",
-          "away": "UST Growling Tigers Students",
-          "kickoff_utc": "2026-10-08T06:00:00+00:00"
-        },
-        {
           "event_id": "36690941",
           "home": "Adamson Falcons Students",
           "away": "Ateneo Blue Eagles Students",
           "kickoff_utc": "2026-10-08T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Republic Of Ireland",
+      "name": "Premier Division",
+      "key": "soccer-ireland-premier-division",
+      "events": [
+        {
+          "event_id": "36470614",
+          "home": "Shamrock Rovers",
+          "away": "Drogheda United FC",
+          "kickoff_utc": "2026-10-08T19:00:00+00:00"
         }
       ]
     },
@@ -390,6 +428,32 @@
           "home": "Al-Okhdood Club",
           "away": "AL Ula",
           "kickoff_utc": "2026-10-08T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Preferente Autonomica",
+      "key": "soccer-spain-t9041-preferente-autonomica",
+      "events": [
+        {
+          "event_id": "36691705",
+          "home": "CD Onda",
+          "away": "Silla CF",
+          "kickoff_utc": "2026-10-08T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Tercera Federacion, Group 7",
+      "key": "soccer-spain-tercera-division-group-7",
+      "events": [
+        {
+          "event_id": "36684438",
+          "home": "Udc Chantrea",
+          "away": "CD Cortes Navarre",
+          "kickoff_utc": "2026-10-08T18:00:00+00:00"
         }
       ]
     },
