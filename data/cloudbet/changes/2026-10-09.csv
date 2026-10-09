@@ -25304,3 +25304,13 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-09T22:01:35.392613+02:00,36626183,LigaPro Primera A,Ecuador,Delfin SC,Mushuc Runa SC,2026-10-09T20:30:00+00:00,28.4101,soccer.total_goals,period=ft,under,total=2.5,1.55,1.52
 2026-10-09T22:01:35.392613+02:00,36626183,LigaPro Primera A,Ecuador,Delfin SC,Mushuc Runa SC,2026-10-09T20:30:00+00:00,28.4101,soccer.total_goals,period=ft,over,total=3.5,4.55,4.6
 2026-10-09T22:01:35.392613+02:00,36626183,LigaPro Primera A,Ecuador,Delfin SC,Mushuc Runa SC,2026-10-09T20:30:00+00:00,28.4101,soccer.total_goals,period=ft,under,total=3.5,1.18,1.17
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.asian_handicap,period=ft,home,handicap=0.5,1.87,1.88
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.asian_handicap,period=ft,away,handicap=0.5,1.74,1.76
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.double_chance,period=ft,draw_away,,1.23,1.24
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.double_chance,period=ft,home_away,,1.22,1.23
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.double_chance,period=ft,home_draw,,1.77,1.81
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.total_goals,period=ft,over,total=3,1.82,1.83
+2026-10-09T22:02:45.125949+02:00,36711753,Liga de Ascenso,Honduras,CD Audaz,CD Olimpico Litoral,2026-10-09T20:30:00+00:00,27.2479,soccer.total_goals,period=ft,under,total=3,1.79,1.8
+2026-10-09T22:02:45.125949+02:00,36708748,Liga de Ascenso,Honduras,Neo Pipil San Juan Nonualco,CD San Rafael,2026-10-09T21:00:00+00:00,57.2479,soccer.match_odds,period=ft,home,,4.15,4.25
+2026-10-09T22:02:45.125949+02:00,36708748,Liga de Ascenso,Honduras,Neo Pipil San Juan Nonualco,CD San Rafael,2026-10-09T21:00:00+00:00,57.2479,soccer.match_odds,period=ft,draw,,3.85,3.95
+2026-10-09T22:02:45.125949+02:00,36708748,Liga de Ascenso,Honduras,Neo Pipil San Juan Nonualco,CD San Rafael,2026-10-09T21:00:00+00:00,57.2479,soccer.match_odds,period=ft,away,,1.56,1.58
