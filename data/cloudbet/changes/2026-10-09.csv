@@ -2897,3 +2897,28 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-09T08:51:03.653056+02:00,36601576,K-League 1,Republic Of Korea,Incheon United FC,Pohang Steelers FC,2026-10-09T07:30:00+00:00,38.9391,soccer.double_chance,period=ft,home_draw,,1.38,1.42
 2026-10-09T08:51:03.653056+02:00,36601576,K-League 1,Republic Of Korea,Incheon United FC,Pohang Steelers FC,2026-10-09T07:30:00+00:00,38.9391,soccer.match_odds,period=ft,home,,2.6,2.7
 2026-10-09T08:51:03.653056+02:00,36601576,K-League 1,Republic Of Korea,Incheon United FC,Pohang Steelers FC,2026-10-09T07:30:00+00:00,38.9391,soccer.match_odds,period=ft,away,,3.05,2.9
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,home,handicap=-2,1.92,1.9
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,away,handicap=-2,1.76,1.78
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,home,handicap=-2.75,2.75,2.7
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,home,handicap=-2.5,2.35,2.3
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,away,handicap=-2.5,1.47,1.48
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,home,handicap=-2.25,2.14,2.12
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.59,1.6
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,home,handicap=-1.75,1.69,1.68
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.99,2.0
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,away,handicap=-1.5,2.18,2.2
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.asian_handicap,period=ft,away,handicap=-1.25,2.55,2.6
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=3.25,1.79,1.77
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=3.25,1.89,1.91
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=2.5,1.36,1.35
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=2.5,2.7,2.75
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=2.75,1.44,1.43
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=2.75,2.4,2.45
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=3,1.57,1.55
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=3,2.18,2.2
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=3.5,1.99,1.96
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=3.5,1.69,1.71
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=3.75,2.2,2.19
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=3.75,1.52,1.54
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,over,total=4,2.65,2.6
+2026-10-09T08:52:46.253447+02:00,36704232,Bangalore Super Division,India,Rebels FC,Bangalore Dream United FC,2026-10-09T08:00:00+00:00,67.2291,soccer.total_goals,period=ft,under,total=4,1.36,1.38
