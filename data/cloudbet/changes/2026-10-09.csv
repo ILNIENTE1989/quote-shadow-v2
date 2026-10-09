@@ -24082,3 +24082,73 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-09T20:32:41.224358+02:00,36377180,La Liga,Spain,Malaga CF,Espanyol Barcelona,2026-10-09T19:00:00+00:00,27.3129,soccer.match_odds,period=ft,draw,,3.2,3.25
 2026-10-09T20:32:41.224358+02:00,36377180,La Liga,Spain,Malaga CF,Espanyol Barcelona,2026-10-09T19:00:00+00:00,27.3129,soccer.total_goals,period=ft,over,total=1.5,1.29,1.28
 2026-10-09T20:32:41.224358+02:00,36377180,La Liga,Spain,Malaga CF,Espanyol Barcelona,2026-10-09T19:00:00+00:00,27.3129,soccer.total_goals,period=ft,under,total=2.75,1.68,1.69
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=0,1.94,1.95
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=0,1.96,1.95
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=-1,4.2,4.15
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=-1,1.25,1.27
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.15,3.1
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.38,1.41
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.53,1.55
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.68,1.7
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=0.25,1.67,1.68
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=0.5,1.52,1.53
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=0.75,1.38,1.39
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=0.75,3.2,3.25
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,home,handicap=1,1.24,1.25
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=1,4.3,4.4
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,draw_away,,1.52,1.53
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,home_away,,1.32,1.31
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,home_draw,,1.51,1.52
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.match_odds,period=ft,draw,,3.55,3.65
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.match_odds,period=ft,away,,2.65,2.6
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=3,1.99,2.0
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,over,total=2.25,1.4,1.39
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=2.25,3.0,3.05
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=2.5,2.45,2.5
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,over,total=2.75,1.7,1.69
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,over,total=3.25,2.13,2.12
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=3.25,1.76,1.77
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=3.75,1.47,1.48
+2026-10-09T20:34:44.782402+02:00,36363341,Ligue 1,France,RC Lens,Lyon,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,over,total=4,3.4,3.35
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.02,2.04
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.86,1.84
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-2.25,3.8,3.85
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.28,1.27
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-2,3.4,3.45
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.65,2.7
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.5,1.49
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.25,2.3
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.67,1.65
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-1,1.74,1.77
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-1,2.14,2.11
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.58,1.59
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.45,2.4
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.46,1.47
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.75,2.7
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.4,3.35
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.double_chance,period=ft,draw_away,,2.75,2.7
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.double_chance,period=ft,home_away,,1.18,1.19
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.match_odds,period=ft,home,,1.47,1.48
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.match_odds,period=ft,draw,,5.05,4.9
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.match_odds,period=ft,away,,5.9,5.95
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.total_goals,period=ft,over,total=3,1.79,1.81
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.total_goals,period=ft,over,total=2.5,1.5,1.51
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.total_goals,period=ft,under,total=2.75,2.35,2.3
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.total_goals,period=ft,over,total=3.25,2.07,2.06
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.total_goals,period=ft,under,total=3.25,1.81,1.79
+2026-10-09T20:34:44.782402+02:00,36422673,Championship,England,West Ham United,Queens Park Rangers,2026-10-09T19:00:00+00:00,25.2536,soccer.total_goals,period=ft,under,total=3.5,1.64,1.63
+2026-10-09T20:34:44.782402+02:00,36609542,First Division,Republic Of Ireland,Cobh Ramblers,Kerry FC,2026-10-09T18:45:00+00:00,10.2536,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.25,1.24
+2026-10-09T20:34:44.782402+02:00,36609542,First Division,Republic Of Ireland,Cobh Ramblers,Kerry FC,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=2.25,1.95,1.94
+2026-10-09T20:34:44.782402+02:00,36609542,First Division,Republic Of Ireland,Cobh Ramblers,Kerry FC,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,over,total=2,1.55,1.56
+2026-10-09T20:34:44.782402+02:00,36609542,First Division,Republic Of Ireland,Cobh Ramblers,Kerry FC,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=2,2.4,2.35
+2026-10-09T20:34:44.782402+02:00,36609542,First Division,Republic Of Ireland,Cobh Ramblers,Kerry FC,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,over,total=2.5,2.12,2.13
+2026-10-09T20:34:44.782402+02:00,36609542,First Division,Republic Of Ireland,Cobh Ramblers,Kerry FC,2026-10-09T18:45:00+00:00,10.2536,soccer.total_goals,period=ft,under,total=2.75,1.53,1.52
+2026-10-09T20:34:44.782402+02:00,36654831,Championship,Northern Ireland,Newry City AFC,Dundela FC,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,draw_away,,1.91,1.9
+2026-10-09T20:34:44.782402+02:00,36654831,Championship,Northern Ireland,Newry City AFC,Dundela FC,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,home_away,,1.27,1.14
+2026-10-09T20:34:44.782402+02:00,36654831,Championship,Northern Ireland,Newry City AFC,Dundela FC,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,home_draw,,1.27,1.12
+2026-10-09T20:34:44.782402+02:00,36694955,Liga Portugal 3,Portugal,UD Santarem,Lusitano GC,2026-10-09T20:00:00+00:00,85.2536,soccer.double_chance,period=ft,draw_away,,1.38,1.36
+2026-10-09T20:34:44.782402+02:00,36694955,Liga Portugal 3,Portugal,UD Santarem,Lusitano GC,2026-10-09T20:00:00+00:00,85.2536,soccer.double_chance,period=ft,home_away,,1.33,1.36
+2026-10-09T20:34:44.782402+02:00,36694955,Liga Portugal 3,Portugal,UD Santarem,Lusitano GC,2026-10-09T20:00:00+00:00,85.2536,soccer.double_chance,period=ft,home_draw,,1.58,1.59
+2026-10-09T20:34:44.782402+02:00,36439476,Premier Division,Republic Of Ireland,Shelbourne FC,Sligo Rovers FC,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,home_draw,,1.04,1.059
+2026-10-09T20:34:44.782402+02:00,36439476,Premier Division,Republic Of Ireland,Shelbourne FC,Sligo Rovers FC,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,draw_away,,4.1,4.149
+2026-10-09T20:34:44.782402+02:00,36439476,Premier Division,Republic Of Ireland,Shelbourne FC,Sligo Rovers FC,2026-10-09T18:45:00+00:00,10.2536,soccer.double_chance,period=ft,home_away,,1.12,1.129
