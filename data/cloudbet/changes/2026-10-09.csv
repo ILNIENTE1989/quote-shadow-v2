@@ -1839,3 +1839,40 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-09T06:50:58.118442+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,9.0314,soccer.double_chance,period=ft,home_draw,,1.5,1.47
 2026-10-09T06:50:58.118442+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,9.0314,soccer.match_odds,period=ft,home,,2.7,2.6
 2026-10-09T06:50:58.118442+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,9.0314,soccer.match_odds,period=ft,away,,2.6,2.7
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=0,1.9,1.91
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=0,1.96,1.95
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=-1,4.35,4.4
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.36,1.35
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.6,2.65
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.66,1.65
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=0.25,1.63,1.64
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=0.5,1.48,1.49
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=0.5,2.7,2.65
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.match_odds,period=ft,home,,2.6,2.65
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.match_odds,period=ft,away,,2.7,2.65
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=2,1.4,1.41
+2026-10-09T06:52:43.117971+02:00,36599960,K-League 1,Republic Of Korea,Daejeon Citizen FC,Jeonbuk Hyundai Motors,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=2.75,1.75,1.74
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.91,1.9
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.91,1.92
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=-1.5,3.4,3.35
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.37,1.38
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=-1,1.47,1.48
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.17,2.16
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.68,1.67
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.19,2.2
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,home,handicap=0,1.46,1.45
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.asian_handicap,period=ft,away,handicap=0.5,3.5,3.45
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.match_odds,period=ft,home,,1.9,1.89
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=3,1.98,1.94
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=3,1.84,1.87
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=1.5,1.17,1.16
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=1.5,4.75,4.85
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=2.5,1.58,1.56
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=2.5,2.3,2.35
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=2.75,1.73,1.7
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=2.75,2.09,2.13
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=3.25,1.64,1.66
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=3.5,2.5,2.45
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=3.5,1.51,1.53
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,over,total=4.5,4.45,4.35
+2026-10-09T06:52:43.117971+02:00,36600237,K-League 2,Republic Of Korea,Suwon FC,Hwaseong FC,2026-10-09T05:00:00+00:00,7.2814,soccer.total_goals,period=ft,under,total=4.5,1.19,1.2
