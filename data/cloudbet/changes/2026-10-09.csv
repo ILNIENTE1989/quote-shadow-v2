@@ -1161,3 +1161,6 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-09T02:44:41.368416+02:00,36640247,"Primera A, Clausura",Colombia,Fortaleza FC,Millonarios FC,2026-10-09T01:10:00+00:00,25.3105,soccer.match_odds,period=ft,away,,1.92,1.9
 2026-10-09T02:44:41.368416+02:00,36640247,"Primera A, Clausura",Colombia,Fortaleza FC,Millonarios FC,2026-10-09T01:10:00+00:00,25.3105,soccer.total_goals,period=ft,over,total=1.75,1.54,1.53
 2026-10-09T02:44:41.368416+02:00,36640247,"Primera A, Clausura",Colombia,Fortaleza FC,Millonarios FC,2026-10-09T01:10:00+00:00,25.3105,soccer.total_goals,period=ft,under,total=2,2.11,2.12
+2026-10-09T02:46:40.595149+02:00,36628985,"Liga de Expansion MX, Apertura",Mexico,Alebrijes de Oaxaca FC,CF Correcaminos UAT,2026-10-09T01:00:00+00:00,13.3234,soccer.double_chance,period=ft,draw_away,,1.23,1.1
+2026-10-09T02:46:40.595149+02:00,36628985,"Liga de Expansion MX, Apertura",Mexico,Alebrijes de Oaxaca FC,CF Correcaminos UAT,2026-10-09T01:00:00+00:00,13.3234,soccer.double_chance,period=ft,home_away,,1.24,1.14
+2026-10-09T02:46:40.595149+02:00,36628985,"Liga de Expansion MX, Apertura",Mexico,Alebrijes de Oaxaca FC,CF Correcaminos UAT,2026-10-09T01:00:00+00:00,13.3234,soccer.double_chance,period=ft,home_draw,,2.08,1.95
