@@ -2291,3 +2291,10 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-11T01:51:05.872736+02:00,36672984,Brasileiro Serie A,Brazil,Sao Paulo FC SP,EC Vitoria BA,2026-10-11T00:00:00+00:00,8.9021,soccer.total_goals,period=ft,over,total=2.5,2.18,2.17
 2026-10-11T01:51:05.872736+02:00,36672984,Brasileiro Serie A,Brazil,Sao Paulo FC SP,EC Vitoria BA,2026-10-11T00:00:00+00:00,8.9021,soccer.total_goals,period=ft,under,total=2.5,1.7,1.71
 2026-10-11T01:51:05.872736+02:00,36672984,Brasileiro Serie A,Brazil,Sao Paulo FC SP,EC Vitoria BA,2026-10-11T00:00:00+00:00,8.9021,soccer.total_goals,period=ft,under,total=2.75,1.53,1.54
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.6,1.61
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.asian_handicap,period=ft,home,handicap=0,1.29,1.3
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.asian_handicap,period=ft,away,handicap=0,3.35,3.3
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.asian_handicap,period=ft,away,handicap=0.25,4.1,4.0
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.double_chance,period=ft,home_away,,1.41,1.4
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.double_chance,period=ft,home_draw,,1.16,1.17
+2026-10-11T01:54:45.197198+02:00,36542803,Primera Division,Peru,Universitario de Deportes,FBC Melgar,2026-10-11T00:00:00+00:00,5.2467,soccer.match_odds,period=ft,away,,4.95,4.85
