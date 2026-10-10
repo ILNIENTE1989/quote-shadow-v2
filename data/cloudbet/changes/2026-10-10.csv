@@ -3758,3 +3758,35 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-10T08:54:46.816056+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,35.2197,soccer.total_goals,period=ft,under,total=2.25,2.35,2.3
 2026-10-10T08:54:46.816056+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,35.2197,soccer.total_goals,period=ft,over,total=2.75,2.05,2.06
 2026-10-10T08:54:46.816056+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,35.2197,soccer.total_goals,period=ft,under,total=3,1.57,1.56
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.56,1.55
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.15,2.16
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.73,1.72
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.asian_handicap,period=ft,away,handicap=0.25,2.4,2.35
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.asian_handicap,period=ft,home,handicap=1,1.18,1.19
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.asian_handicap,period=ft,away,handicap=1,4.9,4.85
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.double_chance,period=ft,draw_away,,1.56,1.54
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.double_chance,period=ft,home_draw,,1.45,1.46
+2026-10-10T08:56:42.809699+02:00,36617968,K-League 1,Republic Of Korea,Gimcheon Sangmu FC,FC Anyang,2026-10-10T07:30:00+00:00,33.2865,soccer.total_goals,period=ft,over,total=3,2.4,2.45
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=0.5,1.82,1.79
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=0.5,2.0,2.02
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.3,3.25
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.31,1.32
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.9,2.85
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.39,1.4
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=0,2.5,2.45
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=0,1.5,1.52
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=0.25,2.06,2.03
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=0.25,1.75,1.77
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=0.75,1.61,1.59
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=1,1.4,1.39
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=1,2.85,2.95
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=1.25,1.32,1.31
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=1.25,3.25,3.3
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,home,handicap=1.5,1.27,1.26
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.asian_handicap,period=ft,away,handicap=1.5,3.65,3.7
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.double_chance,period=ft,draw_away,,1.31,1.32
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.double_chance,period=ft,home_draw,,1.79,1.76
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.match_odds,period=ft,home,,3.3,3.25
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.match_odds,period=ft,away,,1.99,2.01
+2026-10-10T08:56:42.809699+02:00,36617966,J.League 2,Japan,Ventforet Kofu,Tochigi City FC,2026-10-10T07:00:00+00:00,3.2865,soccer.total_goals,period=ft,over,total=3.25,2.5,2.55
+2026-10-10T08:56:42.809699+02:00,36706718,Emperor Cup,Japan,Azul Claro Numazu,Vonds Ichihara FC,2026-10-10T07:00:00+00:00,3.2865,soccer.double_chance,period=ft,home_draw,,1.12,1.14
