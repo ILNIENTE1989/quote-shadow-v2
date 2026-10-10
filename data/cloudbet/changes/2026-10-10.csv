@@ -1117,3 +1117,23 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-10T02:31:15.706810+02:00,36542769,Primera Division,Peru,Deportivo Garcilaso,Sport Huancayo,2026-10-10T01:00:00+00:00,28.7382,soccer.total_goals,period=ft,under,total=2.75,1.67,1.68
 2026-10-10T02:31:15.706810+02:00,36542769,Primera Division,Peru,Deportivo Garcilaso,Sport Huancayo,2026-10-10T01:00:00+00:00,28.7382,soccer.total_goals,period=ft,under,total=3,1.47,1.48
 2026-10-10T02:31:15.706810+02:00,36542769,Primera Division,Peru,Deportivo Garcilaso,Sport Huancayo,2026-10-10T01:00:00+00:00,28.7382,soccer.total_goals,period=ft,over,total=3.25,2.85,2.8
+2026-10-10T02:32:42.544246+02:00,36711869,Torneo Federal A,Argentina,Juventud Antoniana,CA Huracan Las Heras,2026-10-10T01:00:00+00:00,27.2909,soccer.double_chance,period=ft,draw_away,,1.66,1.69
+2026-10-10T02:32:42.544246+02:00,36711869,Torneo Federal A,Argentina,Juventud Antoniana,CA Huracan Las Heras,2026-10-10T01:00:00+00:00,27.2909,soccer.double_chance,period=ft,home_away,,1.33,1.35
+2026-10-10T02:32:42.544246+02:00,36711869,Torneo Federal A,Argentina,Juventud Antoniana,CA Huracan Las Heras,2026-10-10T01:00:00+00:00,27.2909,soccer.double_chance,period=ft,home_draw,,1.18,1.19
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=0.25,1.82,1.8
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,away,handicap=0.25,2.04,2.06
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.8,3.75
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.39,1.4
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.6,2.55
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.51,1.52
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=0,2.2,2.17
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,away,handicap=0,1.7,1.72
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=0.5,1.61,1.6
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=0.75,1.44,1.43
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,away,handicap=1,3.75,3.85
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,home,handicap=1.25,1.23,1.22
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.asian_handicap,period=ft,away,handicap=1.25,4.25,4.3
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.double_chance,period=ft,home_draw,,1.6,1.59
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.match_odds,period=ft,home,,3.05,3.0
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.total_goals,period=ft,over,total=2.5,1.93,1.94
+2026-10-10T02:32:42.544246+02:00,36597178,"Liga MX, Apertura",Mexico,Puebla FC,Club Leon,2026-10-10T01:00:00+00:00,27.2909,soccer.total_goals,period=ft,under,total=2.5,1.91,1.9
