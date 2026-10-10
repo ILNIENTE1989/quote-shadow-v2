@@ -745,3 +745,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-10T02:08:45.149520+02:00,36542769,Primera Division,Peru,Deportivo Garcilaso,Sport Huancayo,2026-10-10T01:00:00+00:00,51.2475,soccer.double_chance,period=ft,home_draw,,1.35,1.31
 2026-10-10T02:08:45.149520+02:00,36542769,Primera Division,Peru,Deportivo Garcilaso,Sport Huancayo,2026-10-10T01:00:00+00:00,51.2475,soccer.match_odds,period=ft,home,,2.35,2.25
 2026-10-10T02:08:45.149520+02:00,36542769,Primera Division,Peru,Deportivo Garcilaso,Sport Huancayo,2026-10-10T01:00:00+00:00,51.2475,soccer.match_odds,period=ft,away,,3.05,3.25
+2026-10-10T02:11:00.425735+02:00,36590887,Liga Profesional,Argentina,Union de Santa Fe,Defensa y Justicia,2026-10-10T00:45:00+00:00,33.9929,soccer.asian_handicap,period=ft,home,handicap=0,1.66,1.67
+2026-10-10T02:11:00.425735+02:00,36590887,Liga Profesional,Argentina,Union de Santa Fe,Defensa y Justicia,2026-10-10T00:45:00+00:00,33.9929,soccer.double_chance,period=ft,draw_away,,1.6,1.59
+2026-10-10T02:11:00.425735+02:00,36590887,Liga Profesional,Argentina,Union de Santa Fe,Defensa y Justicia,2026-10-10T00:45:00+00:00,33.9929,soccer.double_chance,period=ft,home_draw,,1.35,1.36
+2026-10-10T02:11:00.425735+02:00,36590887,Liga Profesional,Argentina,Union de Santa Fe,Defensa y Justicia,2026-10-10T00:45:00+00:00,33.9929,soccer.total_goals,period=ft,over,total=2.25,1.9,1.89
