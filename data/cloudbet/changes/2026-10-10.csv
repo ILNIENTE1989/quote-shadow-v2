@@ -9163,3 +9163,78 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-10T11:36:43.059457+02:00,36717825,"III Liga, Group 3",Poland,MKS Viktoria Wrzesnia,Grom Nowy Staw,2026-10-10T10:00:00+00:00,23.2823,soccer.match_odds,period=ft,home,,2.2,2.18
 2026-10-10T11:36:43.059457+02:00,36717825,"III Liga, Group 3",Poland,MKS Viktoria Wrzesnia,Grom Nowy Staw,2026-10-10T10:00:00+00:00,23.2823,soccer.match_odds,period=ft,away,,2.45,2.5
 2026-10-10T11:36:43.059457+02:00,36717825,"III Liga, Group 3",Poland,MKS Viktoria Wrzesnia,Grom Nowy Staw,2026-10-10T10:00:00+00:00,23.2823,soccer.total_goals,period=ft,over,total=2.75,1.5,1.49
+2026-10-10T11:38:45.280718+02:00,36709727,Prva NL,Croatia,Orijent 1919 Rijeka,NK Dubrava Zagreb,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,draw_away,,1.61,1.62
+2026-10-10T11:38:45.280718+02:00,36709727,Prva NL,Croatia,Orijent 1919 Rijeka,NK Dubrava Zagreb,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,home_away,,1.29,1.27
+2026-10-10T11:38:45.280718+02:00,36709727,Prva NL,Croatia,Orijent 1919 Rijeka,NK Dubrava Zagreb,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,home_draw,,1.29,1.3
+2026-10-10T11:38:45.280718+02:00,36724911,NB III,Hungary,Kaposvari Rakoczi FC,Ivancsa KSE,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.79,1.77
+2026-10-10T11:38:45.280718+02:00,36724911,NB III,Hungary,Kaposvari Rakoczi FC,Ivancsa KSE,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.81,1.83
+2026-10-10T11:38:45.280718+02:00,36724911,NB III,Hungary,Kaposvari Rakoczi FC,Ivancsa KSE,2026-10-10T11:00:00+00:00,81.2453,soccer.match_odds,period=ft,home,,1.64,1.62
+2026-10-10T11:38:45.280718+02:00,36724911,NB III,Hungary,Kaposvari Rakoczi FC,Ivancsa KSE,2026-10-10T11:00:00+00:00,81.2453,soccer.match_odds,period=ft,away,,3.5,3.6
+2026-10-10T11:38:45.280718+02:00,36724911,NB III,Hungary,Kaposvari Rakoczi FC,Ivancsa KSE,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,over,total=3.5,1.62,1.65
+2026-10-10T11:38:45.280718+02:00,36724911,NB III,Hungary,Kaposvari Rakoczi FC,Ivancsa KSE,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,under,total=3.5,2.03,1.98
+2026-10-10T11:38:45.280718+02:00,36710552,Danmarksserien,Denmark,Glostrup FK,VB 1968,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,draw_away,,2.25,2.35
+2026-10-10T11:38:45.280718+02:00,36710552,Danmarksserien,Denmark,Glostrup FK,VB 1968,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,home_away,,1.21,1.2
+2026-10-10T11:38:45.280718+02:00,36710552,Danmarksserien,Denmark,Glostrup FK,VB 1968,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,home_draw,,1.2,1.19
+2026-10-10T11:38:45.280718+02:00,36717825,"III Liga, Group 3",Poland,MKS Viktoria Wrzesnia,Grom Nowy Staw,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,draw_away,,1.48,1.52
+2026-10-10T11:38:45.280718+02:00,36717825,"III Liga, Group 3",Poland,MKS Viktoria Wrzesnia,Grom Nowy Staw,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,home_away,,1.25,1.24
+2026-10-10T11:38:45.280718+02:00,36717825,"III Liga, Group 3",Poland,MKS Viktoria Wrzesnia,Grom Nowy Staw,2026-10-10T10:00:00+00:00,21.2453,soccer.double_chance,period=ft,home_draw,,1.42,1.41
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=0,1.82,1.83
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=0,2.09,2.08
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-1,3.85,3.9
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-1,1.28,1.27
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.4,2.45
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.12,2.13
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.77,1.76
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=0.25,1.59,1.6
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=0.5,2.8,2.75
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=0.75,1.33,1.34
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=1,1.2,1.21
+2026-10-10T11:38:45.280718+02:00,36449732,2nd Bundesliga,Germany,VfL 1899 Osnabruck,Dynamo Dresden,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=1,4.75,4.7
+2026-10-10T11:38:45.280718+02:00,36718224,"Division 2, Norra Gotaland",Sweden,Enskede IK,Skiljebo SK,2026-10-10T11:00:00+00:00,81.2453,soccer.double_chance,period=ft,draw_away,,1.58,1.61
+2026-10-10T11:38:45.280718+02:00,36718224,"Division 2, Norra Gotaland",Sweden,Enskede IK,Skiljebo SK,2026-10-10T11:00:00+00:00,81.2453,soccer.double_chance,period=ft,home_away,,1.25,1.24
+2026-10-10T11:38:45.280718+02:00,36718224,"Division 2, Norra Gotaland",Sweden,Enskede IK,Skiljebo SK,2026-10-10T11:00:00+00:00,81.2453,soccer.double_chance,period=ft,home_draw,,1.31,1.3
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.93,1.89
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.77,1.8
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.9,2.8
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.32,1.34
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-1,2.6,2.5
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-1,1.39,1.42
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.18,2.12
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.58,1.61
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.72,1.69
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.96,2.01
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=0,1.52,1.49
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=0,2.25,2.3
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,home,handicap=0.25,1.41,1.39
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.asian_handicap,period=ft,away,handicap=0.25,2.5,2.6
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.match_odds,period=ft,home,,1.92,1.89
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.match_odds,period=ft,draw,,3.9,3.95
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.match_odds,period=ft,away,,2.85,2.9
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,under,total=3,1.97,1.98
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,over,total=2.75,1.57,1.56
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,over,total=3.25,1.97,1.96
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,over,total=3.5,2.17,2.16
+2026-10-10T11:38:45.280718+02:00,36718222,"Division 2, Norra Gotaland",Sweden,IK Tord,Grebbestads IF,2026-10-10T11:00:00+00:00,81.2453,soccer.total_goals,period=ft,under,total=3.5,1.56,1.57
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=0.5,1.82,1.84
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=0.5,2.05,2.03
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.7,3.75
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=-0.25,3.2,3.25
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.33,1.32
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=0,2.7,2.75
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=0,1.45,1.43
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=0.25,2.07,2.1
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=0.25,1.73,1.71
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=0.75,1.57,1.59
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=0.75,2.35,2.3
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=1,1.37,1.38
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=1,3.0,2.95
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,home,handicap=1.25,1.3,1.31
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=1.25,3.4,3.35
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.asian_handicap,period=ft,away,handicap=1.5,3.85,3.8
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.double_chance,period=ft,home_away,,1.33,1.32
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.double_chance,period=ft,home_draw,,1.79,1.81
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.match_odds,period=ft,home,,3.8,3.85
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.match_odds,period=ft,draw,,3.35,3.4
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.match_odds,period=ft,away,,2.04,2.02
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.total_goals,period=ft,under,total=2.25,2.2,2.19
+2026-10-10T11:38:45.280718+02:00,36449026,Super Lig,Turkey,Genclerbirligi SK,Amed Sportif Faaliyetler,2026-10-10T10:30:00+00:00,51.2453,soccer.total_goals,period=ft,under,total=2.75,1.7,1.69
