@@ -2249,3 +2249,18 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-11T01:42:48.552730+02:00,36672984,Brasileiro Serie A,Brazil,Sao Paulo FC SP,EC Vitoria BA,2026-10-11T00:00:00+00:00,17.1908,soccer.match_odds,period=ft,away,,5.35,5.3
 2026-10-11T01:42:48.552730+02:00,36672984,Brasileiro Serie A,Brazil,Sao Paulo FC SP,EC Vitoria BA,2026-10-11T00:00:00+00:00,17.1908,soccer.total_goals,period=ft,over,total=1.5,1.37,1.38
 2026-10-11T01:42:48.552730+02:00,36672984,Brasileiro Serie A,Brazil,Sao Paulo FC SP,EC Vitoria BA,2026-10-11T00:00:00+00:00,17.1908,soccer.total_goals,period=ft,over,total=2.5,2.17,2.18
+2026-10-11T01:46:48.580797+02:00,36719050,Primera Division,Nicaragua,Diriangen FC Diriamba,CD Walter Ferretti,2026-10-11T00:00:00+00:00,13.1903,soccer.double_chance,period=ft,draw_away,,2.17,2.1
+2026-10-11T01:46:48.580797+02:00,36719050,Primera Division,Nicaragua,Diriangen FC Diriamba,CD Walter Ferretti,2026-10-11T00:00:00+00:00,13.1903,soccer.double_chance,period=ft,home_away,,1.19,1.1
+2026-10-11T01:46:48.580797+02:00,36719050,Primera Division,Nicaragua,Diriangen FC Diriamba,CD Walter Ferretti,2026-10-11T00:00:00+00:00,13.1903,soccer.double_chance,period=ft,home_draw,,1.15,1.07
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.85,1.83
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.96,1.98
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.55,3.5
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,home,handicap=-1,3.15,3.1
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.52,1.54
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.12,2.09
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.71,1.72
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,home,handicap=0,1.56,1.55
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.asian_handicap,period=ft,home,handicap=0.25,1.42,1.41
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.match_odds,period=ft,home,,2.12,2.09
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.match_odds,period=ft,away,,3.2,3.25
+2026-10-11T01:46:48.580797+02:00,36629328,"Liga de Expansion MX, Apertura",Mexico,CD Mineros de Zacatecas,Cancun FC,2026-10-11T01:00:00+00:00,73.1903,soccer.total_goals,period=ft,under,total=2.75,1.88,1.89
