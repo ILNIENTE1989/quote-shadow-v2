@@ -596,3 +596,19 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-12T00:42:53.106726+02:00,36544013,"Liga MX, Apertura",Mexico,Atletico San Luis,Club Santos Laguna,2026-10-11T23:00:00+00:00,17.1149,soccer.asian_handicap,period=ft,away,handicap=0.25,2.75,2.7
 2026-10-12T00:42:53.106726+02:00,36544013,"Liga MX, Apertura",Mexico,Atletico San Luis,Club Santos Laguna,2026-10-11T23:00:00+00:00,17.1149,soccer.asian_handicap,period=ft,away,handicap=0.75,3.95,3.9
 2026-10-12T00:42:53.106726+02:00,36544013,"Liga MX, Apertura",Mexico,Atletico San Luis,Club Santos Laguna,2026-10-11T23:00:00+00:00,17.1149,soccer.match_odds,period=ft,away,,3.15,3.1
+2026-10-12T00:46:55.661595+02:00,36741611,Liga Nacional. Clausura,Guatemala,CSD Municipal,CD Marquense,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,draw_away,,3.15,3.2
+2026-10-12T00:46:55.661595+02:00,36741611,Liga Nacional. Clausura,Guatemala,CSD Municipal,CD Marquense,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,home_away,,1.11,1.06
+2026-10-12T00:46:55.661595+02:00,36741611,Liga Nacional. Clausura,Guatemala,CSD Municipal,CD Marquense,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,home_draw,,1.05,0.0
+2026-10-12T00:46:55.661595+02:00,36734021,Primera Division,Nicaragua,FC San Marcos,HYH Sebaco FC,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,draw_away,,1.38,1.3
+2026-10-12T00:46:55.661595+02:00,36734021,Primera Division,Nicaragua,FC San Marcos,HYH Sebaco FC,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,home_away,,1.28,1.2
+2026-10-12T00:46:55.661595+02:00,36734021,Primera Division,Nicaragua,FC San Marcos,HYH Sebaco FC,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,home_draw,,1.5,1.45
+2026-10-12T00:46:55.661595+02:00,36431745,Primera Division,Chile,Deportes Limache,CD Palestino,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,draw_away,,1.57,1.5
+2026-10-12T00:46:55.661595+02:00,36431745,Primera Division,Chile,Deportes Limache,CD Palestino,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,home_away,,1.31,1.25
+2026-10-12T00:46:55.661595+02:00,36431745,Primera Division,Chile,Deportes Limache,CD Palestino,2026-10-11T23:00:00+00:00,13.0723,soccer.double_chance,period=ft,home_draw,,1.43,1.4
+2026-10-12T00:46:55.661595+02:00,36741812,Liga Nacional. Apertura,Honduras,Olancho FC,CA Independiente Siguatepeque,2026-10-11T23:15:00+00:00,28.0723,soccer.double_chance,period=ft,draw_away,,2.2,2.3
+2026-10-12T00:46:55.661595+02:00,36741812,Liga Nacional. Apertura,Honduras,Olancho FC,CA Independiente Siguatepeque,2026-10-11T23:15:00+00:00,28.0723,soccer.double_chance,period=ft,home_away,,1.17,1.18
+2026-10-12T00:46:55.661595+02:00,36741812,Liga Nacional. Apertura,Honduras,Olancho FC,CA Independiente Siguatepeque,2026-10-11T23:15:00+00:00,28.0723,soccer.double_chance,period=ft,home_draw,,1.12,1.13
+2026-10-12T00:46:55.661595+02:00,36642957,"Primera Division, Clausura",Costa Rica,CD Escorpiones Belen,Deportivo Saprissa San Jose,2026-10-11T23:00:00+00:00,13.0723,soccer.asian_handicap,period=ft,home,handicap=1.5,1.75,1.76
+2026-10-12T00:46:55.661595+02:00,36642957,"Primera Division, Clausura",Costa Rica,CD Escorpiones Belen,Deportivo Saprissa San Jose,2026-10-11T23:00:00+00:00,13.0723,soccer.asian_handicap,period=ft,home,handicap=1.75,1.56,1.57
+2026-10-12T00:46:55.661595+02:00,36642957,"Primera Division, Clausura",Costa Rica,CD Escorpiones Belen,Deportivo Saprissa San Jose,2026-10-11T23:00:00+00:00,13.0723,soccer.match_odds,period=ft,draw,,4.55,4.6
+2026-10-12T00:46:55.661595+02:00,36642957,"Primera Division, Clausura",Costa Rica,CD Escorpiones Belen,Deportivo Saprissa San Jose,2026-10-11T23:00:00+00:00,13.0723,soccer.total_goals,period=ft,under,total=2.75,2.01,2.02
