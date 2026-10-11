@@ -22252,3 +22252,189 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-11T14:06:57.527726+02:00,36727661,Regionalliga North,Germany,VfB Oldenburg,Kickers Emden,2026-10-11T13:00:00+00:00,53.0412,soccer.total_goals,period=ft,under,total=4,1.66,1.67
 2026-10-11T14:06:57.527726+02:00,36727661,Regionalliga North,Germany,VfB Oldenburg,Kickers Emden,2026-10-11T13:00:00+00:00,53.0412,soccer.total_goals,period=ft,over,total=4.25,2.35,2.3
 2026-10-11T14:06:57.527726+02:00,36727661,Regionalliga North,Germany,VfB Oldenburg,Kickers Emden,2026-10-11T13:00:00+00:00,53.0412,soccer.total_goals,period=ft,under,total=4.5,1.44,1.45
+2026-10-11T14:08:58.381306+02:00,36741612,Hessenliga,Germany,KSV Hessen Kassel,FSV Fernwald,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,home,,2.4,2.45
+2026-10-11T14:08:58.381306+02:00,36741612,Hessenliga,Germany,KSV Hessen Kassel,FSV Fernwald,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,draw,,3.2,3.25
+2026-10-11T14:08:58.381306+02:00,36741612,Hessenliga,Germany,KSV Hessen Kassel,FSV Fernwald,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,away,,2.35,2.4
+2026-10-11T14:08:58.381306+02:00,36727659,Regionalliga North,Germany,Bremer SV 1906,SV Drochtersen/Assel,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,draw_away,,1.08,1.1
+2026-10-11T14:08:58.381306+02:00,36727659,Regionalliga North,Germany,Bremer SV 1906,SV Drochtersen/Assel,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_away,,1.14,1.15
+2026-10-11T14:08:58.381306+02:00,36727659,Regionalliga North,Germany,Bremer SV 1906,SV Drochtersen/Assel,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_draw,,3.25,3.1
+2026-10-11T14:08:58.381306+02:00,36735360,Mocambola,International,Black Bulls FC,Vilankulo FC,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,draw_away,,2.2,2.3
+2026-10-11T14:08:58.381306+02:00,36735360,Mocambola,International,Black Bulls FC,Vilankulo FC,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_away,,1.2,1.21
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.0,0.0
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.3,0.0
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.5,2.6
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.42,1.39
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.2,2.3
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.55,1.5
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0,1.95,2.01
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0,1.75,1.68
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0.25,1.67,1.74
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0.25,2.02,1.97
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0.5,1.51,1.56
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0.5,2.25,2.2
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0.75,1.38,1.4
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0.75,2.65,2.55
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.match_odds,period=ft,home,,2.55,2.65
+2026-10-11T14:08:58.381306+02:00,36735120,Divize F,Czechia,Pusta Polom,FK Sumperk,2026-10-11T12:30:00+00:00,21.027,soccer.match_odds,period=ft,away,,2.3,2.2
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-2.5,1.94,1.96
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-2.5,1.77,1.84
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-3.25,2.8,2.85
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-3.25,1.37,1.38
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-3,1.45,1.46
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-2.75,1.61,1.65
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-2.25,1.74,1.73
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.97,2.05
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-2,1.54,1.51
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-2,2.3,2.4
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1.75,1.44,1.41
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1.75,2.6,2.7
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,draw_away,,5.5,6.95
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_away,,1.06,1.04
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_draw,,1.03,1.01
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,draw,,8.7,10.0
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,away,,14.0,17.0
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3.5,1.86,1.89
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3.5,1.84,1.88
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.75,1.39,1.38
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.75,2.75,2.8
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3,1.49,1.47
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3,2.45,2.5
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3.25,2.07,2.11
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3.75,2.06,2.1
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=4,2.35,2.45
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=4,1.51,1.49
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=4.25,2.6,2.75
+2026-10-11T14:08:58.381306+02:00,36636875,Virsliga,Latvia,FK Rigas Futbola Skola,FS Jelgava,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=4.25,1.43,1.39
+2026-10-11T14:08:58.381306+02:00,36692276,"Serie C, Group A",Italy,Ravenna FC 1913,SSD Citta Di Campobasso,2026-10-11T12:30:00+00:00,21.027,soccer.double_chance,period=ft,draw_away,,2.25,2.3
+2026-10-11T14:08:58.381306+02:00,36692276,"Serie C, Group A",Italy,Ravenna FC 1913,SSD Citta Di Campobasso,2026-10-11T12:30:00+00:00,21.027,soccer.double_chance,period=ft,home_away,,1.23,1.24
+2026-10-11T14:08:58.381306+02:00,36692276,"Serie C, Group A",Italy,Ravenna FC 1913,SSD Citta Di Campobasso,2026-10-11T12:30:00+00:00,21.027,soccer.double_chance,period=ft,home_draw,,1.15,1.16
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0,1.86,1.83
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0,1.95,1.99
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-1,4.45,4.35
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-1,1.19,1.2
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.15,3.1
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.33,1.34
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.6,2.55
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.48,1.5
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.2,2.19
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.65,1.66
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0.25,1.59,1.57
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0.25,2.3,2.35
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,home,handicap=0.5,1.45,1.44
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0.5,2.7,2.75
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=0.75,3.35,3.4
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.asian_handicap,period=ft,away,handicap=1,4.8,4.9
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.double_chance,period=ft,draw_away,,1.47,1.49
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.double_chance,period=ft,home_away,,1.33,1.32
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.double_chance,period=ft,home_draw,,1.45,1.43
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.match_odds,period=ft,home,,2.6,2.55
+2026-10-11T14:08:58.381306+02:00,36636136,I Liga,Poland,LKS Lodz,Ruch Chorzow,2026-10-11T12:30:00+00:00,21.027,soccer.match_odds,period=ft,away,,2.7,2.75
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.04,1.99
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.82,1.88
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1.5,3.85,3.7
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.26,1.28
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.45,3.3
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.32,1.34
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1,3.0,2.9
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1,1.4,1.43
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.35,2.25
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.61,1.65
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.75,1.7
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.12,2.19
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0,1.47,1.43
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0,2.75,2.85
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0.25,1.35,1.33
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0.25,3.25,3.35
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0.5,1.28,1.26
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0.5,3.75,3.9
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,draw_away,,1.8,1.85
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_away,,1.32,1.31
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_draw,,1.28,1.26
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,home,,2.03,1.98
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,draw,,3.4,3.45
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,away,,3.8,3.9
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.5,1.95,1.96
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.75,2.13,2.12
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.75,1.73,1.74
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3,2.55,2.5
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3,1.52,1.53
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3.5,3.2,3.15
+2026-10-11T14:08:58.381306+02:00,36375450,Premiership,Scotland,Aberdeen FC,St Johnstone FC,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=4.5,6.35,6.3
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0,1.76,1.89
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0,2.11,1.98
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1,3.85,4.3
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1,1.26,1.22
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.9,3.15
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.43,1.36
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.4,2.6
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.59,1.51
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.1,2.2
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.78,1.67
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0.25,1.55,1.62
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0.25,2.5,2.3
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0.5,1.42,1.48
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0.5,2.85,2.7
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0.75,1.3,1.33
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0.75,3.6,3.3
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,draw_away,,1.57,1.5
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_away,,1.32,1.33
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.double_chance,period=ft,home_draw,,1.42,1.47
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,home,,2.4,2.6
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,draw,,3.4,3.35
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,away,,2.9,2.7
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.75,1.97,1.98
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.75,1.88,1.87
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=1.5,4.25,4.2
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.25,1.54,1.55
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.5,1.76,1.77
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.5,2.09,2.07
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3,2.25,2.3
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3,1.65,1.64
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3.25,2.55,2.6
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3.25,1.51,1.5
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3.5,1.42,1.41
+2026-10-11T14:08:58.381306+02:00,36449021,Super Lig,Turkey,Gaziantep FK,Corum FK,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=4.5,5.35,5.4
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=0,2.01,2.0
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,away,handicap=0,1.83,1.85
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=-1,4.85,4.8
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.31,1.32
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.4,2.35
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.59,1.6
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=0.25,1.69,1.68
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,away,handicap=0.25,2.19,2.2
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=0.5,1.52,1.51
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=0.75,1.37,1.36
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,home,handicap=1,1.22,1.21
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.asian_handicap,period=ft,away,handicap=1,4.25,4.3
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.double_chance,period=ft,draw_away,,1.44,1.45
+2026-10-11T14:08:58.381306+02:00,36557847,Ekstraklasa,Poland,GKS Piast Gliwice,Widzew Lodz,2026-10-11T12:45:00+00:00,36.027,soccer.match_odds,period=ft,home,,2.8,2.75
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.78,1.75
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.91,1.96
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.75,2.7
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.35,1.36
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.45,2.35
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.45,1.46
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-1,2.11,2.06
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-1,1.62,1.65
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.59,1.56
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.17,2.2
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.39,1.37
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.6,2.65
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,home,handicap=0,1.2,1.19
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.asian_handicap,period=ft,away,handicap=0,3.7,3.8
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,home,,1.59,1.56
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,draw,,3.4,3.5
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.match_odds,period=ft,away,,4.85,4.9
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=1.5,1.29,0.0
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=1.5,3.05,0.0
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=1.75,1.36,1.35
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=1.75,2.7,2.75
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2,1.49,1.45
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2,2.35,2.4
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.25,1.74,1.7
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.25,1.97,2.0
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=2.5,1.97,1.94
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.5,1.71,1.76
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=2.75,1.53,1.57
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,over,total=3,2.75,2.65
+2026-10-11T14:08:58.381306+02:00,36735354,"Serie D, Girone H",Italy,AC Leon,Pavonese,2026-10-11T13:00:00+00:00,51.027,soccer.total_goals,period=ft,under,total=3,1.35,1.38
