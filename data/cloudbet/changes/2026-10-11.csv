@@ -5502,3 +5502,29 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-11T08:16:46.902496+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,73.2183,soccer.total_goals,period=ft,over,total=4,2.17,2.18
 2026-10-11T08:16:46.902496+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,73.2183,soccer.total_goals,period=ft,under,total=4,1.57,1.58
 2026-10-11T08:16:46.902496+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,73.2183,soccer.total_goals,period=ft,under,total=4.25,1.46,1.47
+2026-10-11T08:18:48.660135+02:00,36735541,Division 1,Hong Kong,Resources Capital FC,Wofoo SE,2026-10-11T07:30:00+00:00,71.189,soccer.double_chance,period=ft,draw_away,,2.11,2.2
+2026-10-11T08:18:48.660135+02:00,36735541,Division 1,Hong Kong,Resources Capital FC,Wofoo SE,2026-10-11T07:30:00+00:00,71.189,soccer.double_chance,period=ft,home_away,,1.17,1.16
+2026-10-11T08:18:48.660135+02:00,36735541,Division 1,Hong Kong,Resources Capital FC,Wofoo SE,2026-10-11T07:30:00+00:00,71.189,soccer.double_chance,period=ft,home_draw,,1.15,1.13
+2026-10-11T08:18:48.660135+02:00,36735541,Division 1,Hong Kong,Resources Capital FC,Wofoo SE,2026-10-11T07:30:00+00:00,71.189,soccer.match_odds,period=ft,home,,1.46,1.41
+2026-10-11T08:18:48.660135+02:00,36735541,Division 1,Hong Kong,Resources Capital FC,Wofoo SE,2026-10-11T07:30:00+00:00,71.189,soccer.match_odds,period=ft,draw,,4.1,4.15
+2026-10-11T08:18:48.660135+02:00,36735541,Division 1,Hong Kong,Resources Capital FC,Wofoo SE,2026-10-11T07:30:00+00:00,71.189,soccer.match_odds,period=ft,away,,4.45,4.85
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.45,1.57
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.43,2.18
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.17,1.45
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.56,2.4
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.96,1.33
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.72,2.8
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=3.75,1.94,1.8
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=3.75,1.76,1.88
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=3,1.4,1.33
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=3,2.55,2.8
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=3.25,1.57,1.48
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=3.25,2.15,2.3
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=3.5,1.75,1.65
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=3.5,1.93,2.04
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=4,2.18,2.0
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=4,1.58,1.68
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=4.25,2.35,2.19
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=4.25,1.47,1.54
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,over,total=4.5,2.6,2.4
+2026-10-11T08:18:48.660135+02:00,36735726,Division 2,Hong Kong,KWONG WAH,Kwai Tsing,2026-10-11T07:30:00+00:00,71.189,soccer.total_goals,period=ft,under,total=4.5,1.39,1.45
