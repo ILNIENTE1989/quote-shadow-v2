@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-11T06:06:49.110190+00:00",
+  "generated_at_utc": "2026-10-11T08:06:52.507601+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -24,6 +24,25 @@
           "home": "FC Santa Coloma",
           "away": "Casa de Portugal em Macau",
           "kickoff_utc": "2026-10-11T15:00:00+00:00"
+        },
+        {
+          "event_id": "36738584",
+          "home": "Atletic Club d'Escaldes",
+          "away": "CF Esperanca D Andorra",
+          "kickoff_utc": "2026-10-11T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Angola",
+      "name": "Girabola",
+      "key": "soccer-angola-girabola",
+      "events": [
+        {
+          "event_id": "36739834",
+          "home": "Petroleos Do Lobito",
+          "away": "Primeiro de Agosto",
+          "kickoff_utc": "2026-10-11T14:00:00+00:00"
         }
       ]
     },
@@ -37,6 +56,12 @@
           "home": "CA San Lorenzo de Almagro",
           "away": "Deportivo Riestra",
           "kickoff_utc": "2026-10-11T17:45:00+00:00"
+        },
+        {
+          "event_id": "36431553",
+          "home": "Club Atletico Rosario Central",
+          "away": "Independiente Rivadavia",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
         }
       ]
     },
@@ -69,6 +94,60 @@
           "home": "Deportivo Madryn",
           "away": "CA Chaco For Ever",
           "kickoff_utc": "2026-10-11T18:00:00+00:00"
+        },
+        {
+          "event_id": "36642950",
+          "home": "Almirante Brown",
+          "away": "CA San Miguel",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36642348",
+          "home": "CA Estudiantes",
+          "away": "Deportivo Moron",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36642949",
+          "home": "CAS Defensores de Belgrano",
+          "away": "Club Atletico Acassuso",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36642953",
+          "home": "CA Patronato Parana",
+          "away": "CA Guemes",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36642613",
+          "home": "CA Temperley",
+          "away": "Nueva Chicago",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36642952",
+          "home": "Gimnasia Jujuy",
+          "away": "Gimnasia Y Tiro de Salta",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36642954",
+          "home": "Mitre Santiago Del Estero",
+          "away": "Colon de Santa Fe",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36642955",
+          "home": "CA Central Norte Salta",
+          "away": "Ferro Carril Oeste",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        },
+        {
+          "event_id": "36655595",
+          "home": "CD Maipu",
+          "away": "San Martin de San Juan",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
         }
       ]
     },
@@ -82,6 +161,67 @@
           "home": "Fadep",
           "away": "CSB Atenas",
           "kickoff_utc": "2026-10-11T14:00:00+00:00"
+        },
+        {
+          "event_id": "36738583",
+          "home": "Costa Brava de General Pico",
+          "away": "Villa Mitre de Bahia Blanca",
+          "kickoff_utc": "2026-10-11T18:00:00+00:00"
+        },
+        {
+          "event_id": "36738667",
+          "home": "CA Juventud Unida Universitario San Luis",
+          "away": "CA Sol de America de Formosa",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36738653",
+          "home": "CA Linqueno",
+          "away": "Douglas Haig",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36719995",
+          "home": "CLUB CIPOLLETTI",
+          "away": "CA Alvarado",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36738926",
+          "home": "CA Boca Unidos Corrientes",
+          "away": "CA Bartolome Mitre",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36684149",
+          "home": "Club Olimpo",
+          "away": "Sportivo General San Martin",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36738929",
+          "home": "Gimnasia y Esgrima de Concepcion del Uruguay",
+          "away": "CA 9 de Julio Rafaela",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36738901",
+          "home": "Sportivo Las Parejas",
+          "away": "CAS Defensores de Belgrano",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Argentina",
+      "name": "Torneo Regional Federal Amateur",
+      "key": "soccer-argentina-torneo-regional-federal-amateur",
+      "events": [
+        {
+          "event_id": "36738585",
+          "home": "Defensores de Glew",
+          "away": "Social Atletico Television",
+          "kickoff_utc": "2026-10-11T18:00:00+00:00"
         }
       ]
     },
@@ -305,6 +445,44 @@
       ]
     },
     {
+      "category": "Bolivia",
+      "name": "Copa Simon Bolivar",
+      "key": "soccer-bolivia-nacional-b",
+      "events": [
+        {
+          "event_id": "36738983",
+          "home": "Atletico Sucre",
+          "away": "Club Empresa Minera Huanuni",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36738984",
+          "home": "Mineros Potosi",
+          "away": "Ciudad Nueva Santa Cruz",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36738985",
+          "home": "Union Tarija",
+          "away": "Club Independiente Unificada",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Bolivia",
+      "name": "Division Profesional",
+      "key": "soccer-bolivia-division-profesional",
+      "events": [
+        {
+          "event_id": "36653727",
+          "home": "Real Potosi",
+          "away": "The Strongest",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Bosnia & Herzegovina",
       "name": "Premijer Liga",
       "key": "soccer-bosnia-herzegovina-premijer-liga",
@@ -344,6 +522,51 @@
     },
     {
       "category": "Brazil",
+      "name": "Brasileiro Serie A",
+      "key": "soccer-brazil-brasileiro-serie-a",
+      "events": [
+        {
+          "event_id": "36685072",
+          "home": "Atletico Mineiro MG",
+          "away": "Santos FC SP",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36673543",
+          "home": "EC Juventude RS",
+          "away": "Sao Bernardo FC",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36682844",
+          "home": "AC Goianiense GO",
+          "away": "SC Recife PE",
+          "kickoff_utc": "2026-10-11T19:10:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brazil - Copa Parana",
+      "key": "soccer-brazil-tc493-brazil-copa-parana",
+      "events": [
+        {
+          "event_id": "36731117",
+          "home": "Paranavai PR",
+          "away": "Azuriz FC PR",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
       "name": "Brazil Campeonato Gaucho Division 2 (RS)",
       "key": "soccer-brazil-tc2c3-brazil-campeonato-gaucho-division-2-rs",
       "events": [
@@ -352,6 +575,25 @@
           "home": "Veranópolis EC (RS)",
           "away": "Uniao Frederiquense (RS)",
           "kickoff_utc": "2026-10-11T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brazil Campeonato Goiano Division 2 (GO)",
+      "key": "soccer-brazil-tc28a-brazil-campeonato-goiano-division-2-go",
+      "events": [
+        {
+          "event_id": "36731180",
+          "home": "Goiania EC (GO)",
+          "away": "Mineiros GO",
+          "kickoff_utc": "2026-10-11T18:30:00+00:00"
+        },
+        {
+          "event_id": "36731182",
+          "home": "Goianésia EC (GO)",
+          "away": "SC Bom Jesus",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
         }
       ]
     },
@@ -463,22 +705,35 @@
       ]
     },
     {
+      "category": "Chile",
+      "name": "Segunda Division",
+      "key": "soccer-chile-segunda-division",
+      "events": [
+        {
+          "event_id": "36730021",
+          "home": "Deportes Rengo",
+          "away": "AC Colina",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36730022",
+          "home": "Santiago Morning",
+          "away": "Real San Joaquin",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36731161",
+          "home": "General Velasquez",
+          "away": "Lota Schwager",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "China",
       "name": "China League 1",
       "key": "soccer-china-china-league",
       "events": [
-        {
-          "event_id": "36719439",
-          "home": "Yanbian Longding",
-          "away": "Nantong Zhiyun",
-          "kickoff_utc": "2026-10-11T07:00:00+00:00"
-        },
-        {
-          "event_id": "36719438",
-          "home": "Shaanxi Union FC",
-          "away": "Foshan Nanshi FC",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
         {
           "event_id": "36719437",
           "home": "Ningbo Professional",
@@ -499,16 +754,68 @@
       "key": "soccer-china-division-2",
       "events": [
         {
-          "event_id": "36724145",
-          "home": "Rizhao Yuqi",
-          "away": "Guangdong Mingtu",
-          "kickoff_utc": "2026-10-11T07:00:00+00:00"
-        },
-        {
           "event_id": "36726403",
           "home": "Ganzhou Ruishi FC",
           "away": "Nantong Haimen Codion",
           "kickoff_utc": "2026-10-11T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Copa Colombia",
+      "key": "soccer-colombia-copa-colombia",
+      "events": [
+        {
+          "event_id": "36729176",
+          "home": "Independiente Santa Fe",
+          "away": "Fortaleza FC",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36692249",
+          "home": "Envigado FC",
+          "away": "CD Cortulua",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Costa Rica",
+      "name": "Liga de Ascenso, Apertura",
+      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
+      "events": [
+        {
+          "event_id": "36738883",
+          "home": "PFA Santa Cruz",
+          "away": "Adr Jicaral",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        },
+        {
+          "event_id": "36738882",
+          "home": "Quepos Cambute",
+          "away": "AD Sarchi",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Croatia",
+      "name": "Croatia Division 3 (Treća HNL)",
+      "key": "soccer-croatia-tb414-croatia-division-3-treca-hnl",
+      "events": [
+        {
+          "event_id": "36739459",
+          "home": "NK Cepin",
+          "away": "NK Belišće",
+          "kickoff_utc": "2026-10-11T13:30:00+00:00"
         }
       ]
     },
@@ -786,6 +1093,12 @@
           "home": "CD Universidad Catolica del Ecuador",
           "away": "CSD Macara",
           "kickoff_utc": "2026-10-11T16:30:00+00:00"
+        },
+        {
+          "event_id": "36488513",
+          "home": "Orense SC",
+          "away": "CD Cuenca",
+          "kickoff_utc": "2026-10-11T18:45:00+00:00"
         }
       ]
     },
@@ -895,6 +1208,12 @@
           "home": "Rennes",
           "away": "AJ Auxerre",
           "kickoff_utc": "2026-10-11T15:15:00+00:00"
+        },
+        {
+          "event_id": "36363398",
+          "home": "ESTAC Troyes",
+          "away": "Olympique Marseille",
+          "kickoff_utc": "2026-10-11T18:45:00+00:00"
         }
       ]
     },
@@ -1045,6 +1364,31 @@
     },
     {
       "category": "Greece",
+      "name": "3rd League, Group 3 (4)",
+      "key": "soccer-greece-3rd-league-group-3-4",
+      "events": [
+        {
+          "event_id": "36738881",
+          "home": "Iraklis Larissa",
+          "away": "Ethnikos Keramidiou",
+          "kickoff_utc": "2026-10-11T13:00:00+00:00"
+        },
+        {
+          "event_id": "36738885",
+          "home": "Panachaiki 1891 FC",
+          "away": "Pallixouriakos FC",
+          "kickoff_utc": "2026-10-11T13:00:00+00:00"
+        },
+        {
+          "event_id": "36738884",
+          "home": "Poseidonas Michanionas",
+          "away": "Kilkisiakos",
+          "kickoff_utc": "2026-10-11T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Greece",
       "name": "Super League 1",
       "key": "soccer-greece-super-league-1",
       "events": [
@@ -1119,9 +1463,15 @@
     },
     {
       "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "name": "Primera Division",
+      "key": "soccer-guatemala-primera-division",
       "events": [
+        {
+          "event_id": "36737808",
+          "home": "Csd Amatitlan",
+          "away": "Deportivo Gomerano",
+          "kickoff_utc": "2026-10-11T17:00:00+00:00"
+        },
         {
           "event_id": "36738532",
           "home": "Deportivo Coatepeque",
@@ -1131,53 +1481,10 @@
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Primera Division",
-      "key": "soccer-guatemala-primera-division",
-      "events": [
-        {
-          "event_id": "36737808",
-          "home": "Csd Amatitlan",
-          "away": "Deportivo Gomerano",
-          "kickoff_utc": "2026-10-11T17:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Hong Kong",
       "name": "Division 1",
       "key": "soccer-hong-kong-division-1",
       "events": [
-        {
-          "event_id": "36735541",
-          "home": "Resources Capital FC",
-          "away": "Wofoo SE",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
-        {
-          "event_id": "36735540",
-          "home": "Supreme FC",
-          "away": "South China FC",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
-        {
-          "event_id": "36735723",
-          "home": "Tung Sing",
-          "away": "3 Sing FC",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
-        {
-          "event_id": "36735539",
-          "home": "Tung Sing",
-          "away": "Bright Cerulean",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
-        {
-          "event_id": "36735724",
-          "home": "Yuen Long FC",
-          "away": "Lucky Mile",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
         {
           "event_id": "36736728",
           "home": "Kui Tan SC",
@@ -1192,47 +1499,10 @@
       "key": "soccer-hong-kong-division-2",
       "events": [
         {
-          "event_id": "36735351",
-          "home": "Sai Kung Friends Football Club",
-          "away": "Sui Tung",
-          "kickoff_utc": "2026-10-11T07:00:00+00:00"
-        },
-        {
-          "event_id": "36735352",
-          "home": "Yau Tsim Mong",
-          "away": "Wong Tai Sin",
-          "kickoff_utc": "2026-10-11T07:00:00+00:00"
-        },
-        {
-          "event_id": "36735726",
-          "home": "KWONG WAH",
-          "away": "Kwai Tsing",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
-        {
-          "event_id": "36735725",
-          "home": "Tsuen Wan",
-          "away": "Sun Hei SC",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
-        },
-        {
           "event_id": "36736781",
           "home": "Double Flower",
           "away": "Wing Yee Ft",
           "kickoff_utc": "2026-10-11T09:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Hong Kong",
-      "name": "Division 3",
-      "key": "soccer-hong-kong-t88e6-division-3",
-      "events": [
-        {
-          "event_id": "36735534",
-          "home": "Konter",
-          "away": "St Joseph's FC (HK)",
-          "kickoff_utc": "2026-10-11T07:30:00+00:00"
         }
       ]
     },
@@ -1314,6 +1584,25 @@
           "home": "Szombathelyi Haladas Vse",
           "away": "Mosonmagyarovari TE",
           "kickoff_utc": "2026-10-11T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Iceland",
+      "name": "Besta deild",
+      "key": "soccer-iceland-t9038-besta-deild",
+      "events": [
+        {
+          "event_id": "36640606",
+          "home": "Breidablik Kopavogur",
+          "away": "Keflavik IF",
+          "kickoff_utc": "2026-10-11T19:15:00+00:00"
+        },
+        {
+          "event_id": "36640605",
+          "home": "Vikingur Reykjavik",
+          "away": "IA Akranes",
+          "kickoff_utc": "2026-10-11T19:15:00+00:00"
         }
       ]
     },
@@ -1446,6 +1735,12 @@
           "home": "Sassuolo Calcio",
           "away": "AC Milan",
           "kickoff_utc": "2026-10-11T16:00:00+00:00"
+        },
+        {
+          "event_id": "36363477",
+          "home": "Cagliari Calcio",
+          "away": "Juventus",
+          "kickoff_utc": "2026-10-11T18:45:00+00:00"
         }
       ]
     },
@@ -1916,6 +2211,19 @@
       ]
     },
     {
+      "category": "Kosovo",
+      "name": "Superliga",
+      "key": "soccer-kosovo-superliga",
+      "events": [
+        {
+          "event_id": "36738498",
+          "home": "KF Vjosa",
+          "away": "KF 2 Korriku",
+          "kickoff_utc": "2026-10-11T12:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Latvia",
       "name": "Virsliga",
       "key": "soccer-latvia-virsliga",
@@ -1983,6 +2291,12 @@
           "home": "H2O Purepechas",
           "away": "Lobos Ulmx",
           "kickoff_utc": "2026-10-11T17:00:00+00:00"
+        },
+        {
+          "event_id": "36738586",
+          "home": "Montaneses FC",
+          "away": "Tapachula Soconusco FC",
+          "kickoff_utc": "2026-10-11T18:00:00+00:00"
         }
       ]
     },
@@ -2002,6 +2316,38 @@
           "home": "Petrocub Hincesti",
           "away": "FC Zimbru Chisinau",
           "kickoff_utc": "2026-10-11T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Montenegro",
+      "name": "2. CFL",
+      "key": "soccer-montenegro-t926a-2-cfl",
+      "events": [
+        {
+          "event_id": "36738588",
+          "home": "FK Kom Podgorica",
+          "away": "FK Podgorica",
+          "kickoff_utc": "2026-10-11T12:00:00+00:00"
+        },
+        {
+          "event_id": "36738677",
+          "home": "FK Iskra Danilovgrad",
+          "away": "FK Berane",
+          "kickoff_utc": "2026-10-11T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Morocco",
+      "name": "Botola",
+      "key": "soccer-morocco-botola",
+      "events": [
+        {
+          "event_id": "36727922",
+          "home": "Wydad AC",
+          "away": "CODM Meknes",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
         }
       ]
     },
@@ -2279,6 +2625,32 @@
     },
     {
       "category": "Paraguay",
+      "name": "Division de Honor, Apertura",
+      "key": "soccer-paraguay-primera-division-apertura",
+      "events": [
+        {
+          "event_id": "36671967",
+          "home": "Rubio Nu",
+          "away": "Club Olimpia",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Primera Division B (APF)",
+      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
+      "events": [
+        {
+          "event_id": "36738376",
+          "home": "Sportivo San Lorenzo",
+          "away": "Sportivo Trinidense Res.",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
       "name": "Segunda Division",
       "key": "soccer-paraguay-segunda-division",
       "events": [
@@ -2351,6 +2723,12 @@
           "home": "Pogon Szczecin",
           "away": "Korona Kielce",
           "kickoff_utc": "2026-10-11T15:30:00+00:00"
+        },
+        {
+          "event_id": "36557843",
+          "home": "Legia Warszawa",
+          "away": "Wisla Krakow",
+          "kickoff_utc": "2026-10-11T18:15:00+00:00"
         }
       ]
     },
@@ -2376,6 +2754,12 @@
           "home": "Puszcza Niepolomice",
           "away": "KS Polonia Bytom SA",
           "kickoff_utc": "2026-10-11T15:00:00+00:00"
+        },
+        {
+          "event_id": "36639824",
+          "home": "Odra Opole",
+          "away": "Miedz Legnica",
+          "kickoff_utc": "2026-10-11T18:15:00+00:00"
         }
       ]
     },
@@ -2433,6 +2817,18 @@
           "home": "Izolator Boguchwala",
           "away": "Igloopol Debica",
           "kickoff_utc": "2026-10-11T09:00:00+00:00"
+        },
+        {
+          "event_id": "36738879",
+          "home": "Arkonia Szczecin",
+          "away": "LKS Ina Insko",
+          "kickoff_utc": "2026-10-11T13:00:00+00:00"
+        },
+        {
+          "event_id": "36738878",
+          "home": "MKS Pogoń Barlinek",
+          "away": "OKS Swit Skolwin Szczecin",
+          "kickoff_utc": "2026-10-11T13:00:00+00:00"
         }
       ]
     },
@@ -2493,6 +2889,12 @@
           "event_id": "36736004",
           "home": "FC Serpa",
           "away": "Sintrense",
+          "kickoff_utc": "2026-10-11T14:00:00+00:00"
+        },
+        {
+          "event_id": "36739830",
+          "home": "GD Braganca",
+          "away": "CDC Montalegre",
           "kickoff_utc": "2026-10-11T14:00:00+00:00"
         },
         {
@@ -2573,6 +2975,12 @@
           "home": "SL Benfica",
           "away": "Vitória de Guimarães",
           "kickoff_utc": "2026-10-11T17:00:00+00:00"
+        },
+        {
+          "event_id": "36449940",
+          "home": "FC Arouca",
+          "away": "Estrela Amadora",
+          "kickoff_utc": "2026-10-11T19:30:00+00:00"
         }
       ]
     },
@@ -2637,12 +3045,6 @@
       "name": "Liga 2",
       "key": "soccer-romania-liga-2",
       "events": [
-        {
-          "event_id": "36724150",
-          "home": "CS Afumati",
-          "away": "Csl Stefanestii de Jos",
-          "kickoff_utc": "2026-10-11T08:00:00+00:00"
-        },
         {
           "event_id": "36732266",
           "home": "FC Bihor Oradea",
@@ -2931,6 +3333,12 @@
           "home": "Real Betis",
           "away": "Osasuna",
           "kickoff_utc": "2026-10-11T16:30:00+00:00"
+        },
+        {
+          "event_id": "36377232",
+          "home": "Racing Santander",
+          "away": "Valencia",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
         }
       ]
     },
@@ -3030,6 +3438,12 @@
           "home": "Mallorca",
           "away": "Las Palmas",
           "kickoff_utc": "2026-10-11T16:30:00+00:00"
+        },
+        {
+          "event_id": "36640743",
+          "home": "Cadiz",
+          "away": "Sporting Gijon",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
         }
       ]
     },
@@ -3836,6 +4250,31 @@
     },
     {
       "category": "Turkey",
+      "name": "3. Lig, Group 4",
+      "key": "soccer-turkey-3-lig-group-4",
+      "events": [
+        {
+          "event_id": "36738669",
+          "home": "Bulvarspor",
+          "away": "Orduspor 1967",
+          "kickoff_utc": "2026-10-11T12:30:00+00:00"
+        },
+        {
+          "event_id": "36738671",
+          "home": "Golcukspor",
+          "away": "Galata SK",
+          "kickoff_utc": "2026-10-11T12:30:00+00:00"
+        },
+        {
+          "event_id": "36738668",
+          "home": "Kucukcekmece Sinop Spor",
+          "away": "Karabuk Idmanyurdu Spor",
+          "kickoff_utc": "2026-10-11T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Turkey",
       "name": "Super Lig",
       "key": "soccer-turkey-super-lig",
       "events": [
@@ -3905,6 +4344,19 @@
     },
     {
       "category": "Uruguay",
+      "name": "Primera Division Amateur",
+      "key": "soccer-uruguay-primera-division-amateur",
+      "events": [
+        {
+          "event_id": "36738591",
+          "home": "Salus FC",
+          "away": "Deportivo Lsm",
+          "kickoff_utc": "2026-10-11T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Uruguay",
       "name": "Segunda Division",
       "key": "soccer-uruguay-segunda-division",
       "events": [
@@ -3913,6 +4365,12 @@
           "home": "CA Atenas de San Carlos",
           "away": "Miramar Misiones",
           "kickoff_utc": "2026-10-11T16:00:00+00:00"
+        },
+        {
+          "event_id": "36698444",
+          "home": "La Luz FC",
+          "away": "Plaza Colonia",
+          "kickoff_utc": "2026-10-11T19:00:00+00:00"
         }
       ]
     },
@@ -3932,6 +4390,38 @@
           "home": "PFC Sogdiana",
           "away": "Lokomotiv Tashkent",
           "kickoff_utc": "2026-10-11T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Venezuela",
+      "name": "Primera Division",
+      "key": "soccer-venezuela-primera-division",
+      "events": [
+        {
+          "event_id": "36692327",
+          "home": "Academia Anzoategui FC",
+          "away": "Carabobo FC",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        },
+        {
+          "event_id": "36692325",
+          "home": "Trujillanos FC",
+          "away": "Academia Puerto Cabello",
+          "kickoff_utc": "2026-10-11T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Venezuela",
+      "name": "Segunda Division",
+      "key": "soccer-venezuela-segunda-division",
+      "events": [
+        {
+          "event_id": "36725148",
+          "home": "Deportivo Miranda",
+          "away": "Dynamo Puerto FC",
+          "kickoff_utc": "2026-10-11T19:30:00+00:00"
         }
       ]
     },
