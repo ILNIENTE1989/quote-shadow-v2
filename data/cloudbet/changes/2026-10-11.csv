@@ -4261,3 +4261,11 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-11T06:02:49.007849+02:00,36631812,J.League 2,Japan,Montedio Yamagata,Vegalta Sendai,2026-10-11T04:05:00+00:00,2.1832,soccer.double_chance,period=ft,draw_away,,1.28,1.27
 2026-10-11T06:02:49.007849+02:00,36631812,J.League 2,Japan,Montedio Yamagata,Vegalta Sendai,2026-10-11T04:05:00+00:00,2.1832,soccer.double_chance,period=ft,home_draw,,1.87,1.89
 2026-10-11T06:02:49.007849+02:00,36631812,J.League 2,Japan,Montedio Yamagata,Vegalta Sendai,2026-10-11T04:05:00+00:00,2.1832,soccer.total_goals,period=ft,over,total=2.25,1.63,1.62
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.asian_handicap,period=ft,home,handicap=1,1.82,1.81
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.asian_handicap,period=ft,away,handicap=1,2.05,2.06
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.asian_handicap,period=ft,away,handicap=0.5,1.59,1.6
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.asian_handicap,period=ft,home,handicap=0.75,2.1,2.09
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.asian_handicap,period=ft,away,handicap=0.75,1.76,1.77
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.match_odds,period=ft,draw,,4.35,4.3
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.total_goals,period=ft,under,total=1.5,4.85,4.9
+2026-10-11T06:11:03.155571+02:00,36631422,K-League 1,Republic Of Korea,Gwangju FC,Ulsan Hyundai FC,2026-10-11T05:00:00+00:00,48.9474,soccer.total_goals,period=ft,over,total=2.5,1.57,1.58
