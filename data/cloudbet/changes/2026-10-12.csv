@@ -1594,3 +1594,11 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-12T02:52:55.098213+02:00,36653206,"Primera A, Clausura",Colombia,America de Cali,Independiente Medellin,2026-10-12T01:15:00+00:00,22.0817,soccer.double_chance,period=ft,draw_away,,2.06,2.02
 2026-10-12T02:52:55.098213+02:00,36653206,"Primera A, Clausura",Colombia,America de Cali,Independiente Medellin,2026-10-12T01:15:00+00:00,22.0817,soccer.double_chance,period=ft,home_away,,1.28,1.29
 2026-10-12T02:52:55.098213+02:00,36653206,"Primera A, Clausura",Colombia,America de Cali,Independiente Medellin,2026-10-12T01:15:00+00:00,22.0817,soccer.double_chance,period=ft,home_draw,,1.19,1.2
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.asian_handicap,period=ft,home,handicap=0.25,1.86,1.85
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.asian_handicap,period=ft,away,handicap=0,1.68,1.69
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.asian_handicap,period=ft,away,handicap=0.5,2.25,2.3
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.match_odds,period=ft,away,,2.25,2.3
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.total_goals,period=ft,over,total=2.75,1.95,1.94
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.total_goals,period=ft,under,total=2.75,1.89,1.9
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.total_goals,period=ft,over,total=2.5,1.75,1.74
+2026-10-12T02:54:54.026333+02:00,36597348,"Liga MX, Apertura",Mexico,Pumas UNAM,Cruz Azul,2026-10-12T01:15:00+00:00,20.0996,soccer.total_goals,period=ft,over,total=4.5,5.2,5.15
