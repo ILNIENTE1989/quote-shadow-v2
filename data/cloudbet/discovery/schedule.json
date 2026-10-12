@@ -1,43 +1,23 @@
 {
-  "generated_at_utc": "2026-10-12T20:14:59.298375+00:00",
+  "generated_at_utc": "2026-10-12T22:15:00.362600+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
+      "category": "Bangladesh",
+      "name": "Federation Cup",
+      "key": "soccer-bangladesh-federation-cup",
       "events": [
         {
-          "event_id": "36567096",
-          "home": "Gimnasia y Esgrima Mendoza",
-          "away": "Newell´s Old Boys",
-          "kickoff_utc": "2026-10-12T21:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Argentina",
-      "name": "Primera Nacional",
-      "key": "soccer-argentina-primera-nacional",
-      "events": [
+          "event_id": "36763334",
+          "home": "Brothers Union",
+          "away": "Fakirapool Young Men",
+          "kickoff_utc": "2026-10-13T08:45:00+00:00"
+        },
         {
-          "event_id": "36643857",
-          "home": "CA All Boys",
-          "away": "CD Godoy Cruz",
-          "kickoff_utc": "2026-10-12T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bolivia",
-      "name": "Division Profesional",
-      "key": "soccer-bolivia-division-profesional",
-      "events": [
-        {
-          "event_id": "36653772",
-          "home": "Always Ready",
-          "away": "Independiente Petrolero",
-          "kickoff_utc": "2026-10-12T21:15:00+00:00"
+          "event_id": "36763333",
+          "home": "Rahmatganj MFS",
+          "away": "Chattogram City FC",
+          "kickoff_utc": "2026-10-13T08:45:00+00:00"
         }
       ]
     },
@@ -66,12 +46,6 @@
       "key": "soccer-brazil-brasileiro-serie-b",
       "events": [
         {
-          "event_id": "36682909",
-          "home": "Gremio Novorizontino SP",
-          "away": "AA Ponte Preta SP",
-          "kickoff_utc": "2026-10-12T22:00:00+00:00"
-        },
-        {
           "event_id": "36682980",
           "home": "Criciuma EC SC",
           "away": "America FC MG",
@@ -86,19 +60,6 @@
       ]
     },
     {
-      "category": "Chile",
-      "name": "Primera B",
-      "key": "soccer-chile-primera-b",
-      "events": [
-        {
-          "event_id": "36686136",
-          "home": "Deportes Iquique",
-          "away": "Union Espanola",
-          "kickoff_utc": "2026-10-12T20:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Costa Rica",
       "name": "Liga de Ascenso, Apertura",
       "key": "soccer-costa-rica-liga-de-ascenso-apertura",
@@ -108,6 +69,19 @@
           "home": "Pitbulls Santa Barbara FC",
           "away": "Aserri FC",
           "kickoff_utc": "2026-10-13T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
+      "name": "Mexico Liga Premier Serie A",
+      "key": "soccer-mexico-tc501-mexico-liga-premier-serie-a",
+      "events": [
+        {
+          "event_id": "36763661",
+          "home": "Dragones de Oaxaca",
+          "away": "Guerreros del Pacífico",
+          "kickoff_utc": "2026-10-13T02:05:00+00:00"
         }
       ]
     },
@@ -155,12 +129,6 @@
       "name": "Segunda Division",
       "key": "soccer-peru-segunda-division",
       "events": [
-        {
-          "event_id": "36743982",
-          "home": "Union Comercio",
-          "away": "Ayacucho FC",
-          "kickoff_utc": "2026-10-12T20:30:00+00:00"
-        },
         {
           "event_id": "36743996",
           "home": "Carlos Mannucci",
