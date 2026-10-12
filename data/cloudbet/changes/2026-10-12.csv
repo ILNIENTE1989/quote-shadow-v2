@@ -5066,3 +5066,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-12T16:34:57.174657+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,70.0471,soccer.total_goals,period=ft,under,total=6,0.0,1.47
 2026-10-12T16:34:57.174657+02:00,36377191,Super League 1,Greece,PAOK Thessaloniki,PAE PS Kalamata,2026-10-12T15:00:00+00:00,25.0471,soccer.double_chance,period=ft,draw_away,,3.65,3.75
 2026-10-12T16:34:57.174657+02:00,36377191,Super League 1,Greece,PAOK Thessaloniki,PAE PS Kalamata,2026-10-12T15:00:00+00:00,25.0471,soccer.double_chance,period=ft,home_draw,,1.07,1.06
+2026-10-12T16:36:57.380455+02:00,36652547,Veikkausliiga,Finland,Vaasan Palloseura,IF Gnistan,2026-10-12T15:00:00+00:00,23.0437,soccer.asian_handicap,period=ft,away,handicap=-1,1.26,1.27
+2026-10-12T16:36:57.380455+02:00,36652547,Veikkausliiga,Finland,Vaasan Palloseura,IF Gnistan,2026-10-12T15:00:00+00:00,23.0437,soccer.asian_handicap,period=ft,home,handicap=0.25,1.56,1.55
+2026-10-12T16:36:57.380455+02:00,36652547,Veikkausliiga,Finland,Vaasan Palloseura,IF Gnistan,2026-10-12T15:00:00+00:00,23.0437,soccer.total_goals,period=ft,over,total=1.5,1.21,1.22
+2026-10-12T16:36:57.380455+02:00,36652547,Veikkausliiga,Finland,Vaasan Palloseura,IF Gnistan,2026-10-12T15:00:00+00:00,23.0437,soccer.total_goals,period=ft,under,total=2.5,2.12,2.11
