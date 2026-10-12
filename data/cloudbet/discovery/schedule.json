@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T08:06:59.838671+00:00",
+  "generated_at_utc": "2026-10-12T10:07:02.833059+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -31,6 +31,12 @@
           "home": "Atletico Lanus",
           "away": "Velez Sarsfield",
           "kickoff_utc": "2026-10-12T19:00:00+00:00"
+        },
+        {
+          "event_id": "36567096",
+          "home": "Gimnasia y Esgrima Mendoza",
+          "away": "Newell´s Old Boys",
+          "kickoff_utc": "2026-10-12T21:30:00+00:00"
         }
       ]
     },
@@ -136,6 +142,12 @@
           "home": "Racing de Cordoba",
           "away": "Club Atletico Los Andes",
           "kickoff_utc": "2026-10-12T20:00:00+00:00"
+        },
+        {
+          "event_id": "36643857",
+          "home": "CA All Boys",
+          "away": "CD Godoy Cruz",
+          "kickoff_utc": "2026-10-12T22:00:00+00:00"
         }
       ]
     },
@@ -149,6 +161,12 @@
           "home": "San Jose Oruro",
           "away": "Guabira Montero",
           "kickoff_utc": "2026-10-12T19:00:00+00:00"
+        },
+        {
+          "event_id": "36653772",
+          "home": "Always Ready",
+          "away": "Independiente Petrolero",
+          "kickoff_utc": "2026-10-12T21:15:00+00:00"
         }
       ]
     },
@@ -162,6 +180,19 @@
           "home": "Coritiba FC PR",
           "away": "Botafogo FR RJ",
           "kickoff_utc": "2026-10-12T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36682909",
+          "home": "Gremio Novorizontino SP",
+          "away": "AA Ponte Preta SP",
+          "kickoff_utc": "2026-10-12T22:00:00+00:00"
         }
       ]
     },
@@ -207,6 +238,12 @@
           "home": "CSD Rangers",
           "away": "Union San Felipe",
           "kickoff_utc": "2026-10-12T18:00:00+00:00"
+        },
+        {
+          "event_id": "36686136",
+          "home": "Deportes Iquique",
+          "away": "Union Espanola",
+          "kickoff_utc": "2026-10-12T20:30:00+00:00"
         }
       ]
     },
@@ -609,6 +646,12 @@
           "home": "Pirata FC",
           "away": "Union Minas",
           "kickoff_utc": "2026-10-12T16:00:00+00:00"
+        },
+        {
+          "event_id": "36743982",
+          "home": "Union Comercio",
+          "away": "Ayacucho FC",
+          "kickoff_utc": "2026-10-12T20:30:00+00:00"
         }
       ]
     },
@@ -890,19 +933,6 @@
           "home": "Laholms FK",
           "away": "Tvaakers IF",
           "kickoff_utc": "2026-10-12T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Thailand",
-      "name": "Thai League 3",
-      "key": "soccer-thailand-thai-league-3",
-      "events": [
-        {
-          "event_id": "36751604",
-          "home": "Suranaree Black Cat FC",
-          "away": "Yasothon FC",
-          "kickoff_utc": "2026-10-12T08:30:00+00:00"
         }
       ]
     },
