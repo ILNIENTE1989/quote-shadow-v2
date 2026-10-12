@@ -6967,3 +6967,39 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-12T17:12:57.647774+02:00,36363644,Serie A,Italy,Atalanta BC,Venezia FC,2026-10-12T16:30:00+00:00,77.0392,soccer.match_odds,period=ft,home,,1.51,1.5
 2026-10-12T17:12:57.647774+02:00,36363644,Serie A,Italy,Atalanta BC,Venezia FC,2026-10-12T16:30:00+00:00,77.0392,soccer.match_odds,period=ft,away,,6.1,6.15
 2026-10-12T17:12:57.647774+02:00,36363644,Serie A,Italy,Atalanta BC,Venezia FC,2026-10-12T16:30:00+00:00,77.0392,soccer.total_goals,period=ft,over,total=2.75,1.63,1.62
+2026-10-12T17:15:00.855467+02:00,36743881,Segunda Division,Peru,Pirata FC,Union Minas,2026-10-12T16:00:00+00:00,44.9857,soccer.double_chance,period=ft,draw_away,,1.87,1.82
+2026-10-12T17:15:00.855467+02:00,36743881,Segunda Division,Peru,Pirata FC,Union Minas,2026-10-12T16:00:00+00:00,44.9857,soccer.double_chance,period=ft,home_draw,,1.25,1.27
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.asian_handicap,period=ft,away,handicap=-2.75,1.43,1.42
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,over,total=6.5,2.45,0.0
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=6.5,1.42,0.0
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,over,total=4.75,0.0,1.39
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=4.75,0.0,2.55
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,over,total=5.25,1.6,1.61
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=5.25,2.07,2.08
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,over,total=5.5,1.75,1.76
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=5.5,1.89,1.91
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,over,total=5.75,1.91,1.89
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=5.75,1.76,1.75
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,over,total=6,2.1,2.09
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=6,1.6,1.59
+2026-10-12T17:15:00.855467+02:00,36753284,3rd Division Group 1,Norway,Ranheim 2,Molde FK 2,2026-10-12T15:45:00+00:00,29.9857,soccer.total_goals,period=ft,under,total=6.25,1.5,1.49
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.03,1.83
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.67,1.86
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=-1,2.45,2.5
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=-1,1.43,1.42
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.45,2.2
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.43,1.55
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.2,2.0
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.54,1.69
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=0,1.84,1.63
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=0,1.85,2.09
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=0.25,1.66,1.5
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=0.25,2.04,2.3
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=0.5,1.53,1.42
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=0.5,2.2,2.5
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.match_odds,period=ft,home,,2.2,2.01
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.match_odds,period=ft,away,,2.25,2.55
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.total_goals,period=ft,over,total=4.5,1.87,1.88
+2026-10-12T17:15:00.855467+02:00,36753288,3rd Division Group 1,Norway,Melhus,Aalesund 2,2026-10-12T16:00:00+00:00,44.9857,soccer.total_goals,period=ft,under,total=5.25,1.43,1.42
+2026-10-12T17:15:00.855467+02:00,36753286,3rd Division Group 1,Norway,SK Djerv 1919,SK Brann 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,home,handicap=-4.5,2.55,0.0
+2026-10-12T17:15:00.855467+02:00,36753286,3rd Division Group 1,Norway,SK Djerv 1919,SK Brann 2,2026-10-12T16:00:00+00:00,44.9857,soccer.asian_handicap,period=ft,away,handicap=-4.5,1.39,0.0
