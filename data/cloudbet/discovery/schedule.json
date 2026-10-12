@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-12T10:07:02.833059+00:00",
+  "generated_at_utc": "2026-10-12T12:08:55.516331+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -180,6 +180,18 @@
           "home": "Coritiba FC PR",
           "away": "Botafogo FR RJ",
           "kickoff_utc": "2026-10-12T19:00:00+00:00"
+        },
+        {
+          "event_id": "36702181",
+          "home": "Chapecoense SC",
+          "away": "CA Paranaense PR",
+          "kickoff_utc": "2026-10-12T22:30:00+00:00"
+        },
+        {
+          "event_id": "36688536",
+          "home": "Red Bull Bragantino SP",
+          "away": "Cruzeiro EC MG",
+          "kickoff_utc": "2026-10-13T00:00:00+00:00"
         }
       ]
     },
@@ -193,6 +205,18 @@
           "home": "Gremio Novorizontino SP",
           "away": "AA Ponte Preta SP",
           "kickoff_utc": "2026-10-12T22:00:00+00:00"
+        },
+        {
+          "event_id": "36682980",
+          "home": "Criciuma EC SC",
+          "away": "America FC MG",
+          "kickoff_utc": "2026-10-12T22:30:00+00:00"
+        },
+        {
+          "event_id": "36682981",
+          "home": "Botafogo FC SP",
+          "away": "Ceara SC CE",
+          "kickoff_utc": "2026-10-13T00:00:00+00:00"
         }
       ]
     },
@@ -274,21 +298,15 @@
       ]
     },
     {
-      "category": "China",
-      "name": "China League 2",
-      "key": "soccer-china-division-2",
+      "category": "Croatia",
+      "name": "Druga NL",
+      "key": "soccer-croatia-t8162-3-hnl-promotion-playoffs",
       "events": [
         {
-          "event_id": "36742388",
-          "home": "Wenzhou FC",
-          "away": "Changchun Xidu",
-          "kickoff_utc": "2026-10-12T11:30:00+00:00"
-        },
-        {
-          "event_id": "36742387",
-          "home": "Xiamen Feilu",
-          "away": "Taian Tiankuang",
-          "kickoff_utc": "2026-10-12T11:30:00+00:00"
+          "event_id": "36756709",
+          "home": "NK Koprivnica",
+          "away": "NK Inter Zaprešić",
+          "kickoff_utc": "2026-10-12T16:00:00+00:00"
         }
       ]
     },
@@ -377,19 +395,6 @@
       ]
     },
     {
-      "category": "Greece",
-      "name": "Super League 2",
-      "key": "soccer-greece-super-league-2",
-      "events": [
-        {
-          "event_id": "36742779",
-          "home": "Anagennisi Karditsas 1904",
-          "away": "APS Zakynthos",
-          "kickoff_utc": "2026-10-12T12:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Hungary",
       "name": "NB II",
       "key": "soccer-hungary-nb-ii",
@@ -399,19 +404,6 @@
           "home": "Bvsc-Zuglo",
           "away": "Soroksar SC",
           "kickoff_utc": "2026-10-12T17:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36752671",
-          "home": "United Stars FC",
-          "away": "Stride Sports FC",
-          "kickoff_utc": "2026-10-12T10:30:00+00:00"
         }
       ]
     },
@@ -430,9 +422,28 @@
     },
     {
       "category": "International",
+      "name": "Super D1",
+      "key": "soccer-international-t6e4e-super-d1",
+      "events": [
+        {
+          "event_id": "36757626",
+          "home": "Chemal FC",
+          "away": "ASC Police",
+          "kickoff_utc": "2026-10-12T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International",
       "name": "Superdivision",
       "key": "soccer-international-t6c4f-superdivision",
       "events": [
+        {
+          "event_id": "36757165",
+          "home": "Real Du Faso",
+          "away": "Rail Club de Kadiogo",
+          "kickoff_utc": "2026-10-12T15:30:00+00:00"
+        },
         {
           "event_id": "36752359",
           "home": "USFA",
@@ -633,6 +644,25 @@
           "home": "CS 2 de Mayo",
           "away": "Sportivo Ameliano",
           "kickoff_utc": "2026-10-12T20:00:00+00:00"
+        },
+        {
+          "event_id": "36669406",
+          "home": "Nacional Asuncion",
+          "away": "CD Recoleta",
+          "kickoff_utc": "2026-10-12T22:20:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Segunda Division",
+      "key": "soccer-paraguay-segunda-division",
+      "events": [
+        {
+          "event_id": "36757175",
+          "home": "Deportivo Capiata",
+          "away": "Club Dr Benjamin Aceval",
+          "kickoff_utc": "2026-10-12T22:30:00+00:00"
         }
       ]
     },
@@ -865,12 +895,6 @@
       "name": "Segunda División",
       "key": "soccer-spain-laliga-2",
       "events": [
-        {
-          "event_id": "36649597",
-          "home": "Real Valladolid",
-          "away": "Albacete Balompie",
-          "kickoff_utc": "2026-10-12T12:00:00+00:00"
-        },
         {
           "event_id": "36649598",
           "home": "Burgos CF",
