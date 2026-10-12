@@ -1,17 +1,23 @@
 {
-  "generated_at_utc": "2026-10-12T00:01:45.521137+00:00",
+  "generated_at_utc": "2026-10-12T02:02:55.666705+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
+      "category": "Algeria",
+      "name": "Ligue 1",
+      "key": "soccer-algeria-ligue-1",
       "events": [
         {
-          "event_id": "36533453",
-          "home": "CA Talleres de Cordoba",
-          "away": "CA Independiente Avellaneda",
-          "kickoff_utc": "2026-10-12T00:30:00+00:00"
+          "event_id": "36734019",
+          "home": "Js El Biar",
+          "away": "CR Belouizdad",
+          "kickoff_utc": "2026-10-12T14:00:00+00:00"
+        },
+        {
+          "event_id": "36735119",
+          "home": "USM Khenchela",
+          "away": "CS Constantine",
+          "kickoff_utc": "2026-10-12T14:00:00+00:00"
         }
       ]
     },
@@ -53,19 +59,6 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
-      "events": [
-        {
-          "event_id": "36653206",
-          "home": "America de Cali",
-          "away": "Independiente Medellin",
-          "kickoff_utc": "2026-10-12T01:15:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Greece",
       "name": "Super League 2",
       "key": "soccer-greece-super-league-2",
@@ -79,41 +72,15 @@
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "category": "Spain",
+      "name": "Primera Federacion",
+      "key": "soccer-spain-t717f-primera-division-rfef",
       "events": [
         {
-          "event_id": "36726690",
-          "home": "Antigua GFC",
-          "away": "CSD Coban Imperial",
-          "kickoff_utc": "2026-10-12T01:10:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
-      "events": [
-        {
-          "event_id": "36597348",
-          "home": "Pumas UNAM",
-          "away": "Cruz Azul",
-          "kickoff_utc": "2026-10-12T01:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Nicaragua",
-      "name": "Primera Division",
-      "key": "soccer-nicaragua-primera-division",
-      "events": [
-        {
-          "event_id": "36735359",
-          "home": "Rancho Santana FC",
-          "away": "Unan Managua",
-          "kickoff_utc": "2026-10-12T01:00:00+00:00"
+          "event_id": "36665888",
+          "home": "Cultural Leonesa",
+          "away": "Arenas Club Getxo",
+          "kickoff_utc": "2026-10-12T14:00:00+00:00"
         }
       ]
     },
