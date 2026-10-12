@@ -66,3 +66,16 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-13T00:11:19.950428+02:00,36669406,"Division de Honor, Apertura",Paraguay,Nacional Asuncion,CD Recoleta,2026-10-12T22:20:00+00:00,8.6675,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.7,1.69
 2026-10-13T00:11:19.950428+02:00,36669406,"Division de Honor, Apertura",Paraguay,Nacional Asuncion,CD Recoleta,2026-10-12T22:20:00+00:00,8.6675,soccer.asian_handicap,period=ft,away,handicap=0,3.45,3.5
 2026-10-13T00:11:19.950428+02:00,36669406,"Division de Honor, Apertura",Paraguay,Nacional Asuncion,CD Recoleta,2026-10-12T22:20:00+00:00,8.6675,soccer.match_odds,period=ft,home,,1.7,1.69
+2026-10-13T00:16:59.140465+02:00,36757175,Segunda Division,Paraguay,Deportivo Capiata,Club Dr Benjamin Aceval,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,draw_away,,1.45,1.37
+2026-10-13T00:16:59.140465+02:00,36757175,Segunda Division,Paraguay,Deportivo Capiata,Club Dr Benjamin Aceval,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,home_away,,1.28,1.2
+2026-10-13T00:16:59.140465+02:00,36757175,Segunda Division,Paraguay,Deportivo Capiata,Club Dr Benjamin Aceval,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,home_draw,,1.42,1.35
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,draw_away,,1.27,1.22
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,home_away,,1.29,1.25
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,home_draw,,1.94,1.95
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.total_goals,period=ft,over,total=2.75,1.86,1.85
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.total_goals,period=ft,under,total=2.25,2.65,2.7
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.total_goals,period=ft,over,total=3,2.12,2.11
+2026-10-13T00:16:59.140465+02:00,36702181,Brasileiro Serie A,Brazil,Chapecoense SC,CA Paranaense PR,2026-10-12T22:30:00+00:00,13.0143,soccer.total_goals,period=ft,over,total=3.5,2.7,2.65
+2026-10-13T00:16:59.140465+02:00,36682980,Brasileiro Serie B,Brazil,Criciuma EC SC,America FC MG,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,draw_away,,3.25,3.1
+2026-10-13T00:16:59.140465+02:00,36682980,Brasileiro Serie B,Brazil,Criciuma EC SC,America FC MG,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,home_away,,1.18,1.12
+2026-10-13T00:16:59.140465+02:00,36682980,Brasileiro Serie B,Brazil,Criciuma EC SC,America FC MG,2026-10-12T22:30:00+00:00,13.0143,soccer.double_chance,period=ft,home_draw,,1.08,0.0
