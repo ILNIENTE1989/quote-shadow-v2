@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-13T08:22:57.478749+00:00",
+  "generated_at_utc": "2026-10-13T10:23:00.002548+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -24,6 +24,19 @@
           "home": "USM Alger",
           "away": "JS Saoura",
           "kickoff_utc": "2026-10-13T19:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Angola",
+      "name": "Girabola",
+      "key": "soccer-angola-girabola",
+      "events": [
+        {
+          "event_id": "36771560",
+          "home": "Atletico Petroleos de Luanda",
+          "away": "Kabuscorp SCP",
+          "kickoff_utc": "2026-10-13T16:00:00+00:00"
         }
       ]
     },
@@ -65,25 +78,6 @@
       ]
     },
     {
-      "category": "Bangladesh",
-      "name": "Federation Cup",
-      "key": "soccer-bangladesh-federation-cup",
-      "events": [
-        {
-          "event_id": "36763334",
-          "home": "Brothers Union",
-          "away": "Fakirapool Young Men",
-          "kickoff_utc": "2026-10-13T08:45:00+00:00"
-        },
-        {
-          "event_id": "36763333",
-          "home": "Rahmatganj MFS",
-          "away": "Chattogram City FC",
-          "kickoff_utc": "2026-10-13T08:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Chile",
       "name": "Tercera Division",
       "key": "soccer-chile-tercera-division",
@@ -93,6 +87,12 @@
           "home": "Atletico Oriente",
           "away": "Comunal Cabrero",
           "kickoff_utc": "2026-10-13T15:00:00+00:00"
+        },
+        {
+          "event_id": "36765295",
+          "home": "Imperial Unido",
+          "away": "Club Deportes Rancagua",
+          "kickoff_utc": "2026-10-13T22:00:00+00:00"
         }
       ]
     },
@@ -383,6 +383,12 @@
           "kickoff_utc": "2026-10-13T18:45:00+00:00"
         },
         {
+          "event_id": "36771711",
+          "home": "Sporting Club Inkberrow",
+          "away": "Hartpury University",
+          "kickoff_utc": "2026-10-13T18:45:00+00:00"
+        },
+        {
           "event_id": "36770252",
           "home": "Stamford AFC",
           "away": "Stratford Town",
@@ -667,19 +673,6 @@
       ]
     },
     {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
-      "events": [
-        {
-          "event_id": "36767132",
-          "home": "OFC Adiake",
-          "away": "Zoman FC",
-          "kickoff_utc": "2026-10-13T15:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Kosovo",
       "name": "Superliga",
       "key": "soccer-kosovo-superliga",
@@ -689,6 +682,31 @@
           "home": "FC Ballkani",
           "away": "KF Drita",
           "kickoff_utc": "2026-10-13T12:00:00+00:00"
+        },
+        {
+          "event_id": "36771556",
+          "home": "SC Gjilani",
+          "away": "KF Drenica Skenderaj",
+          "kickoff_utc": "2026-10-13T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
+      "name": "Mexico Copa Mexico",
+      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
+      "events": [
+        {
+          "event_id": "36771348",
+          "home": "Huracanes Izcalli FC",
+          "away": "Aztecas A.M.F.",
+          "kickoff_utc": "2026-10-13T21:30:00+00:00"
+        },
+        {
+          "event_id": "36771554",
+          "home": "Titanes de Queretaro",
+          "away": "Estudiantes de Queretaro FC",
+          "kickoff_utc": "2026-10-13T22:00:00+00:00"
         }
       ]
     },
