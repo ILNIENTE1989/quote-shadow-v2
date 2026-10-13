@@ -1,33 +1,7 @@
 {
-  "generated_at_utc": "2026-10-13T20:29:03.333365+00:00",
+  "generated_at_utc": "2026-10-13T22:31:28.666424+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie B",
-      "key": "soccer-brazil-brasileiro-serie-b",
-      "events": [
-        {
-          "event_id": "36682979",
-          "home": "Athletic Club Sjdr MG",
-          "away": "Londrina EC PR",
-          "kickoff_utc": "2026-10-13T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Chile",
-      "name": "Tercera Division",
-      "key": "soccer-chile-tercera-division",
-      "events": [
-        {
-          "event_id": "36765295",
-          "home": "Imperial Unido",
-          "away": "Club Deportes Rancagua",
-          "kickoff_utc": "2026-10-13T22:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Colombia",
       "name": "Primera A, Clausura",
@@ -93,6 +67,61 @@
       ]
     },
     {
+      "category": "Japan",
+      "name": "J.League Cup",
+      "key": "soccer-japan-j-league-cup",
+      "events": [
+        {
+          "event_id": "36770904",
+          "home": "Yokohama FC",
+          "away": "Urawa Red Diamonds",
+          "kickoff_utc": "2026-10-14T09:30:00+00:00"
+        },
+        {
+          "event_id": "36770911",
+          "home": "Gainare Tottori",
+          "away": "Cerezo Osaka",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        },
+        {
+          "event_id": "36770884",
+          "home": "Jubilo Iwata",
+          "away": "Kawasaki Frontale",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        },
+        {
+          "event_id": "36770918",
+          "home": "Matsumoto Yamaga FC",
+          "away": "Sanfrecce Hiroshima",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        },
+        {
+          "event_id": "36770939",
+          "home": "Mito Hollyhock",
+          "away": "FC Tokyo",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        },
+        {
+          "event_id": "36770888",
+          "home": "Nagoya Grampus",
+          "away": "Fagiano Okayama",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        },
+        {
+          "event_id": "36770963",
+          "home": "Sagan Tosu",
+          "away": "Avispa Fukuoka",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        },
+        {
+          "event_id": "36770882",
+          "home": "Yokohama Marinos",
+          "away": "Shimizu S-Pulse",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Mexico",
       "name": "Liga de Expansion MX, Apertura",
       "key": "soccer-mexico-liga-de-ascenso-apertura",
@@ -106,34 +135,15 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Mexico Copa Mexico",
-      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
+      "category": "Poland",
+      "name": "III Liga, Group 3",
+      "key": "soccer-poland-iii-liga-group-3",
       "events": [
         {
-          "event_id": "36771348",
-          "home": "Huracanes Izcalli FC",
-          "away": "Aztecas A.M.F.",
-          "kickoff_utc": "2026-10-13T21:30:00+00:00"
-        },
-        {
-          "event_id": "36771554",
-          "home": "Titanes de Queretaro",
-          "away": "Estudiantes de Queretaro FC",
-          "kickoff_utc": "2026-10-13T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Primera Division Amateur",
-      "key": "soccer-uruguay-primera-division-amateur",
-      "events": [
-        {
-          "event_id": "36771914",
-          "home": "Deportivo Colonia",
-          "away": "Sud America",
-          "kickoff_utc": "2026-10-13T22:30:00+00:00"
+          "event_id": "36779277",
+          "home": "Lech II Poznan",
+          "away": "WDA Swiecie",
+          "kickoff_utc": "2026-10-14T10:00:00+00:00"
         }
       ]
     }
