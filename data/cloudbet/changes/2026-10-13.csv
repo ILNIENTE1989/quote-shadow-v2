@@ -5206,3 +5206,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-13T17:25:02.217384+02:00,36760775,Regionalliga Bavaria,Germany,TSV Aubstadt,FV Illertissen,2026-10-13T16:30:00+00:00,64.963,soccer.total_goals,period=ft,over,total=3,2.04,2.05
 2026-10-13T17:25:02.217384+02:00,36760775,Regionalliga Bavaria,Germany,TSV Aubstadt,FV Illertissen,2026-10-13T16:30:00+00:00,64.963,soccer.total_goals,period=ft,under,total=3,1.72,1.71
 2026-10-13T17:25:02.217384+02:00,36760775,Regionalliga Bavaria,Germany,TSV Aubstadt,FV Illertissen,2026-10-13T16:30:00+00:00,64.963,soccer.total_goals,period=ft,over,total=3.25,2.25,2.3
+2026-10-13T17:29:01.590394+02:00,36760572,NB II,Hungary,Diosgyori VTK,Szentlorinc SE,2026-10-13T16:00:00+00:00,30.9735,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.44,1.43
+2026-10-13T17:29:01.590394+02:00,36760572,NB II,Hungary,Diosgyori VTK,Szentlorinc SE,2026-10-13T16:00:00+00:00,30.9735,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.3,1.29
+2026-10-13T17:29:01.590394+02:00,36760572,NB II,Hungary,Diosgyori VTK,Szentlorinc SE,2026-10-13T16:00:00+00:00,30.9735,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.1,3.15
+2026-10-13T17:29:01.590394+02:00,36760572,NB II,Hungary,Diosgyori VTK,Szentlorinc SE,2026-10-13T16:00:00+00:00,30.9735,soccer.match_odds,period=ft,draw,,4.15,4.2
