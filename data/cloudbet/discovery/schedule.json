@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-13T02:19:00.572490+00:00",
+  "generated_at_utc": "2026-10-13T04:21:15.880707+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -35,16 +35,49 @@
       ]
     },
     {
+      "category": "Chile",
+      "name": "Tercera Division",
+      "key": "soccer-chile-tercera-division",
+      "events": [
+        {
+          "event_id": "36761055",
+          "home": "Atletico Oriente",
+          "away": "Comunal Cabrero",
+          "kickoff_utc": "2026-10-13T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Estonia",
+      "name": "Premium Liiga",
+      "key": "soccer-estonia-premium-liiga",
+      "events": [
+        {
+          "event_id": "36756710",
+          "home": "Parnu JK Vaprus",
+          "away": "Nomme Kalju FC",
+          "kickoff_utc": "2026-10-13T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Hungary",
+      "name": "NB II",
+      "key": "soccer-hungary-nb-ii",
+      "events": [
+        {
+          "event_id": "36760572",
+          "home": "Diosgyori VTK",
+          "away": "Szentlorinc SE",
+          "kickoff_utc": "2026-10-13T16:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "India",
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
-        {
-          "event_id": "36764905",
-          "home": "Bengaluru FC",
-          "away": "Technico FF",
-          "kickoff_utc": "2026-10-13T05:30:00+00:00"
-        },
         {
           "event_id": "36766268",
           "home": "Kodagu Fc",
@@ -63,6 +96,57 @@
           "home": "SC East Bengal",
           "away": "Al Shorta (IRQ)",
           "kickoff_utc": "2026-10-13T13:45:00+00:00"
+        },
+        {
+          "event_id": "36758841",
+          "home": "Al-Seeb",
+          "away": "Al Hussein Irbid",
+          "kickoff_utc": "2026-10-13T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International Clubs",
+      "name": "Gulf Club Championship",
+      "key": "soccer-international-clubs-ta272-gulf-club-championship",
+      "events": [
+        {
+          "event_id": "36766800",
+          "home": "Qatar SC",
+          "away": "AL Zawraa SC",
+          "kickoff_utc": "2026-10-13T14:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Israel Cup",
+      "key": "soccer-israel-israel-cup",
+      "events": [
+        {
+          "event_id": "36767133",
+          "home": "Hapoel Umm AL Fahm",
+          "away": "Maccabi Shefaram",
+          "kickoff_utc": "2026-10-13T15:30:00+00:00"
+        },
+        {
+          "event_id": "36767668",
+          "home": "Hapoel Arad",
+          "away": "MK Kfar Saba 1928",
+          "kickoff_utc": "2026-10-13T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Israel Toto Cup Ligat Leumit",
+      "key": "soccer-israel-tc2b3-israel-toto-cup-ligat-leumit",
+      "events": [
+        {
+          "event_id": "36767669",
+          "home": "Bnei Yehuda Tel Aviv FC",
+          "away": "Hapoel Acre FC",
+          "kickoff_utc": "2026-10-13T16:00:00+00:00"
         }
       ]
     },
@@ -80,6 +164,19 @@
       ]
     },
     {
+      "category": "Ivory Coast",
+      "name": "Ligue 1",
+      "key": "soccer-ivory-coast-ligue-1",
+      "events": [
+        {
+          "event_id": "36767132",
+          "home": "OFC Adiake",
+          "away": "Zoman FC",
+          "kickoff_utc": "2026-10-13T15:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Russia",
       "name": "Russian Cup",
       "key": "soccer-russia-russian-cup",
@@ -89,6 +186,31 @@
           "home": "Spartak Kostroma",
           "away": "FC Chelyabinsk",
           "kickoff_utc": "2026-10-13T13:00:00+00:00"
+        },
+        {
+          "event_id": "36178406",
+          "home": "Lokomotiv Moscow",
+          "away": "FK Akron Tolyatti",
+          "kickoff_utc": "2026-10-13T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 1",
+      "key": "soccer-saudi-arabia-division-1",
+      "events": [
+        {
+          "event_id": "36756429",
+          "home": "AL Bukayriyah FC",
+          "away": "AL Zulfi",
+          "kickoff_utc": "2026-10-13T15:15:00+00:00"
+        },
+        {
+          "event_id": "36756430",
+          "home": "AL Saqer FC",
+          "away": "AL Jabalain FC",
+          "kickoff_utc": "2026-10-13T15:15:00+00:00"
         }
       ]
     },
