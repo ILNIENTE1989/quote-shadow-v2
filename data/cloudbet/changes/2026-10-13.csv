@@ -13114,3 +13114,19 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-13T20:43:05.974839+02:00,36757117,Challenge Cup,Scotland,Berwick Rangers,Queen of The South FC,2026-10-13T18:45:00+00:00,1.9004,soccer.double_chance,period=ft,draw_away,,1.1,1.08
 2026-10-13T20:43:05.974839+02:00,36757117,Challenge Cup,Scotland,Berwick Rangers,Queen of The South FC,2026-10-13T18:45:00+00:00,1.9004,soccer.double_chance,period=ft,home_away,,1.12,1.11
 2026-10-13T20:43:05.974839+02:00,36757117,Challenge Cup,Scotland,Berwick Rangers,Queen of The South FC,2026-10-13T18:45:00+00:00,1.9004,soccer.double_chance,period=ft,home_draw,,3.35,3.65
+2026-10-13T20:46:58.899751+02:00,36715866,Championship,England,Birmingham City,Preston North End,2026-10-13T19:00:00+00:00,13.0183,soccer.double_chance,period=ft,home_draw,,1.15,1.1
+2026-10-13T20:46:58.899751+02:00,36715866,Championship,England,Birmingham City,Preston North End,2026-10-13T19:00:00+00:00,13.0183,soccer.double_chance,period=ft,home_away,,1.22,1.2
+2026-10-13T20:46:58.899751+02:00,36715866,Championship,England,Birmingham City,Preston North End,2026-10-13T19:00:00+00:00,13.0183,soccer.double_chance,period=ft,draw_away,,2.55,2.6
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.asian_handicap,period=ft,home,handicap=0.5,1.92,1.93
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.asian_handicap,period=ft,away,handicap=0.5,1.96,1.95
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.36,1.35
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.asian_handicap,period=ft,home,handicap=0.75,1.7,1.71
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.asian_handicap,period=ft,home,handicap=1.5,1.32,1.33
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.double_chance,period=ft,draw_away,,1.28,1.25
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.double_chance,period=ft,home_away,,1.3,1.27
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.double_chance,period=ft,home_draw,,1.88,1.85
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.match_odds,period=ft,home,,3.7,3.75
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.match_odds,period=ft,away,,1.95,1.94
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.total_goals,period=ft,over,total=2.75,2.03,2.02
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.total_goals,period=ft,under,total=2.75,1.83,1.84
+2026-10-13T20:46:58.899751+02:00,36715867,Championship,England,Stoke City,Middlesbrough FC,2026-10-13T19:00:00+00:00,13.0183,soccer.total_goals,period=ft,over,total=4.5,5.8,5.75
