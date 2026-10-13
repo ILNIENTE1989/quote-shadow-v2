@@ -1,7 +1,20 @@
 {
-  "generated_at_utc": "2026-10-13T00:16:58.876995+00:00",
+  "generated_at_utc": "2026-10-13T02:19:00.572490+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Algeria",
+      "name": "Ligue 1",
+      "key": "soccer-algeria-ligue-1",
+      "events": [
+        {
+          "event_id": "36756708",
+          "home": "US Biskra",
+          "away": "MC Oran",
+          "kickoff_utc": "2026-10-13T14:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Bangladesh",
       "name": "Federation Cup",
@@ -22,54 +35,98 @@
       ]
     },
     {
-      "category": "Costa Rica",
-      "name": "Liga de Ascenso, Apertura",
-      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36758539",
-          "home": "Pitbulls Santa Barbara FC",
-          "away": "Aserri FC",
-          "kickoff_utc": "2026-10-13T01:00:00+00:00"
+          "event_id": "36764905",
+          "home": "Bengaluru FC",
+          "away": "Technico FF",
+          "kickoff_utc": "2026-10-13T05:30:00+00:00"
+        },
+        {
+          "event_id": "36766268",
+          "home": "Kodagu Fc",
+          "away": "Kickstart Fc",
+          "kickoff_utc": "2026-10-13T08:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Mexico Liga Premier Serie A",
-      "key": "soccer-mexico-tc501-mexico-liga-premier-serie-a",
+      "category": "International Clubs",
+      "name": "AFC Cup",
+      "key": "soccer-international-clubs-afc-cup",
       "events": [
         {
-          "event_id": "36763661",
-          "home": "Dragones de Oaxaca",
-          "away": "Guerreros del Pacífico",
-          "kickoff_utc": "2026-10-13T02:05:00+00:00"
+          "event_id": "36758842",
+          "home": "SC East Bengal",
+          "away": "Al Shorta (IRQ)",
+          "kickoff_utc": "2026-10-13T13:45:00+00:00"
         }
       ]
     },
     {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "category": "Italy",
+      "name": "Serie C, Group A",
+      "key": "soccer-italy-serie-c-group-c",
       "events": [
         {
-          "event_id": "36700467",
-          "home": "AF Sporting San Miguelito",
-          "away": "Tauro FC",
-          "kickoff_utc": "2026-10-13T01:00:00+00:00"
+          "event_id": "36728630",
+          "home": "Juventus Next Gen",
+          "away": "AC Lumezzane",
+          "kickoff_utc": "2026-10-13T14:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Peru",
-      "name": "Segunda Division",
-      "key": "soccer-peru-segunda-division",
+      "category": "Russia",
+      "name": "Russian Cup",
+      "key": "soccer-russia-russian-cup",
       "events": [
         {
-          "event_id": "36743996",
-          "home": "Carlos Mannucci",
-          "away": "Alianza Universidad de Huanuco",
-          "kickoff_utc": "2026-10-13T01:00:00+00:00"
+          "event_id": "36766294",
+          "home": "Spartak Kostroma",
+          "away": "FC Chelyabinsk",
+          "kickoff_utc": "2026-10-13T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovakia",
+      "name": "Slovensky Pohar",
+      "key": "soccer-slovakia-slovensky-pohar",
+      "events": [
+        {
+          "event_id": "36765794",
+          "home": "FK Cadca",
+          "away": "1. FC Tatran Presov",
+          "kickoff_utc": "2026-10-13T13:00:00+00:00"
+        },
+        {
+          "event_id": "36765795",
+          "home": "OFK Banik Lehota Pod Vtacnikom",
+          "away": "MFK Zemplin Michalovce",
+          "kickoff_utc": "2026-10-13T13:00:00+00:00"
+        },
+        {
+          "event_id": "36765797",
+          "home": "SK Svaty Jur",
+          "away": "FK Nove Zamky",
+          "kickoff_utc": "2026-10-13T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "South Africa",
+      "name": "Championship",
+      "key": "soccer-south-africa-t91b5-championship",
+      "events": [
+        {
+          "event_id": "36759489",
+          "home": "Cape Town Spurs",
+          "away": "The Bees FC",
+          "kickoff_utc": "2026-10-13T13:30:00+00:00"
         }
       ]
     },
@@ -108,6 +165,12 @@
           "home": "Bandirmaspor",
           "away": "Sivasspor",
           "kickoff_utc": "2026-10-13T11:30:00+00:00"
+        },
+        {
+          "event_id": "36695891",
+          "home": "AS Sariyer",
+          "away": "BB Bodrumspor",
+          "kickoff_utc": "2026-10-13T14:00:00+00:00"
         }
       ]
     }
