@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-13T10:23:00.002548+00:00",
+  "generated_at_utc": "2026-10-13T12:23:08.704849+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -78,6 +78,19 @@
       ]
     },
     {
+      "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36682979",
+          "home": "Athletic Club Sjdr MG",
+          "away": "Londrina EC PR",
+          "kickoff_utc": "2026-10-13T22:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Chile",
       "name": "Tercera Division",
       "key": "soccer-chile-tercera-division",
@@ -93,6 +106,32 @@
           "home": "Imperial Unido",
           "away": "Club Deportes Rancagua",
           "kickoff_utc": "2026-10-13T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36576593",
+          "home": "CA Bucaramanga",
+          "away": "Aguilas Doradas Rionegro",
+          "kickoff_utc": "2026-10-13T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Costa Rica",
+      "name": "Primera Division, Clausura",
+      "key": "soccer-costa-rica-primera-division-clausura",
+      "events": [
+        {
+          "event_id": "36694479",
+          "home": "CS Cartagines",
+          "away": "Puntarenas FC",
+          "kickoff_utc": "2026-10-14T00:00:00+00:00"
         }
       ]
     },
@@ -228,6 +267,12 @@
           "event_id": "36756968",
           "home": "Gateshead FC",
           "away": "Wolverhampton",
+          "kickoff_utc": "2026-10-13T18:00:00+00:00"
+        },
+        {
+          "event_id": "36772636",
+          "home": "Solihull Moors FC",
+          "away": "Everton",
           "kickoff_utc": "2026-10-13T18:00:00+00:00"
         },
         {
@@ -485,19 +530,6 @@
       ]
     },
     {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36767831",
-          "home": "South United FC",
-          "away": "Roots FC",
-          "kickoff_utc": "2026-10-13T10:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "International",
       "name": "England Isthmian League Division 1 North",
       "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
@@ -604,6 +636,19 @@
     },
     {
       "category": "International Clubs",
+      "name": "CONCACAF Caribbean Cup",
+      "key": "soccer-international-clubs-t92b0-concacaf-caribbean-cup",
+      "events": [
+        {
+          "event_id": "36761934",
+          "home": "Portmore United",
+          "away": "Violette AC",
+          "kickoff_utc": "2026-10-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International Clubs",
       "name": "Gulf Club Championship",
       "key": "soccer-international-clubs-ta272-gulf-club-championship",
       "events": [
@@ -678,16 +723,23 @@
       "key": "soccer-kosovo-superliga",
       "events": [
         {
-          "event_id": "36768784",
-          "home": "FC Ballkani",
-          "away": "KF Drita",
-          "kickoff_utc": "2026-10-13T12:00:00+00:00"
-        },
-        {
           "event_id": "36771556",
           "home": "SC Gjilani",
           "away": "KF Drenica Skenderaj",
           "kickoff_utc": "2026-10-13T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Mexico",
+      "name": "Liga de Expansion MX, Apertura",
+      "key": "soccer-mexico-liga-de-ascenso-apertura",
+      "events": [
+        {
+          "event_id": "36719586",
+          "home": "CD Tapatio",
+          "away": "Tepatitlan FC",
+          "kickoff_utc": "2026-10-13T23:00:00+00:00"
         }
       ]
     },
@@ -735,6 +787,12 @@
       "key": "soccer-northern-ireland-county-antrim-shield",
       "events": [
         {
+          "event_id": "36772711",
+          "home": "Ards FC",
+          "away": "Bangor FC",
+          "kickoff_utc": "2026-10-13T18:45:00+00:00"
+        },
+        {
           "event_id": "36769136",
           "home": "Cliftonville FC",
           "away": "Glentoran FC",
@@ -751,6 +809,19 @@
           "home": "Dundela FC",
           "away": "Larne FC",
           "kickoff_utc": "2026-10-13T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Poland",
+      "name": "Poland 4. Liga",
+      "key": "soccer-poland-tb406-poland-4-liga",
+      "events": [
+        {
+          "event_id": "36772613",
+          "home": "Polonia Łaziska Górne",
+          "away": "LKS Przemsza Siewierz",
+          "kickoff_utc": "2026-10-13T17:30:00+00:00"
         }
       ]
     },
@@ -949,41 +1020,10 @@
       ]
     },
     {
-      "category": "Thailand",
-      "name": "Thai League 2",
-      "key": "soccer-thailand-thai-league-2",
-      "events": [
-        {
-          "event_id": "36759850",
-          "home": "Muang Thong United",
-          "away": "Phrae United",
-          "kickoff_utc": "2026-10-13T11:00:00+00:00"
-        },
-        {
-          "event_id": "36759849",
-          "home": "DP Kanchanaburi FC",
-          "away": "Police Tero FC",
-          "kickoff_utc": "2026-10-13T11:30:00+00:00"
-        },
-        {
-          "event_id": "36760034",
-          "home": "Nakhon Ratchasima FC",
-          "away": "Muang Loei United FC",
-          "kickoff_utc": "2026-10-13T12:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Turkey",
       "name": "1. Lig",
       "key": "soccer-turkey-1-lig",
       "events": [
-        {
-          "event_id": "36695247",
-          "home": "Bandirmaspor",
-          "away": "Sivasspor",
-          "kickoff_utc": "2026-10-13T11:30:00+00:00"
-        },
         {
           "event_id": "36695891",
           "home": "AS Sariyer",
@@ -995,6 +1035,19 @@
           "home": "Pendikspor",
           "away": "Van Spor FK",
           "kickoff_utc": "2026-10-13T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Uruguay",
+      "name": "Primera Division Amateur",
+      "key": "soccer-uruguay-primera-division-amateur",
+      "events": [
+        {
+          "event_id": "36771914",
+          "home": "Deportivo Colonia",
+          "away": "Sud America",
+          "kickoff_utc": "2026-10-13T22:30:00+00:00"
         }
       ]
     }
