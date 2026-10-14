@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-14T06:31:32.798248+00:00",
+  "generated_at_utc": "2026-10-14T08:31:35.202679+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -44,6 +44,12 @@
           "home": "Rodelindo Román",
           "away": "Municipal Puente Alto",
           "kickoff_utc": "2026-10-14T16:00:00+00:00"
+        },
+        {
+          "event_id": "36777363",
+          "home": "Lautaro de Bui­n",
+          "away": "CDSC Aguará",
+          "kickoff_utc": "2026-10-14T19:00:00+00:00"
         }
       ]
     },
@@ -166,6 +172,69 @@
       ]
     },
     {
+      "category": "England",
+      "name": "Championship",
+      "key": "soccer-england-championship",
+      "events": [
+        {
+          "event_id": "36731223",
+          "home": "Norwich City",
+          "away": "Southampton",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        },
+        {
+          "event_id": "36731209",
+          "home": "Portsmouth",
+          "away": "Sheff Utd",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        },
+        {
+          "event_id": "36728315",
+          "home": "Queens Park Rangers",
+          "away": "Derby County",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        },
+        {
+          "event_id": "36728316",
+          "home": "Lincoln City",
+          "away": "West Ham United",
+          "kickoff_utc": "2026-10-14T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "Isthmian League, Division One South Central",
+      "key": "soccer-england-isthmian-league-division-one-south-central",
+      "events": [
+        {
+          "event_id": "36785210",
+          "home": "Kingstonian FC",
+          "away": "Hartley Wintney",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "Southern League, Premier Central",
+      "key": "soccer-england-southern-football-league-premier-division-central",
+      "events": [
+        {
+          "event_id": "36784763",
+          "home": "Aylesbury United",
+          "away": "Barton Rovers",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        },
+        {
+          "event_id": "36784762",
+          "home": "Larkhall Athletic",
+          "away": "Swindon Supermarine",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Estonia",
       "name": "Esiliiga",
       "key": "soccer-estonia-esiliiga",
@@ -253,12 +322,6 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36781665",
-          "home": "Bangalore City FC",
-          "away": "FC Agniputhra",
-          "kickoff_utc": "2026-10-14T08:00:00+00:00"
-        },
-        {
           "event_id": "36782908",
           "home": "Bangalore Dream United FC",
           "away": "Bengaluru FC",
@@ -281,20 +344,32 @@
     },
     {
       "category": "International",
-      "name": "Hun Sen Cup",
-      "key": "soccer-international-t87aa-hun-sen-cup",
+      "name": "England Northern Division 1 North",
+      "key": "soccer-international-tb405-england-northern-division-1-north",
       "events": [
         {
-          "event_id": "36782455",
-          "home": "Kampong Speu",
-          "away": "Tboung Khmum FC",
-          "kickoff_utc": "2026-10-14T08:15:00+00:00"
+          "event_id": "36784758",
+          "home": "Guisborough Town",
+          "away": "Garforth Town",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
         },
         {
-          "event_id": "36781728",
-          "home": "Kandal Province",
-          "away": "Preah Sihanouk",
-          "kickoff_utc": "2026-10-14T08:15:00+00:00"
+          "event_id": "36784760",
+          "home": "Lower Breck",
+          "away": "Mossley AFC",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        },
+        {
+          "event_id": "36784761",
+          "home": "Shifnal Town",
+          "away": "Witton Albion",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
+        },
+        {
+          "event_id": "36784759",
+          "home": "Stocksbridge Park Steels FC",
+          "away": "Bridlington Town",
+          "kickoff_utc": "2026-10-14T18:45:00+00:00"
         }
       ]
     },
@@ -316,12 +391,6 @@
       "name": "AFC Cup",
       "key": "soccer-international-clubs-afc-cup",
       "events": [
-        {
-          "event_id": "36764679",
-          "home": "Melbourne Victory",
-          "away": "FC Seoul",
-          "kickoff_utc": "2026-10-14T07:45:00+00:00"
-        },
         {
           "event_id": "36765707",
           "home": "Persib Bandung",
@@ -480,6 +549,19 @@
       ]
     },
     {
+      "category": "Morocco",
+      "name": "Botola",
+      "key": "soccer-morocco-botola",
+      "events": [
+        {
+          "event_id": "36763059",
+          "home": "Ittihad Tanger",
+          "away": "Maghreb AS de Fes",
+          "kickoff_utc": "2026-10-14T20:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Norway",
       "name": "1st Division",
       "key": "soccer-norway-1st-division",
@@ -548,6 +630,19 @@
       ]
     },
     {
+      "category": "Paraguay",
+      "name": "Copa Paraguay",
+      "key": "soccer-paraguay-copa-paraguay",
+      "events": [
+        {
+          "event_id": "36772658",
+          "home": "CA Tembetary Ypane",
+          "away": "Sol de America Villa Elisa",
+          "kickoff_utc": "2026-10-14T20:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Poland",
       "name": "III Liga, Group 3",
       "key": "soccer-poland-iii-liga-group-3",
@@ -573,6 +668,19 @@
       ]
     },
     {
+      "category": "Poland",
+      "name": "Poland 4. Liga",
+      "key": "soccer-poland-tb406-poland-4-liga",
+      "events": [
+        {
+          "event_id": "36785123",
+          "home": "MLKS Wissa Szczuczyn",
+          "away": "Freskovita Ruch Wysokie Mazowieckie",
+          "kickoff_utc": "2026-10-14T14:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Portugal",
       "name": "Taca de Portugal",
       "key": "soccer-portugal-taca-de-portugal",
@@ -590,12 +698,6 @@
       "name": "Russian Cup",
       "key": "soccer-russia-russian-cup",
       "events": [
-        {
-          "event_id": "36782180",
-          "home": "FC Ska-Khabarovsk",
-          "away": "Dinamo Kirov",
-          "kickoff_utc": "2026-10-14T08:30:00+00:00"
-        },
         {
           "event_id": "36779682",
           "home": "FC Volna Nizhny Novgorod Oblast",
@@ -761,6 +863,12 @@
           "home": "UE Castelldefels",
           "away": "AE Prat",
           "kickoff_utc": "2026-10-14T18:00:00+00:00"
+        },
+        {
+          "event_id": "36784407",
+          "home": "FB Redovan",
+          "away": "CFUE Tavernes de la Valldigna",
+          "kickoff_utc": "2026-10-14T18:30:00+00:00"
         }
       ]
     },
@@ -880,6 +988,55 @@
           "home": "CA Boston River",
           "away": "CA River Plate (URU)",
           "kickoff_utc": "2026-10-14T18:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Venezuela",
+      "name": "Copa Venezuela",
+      "key": "soccer-venezuela-copa-venezuela",
+      "events": [
+        {
+          "event_id": "36773991",
+          "home": "Club Bolivar",
+          "away": "Mineros de Guayana",
+          "kickoff_utc": "2026-10-14T19:00:00+00:00"
+        },
+        {
+          "event_id": "36773385",
+          "home": "Aragua FC",
+          "away": "Caracas FC",
+          "kickoff_utc": "2026-10-14T19:30:00+00:00"
+        },
+        {
+          "event_id": "36773891",
+          "home": "Atletico Avila",
+          "away": "Academia Anzoategui FC",
+          "kickoff_utc": "2026-10-14T19:30:00+00:00"
+        },
+        {
+          "event_id": "36774011",
+          "home": "Atletico Barinas",
+          "away": "REAL FRONTERA FC",
+          "kickoff_utc": "2026-10-14T19:30:00+00:00"
+        },
+        {
+          "event_id": "36773938",
+          "home": "Atletico El Vigia",
+          "away": "Zamora FC",
+          "kickoff_utc": "2026-10-14T19:30:00+00:00"
+        },
+        {
+          "event_id": "36773450",
+          "home": "Trujillanos FC",
+          "away": "Rayo Zuliano",
+          "kickoff_utc": "2026-10-14T20:00:00+00:00"
+        },
+        {
+          "event_id": "36782429",
+          "home": "Yaracuyanos FC",
+          "away": "Barquisimeto SC",
+          "kickoff_utc": "2026-10-14T20:00:00+00:00"
         }
       ]
     }
