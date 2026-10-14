@@ -12372,3 +12372,31 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-14T17:31:36.584492+02:00,36782769,Russian Cup,Russia,FC Chertanovo Moscow,FC Tekstilshchik Ivanovo,2026-10-14T16:00:00+00:00,28.3903,soccer.double_chance,period=ft,home_draw,,1.69,1.73
 2026-10-14T17:31:36.584492+02:00,36782769,Russian Cup,Russia,FC Chertanovo Moscow,FC Tekstilshchik Ivanovo,2026-10-14T16:00:00+00:00,28.3903,soccer.total_goals,period=ft,over,total=2.25,1.72,1.73
 2026-10-14T17:31:36.584492+02:00,36782769,Russian Cup,Russia,FC Chertanovo Moscow,FC Tekstilshchik Ivanovo,2026-10-14T16:00:00+00:00,28.3903,soccer.total_goals,period=ft,under,total=2.25,1.89,1.91
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.15,2.14
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.7,1.71
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,draw_away,,1.72,1.69
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,home_draw,,1.35,1.37
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.match_odds,period=ft,home,,2.15,2.14
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,over,total=3,1.9,1.89
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,under,total=3,1.9,1.91
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,over,total=2.5,1.55,1.54
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,under,total=2.75,2.16,2.17
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,over,total=3.25,2.16,2.15
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,under,total=3.5,1.55,1.56
+2026-10-14T17:33:01.518760+02:00,36683351,1. Liga,Czechia,Bohemians Prague 1905,FK Mlada Boleslav,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,over,total=4.5,4.25,4.2
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,home,handicap=-1,1.98,1.99
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.35,1.34
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.45,2.5
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.48,1.47
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.2,2.25
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.05,2.04
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.37,1.38
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.85,2.8
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.match_odds,period=ft,away,,5.65,5.6
+2026-10-14T17:33:01.518760+02:00,36785772,Bulgarian Cup,Bulgaria,Botev Plovdiv,POFC Botev Vratsa,2026-10-14T16:00:00+00:00,26.9747,soccer.total_goals,period=ft,under,total=2,3.5,3.45
+2026-10-14T17:33:01.518760+02:00,36765828,AFC Cup,International Clubs,Al Kuwait SC,AL Khalidiyah,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,draw_away,,1.59,1.57
+2026-10-14T17:33:01.518760+02:00,36765828,AFC Cup,International Clubs,Al Kuwait SC,AL Khalidiyah,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,home_away,,1.33,1.32
+2026-10-14T17:33:01.518760+02:00,36765828,AFC Cup,International Clubs,Al Kuwait SC,AL Khalidiyah,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,home_draw,,1.39,1.42
+2026-10-14T17:33:01.518760+02:00,36765719,AFC Cup,International Clubs,Al-Muharraq SC,Gol Gohar Sirjan FC,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,draw_away,,1.48,1.45
+2026-10-14T17:33:01.518760+02:00,36765719,AFC Cup,International Clubs,Al-Muharraq SC,Gol Gohar Sirjan FC,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,home_away,,1.39,1.38
+2026-10-14T17:33:01.518760+02:00,36765719,AFC Cup,International Clubs,Al-Muharraq SC,Gol Gohar Sirjan FC,2026-10-14T16:00:00+00:00,26.9747,soccer.double_chance,period=ft,home_draw,,1.42,1.46
