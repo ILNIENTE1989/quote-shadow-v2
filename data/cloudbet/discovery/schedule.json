@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-14T20:33:04.684833+00:00",
+  "generated_at_utc": "2026-10-14T22:34:58.499319+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
-      "events": [
-        {
-          "event_id": "36561924",
-          "home": "CA Sarmiento Junin",
-          "away": "CA River Plate",
-          "kickoff_utc": "2026-10-14T22:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Australia",
       "name": "Australia Championship",
@@ -25,19 +12,6 @@
           "home": "Preston Lions FC",
           "away": "Wollongong Wolves FC",
           "kickoff_utc": "2026-10-15T08:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Chile",
-      "name": "Tercera Division",
-      "key": "soccer-chile-tercera-division",
-      "events": [
-        {
-          "event_id": "36779275",
-          "home": "Club de Deportes Quintero Unido",
-          "away": "CD Constitucion Unido",
-          "kickoff_utc": "2026-10-14T22:00:00+00:00"
         }
       ]
     },
@@ -64,19 +38,6 @@
           "home": "Independiente Santa Fe",
           "away": "Jaguares de Cordoba",
           "kickoff_utc": "2026-10-14T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36764766",
-          "home": "Real Soacha Cundinamarca",
-          "away": "Bogota FC",
-          "kickoff_utc": "2026-10-14T22:00:00+00:00"
         }
       ]
     },
@@ -138,28 +99,21 @@
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Primera Division",
-      "key": "soccer-guatemala-primera-division",
+      "category": "International Clubs",
+      "name": "AFC Cup",
+      "key": "soccer-international-clubs-afc-cup",
       "events": [
         {
-          "event_id": "36790088",
-          "home": "Club America Salcaja",
-          "away": "Deportivo Tacaná",
-          "kickoff_utc": "2026-10-14T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Honduras",
-      "name": "Liga de Ascenso",
-      "key": "soccer-honduras-ta508-liga-de-ascenso",
-      "events": [
+          "event_id": "36773861",
+          "home": "Gangwon FC",
+          "away": "Phnom Penh Crown",
+          "kickoff_utc": "2026-10-15T10:00:00+00:00"
+        },
         {
-          "event_id": "36790888",
-          "home": "Adet Aruba",
-          "away": "Once Lobos",
-          "kickoff_utc": "2026-10-14T21:00:00+00:00"
+          "event_id": "36772710",
+          "home": "Wofoo Tai Po",
+          "away": "Lion City Sailors FC",
+          "kickoff_utc": "2026-10-15T10:00:00+00:00"
         }
       ]
     },
@@ -190,32 +144,6 @@
       ]
     },
     {
-      "category": "International Clubs",
-      "name": "Copa Sudamericana",
-      "key": "soccer-international-clubs-copa-sudamericana",
-      "events": [
-        {
-          "event_id": "36436660",
-          "home": "Atletico Mineiro MG",
-          "away": "Montevideo City Torque",
-          "kickoff_utc": "2026-10-14T22:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Mexico Copa Mexico",
-      "key": "soccer-mexico-tb5c1-mexico-copa-mexico",
-      "events": [
-        {
-          "event_id": "36785908",
-          "home": "Ejidatarios de Bonfil FC",
-          "away": "Boston Cancun FC",
-          "kickoff_utc": "2026-10-14T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Nicaragua",
       "name": "Primera Division",
       "key": "soccer-nicaragua-primera-division",
@@ -237,19 +165,6 @@
           "home": "Indigenas de Matagalpa FC",
           "away": "CD Walter Ferretti",
           "kickoff_utc": "2026-10-15T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Copa Paraguay",
-      "key": "soccer-paraguay-copa-paraguay",
-      "events": [
-        {
-          "event_id": "36772688",
-          "home": "Cerro Porteno",
-          "away": "Sportivo San Lorenzo",
-          "kickoff_utc": "2026-10-14T22:30:00+00:00"
         }
       ]
     },
@@ -296,12 +211,6 @@
       "name": "Copa Venezuela",
       "key": "soccer-venezuela-copa-venezuela",
       "events": [
-        {
-          "event_id": "36773862",
-          "home": "Monagas SC",
-          "away": "Dynamo Puerto FC",
-          "kickoff_utc": "2026-10-14T22:00:00+00:00"
-        },
         {
           "event_id": "36789627",
           "home": "CD Lara",
