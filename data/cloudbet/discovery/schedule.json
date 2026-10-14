@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-14T12:32:58.407638+00:00",
+  "generated_at_utc": "2026-10-14T14:32:59.925123+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -87,6 +87,19 @@
     },
     {
       "category": "Colombia",
+      "name": "Copa Colombia",
+      "key": "soccer-colombia-copa-colombia",
+      "events": [
+        {
+          "event_id": "36761968",
+          "home": "Atletico Nacional Medellin",
+          "away": "Independiente Medellin",
+          "kickoff_utc": "2026-10-15T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
@@ -121,6 +134,12 @@
           "home": "Perez Zeledon",
           "away": "CD Escorpiones Belen",
           "kickoff_utc": "2026-10-14T23:00:00+00:00"
+        },
+        {
+          "event_id": "36694478",
+          "home": "Liga Deportiva Alajuelense",
+          "away": "CS Herediano",
+          "kickoff_utc": "2026-10-15T02:00:00+00:00"
         }
       ]
     },
@@ -159,19 +178,6 @@
           "home": "Bohemians Prague 1905",
           "away": "FK Mlada Boleslav",
           "kickoff_utc": "2026-10-14T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Czechia",
-      "name": "CFL",
-      "key": "soccer-czech-republic-cfl",
-      "events": [
-        {
-          "event_id": "36773915",
-          "home": "FK Banik Most-Sous",
-          "away": "SK Benatky Nad Jizerou",
-          "kickoff_utc": "2026-10-14T13:30:00+00:00"
         }
       ]
     },
@@ -263,12 +269,6 @@
       "key": "soccer-estonia-premium-liiga",
       "events": [
         {
-          "event_id": "36762609",
-          "home": "JK Narva Trans",
-          "away": "FC Kuressaare",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
-        },
-        {
           "event_id": "36782778",
           "home": "Paide Linnameeskond",
           "away": "Tartu JK Tammeka",
@@ -323,6 +323,25 @@
           "home": "Comunicaciones FC",
           "away": "Club Aurora",
           "kickoff_utc": "2026-10-14T23:00:00+00:00"
+        },
+        {
+          "event_id": "36765960",
+          "home": "CD Guastatoya",
+          "away": "Antigua GFC",
+          "kickoff_utc": "2026-10-15T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Honduras",
+      "name": "Liga de Ascenso",
+      "key": "soccer-honduras-ta508-liga-de-ascenso",
+      "events": [
+        {
+          "event_id": "36789310",
+          "home": "Marte Soyapango",
+          "away": "Forfut",
+          "kickoff_utc": "2026-10-15T01:00:00+00:00"
         }
       ]
     },
@@ -371,29 +390,10 @@
       ]
     },
     {
-      "category": "International",
-      "name": "Mocambola",
-      "key": "soccer-international-mocambola",
-      "events": [
-        {
-          "event_id": "36783933",
-          "home": "AD Pemba",
-          "away": "UD Do Songo",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "International Clubs",
       "name": "AFC Cup",
       "key": "soccer-international-clubs-afc-cup",
       "events": [
-        {
-          "event_id": "36765187",
-          "home": "FC Nasaf",
-          "away": "Al Wahda FC (UAE)",
-          "kickoff_utc": "2026-10-14T13:45:00+00:00"
-        },
         {
           "event_id": "36765228",
           "home": "AL Taawoun FC",
@@ -471,6 +471,12 @@
       "key": "soccer-international-clubs-ta272-gulf-club-championship",
       "events": [
         {
+          "event_id": "36789779",
+          "home": "Al Duhail",
+          "away": "AL Shabab FC (KSA)",
+          "kickoff_utc": "2026-10-14T14:45:00+00:00"
+        },
+        {
           "event_id": "36781937",
           "home": "Al Duhail",
           "away": "Al Shabab",
@@ -481,19 +487,12 @@
           "home": "Ajman Club",
           "away": "Erbil SC",
           "kickoff_utc": "2026-10-14T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Italy",
-      "name": "Serie D, Girone H",
-      "key": "soccer-italy-serie-d-girone-h",
-      "events": [
+        },
         {
-          "event_id": "36780946",
-          "home": "Tropical Coriano",
-          "away": "US Citta Di Pontedera",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
+          "event_id": "36789661",
+          "home": "Al Ittifaq BHR",
+          "away": "Kazma SC",
+          "kickoff_utc": "2026-10-14T16:00:00+00:00"
         }
       ]
     },
@@ -584,6 +583,12 @@
           "home": "Managua FC",
           "away": "FC San Marcos",
           "kickoff_utc": "2026-10-15T00:00:00+00:00"
+        },
+        {
+          "event_id": "36781122",
+          "home": "Indigenas de Matagalpa FC",
+          "away": "CD Walter Ferretti",
+          "kickoff_utc": "2026-10-15T01:00:00+00:00"
         }
       ]
     },
@@ -592,12 +597,6 @@
       "name": "1st Division",
       "key": "soccer-norway-1st-division",
       "events": [
-        {
-          "event_id": "36758437",
-          "home": "Stroemmen IF",
-          "away": "Aasane Fotball",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
-        },
         {
           "event_id": "36744867",
           "home": "Bryne FK",
@@ -680,12 +679,6 @@
       "key": "soccer-poland-iii-liga-group-3",
       "events": [
         {
-          "event_id": "36781123",
-          "home": "Jagiellonia II Bialystok",
-          "away": "KS Ck Troszyn",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
-        },
-        {
           "event_id": "36782807",
           "home": "Zaglebie Sosnowiec",
           "away": "Rakow II Czestochowa",
@@ -698,12 +691,6 @@
       "name": "Poland 4. Liga",
       "key": "soccer-poland-tb406-poland-4-liga",
       "events": [
-        {
-          "event_id": "36785123",
-          "home": "MLKS Wissa Szczuczyn",
-          "away": "Freskovita Ruch Wysokie Mazowieckie",
-          "kickoff_utc": "2026-10-14T14:00:00+00:00"
-        },
         {
           "event_id": "36787209",
           "home": "Radunia Stezyca",
@@ -730,18 +717,6 @@
       "name": "Russian Cup",
       "key": "soccer-russia-russian-cup",
       "events": [
-        {
-          "event_id": "36178391",
-          "home": "PFK Krylia Sovetov Samara",
-          "away": "FC Baltika Kaliningrad",
-          "kickoff_utc": "2026-10-14T13:15:00+00:00"
-        },
-        {
-          "event_id": "36782595",
-          "home": "FC Volga Ulyanovsk",
-          "away": "FC Murom",
-          "kickoff_utc": "2026-10-14T14:00:00+00:00"
-        },
         {
           "event_id": "36197357",
           "home": "FC Dynamo-Makhachkala",
@@ -790,25 +765,6 @@
           "home": "AL Raed FC",
           "away": "Jeddah Club",
           "kickoff_utc": "2026-10-14T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Slovakia",
-      "name": "Slovensky Pohar",
-      "key": "soccer-slovakia-slovensky-pohar",
-      "events": [
-        {
-          "event_id": "36780962",
-          "home": "MFK Vranov Nad Toplou",
-          "away": "MFk Dukla Banska Bystrica",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
-        },
-        {
-          "event_id": "36780961",
-          "home": "PFK Piešťany",
-          "away": "FC Spartak Trnava",
-          "kickoff_utc": "2026-10-14T13:00:00+00:00"
         }
       ]
     },
@@ -911,12 +867,6 @@
       "name": "1. Lig",
       "key": "soccer-turkey-1-lig",
       "events": [
-        {
-          "event_id": "36695847",
-          "home": "Umraniyespor",
-          "away": "Boluspor",
-          "kickoff_utc": "2026-10-14T14:00:00+00:00"
-        },
         {
           "event_id": "36695848",
           "home": "Ankara Keciorengucu",
@@ -1040,6 +990,12 @@
           "home": "Monagas SC",
           "away": "Dynamo Puerto FC",
           "kickoff_utc": "2026-10-14T22:00:00+00:00"
+        },
+        {
+          "event_id": "36789627",
+          "home": "CD Lara",
+          "away": "Urena SC",
+          "kickoff_utc": "2026-10-14T23:00:00+00:00"
         }
       ]
     }
