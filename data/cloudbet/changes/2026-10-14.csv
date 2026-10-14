@@ -1955,3 +1955,15 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-14T09:31:40.964901+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,13.3173,soccer.total_goals,period=ft,under,total=3.25,1.56,1.57
 2026-10-14T09:31:40.964901+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,13.3173,soccer.total_goals,period=ft,over,total=3.5,2.6,2.55
 2026-10-14T09:31:40.964901+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,13.3173,soccer.total_goals,period=ft,under,total=3.5,1.46,1.47
+2026-10-14T09:32:55.563957+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,12.0739,soccer.asian_handicap,period=ft,home,handicap=-1,1.94,1.93
+2026-10-14T09:32:55.563957+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,12.0739,soccer.asian_handicap,period=ft,away,handicap=-1,1.87,1.88
+2026-10-14T09:32:55.563957+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,12.0739,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.18,2.17
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.91,1.7
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.71,1.92
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.double_chance,period=ft,draw_away,,1.63,1.81
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.double_chance,period=ft,home_away,,1.27,1.24
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.double_chance,period=ft,home_draw,,1.25,1.19
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.match_odds,period=ft,home,,1.94,1.71
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.match_odds,period=ft,draw,,3.2,3.45
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.match_odds,period=ft,away,,3.35,4.0
+2026-10-14T09:32:55.563957+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,57.0739,soccer.total_goals,period=ft,over,total=2.25,1.92,1.93
