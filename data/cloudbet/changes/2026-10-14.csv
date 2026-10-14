@@ -2056,3 +2056,23 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-14T09:38:56.262093+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,6.0623,soccer.total_goals,period=ft,under,total=3.25,1.56,1.57
 2026-10-14T09:38:56.262093+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,6.0623,soccer.total_goals,period=ft,over,total=3.5,2.6,2.55
 2026-10-14T09:38:56.262093+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,6.0623,soccer.total_goals,period=ft,under,total=3.5,1.46,1.47
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.asian_handicap,period=ft,home,handicap=-1,1.86,1.87
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.1,2.11
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.71,1.7
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.65,1.66
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.19,2.18
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.95,2.9
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.double_chance,period=ft,draw_away,,2.0,2.05
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.double_chance,period=ft,home_draw,,1.08,1.07
+2026-10-14T09:41:16.114547+02:00,36764679,AFC Cup,International Clubs,Melbourne Victory,FC Seoul,2026-10-14T07:45:00+00:00,3.7314,soccer.total_goals,period=ft,over,total=2.75,1.8,1.81
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.asian_handicap,period=ft,home,handicap=-0.5,0.0,1.8
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.asian_handicap,period=ft,away,handicap=-0.5,0.0,1.86
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.92,2.05
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.7,1.63
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.double_chance,period=ft,draw_away,,1.81,1.86
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.double_chance,period=ft,home_draw,,1.18,1.17
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.match_odds,period=ft,home,,1.71,1.79
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.match_odds,period=ft,draw,,3.4,3.0
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.match_odds,period=ft,away,,4.1,3.95
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.total_goals,period=ft,over,total=2.25,1.93,1.92
+2026-10-14T09:41:16.114547+02:00,36782180,Russian Cup,Russia,FC Ska-Khabarovsk,Dinamo Kirov,2026-10-14T08:30:00+00:00,48.7314,soccer.total_goals,period=ft,under,total=2.25,1.69,1.75
