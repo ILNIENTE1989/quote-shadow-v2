@@ -10305,3 +10305,42 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-14T16:34:59.110345+02:00,36782471,Division 1,Kuwait,AL Jazira FC (Kuwait),Al-Shamiya,2026-10-14T14:45:00+00:00,10.0148,soccer.total_goals,period=ft,under,total=3.25,1.9,1.89
 2026-10-14T16:34:59.110345+02:00,36782471,Division 1,Kuwait,AL Jazira FC (Kuwait),Al-Shamiya,2026-10-14T14:45:00+00:00,10.0148,soccer.total_goals,period=ft,over,total=2.5,1.38,1.39
 2026-10-14T16:34:59.110345+02:00,36782471,Division 1,Kuwait,AL Jazira FC (Kuwait),Al-Shamiya,2026-10-14T14:45:00+00:00,10.0148,soccer.total_goals,period=ft,under,total=3.75,1.53,1.52
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=1.5,2.9,2.85
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.double_chance,period=ft,draw_away,,1.18,1.19
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.double_chance,period=ft,home_away,,1.26,1.27
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.double_chance,period=ft,home_draw,,2.18,2.14
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.match_odds,period=ft,draw,,3.75,3.8
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,over,total=2.5,1.84,1.83
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=2.5,1.99,2.01
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=1.5,3.8,3.85
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,over,total=2,1.39,1.38
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=2,2.95,3.0
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,over,total=2.25,1.61,1.6
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,over,total=2.75,2.04,2.03
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=2.75,1.76,1.77
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=3,1.55,1.56
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,over,total=4.5,5.85,5.75
+2026-10-14T16:37:06.498181+02:00,36197357,Russian Cup,Russia,FC Dynamo-Makhachkala,FK Zenit Saint Petersburg,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=4.5,1.12,1.13
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=0,1.77,1.83
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=0,2.09,2.01
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=-1,4.0,4.25
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=-1,1.24,1.22
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.9,3.05
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.4,1.37
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.4,2.5
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.56,1.53
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.08,2.16
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.75,1.7
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=0.25,1.54,1.59
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=0.25,2.45,2.35
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=0.5,1.42,1.45
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=0.5,2.85,2.75
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=0.75,1.29,1.32
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=0.75,3.5,3.35
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,home,handicap=1,1.18,1.19
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.asian_handicap,period=ft,away,handicap=1,4.9,4.6
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.double_chance,period=ft,draw_away,,1.5,1.53
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.double_chance,period=ft,home_draw,,1.47,1.45
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.match_odds,period=ft,home,,2.4,2.5
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.match_odds,period=ft,away,,2.85,2.75
+2026-10-14T16:37:06.498181+02:00,36197355,Russian Cup,Russia,RFK Akhmat Grozny,FK Dinamo Moscow,2026-10-14T15:30:00+00:00,52.8917,soccer.total_goals,period=ft,under,total=3,1.56,1.57
