@@ -6097,3 +6097,12 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-14T13:12:56.602726+02:00,36780709,Slovensky Pohar,Slovakia,FC STK 1914 Samorin,FK Humenne,2026-10-14T12:30:00+00:00,77.0566,soccer.total_goals,period=ft,under,total=3.5,1.51,1.48
 2026-10-14T13:12:56.602726+02:00,36780709,Slovensky Pohar,Slovakia,FC STK 1914 Samorin,FK Humenne,2026-10-14T12:30:00+00:00,77.0566,soccer.total_goals,period=ft,over,total=3.75,2.65,2.75
 2026-10-14T13:12:56.602726+02:00,36780709,Slovensky Pohar,Slovakia,FC STK 1914 Samorin,FK Humenne,2026-10-14T12:30:00+00:00,77.0566,soccer.total_goals,period=ft,under,total=3.75,1.38,1.36
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.69,0.0
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.96,0.0
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.double_chance,period=ft,draw_away,,1.63,1.73
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.double_chance,period=ft,home_away,,1.36,1.32
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.double_chance,period=ft,home_draw,,1.22,1.2
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.match_odds,period=ft,home,,2.0,1.85
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.match_odds,period=ft,draw,,2.75,2.95
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.match_odds,period=ft,away,,3.85,4.1
+2026-10-14T13:16:54.294227+02:00,36782525,Russian Cup,Russia,FC Yenisey Krasnoyarsk,FC Kaluga,2026-10-14T11:30:00+00:00,13.0951,soccer.total_goals,period=ft,under,total=2.25,1.83,1.82
