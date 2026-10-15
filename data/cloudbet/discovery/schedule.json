@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T14:45:07.330882+00:00",
+  "generated_at_utc": "2026-10-15T16:47:05.610392+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -21,16 +21,29 @@
       "key": "soccer-belarus-vysshaya-liga",
       "events": [
         {
-          "event_id": "36709055",
-          "home": "FC Dinamo Minsk",
-          "away": "FC Slavia Mozyr",
-          "kickoff_utc": "2026-10-15T15:30:00+00:00"
-        },
-        {
           "event_id": "36709137",
           "home": "Maxline Rogachev",
           "away": "FC Torpedo Belaz Zhodino",
           "kickoff_utc": "2026-10-15T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brazil Campeonato Paraibano (PB) Division 2",
+      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
+      "events": [
+        {
+          "event_id": "36805983",
+          "home": "AD Guarabira",
+          "away": "Spartax FC",
+          "kickoff_utc": "2026-10-15T22:30:00+00:00"
+        },
+        {
+          "event_id": "36805982",
+          "home": "CD Cruzeiro",
+          "away": "Grêmio Recreativo Serrano (PB)",
+          "kickoff_utc": "2026-10-15T22:30:00+00:00"
         }
       ]
     },
@@ -117,47 +130,15 @@
       ]
     },
     {
-      "category": "Estonia",
-      "name": "Esiliiga",
-      "key": "soccer-estonia-esiliiga",
+      "category": "El Salvador",
+      "name": "Segunda Division",
+      "key": "soccer-el-salvador-segunda-division",
       "events": [
         {
-          "event_id": "36798618",
-          "home": "FC Tallinn",
-          "away": "Tartu JK Welco",
-          "kickoff_utc": "2026-10-15T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Estonia",
-      "name": "Esiliiga B",
-      "key": "soccer-estonia-esiliiga-b",
-      "events": [
-        {
-          "event_id": "36797554",
-          "home": "FC Phoenix Johvi",
-          "away": "Tartu JK Tammeka",
-          "kickoff_utc": "2026-10-15T15:00:00+00:00"
-        },
-        {
-          "event_id": "36798619",
-          "home": "JK Narva Trans",
-          "away": "FA Tartu Kalev",
-          "kickoff_utc": "2026-10-15T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Estonia",
-      "name": "Premium Liiga",
-      "key": "soccer-estonia-premium-liiga",
-      "events": [
-        {
-          "event_id": "36775419",
-          "home": "Flora Tallinn",
-          "away": "FCI Levadia Tallinn",
-          "kickoff_utc": "2026-10-15T16:00:00+00:00"
+          "event_id": "36805185",
+          "home": "Neo Pipil San Juan Nonualco",
+          "away": "Sal Y Mar",
+          "kickoff_utc": "2026-10-15T21:00:00+00:00"
         }
       ]
     },
@@ -237,12 +218,6 @@
       "key": "soccer-israel-liga-bet-south-a",
       "events": [
         {
-          "event_id": "36801541",
-          "home": "Sektzia Ness Ziona FC",
-          "away": "Maccabi Be'er Sheva FC",
-          "kickoff_utc": "2026-10-15T16:00:00+00:00"
-        },
-        {
           "event_id": "36802618",
           "home": "AS HOLON MOR",
           "away": "Beitar Petah Tikva",
@@ -253,38 +228,6 @@
           "home": "Hapoel Bnei Jadeidi",
           "away": "Hapoel Bnei Biina",
           "kickoff_utc": "2026-10-15T17:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
-      "events": [
-        {
-          "event_id": "36799081",
-          "home": "Sol FC",
-          "away": "Stade D´abidjan",
-          "kickoff_utc": "2026-10-15T15:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Jordan",
-      "name": "Jordan 1st Division",
-      "key": "soccer-jordan-jordan-1st-division",
-      "events": [
-        {
-          "event_id": "36797553",
-          "home": "Al Hashemehya",
-          "away": "Al Aqaba",
-          "kickoff_utc": "2026-10-15T15:00:00+00:00"
-        },
-        {
-          "event_id": "36797555",
-          "home": "Sahl Houran",
-          "away": "Ittihad AL Ramtha",
-          "kickoff_utc": "2026-10-15T15:00:00+00:00"
         }
       ]
     },
@@ -308,42 +251,10 @@
       ]
     },
     {
-      "category": "Poland",
-      "name": "I Liga",
-      "key": "soccer-poland-i-liga",
-      "events": [
-        {
-          "event_id": "36729850",
-          "home": "Pogon Siedlce",
-          "away": "Puszcza Niepolomice",
-          "kickoff_utc": "2026-10-15T16:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Qatar",
-      "name": "Qatar Stars League 2",
-      "key": "soccer-qatar-tc3cf-qatar-stars-league-2",
-      "events": [
-        {
-          "event_id": "36798477",
-          "home": "Al Kharaitiyat SC",
-          "away": "AL Bidda SC",
-          "kickoff_utc": "2026-10-15T16:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Russia",
       "name": "Russian Cup",
       "key": "soccer-russia-russian-cup",
       "events": [
-        {
-          "event_id": "36178277",
-          "home": "FK Rubin Kazan",
-          "away": "FC Orenburg",
-          "kickoff_utc": "2026-10-15T15:30:00+00:00"
-        },
         {
           "event_id": "36178288",
           "home": "Rodina Moscow",
