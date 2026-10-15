@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T08:41:20.934225+00:00",
+  "generated_at_utc": "2026-10-15T10:43:01.519549+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -56,6 +56,24 @@
           "home": "Envigado FC",
           "away": "CD Real Santander",
           "kickoff_utc": "2026-10-15T19:00:00+00:00"
+        },
+        {
+          "event_id": "36779276",
+          "home": "Barranquilla FC",
+          "away": "Tigres FC",
+          "kickoff_utc": "2026-10-15T21:00:00+00:00"
+        },
+        {
+          "event_id": "36779274",
+          "home": "Union Magdalena",
+          "away": "Yumbo FC",
+          "kickoff_utc": "2026-10-15T22:00:00+00:00"
+        },
+        {
+          "event_id": "36779426",
+          "home": "Itagui Leones FC",
+          "away": "Boyaca Patriotas",
+          "kickoff_utc": "2026-10-15T22:15:00+00:00"
         }
       ]
     },
@@ -177,19 +195,12 @@
           "home": "CSD Xelaju MC",
           "away": "CD Malacateco",
           "kickoff_utc": "2026-10-15T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
+        },
         {
-          "event_id": "36798344",
-          "home": "Technico FF",
-          "away": "Prarikrma FC",
-          "kickoff_utc": "2026-10-15T10:30:00+00:00"
+          "event_id": "36800914",
+          "home": "CSD Coban Imperial",
+          "away": "CSD Municipal",
+          "kickoff_utc": "2026-10-15T21:00:00+00:00"
         }
       ]
     },
@@ -198,18 +209,6 @@
       "name": "AFC Cup",
       "key": "soccer-international-clubs-afc-cup",
       "events": [
-        {
-          "event_id": "36773861",
-          "home": "Gangwon FC",
-          "away": "Phnom Penh Crown",
-          "kickoff_utc": "2026-10-15T10:00:00+00:00"
-        },
-        {
-          "event_id": "36772710",
-          "home": "Wofoo Tai Po",
-          "away": "Lion City Sailors FC",
-          "kickoff_utc": "2026-10-15T10:00:00+00:00"
-        },
         {
           "event_id": "36765665",
           "home": "BG Pathum United FC",
@@ -268,6 +267,19 @@
       ]
     },
     {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36801541",
+          "home": "Sektzia Ness Ziona FC",
+          "away": "Maccabi Be'er Sheva FC",
+          "kickoff_utc": "2026-10-15T16:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Ivory Coast",
       "name": "Ligue 1",
       "key": "soccer-ivory-coast-ligue-1",
@@ -286,6 +298,12 @@
       "key": "soccer-jordan-jordan-1st-division",
       "events": [
         {
+          "event_id": "36801773",
+          "home": "FC Maan",
+          "away": "Ittihad Jarash",
+          "kickoff_utc": "2026-10-15T13:00:00+00:00"
+        },
+        {
           "event_id": "36796474",
           "home": "FC Maan",
           "away": "Jerash Club",
@@ -302,19 +320,6 @@
           "home": "Sahl Houran",
           "away": "Ittihad AL Ramtha",
           "kickoff_utc": "2026-10-15T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Kazakhstan",
-      "name": "Pervaya Liga",
-      "key": "soccer-kazakhstan-pervaya-liga",
-      "events": [
-        {
-          "event_id": "36799529",
-          "home": "FK Arys",
-          "away": "Akademia Ontustyk",
-          "kickoff_utc": "2026-10-15T10:00:00+00:00"
         }
       ]
     },
@@ -341,6 +346,19 @@
           "home": "FK Rigas Futbola Skola",
           "away": "SK Super Nova",
           "kickoff_utc": "2026-10-15T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Nicaragua",
+      "name": "Primera Division",
+      "key": "soccer-nicaragua-primera-division",
+      "events": [
+        {
+          "event_id": "36794051",
+          "home": "HYH Sebaco FC",
+          "away": "Rancho Santana FC",
+          "kickoff_utc": "2026-10-15T21:00:00+00:00"
         }
       ]
     },
