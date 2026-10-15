@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T18:49:02.898227+00:00",
+  "generated_at_utc": "2026-10-15T20:49:03.858144+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,6 +12,19 @@
           "home": "CA Huracan",
           "away": "Gimnasia Y Esgrima La Plata",
           "kickoff_utc": "2026-10-15T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Australia",
+      "name": "Australia Championship",
+      "key": "soccer-australia-tb6c7-australia-championship",
+      "events": [
+        {
+          "event_id": "36755822",
+          "home": "Adelaide City FC",
+          "away": "Avondale United",
+          "kickoff_utc": "2026-10-16T08:30:00+00:00"
         }
       ]
     },
@@ -52,12 +65,6 @@
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
-        {
-          "event_id": "36778111",
-          "home": "Envigado FC",
-          "away": "CD Real Santander",
-          "kickoff_utc": "2026-10-15T19:00:00+00:00"
-        },
         {
           "event_id": "36779276",
           "home": "Barranquilla FC",
@@ -168,6 +175,19 @@
       ]
     },
     {
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
+      "events": [
+        {
+          "event_id": "36740209",
+          "home": "Psim Yogyakarta",
+          "away": "PSM Makassar",
+          "kickoff_utc": "2026-10-16T08:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "International Clubs",
       "name": "Copa Libertadores",
       "key": "soccer-international-clubs-copa-libertadores",
@@ -204,12 +224,6 @@
       "name": "Copa Uruguay",
       "key": "soccer-uruguay-t82ec-copa-uruguay",
       "events": [
-        {
-          "event_id": "36770431",
-          "home": "Central Espanol FC",
-          "away": "Danubio FC",
-          "kickoff_utc": "2026-10-15T19:00:00+00:00"
-        },
         {
           "event_id": "36768634",
           "home": "Club Nacional de Football",
