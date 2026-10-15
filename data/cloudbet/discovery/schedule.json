@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T20:49:03.858144+00:00",
+  "generated_at_utc": "2026-10-15T22:51:22.695203+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -29,25 +29,6 @@
       ]
     },
     {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
-      "events": [
-        {
-          "event_id": "36805983",
-          "home": "AD Guarabira",
-          "away": "Spartax FC",
-          "kickoff_utc": "2026-10-15T22:30:00+00:00"
-        },
-        {
-          "event_id": "36805982",
-          "home": "CD Cruzeiro",
-          "away": "Grêmio Recreativo Serrano (PB)",
-          "kickoff_utc": "2026-10-15T22:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Copa Colombia",
       "key": "soccer-colombia-copa-colombia",
@@ -65,24 +46,6 @@
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
-        {
-          "event_id": "36779276",
-          "home": "Barranquilla FC",
-          "away": "Tigres FC",
-          "kickoff_utc": "2026-10-15T21:00:00+00:00"
-        },
-        {
-          "event_id": "36779274",
-          "home": "Union Magdalena",
-          "away": "Yumbo FC",
-          "kickoff_utc": "2026-10-15T22:00:00+00:00"
-        },
-        {
-          "event_id": "36779426",
-          "home": "Itagui Leones FC",
-          "away": "Boyaca Patriotas",
-          "kickoff_utc": "2026-10-15T22:15:00+00:00"
-        },
         {
           "event_id": "36779838",
           "home": "CD Cortulua",
@@ -124,29 +87,10 @@
       ]
     },
     {
-      "category": "El Salvador",
-      "name": "Segunda Division",
-      "key": "soccer-el-salvador-segunda-division",
-      "events": [
-        {
-          "event_id": "36805185",
-          "home": "Neo Pipil San Juan Nonualco",
-          "away": "Sal Y Mar",
-          "kickoff_utc": "2026-10-15T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
-        {
-          "event_id": "36800914",
-          "home": "CSD Coban Imperial",
-          "away": "CSD Municipal",
-          "kickoff_utc": "2026-10-15T21:00:00+00:00"
-        },
         {
           "event_id": "36781121",
           "home": "CD Suchitepequez",
@@ -205,12 +149,6 @@
       "name": "Primera Division",
       "key": "soccer-nicaragua-primera-division",
       "events": [
-        {
-          "event_id": "36794051",
-          "home": "HYH Sebaco FC",
-          "away": "Rancho Santana FC",
-          "kickoff_utc": "2026-10-15T21:00:00+00:00"
-        },
         {
           "event_id": "36796475",
           "home": "Real Esteli FC",
