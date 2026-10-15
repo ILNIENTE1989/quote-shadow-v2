@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T16:47:05.610392+00:00",
+  "generated_at_utc": "2026-10-15T18:49:02.898227+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,19 +12,6 @@
           "home": "CA Huracan",
           "away": "Gimnasia Y Esgrima La Plata",
           "kickoff_utc": "2026-10-15T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Belarus",
-      "name": "Vysshaya Liga",
-      "key": "soccer-belarus-vysshaya-liga",
-      "events": [
-        {
-          "event_id": "36709137",
-          "home": "Maxline Rogachev",
-          "away": "FC Torpedo Belaz Zhodino",
-          "kickoff_utc": "2026-10-15T17:30:00+00:00"
         }
       ]
     },
@@ -143,29 +130,10 @@
       ]
     },
     {
-      "category": "France",
-      "name": "National 3",
-      "key": "soccer-france-national-3",
-      "events": [
-        {
-          "event_id": "36685185",
-          "home": "SM Caen",
-          "away": "La Roche Vendee Football",
-          "kickoff_utc": "2026-10-15T18:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
-        {
-          "event_id": "36776866",
-          "home": "CSD Xelaju MC",
-          "away": "CD Malacateco",
-          "kickoff_utc": "2026-10-15T18:00:00+00:00"
-        },
         {
           "event_id": "36800914",
           "home": "CSD Coban Imperial",
@@ -213,25 +181,6 @@
       ]
     },
     {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36802618",
-          "home": "AS HOLON MOR",
-          "away": "Beitar Petah Tikva",
-          "kickoff_utc": "2026-10-15T17:30:00+00:00"
-        },
-        {
-          "event_id": "36802617",
-          "home": "Hapoel Bnei Jadeidi",
-          "away": "Hapoel Bnei Biina",
-          "kickoff_utc": "2026-10-15T17:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Nicaragua",
       "name": "Primera Division",
       "key": "soccer-nicaragua-primera-division",
@@ -247,38 +196,6 @@
           "home": "Real Esteli FC",
           "away": "Art Municipal Jalapa",
           "kickoff_utc": "2026-10-16T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Russia",
-      "name": "Russian Cup",
-      "key": "soccer-russia-russian-cup",
-      "events": [
-        {
-          "event_id": "36178288",
-          "home": "Rodina Moscow",
-          "away": "FK Spartak Moscow",
-          "kickoff_utc": "2026-10-15T17:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Turkey",
-      "name": "1. Lig",
-      "key": "soccer-turkey-1-lig",
-      "events": [
-        {
-          "event_id": "36699032",
-          "home": "Manisa Futbol Kulubu",
-          "away": "Esenler Erokspor",
-          "kickoff_utc": "2026-10-15T17:00:00+00:00"
-        },
-        {
-          "event_id": "36698812",
-          "home": "Muglaspor",
-          "away": "Bursaspor",
-          "kickoff_utc": "2026-10-15T17:00:00+00:00"
         }
       ]
     },
