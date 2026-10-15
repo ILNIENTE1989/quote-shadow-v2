@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T02:37:02.937094+00:00",
+  "generated_at_utc": "2026-10-15T04:39:00.830352+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -37,6 +37,19 @@
           "home": "Zaqatala FK",
           "away": "Sabail FK",
           "kickoff_utc": "2026-10-15T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Belarus",
+      "name": "Vysshaya Liga",
+      "key": "soccer-belarus-vysshaya-liga",
+      "events": [
+        {
+          "event_id": "36709055",
+          "home": "FC Dinamo Minsk",
+          "away": "FC Slavia Mozyr",
+          "kickoff_utc": "2026-10-15T15:30:00+00:00"
         }
       ]
     },
@@ -91,15 +104,28 @@
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "category": "Estonia",
+      "name": "Esiliiga B",
+      "key": "soccer-estonia-esiliiga-b",
       "events": [
         {
-          "event_id": "36767000",
-          "home": "CD Marquense",
-          "away": "Deportivo Mixco",
-          "kickoff_utc": "2026-10-15T03:00:00+00:00"
+          "event_id": "36797554",
+          "home": "FC Phoenix Johvi",
+          "away": "Tartu JK Tammeka",
+          "kickoff_utc": "2026-10-15T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Estonia",
+      "name": "Premium Liiga",
+      "key": "soccer-estonia-premium-liiga",
+      "events": [
+        {
+          "event_id": "36775419",
+          "home": "Flora Tallinn",
+          "away": "FCI Levadia Tallinn",
+          "kickoff_utc": "2026-10-15T16:00:00+00:00"
         }
       ]
     },
@@ -119,6 +145,12 @@
           "home": "FC Bengaluru United",
           "away": "United Stars FC",
           "kickoff_utc": "2026-10-15T08:00:00+00:00"
+        },
+        {
+          "event_id": "36798344",
+          "home": "Technico FF",
+          "away": "Prarikrma FC",
+          "kickoff_utc": "2026-10-15T10:30:00+00:00"
         }
       ]
     },
@@ -175,6 +207,18 @@
           "home": "FC Maan",
           "away": "Jerash Club",
           "kickoff_utc": "2026-10-15T13:00:00+00:00"
+        },
+        {
+          "event_id": "36797553",
+          "home": "Al Hashemehya",
+          "away": "Al Aqaba",
+          "kickoff_utc": "2026-10-15T15:00:00+00:00"
+        },
+        {
+          "event_id": "36797555",
+          "home": "Sahl Houran",
+          "away": "Ittihad AL Ramtha",
+          "kickoff_utc": "2026-10-15T15:00:00+00:00"
         }
       ]
     },
@@ -188,6 +232,45 @@
           "home": "FK Rigas Futbola Skola",
           "away": "SK Super Nova",
           "kickoff_utc": "2026-10-15T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Philippines",
+      "name": "Philippines UAAP Football Championship",
+      "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
+      "events": [
+        {
+          "event_id": "36797273",
+          "home": "FEU Tamaraws Students",
+          "away": "Adamson Falcons Students",
+          "kickoff_utc": "2026-10-15T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Poland",
+      "name": "I Liga",
+      "key": "soccer-poland-i-liga",
+      "events": [
+        {
+          "event_id": "36729850",
+          "home": "Pogon Siedlce",
+          "away": "Puszcza Niepolomice",
+          "kickoff_utc": "2026-10-15T16:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Russia",
+      "name": "Russian Cup",
+      "key": "soccer-russia-russian-cup",
+      "events": [
+        {
+          "event_id": "36178277",
+          "home": "FK Rubin Kazan",
+          "away": "FC Orenburg",
+          "kickoff_utc": "2026-10-15T15:30:00+00:00"
         }
       ]
     },
