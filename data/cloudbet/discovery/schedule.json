@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T04:39:00.830352+00:00",
+  "generated_at_utc": "2026-10-15T06:41:15.509993+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -50,6 +50,12 @@
           "home": "FC Dinamo Minsk",
           "away": "FC Slavia Mozyr",
           "kickoff_utc": "2026-10-15T15:30:00+00:00"
+        },
+        {
+          "event_id": "36709137",
+          "home": "Maxline Rogachev",
+          "away": "FC Torpedo Belaz Zhodino",
+          "kickoff_utc": "2026-10-15T17:30:00+00:00"
         }
       ]
     },
@@ -105,6 +111,19 @@
     },
     {
       "category": "Estonia",
+      "name": "Esiliiga",
+      "key": "soccer-estonia-esiliiga",
+      "events": [
+        {
+          "event_id": "36798618",
+          "home": "FC Tallinn",
+          "away": "Tartu JK Welco",
+          "kickoff_utc": "2026-10-15T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Estonia",
       "name": "Esiliiga B",
       "key": "soccer-estonia-esiliiga-b",
       "events": [
@@ -113,6 +132,12 @@
           "home": "FC Phoenix Johvi",
           "away": "Tartu JK Tammeka",
           "kickoff_utc": "2026-10-15T15:00:00+00:00"
+        },
+        {
+          "event_id": "36798619",
+          "home": "JK Narva Trans",
+          "away": "FA Tartu Kalev",
+          "kickoff_utc": "2026-10-15T16:00:00+00:00"
         }
       ]
     },
@@ -130,16 +155,23 @@
       ]
     },
     {
+      "category": "Guatemala",
+      "name": "Liga Nacional. Clausura",
+      "key": "soccer-guatemala-liga-nacional-clausura",
+      "events": [
+        {
+          "event_id": "36776866",
+          "home": "CSD Xelaju MC",
+          "away": "CD Malacateco",
+          "kickoff_utc": "2026-10-15T18:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "India",
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
-        {
-          "event_id": "36795444",
-          "home": "Megt & Centre",
-          "away": "FC Real Bengaluru",
-          "kickoff_utc": "2026-10-15T05:30:00+00:00"
-        },
         {
           "event_id": "36796906",
           "home": "FC Bengaluru United",
@@ -198,6 +230,50 @@
       ]
     },
     {
+      "category": "Iraq",
+      "name": "Iraq Premier Division",
+      "key": "soccer-iraq-tb7d4-iraq-premier-division",
+      "events": [
+        {
+          "event_id": "36799203",
+          "home": "Al Etisalat SC",
+          "away": "Al-Ramadi FC",
+          "kickoff_utc": "2026-10-15T12:00:00+00:00"
+        },
+        {
+          "event_id": "36799201",
+          "home": "Al Hashd Al Shade",
+          "away": "Masafi Al-Junoob",
+          "kickoff_utc": "2026-10-15T12:00:00+00:00"
+        },
+        {
+          "event_id": "36799206",
+          "home": "Amanat Baghdad SC",
+          "away": "Naft Al-Janoob",
+          "kickoff_utc": "2026-10-15T12:00:00+00:00"
+        },
+        {
+          "event_id": "36799200",
+          "home": "Kadhimiya SC",
+          "away": "Al-Fahad SC",
+          "kickoff_utc": "2026-10-15T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Ivory Coast",
+      "name": "Ligue 1",
+      "key": "soccer-ivory-coast-ligue-1",
+      "events": [
+        {
+          "event_id": "36799081",
+          "home": "Sol FC",
+          "away": "Stade D´abidjan",
+          "kickoff_utc": "2026-10-15T15:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Jordan",
       "name": "Jordan 1st Division",
       "key": "soccer-jordan-jordan-1st-division",
@@ -219,6 +295,19 @@
           "home": "Sahl Houran",
           "away": "Ittihad AL Ramtha",
           "kickoff_utc": "2026-10-15T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Kosovo",
+      "name": "Superliga",
+      "key": "soccer-kosovo-superliga",
+      "events": [
+        {
+          "event_id": "36799198",
+          "home": "KF Malisheva",
+          "away": "FC Prishtina",
+          "kickoff_utc": "2026-10-15T12:00:00+00:00"
         }
       ]
     },
@@ -245,6 +334,12 @@
           "home": "FEU Tamaraws Students",
           "away": "Adamson Falcons Students",
           "kickoff_utc": "2026-10-15T08:30:00+00:00"
+        },
+        {
+          "event_id": "36798576",
+          "home": "UP Fighting Maroons Students",
+          "away": "UE Red Warriors Students",
+          "kickoff_utc": "2026-10-15T11:00:00+00:00"
         }
       ]
     },
@@ -262,6 +357,19 @@
       ]
     },
     {
+      "category": "Qatar",
+      "name": "Qatar Stars League 2",
+      "key": "soccer-qatar-tc3cf-qatar-stars-league-2",
+      "events": [
+        {
+          "event_id": "36798477",
+          "home": "Al Kharaitiyat SC",
+          "away": "AL Bidda SC",
+          "kickoff_utc": "2026-10-15T16:45:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Russia",
       "name": "Russian Cup",
       "key": "soccer-russia-russian-cup",
@@ -271,6 +379,12 @@
           "home": "FK Rubin Kazan",
           "away": "FC Orenburg",
           "kickoff_utc": "2026-10-15T15:30:00+00:00"
+        },
+        {
+          "event_id": "36178288",
+          "home": "Rodina Moscow",
+          "away": "FK Spartak Moscow",
+          "kickoff_utc": "2026-10-15T17:45:00+00:00"
         }
       ]
     },
@@ -303,6 +417,18 @@
           "home": "Mardin Fosfat Spor",
           "away": "Fatih Karagumruk Istanbul",
           "kickoff_utc": "2026-10-15T14:00:00+00:00"
+        },
+        {
+          "event_id": "36699032",
+          "home": "Manisa Futbol Kulubu",
+          "away": "Esenler Erokspor",
+          "kickoff_utc": "2026-10-15T17:00:00+00:00"
+        },
+        {
+          "event_id": "36698812",
+          "home": "Muglaspor",
+          "away": "Bursaspor",
+          "kickoff_utc": "2026-10-15T17:00:00+00:00"
         }
       ]
     },
