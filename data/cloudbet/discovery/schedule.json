@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T00:36:56.545318+00:00",
+  "generated_at_utc": "2026-10-15T02:37:02.937094+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -37,32 +37,6 @@
           "home": "Zaqatala FK",
           "away": "Sabail FK",
           "kickoff_utc": "2026-10-15T11:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Copa Colombia",
-      "key": "soccer-colombia-copa-colombia",
-      "events": [
-        {
-          "event_id": "36761968",
-          "home": "Atletico Nacional Medellin",
-          "away": "Independiente Medellin",
-          "kickoff_utc": "2026-10-15T01:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Costa Rica",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-costa-rica-primera-division-clausura",
-      "events": [
-        {
-          "event_id": "36694478",
-          "home": "Liga Deportiva Alajuelense",
-          "away": "CS Herediano",
-          "kickoff_utc": "2026-10-15T02:00:00+00:00"
         }
       ]
     },
@@ -117,29 +91,10 @@
       ]
     },
     {
-      "category": "El Salvador",
-      "name": "Segunda Division",
-      "key": "soccer-el-salvador-segunda-division",
-      "events": [
-        {
-          "event_id": "36789310",
-          "home": "Marte Soyapango",
-          "away": "Forfut",
-          "kickoff_utc": "2026-10-15T01:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
-        {
-          "event_id": "36765960",
-          "home": "CD Guastatoya",
-          "away": "Antigua GFC",
-          "kickoff_utc": "2026-10-15T01:00:00+00:00"
-        },
         {
           "event_id": "36767000",
           "home": "CD Marquense",
@@ -158,6 +113,12 @@
           "home": "Megt & Centre",
           "away": "FC Real Bengaluru",
           "kickoff_utc": "2026-10-15T05:30:00+00:00"
+        },
+        {
+          "event_id": "36796906",
+          "home": "FC Bengaluru United",
+          "away": "United Stars FC",
+          "kickoff_utc": "2026-10-15T08:00:00+00:00"
         }
       ]
     },
@@ -205,15 +166,28 @@
       ]
     },
     {
-      "category": "Nicaragua",
-      "name": "Primera Division",
-      "key": "soccer-nicaragua-primera-division",
+      "category": "Jordan",
+      "name": "Jordan 1st Division",
+      "key": "soccer-jordan-jordan-1st-division",
       "events": [
         {
-          "event_id": "36781122",
-          "home": "Indigenas de Matagalpa FC",
-          "away": "CD Walter Ferretti",
-          "kickoff_utc": "2026-10-15T01:00:00+00:00"
+          "event_id": "36796474",
+          "home": "FC Maan",
+          "away": "Jerash Club",
+          "kickoff_utc": "2026-10-15T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Latvia",
+      "name": "Virsliga",
+      "key": "soccer-latvia-virsliga",
+      "events": [
+        {
+          "event_id": "36729283",
+          "home": "FK Rigas Futbola Skola",
+          "away": "SK Super Nova",
+          "kickoff_utc": "2026-10-15T14:00:00+00:00"
         }
       ]
     },
@@ -233,6 +207,38 @@
           "home": "Khon Kaen United FC",
           "away": "Chainat Hornbill FC",
           "kickoff_utc": "2026-10-15T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Turkey",
+      "name": "1. Lig",
+      "key": "soccer-turkey-1-lig",
+      "events": [
+        {
+          "event_id": "36697108",
+          "home": "Mardin Fosfat Spor",
+          "away": "Fatih Karagumruk Istanbul",
+          "kickoff_utc": "2026-10-15T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Uzbekistan",
+      "name": "Superliga",
+      "key": "soccer-uzbekistan-pfl",
+      "events": [
+        {
+          "event_id": "36784017",
+          "home": "FC Andijon",
+          "away": "Qizilqum Zarafshon",
+          "kickoff_utc": "2026-10-15T14:00:00+00:00"
+        },
+        {
+          "event_id": "36789680",
+          "home": "PFK Mash AL Mubarek",
+          "away": "FK Agmk",
+          "kickoff_utc": "2026-10-15T14:00:00+00:00"
         }
       ]
     }
