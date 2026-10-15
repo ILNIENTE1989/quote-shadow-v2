@@ -9957,3 +9957,32 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-15T17:59:04.566060+02:00,36801541,Liga Bet South A,Israel,Sektzia Ness Ziona FC,Maccabi Be'er Sheva FC,2026-10-15T16:00:00+00:00,0.9239,soccer.match_odds,period=ft,home,,1.57,1.55
 2026-10-15T17:59:04.566060+02:00,36801541,Liga Bet South A,Israel,Sektzia Ness Ziona FC,Maccabi Be'er Sheva FC,2026-10-15T16:00:00+00:00,0.9239,soccer.match_odds,period=ft,draw,,3.8,3.95
 2026-10-15T17:59:04.566060+02:00,36801541,Liga Bet South A,Israel,Sektzia Ness Ziona FC,Maccabi Be'er Sheva FC,2026-10-15T16:00:00+00:00,0.9239,soccer.match_odds,period=ft,away,,4.0,3.95
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=0,1.89,1.83
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,away,handicap=0,1.91,1.98
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=-1,4.5,4.45
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.25,2.2
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.63,1.65
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=0.25,1.62,1.56
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,away,handicap=0.25,2.25,2.4
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=0.5,1.47,1.42
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,away,handicap=0.5,2.6,2.8
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=0.75,1.32,1.29
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,away,handicap=0.75,3.25,3.5
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,home,handicap=1,1.19,1.16
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.asian_handicap,period=ft,away,handicap=1,4.55,5.0
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.double_chance,period=ft,home_away,,1.32,1.35
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.double_chance,period=ft,home_draw,,1.46,1.41
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.match_odds,period=ft,draw,,3.3,3.05
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.match_odds,period=ft,away,,2.65,2.8
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=2.5,1.91,1.94
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,under,total=2.5,1.88,1.85
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=2,1.43,1.44
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,under,total=2,2.75,2.7
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=2.25,1.66,1.69
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,under,total=2.25,2.17,2.13
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=2.75,2.16,2.19
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,under,total=2.75,1.67,1.65
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=3,2.6,2.65
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,under,total=3,1.47,1.46
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=3.5,3.25,3.3
+2026-10-15T18:01:59.786896+02:00,36729850,I Liga,Poland,Pogon Siedlce,Puszcza Niepolomice,2026-10-15T16:30:00+00:00,28.0036,soccer.total_goals,period=ft,over,total=4.5,6.3,6.45
