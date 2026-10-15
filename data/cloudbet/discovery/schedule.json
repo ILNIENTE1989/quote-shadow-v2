@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-15T06:41:15.509993+00:00",
+  "generated_at_utc": "2026-10-15T08:41:20.934225+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Australia",
-      "name": "Australia Championship",
-      "key": "soccer-australia-tb6c7-australia-championship",
-      "events": [
-        {
-          "event_id": "36755851",
-          "home": "Preston Lions FC",
-          "away": "Wollongong Wolves FC",
-          "kickoff_utc": "2026-10-15T08:30:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Azerbaijan",
       "name": "First Division",
@@ -56,6 +43,19 @@
           "home": "Maxline Rogachev",
           "away": "FC Torpedo Belaz Zhodino",
           "kickoff_utc": "2026-10-15T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36778111",
+          "home": "Envigado FC",
+          "away": "CD Real Santander",
+          "kickoff_utc": "2026-10-15T19:00:00+00:00"
         }
       ]
     },
@@ -155,6 +155,19 @@
       ]
     },
     {
+      "category": "France",
+      "name": "National 3",
+      "key": "soccer-france-national-3",
+      "events": [
+        {
+          "event_id": "36685185",
+          "home": "SM Caen",
+          "away": "La Roche Vendee Football",
+          "kickoff_utc": "2026-10-15T18:45:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
@@ -172,12 +185,6 @@
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
-        {
-          "event_id": "36796906",
-          "home": "FC Bengaluru United",
-          "away": "United Stars FC",
-          "kickoff_utc": "2026-10-15T08:00:00+00:00"
-        },
         {
           "event_id": "36798344",
           "home": "Technico FF",
@@ -299,6 +306,19 @@
       ]
     },
     {
+      "category": "Kazakhstan",
+      "name": "Pervaya Liga",
+      "key": "soccer-kazakhstan-pervaya-liga",
+      "events": [
+        {
+          "event_id": "36799529",
+          "home": "FK Arys",
+          "away": "Akademia Ontustyk",
+          "kickoff_utc": "2026-10-15T10:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Kosovo",
       "name": "Superliga",
       "key": "soccer-kosovo-superliga",
@@ -329,12 +349,6 @@
       "name": "Philippines UAAP Football Championship",
       "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
       "events": [
-        {
-          "event_id": "36797273",
-          "home": "FEU Tamaraws Students",
-          "away": "Adamson Falcons Students",
-          "kickoff_utc": "2026-10-15T08:30:00+00:00"
-        },
         {
           "event_id": "36798576",
           "home": "UP Fighting Maroons Students",
@@ -429,6 +443,19 @@
           "home": "Muglaspor",
           "away": "Bursaspor",
           "kickoff_utc": "2026-10-15T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Uruguay",
+      "name": "Copa Uruguay",
+      "key": "soccer-uruguay-t82ec-copa-uruguay",
+      "events": [
+        {
+          "event_id": "36770431",
+          "home": "Central Espanol FC",
+          "away": "Danubio FC",
+          "kickoff_utc": "2026-10-15T19:00:00+00:00"
         }
       ]
     },
