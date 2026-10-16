@@ -24409,3 +24409,50 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-16T20:49:07.042066+02:00,36801889,Taca de Portugal,Portugal,GD Chaves,Os Marialvas,2026-10-16T19:00:00+00:00,10.8826,soccer.double_chance,period=ft,draw_away,,3.15,3.05
 2026-10-16T20:49:07.042066+02:00,36801889,Taca de Portugal,Portugal,GD Chaves,Os Marialvas,2026-10-16T19:00:00+00:00,10.8826,soccer.double_chance,period=ft,home_away,,1.2,1.15
 2026-10-16T20:49:07.042066+02:00,36801889,Taca de Portugal,Portugal,GD Chaves,Os Marialvas,2026-10-16T19:00:00+00:00,10.8826,soccer.double_chance,period=ft,home_draw,,1.08,0.0
+2026-10-16T20:51:22.379721+02:00,36761717,Division Profesional,Bolivia,Academia del Balompie Boliviano,Real Potosi,2026-10-16T19:00:00+00:00,8.627,soccer.double_chance,period=ft,home_away,,1.16,1.18
+2026-10-16T20:51:22.379721+02:00,36761717,Division Profesional,Bolivia,Academia del Balompie Boliviano,Real Potosi,2026-10-16T19:00:00+00:00,8.627,soccer.double_chance,period=ft,home_draw,,1.45,1.42
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=0,2.2,2.19
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=0.5,1.63,1.62
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=1,1.28,1.27
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=1,3.8,3.85
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=1.25,4.3,4.35
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2.5,1.89,1.91
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=2.5,1.97,1.95
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=1.5,3.8,3.75
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2,1.42,1.43
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2.25,1.66,1.67
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2.75,2.13,2.15
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=2.75,1.74,1.73
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=3,1.53,1.52
+2026-10-16T20:51:22.379721+02:00,36762311,Championship,England,Burnley,Wolverhampton,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=3.5,3.2,3.25
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.01,2.02
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.89,1.87
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.29,1.28
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.35,3.4
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.35,1.34
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=-1,2.9,2.95
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=-1,1.44,1.43
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.3,2.35
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.66,1.65
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.72,1.74
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.2,2.18
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=0,1.44,1.46
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=0,2.9,2.85
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=0.25,1.33,1.35
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=0.25,3.45,3.35
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,home,handicap=0.5,1.27,1.28
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.asian_handicap,period=ft,away,handicap=0.5,3.95,3.85
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.double_chance,period=ft,draw_away,,1.87,1.85
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.double_chance,period=ft,home_draw,,1.26,1.27
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.match_odds,period=ft,home,,2.0,2.02
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.match_odds,period=ft,draw,,3.45,3.5
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.match_odds,period=ft,away,,4.0,3.9
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2.5,2.01,1.99
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=2.5,1.88,1.89
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2,1.49,1.48
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=2,2.7,2.75
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=2.25,1.74,1.73
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=2.25,2.16,2.17
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=2.75,1.68,1.69
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,over,total=3,2.75,2.7
+2026-10-16T20:51:22.379721+02:00,36436122,La Liga,Spain,RC Deportivo La Coruna,Levante UD,2026-10-16T19:00:00+00:00,8.627,soccer.total_goals,period=ft,under,total=3,1.48,1.49
