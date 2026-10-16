@@ -1187,3 +1187,18 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-16T02:07:01.338754+02:00,36781121,Liga Nacional. Clausura,Guatemala,CD Suchitepequez,Deportivo San Pedro,2026-10-16T01:00:00+00:00,52.9777,soccer.double_chance,period=ft,home_draw,,1.2,1.21
 2026-10-16T02:07:01.338754+02:00,36781121,Liga Nacional. Clausura,Guatemala,CD Suchitepequez,Deportivo San Pedro,2026-10-16T01:00:00+00:00,52.9777,soccer.match_odds,period=ft,home,,1.82,1.85
 2026-10-16T02:07:01.338754+02:00,36781121,Liga Nacional. Clausura,Guatemala,CD Suchitepequez,Deportivo San Pedro,2026-10-16T01:00:00+00:00,52.9777,soccer.match_odds,period=ft,away,,4.2,4.0
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.asian_handicap,period=ft,away,handicap=0.25,1.82,1.81
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.asian_handicap,period=ft,home,handicap=-0.75,5.2,5.15
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.85,3.8
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.asian_handicap,period=ft,home,handicap=0,2.7,2.65
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.asian_handicap,period=ft,away,handicap=0.5,2.13,2.12
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.double_chance,period=ft,draw_away,,1.25,1.26
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.double_chance,period=ft,home_away,,1.38,1.37
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.match_odds,period=ft,home,,3.9,3.85
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.match_odds,period=ft,draw,,3.0,3.05
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.match_odds,period=ft,away,,2.14,2.13
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.total_goals,period=ft,under,total=2,1.79,1.8
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.total_goals,period=ft,under,total=0.5,6.3,6.35
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.total_goals,period=ft,over,total=1.75,1.73,1.72
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.total_goals,period=ft,over,total=2.5,2.75,2.7
+2026-10-16T02:11:18.406289+02:00,36441340,Copa Libertadores,International Clubs,Estudiantes de La Plata,CR Flamengo RJ,2026-10-16T00:30:00+00:00,18.6932,soccer.total_goals,period=ft,under,total=2.5,1.44,1.45
