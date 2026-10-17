@@ -2732,3 +2732,27 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-17T05:43:01.977854+02:00,36722396,K-League 2,Republic Of Korea,Daegu FC,Chungbuk Cheongju FC,2026-10-17T05:00:00+00:00,76.967,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.15,2.16
 2026-10-17T05:43:01.977854+02:00,36722396,K-League 2,Republic Of Korea,Daegu FC,Chungbuk Cheongju FC,2026-10-17T05:00:00+00:00,76.967,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.95,3.0
 2026-10-17T05:43:01.977854+02:00,36722396,K-League 2,Republic Of Korea,Daegu FC,Chungbuk Cheongju FC,2026-10-17T05:00:00+00:00,76.967,soccer.asian_handicap,period=ft,home,handicap=0,1.23,1.22
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,away,handicap=0.5,1.98,1.99
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.55,3.6
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,away,handicap=0.25,1.71,1.72
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,home,handicap=0.75,1.63,1.62
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,away,handicap=1.25,3.2,3.25
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,home,handicap=1.5,1.28,1.27
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.asian_handicap,period=ft,away,handicap=1.5,3.6,3.65
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.match_odds,period=ft,draw,,3.65,3.6
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.match_odds,period=ft,away,,1.97,1.98
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.total_goals,period=ft,under,total=1.5,4.15,4.1
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.total_goals,period=ft,over,total=2.25,1.52,1.53
+2026-10-17T05:48:59.741047+02:00,36722395,K-League 2,Republic Of Korea,Seongnam Ilhwa,Suwon FC,2026-10-17T05:00:00+00:00,71.0043,soccer.total_goals,period=ft,under,total=2.5,2.1,2.09
+2026-10-17T05:48:59.741047+02:00,36812797,Emperor Cup,Japan,Honda FC,Maruyasu Okazaki,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,draw_away,,2.2,2.05
+2026-10-17T05:48:59.741047+02:00,36812797,Emperor Cup,Japan,Honda FC,Maruyasu Okazaki,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_away,,1.26,1.15
+2026-10-17T05:48:59.741047+02:00,36812797,Emperor Cup,Japan,Honda FC,Maruyasu Okazaki,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_draw,,1.17,1.05
+2026-10-17T05:48:59.741047+02:00,36812794,Emperor Cup,Japan,Minebea Mitsumi FC,J-Lease FC,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,draw_away,,1.41,1.32
+2026-10-17T05:48:59.741047+02:00,36812794,Emperor Cup,Japan,Minebea Mitsumi FC,J-Lease FC,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_away,,1.36,1.22
+2026-10-17T05:48:59.741047+02:00,36812794,Emperor Cup,Japan,Minebea Mitsumi FC,J-Lease FC,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_draw,,1.53,1.4
+2026-10-17T05:48:59.741047+02:00,36819017,Emperor Cup,Japan,Tokyo Musashino City FC,Briobecca Urayasu,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,draw_away,,1.44,1.32
+2026-10-17T05:48:59.741047+02:00,36819017,Emperor Cup,Japan,Tokyo Musashino City FC,Briobecca Urayasu,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_away,,1.36,1.25
+2026-10-17T05:48:59.741047+02:00,36819017,Emperor Cup,Japan,Tokyo Musashino City FC,Briobecca Urayasu,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_draw,,1.49,1.35
+2026-10-17T05:48:59.741047+02:00,36812796,Emperor Cup,Japan,YSCC Yokohama,REINMEER AOMORI,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,draw_away,,1.32,1.18
+2026-10-17T05:48:59.741047+02:00,36812796,Emperor Cup,Japan,YSCC Yokohama,REINMEER AOMORI,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_away,,1.32,1.2
+2026-10-17T05:48:59.741047+02:00,36812796,Emperor Cup,Japan,YSCC Yokohama,REINMEER AOMORI,2026-10-17T04:00:00+00:00,11.0043,soccer.double_chance,period=ft,home_draw,,1.71,1.6
