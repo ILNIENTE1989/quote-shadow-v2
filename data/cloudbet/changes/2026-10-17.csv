@@ -4549,3 +4549,44 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-17T08:53:04.238086+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,36.9294,soccer.total_goals,period=ft,under,total=2.75,2.05,2.04
 2026-10-17T08:53:04.238086+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,36.9294,soccer.total_goals,period=ft,over,total=3.5,2.55,2.6
 2026-10-17T08:53:04.238086+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,36.9294,soccer.total_goals,period=ft,under,total=3.5,1.5,1.51
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.94,1.91
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.87,1.89
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,home,handicap=-2,3.2,3.15
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,away,handicap=-2,1.31,1.32
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.48,1.49
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.18,2.15
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.66,1.67
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,home,handicap=-1,1.65,1.63
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.48,1.47
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.5,2.55
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.39,1.38
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.85,2.9
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.double_chance,period=ft,draw_away,,2.85,2.9
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.double_chance,period=ft,home_away,,1.2,1.19
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.double_chance,period=ft,home_draw,,1.09,1.08
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.match_odds,period=ft,home,,1.4,1.39
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.match_odds,period=ft,draw,,4.4,4.45
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.match_odds,period=ft,away,,7.25,7.4
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,over,total=2.75,1.89,1.88
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,under,total=2.75,1.9,1.91
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,over,total=2.25,1.49,1.48
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,under,total=2.25,2.45,2.5
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,over,total=2.5,1.69,1.68
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,under,total=2.5,2.11,2.12
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,over,total=3,2.16,2.15
+2026-10-17T08:55:01.676154+02:00,36814533,China League 1,China,Yanbian Longding,Foshan Nanshi FC,2026-10-17T07:00:00+00:00,4.9721,soccer.total_goals,period=ft,under,total=3.5,1.41,1.42
+2026-10-17T08:55:01.676154+02:00,36814903,China League 2,China,Xi An Ronghai,Shenzhen 2028 FC,2026-10-17T07:00:00+00:00,4.9721,soccer.double_chance,period=ft,home_away,,1.22,1.25
+2026-10-17T08:55:01.676154+02:00,36814903,China League 2,China,Xi An Ronghai,Shenzhen 2028 FC,2026-10-17T07:00:00+00:00,4.9721,soccer.double_chance,period=ft,home_draw,,1.18,1.16
+2026-10-17T08:55:01.676154+02:00,36816258,China League 2,China,Shanghai Segenda,Guangdong Mingtu,2026-10-17T07:30:00+00:00,34.9721,soccer.double_chance,period=ft,home_away,,1.26,1.27
+2026-10-17T08:55:01.676154+02:00,36816258,China League 2,China,Shanghai Segenda,Guangdong Mingtu,2026-10-17T07:30:00+00:00,34.9721,soccer.double_chance,period=ft,home_draw,,1.81,1.79
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.26,1.27
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.asian_handicap,period=ft,home,handicap=-2,3.45,3.4
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.65,1.66
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.asian_handicap,period=ft,away,handicap=-1,2.1,2.09
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.4,2.35
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.total_goals,period=ft,under,total=3,1.8,1.81
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.total_goals,period=ft,under,total=2.75,2.04,2.05
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.total_goals,period=ft,under,total=3.25,1.62,1.63
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.total_goals,period=ft,over,total=3.5,2.6,2.55
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.total_goals,period=ft,over,total=4.5,4.75,4.7
+2026-10-17T08:55:01.676154+02:00,36737838,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Bucheon FC 1995,2026-10-17T07:30:00+00:00,34.9721,soccer.total_goals,period=ft,under,total=4.5,1.18,1.19
