@@ -2024,3 +2024,37 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-17T04:48:59.459123+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,16.009,soccer.total_goals,period=ft,over,total=3,2.35,2.3
 2026-10-17T04:48:59.459123+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,16.009,soccer.total_goals,period=ft,under,total=3,1.61,1.62
 2026-10-17T04:48:59.459123+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,16.009,soccer.total_goals,period=ft,over,total=3.5,2.95,2.9
+2026-10-17T04:53:00.933500+02:00,36812798,Emperor Cup,Japan,Vonds Ichihara FC,Okinawa SV,2026-10-17T04:00:00+00:00,66.9844,soccer.double_chance,period=ft,draw_away,,1.3,1.29
+2026-10-17T04:53:00.933500+02:00,36812798,Emperor Cup,Japan,Vonds Ichihara FC,Okinawa SV,2026-10-17T04:00:00+00:00,66.9844,soccer.double_chance,period=ft,home_draw,,1.78,1.81
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=0,1.92,1.89
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=0,1.94,1.97
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=-1,4.3,4.25
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=-1,1.22,1.23
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.15,3.1
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.36,1.37
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.6,2.55
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.51,1.52
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.25,2.2
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.66,1.68
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=0.25,1.65,1.64
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=0.25,2.25,2.3
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=0.5,1.51,1.49
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=0.5,2.6,2.65
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=0.75,1.36,1.35
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=0.75,3.15,3.25
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,home,handicap=1,1.22,1.21
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.asian_handicap,period=ft,away,handicap=1,4.35,4.45
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.double_chance,period=ft,draw_away,,1.52,1.53
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.double_chance,period=ft,home_away,,1.29,1.3
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.double_chance,period=ft,home_draw,,1.5,1.48
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.match_odds,period=ft,home,,2.6,2.55
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.match_odds,period=ft,away,,2.6,2.65
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.total_goals,period=ft,under,total=2.25,2.5,2.45
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.total_goals,period=ft,under,total=2.5,2.1,2.09
+2026-10-17T04:53:00.933500+02:00,36751214,"Liga MX, Apertura",Mexico,Atlante FC,Pumas UNAM,2026-10-17T03:00:00+00:00,6.9844,soccer.total_goals,period=ft,under,total=3.25,1.52,1.51
+2026-10-17T04:53:00.933500+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,11.9844,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.3,1.31
+2026-10-17T04:53:00.933500+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,11.9844,soccer.asian_handicap,period=ft,away,handicap=-1,1.71,1.72
+2026-10-17T04:53:00.933500+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,11.9844,soccer.double_chance,period=ft,home_draw,,1.18,1.17
+2026-10-17T04:53:00.933500+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,11.9844,soccer.total_goals,period=ft,over,total=2.75,2.01,2.0
+2026-10-17T04:53:00.933500+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,11.9844,soccer.total_goals,period=ft,over,total=3.25,2.65,2.6
+2026-10-17T04:53:00.933500+02:00,36734031,"Liga MX, Apertura",Mexico,Club Tijuana de Caliente,Puebla FC,2026-10-17T03:05:00+00:00,11.9844,soccer.total_goals,period=ft,over,total=4.5,5.55,5.5
