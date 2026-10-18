@@ -4864,3 +4864,9 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-18T05:07:09.923627+02:00,36751215,"Liga MX, Apertura",Mexico,Cruz Azul,FC Juarez,2026-10-18T03:10:00+00:00,2.8346,soccer.total_goals,period=ft,over,total=3.75,2.6,2.65
 2026-10-18T05:07:09.923627+02:00,36751215,"Liga MX, Apertura",Mexico,Cruz Azul,FC Juarez,2026-10-18T03:10:00+00:00,2.8346,soccer.total_goals,period=ft,under,total=3.75,1.5,1.49
 2026-10-18T05:07:09.923627+02:00,36751215,"Liga MX, Apertura",Mexico,Cruz Azul,FC Juarez,2026-10-18T03:10:00+00:00,2.8346,soccer.total_goals,period=ft,over,total=4.5,4.0,3.95
+2026-10-18T05:15:02.878073+02:00,36755820,Australia Championship,Australia,Sydney United,Canberra Croatia FC,2026-10-18T04:00:00+00:00,44.952,soccer.asian_handicap,period=ft,away,handicap=-3.25,1.17,1.16
+2026-10-18T05:15:02.878073+02:00,36755820,Australia Championship,Australia,Sydney United,Canberra Croatia FC,2026-10-18T04:00:00+00:00,44.952,soccer.asian_handicap,period=ft,home,handicap=-2,2.19,2.2
+2026-10-18T05:15:02.878073+02:00,36755820,Australia Championship,Australia,Sydney United,Canberra Croatia FC,2026-10-18T04:00:00+00:00,44.952,soccer.match_odds,period=ft,away,,9.35,9.3
+2026-10-18T05:15:02.878073+02:00,36828907,Emperor Cup,Japan,Tiamo Hirakata,Grulla Morioka,2026-10-18T04:00:00+00:00,44.952,soccer.double_chance,period=ft,draw_away,,1.81,1.87
+2026-10-18T05:15:02.878073+02:00,36828907,Emperor Cup,Japan,Tiamo Hirakata,Grulla Morioka,2026-10-18T04:00:00+00:00,44.952,soccer.double_chance,period=ft,home_away,,1.29,1.28
+2026-10-18T05:15:02.878073+02:00,36828907,Emperor Cup,Japan,Tiamo Hirakata,Grulla Morioka,2026-10-18T04:00:00+00:00,44.952,soccer.double_chance,period=ft,home_draw,,1.3,1.27
