@@ -2867,3 +2867,31 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-18T02:11:22.353196+02:00,36735727,"Liga de Expansion MX, Apertura",Mexico,Atletico Morelia,Tampico Madero FC,2026-10-18T01:00:00+00:00,48.6274,soccer.total_goals,period=ft,under,total=3.5,1.45,1.46
 2026-10-18T02:11:22.353196+02:00,36735727,"Liga de Expansion MX, Apertura",Mexico,Atletico Morelia,Tampico Madero FC,2026-10-18T01:00:00+00:00,48.6274,soccer.total_goals,period=ft,over,total=4.5,4.75,4.7
 2026-10-18T02:11:22.353196+02:00,36735727,"Liga de Expansion MX, Apertura",Mexico,Atletico Morelia,Tampico Madero FC,2026-10-18T01:00:00+00:00,48.6274,soccer.total_goals,period=ft,under,total=4.5,1.16,1.17
+2026-10-18T02:13:08.261174+02:00,36746362,Primera Division,Peru,Alianza Lima,Atletico Grau,2026-10-18T01:30:00+00:00,76.8623,soccer.double_chance,period=ft,draw_away,,3.1,3.45
+2026-10-18T02:13:08.261174+02:00,36746362,Primera Division,Peru,Alianza Lima,Atletico Grau,2026-10-18T01:30:00+00:00,76.8623,soccer.double_chance,period=ft,home_away,,1.17,1.15
+2026-10-18T02:13:08.261174+02:00,36746362,Primera Division,Peru,Alianza Lima,Atletico Grau,2026-10-18T01:30:00+00:00,76.8623,soccer.double_chance,period=ft,home_draw,,1.08,1.06
+2026-10-18T02:13:08.261174+02:00,36807800,"Liga Panamena de Futbol, Apertura",Panama,CD Plaza Amador Panama City,CD Arabe Unido,2026-10-18T01:30:00+00:00,76.8623,soccer.double_chance,period=ft,draw_away,,1.942,1.93
+2026-10-18T02:13:08.261174+02:00,36807800,"Liga Panamena de Futbol, Apertura",Panama,CD Plaza Amador Panama City,CD Arabe Unido,2026-10-18T01:30:00+00:00,76.8623,soccer.double_chance,period=ft,home_away,,1.297,1.29
+2026-10-18T02:13:08.261174+02:00,36807800,"Liga Panamena de Futbol, Apertura",Panama,CD Plaza Amador Panama City,CD Arabe Unido,2026-10-18T01:30:00+00:00,76.8623,soccer.double_chance,period=ft,home_draw,,1.223,1.21
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.95,1.97
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.85,1.84
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,home,handicap=-1.5,3.65,3.7
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.25,3.3
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.32,1.31
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,home,handicap=-1,2.85,2.9
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,away,handicap=-1,1.41,1.4
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.63,1.62
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.7,1.71
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.14,2.12
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.asian_handicap,period=ft,home,handicap=0.5,1.28,1.27
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.double_chance,period=ft,draw_away,,1.83,1.82
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.double_chance,period=ft,home_away,,1.26,1.27
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.double_chance,period=ft,home_draw,,1.28,1.27
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.match_odds,period=ft,home,,1.95,1.96
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.match_odds,period=ft,draw,,3.65,3.6
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.total_goals,period=ft,under,total=2.5,1.98,1.97
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.total_goals,period=ft,under,total=2.25,2.3,2.25
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.total_goals,period=ft,over,total=2.75,2.02,2.03
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.total_goals,period=ft,over,total=3,2.35,2.4
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.total_goals,period=ft,over,total=3.5,2.95,3.0
+2026-10-18T02:13:08.261174+02:00,36736016,USL Championship,USA,San Antonio FC,New Mexico United,2026-10-18T00:30:00+00:00,16.8623,soccer.total_goals,period=ft,over,total=4.5,5.55,5.6
