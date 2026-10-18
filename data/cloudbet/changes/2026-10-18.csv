@@ -10726,3 +10726,32 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-18T10:51:21.017063+02:00,36844250,Division 1,Hong Kong,Bright Cerulean,Kui Tan SC,2026-10-18T09:30:00+00:00,38.6497,soccer.asian_handicap,period=ft,home,handicap=1.25,2.08,2.09
 2026-10-18T10:53:03.181754+02:00,36840738,Esiliiga,Estonia,Nomme Kalju FC,FC Elva,2026-10-18T09:30:00+00:00,36.947,soccer.asian_handicap,period=ft,home,handicap=1.5,1.37,0.0
 2026-10-18T10:53:03.181754+02:00,36840738,Esiliiga,Estonia,Nomme Kalju FC,FC Elva,2026-10-18T09:30:00+00:00,36.947,soccer.asian_handicap,period=ft,away,handicap=1.5,2.65,0.0
+2026-10-18T10:55:07.698367+02:00,36839887,NB III,Hungary,Budapest Honved MFA,Csepel FC,2026-10-18T09:00:00+00:00,4.8717,soccer.double_chance,period=ft,draw_away,,1.49,1.52
+2026-10-18T10:55:07.698367+02:00,36839887,NB III,Hungary,Budapest Honved MFA,Csepel FC,2026-10-18T09:00:00+00:00,4.8717,soccer.double_chance,period=ft,home_away,,1.25,1.22
+2026-10-18T10:55:07.698367+02:00,36839887,NB III,Hungary,Budapest Honved MFA,Csepel FC,2026-10-18T09:00:00+00:00,4.8717,soccer.double_chance,period=ft,home_draw,,1.43,1.4
+2026-10-18T10:55:07.698367+02:00,36839887,NB III,Hungary,Budapest Honved MFA,Csepel FC,2026-10-18T09:00:00+00:00,4.8717,soccer.match_odds,period=ft,home,,2.25,2.3
+2026-10-18T10:55:07.698367+02:00,36839887,NB III,Hungary,Budapest Honved MFA,Csepel FC,2026-10-18T09:00:00+00:00,4.8717,soccer.match_odds,period=ft,away,,2.45,2.65
+2026-10-18T10:55:07.698367+02:00,36826791,Bulgarian Cup,Bulgaria,PFC Chernomorets Burgas,Botev Plovdiv,2026-10-18T09:00:00+00:00,4.8717,soccer.double_chance,period=ft,home_draw,,2.3,2.35
+2026-10-18T10:55:07.698367+02:00,36840738,Esiliiga,Estonia,Nomme Kalju FC,FC Elva,2026-10-18T09:30:00+00:00,34.8717,soccer.double_chance,period=ft,draw_away,,1.23,1.26
+2026-10-18T10:55:07.698367+02:00,36840738,Esiliiga,Estonia,Nomme Kalju FC,FC Elva,2026-10-18T09:30:00+00:00,34.8717,soccer.double_chance,period=ft,home_away,,1.21,1.22
+2026-10-18T10:55:07.698367+02:00,36840738,Esiliiga,Estonia,Nomme Kalju FC,FC Elva,2026-10-18T09:30:00+00:00,34.8717,soccer.double_chance,period=ft,home_draw,,1.86,1.77
+2026-10-18T10:55:07.698367+02:00,36840595,V-League 2,Vietnam,Tre TP Ho Chi Minh,B. Binh Duong,2026-10-18T10:00:00+00:00,64.8717,soccer.double_chance,period=ft,draw_away,,1.24,1.27
+2026-10-18T10:55:07.698367+02:00,36840595,V-League 2,Vietnam,Tre TP Ho Chi Minh,B. Binh Duong,2026-10-18T10:00:00+00:00,64.8717,soccer.double_chance,period=ft,home_draw,,1.59,1.55
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.93,1.99
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.81,1.76
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=-1,3.55,3.7
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=-1,1.24,1.22
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.65,2.75
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.4,1.38
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.25,2.3
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.58,1.54
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=0,1.57,1.62
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=0,2.25,2.17
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=0.25,1.39,1.42
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=0.25,2.7,2.6
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,home,handicap=0.5,1.29,1.32
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.asian_handicap,period=ft,away,handicap=0.5,3.15,3.0
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.match_odds,period=ft,home,,2.25,2.3
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.match_odds,period=ft,away,,3.2,3.1
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.total_goals,period=ft,under,total=2.25,1.9,1.89
+2026-10-18T10:55:07.698367+02:00,36846580,"Tercera Federacion, Group 7",Spain,Cfj Mollerussa,CF Peralada,2026-10-18T10:00:00+00:00,64.8717,soccer.total_goals,period=ft,over,total=2.75,2.35,2.4
