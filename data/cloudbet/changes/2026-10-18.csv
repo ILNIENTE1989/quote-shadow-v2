@@ -6370,3 +6370,12 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-18T08:01:48.321429+02:00,36842577,Division 1,Hong Kong,Sham Shui Po SA,Yuen Long FC,2026-10-18T07:00:00+00:00,58.1946,soccer.match_odds,period=ft,draw,,3.85,3.9
 2026-10-18T08:01:48.321429+02:00,36842577,Division 1,Hong Kong,Sham Shui Po SA,Yuen Long FC,2026-10-18T07:00:00+00:00,58.1946,soccer.match_odds,period=ft,away,,1.64,1.66
 2026-10-18T08:03:04.130418+02:00,36739463,K-League 1,Republic Of Korea,FC Seoul,Gimcheon Sangmu FC,2026-10-18T07:30:00+00:00,86.9312,soccer.total_goals,period=ft,over,total=3.25,2.09,2.1
+2026-10-18T08:04:59.470590+02:00,36739953,K-League 2,Republic Of Korea,Busan I Park,Jeonnam Dragons,2026-10-18T07:30:00+00:00,85.0088,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.81,1.8
+2026-10-18T08:04:59.470590+02:00,36739953,K-League 2,Republic Of Korea,Busan I Park,Jeonnam Dragons,2026-10-18T07:30:00+00:00,85.0088,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.77,1.78
+2026-10-18T08:04:59.470590+02:00,36739953,K-League 2,Republic Of Korea,Busan I Park,Jeonnam Dragons,2026-10-18T07:30:00+00:00,85.0088,soccer.asian_handicap,period=ft,away,handicap=0,3.25,3.2
+2026-10-18T08:04:59.470590+02:00,36739953,K-League 2,Republic Of Korea,Busan I Park,Jeonnam Dragons,2026-10-18T07:30:00+00:00,85.0088,soccer.match_odds,period=ft,home,,1.77,1.78
+2026-10-18T08:04:59.470590+02:00,36739953,K-League 2,Republic Of Korea,Busan I Park,Jeonnam Dragons,2026-10-18T07:30:00+00:00,85.0088,soccer.total_goals,period=ft,under,total=2.5,2.02,2.03
+2026-10-18T08:04:59.470590+02:00,36739463,K-League 1,Republic Of Korea,FC Seoul,Gimcheon Sangmu FC,2026-10-18T07:30:00+00:00,85.0088,soccer.asian_handicap,period=ft,home,handicap=-1,1.51,1.52
+2026-10-18T08:04:59.470590+02:00,36739463,K-League 1,Republic Of Korea,FC Seoul,Gimcheon Sangmu FC,2026-10-18T07:30:00+00:00,85.0088,soccer.match_odds,period=ft,draw,,5.45,5.4
+2026-10-18T08:04:59.470590+02:00,36739463,K-League 1,Republic Of Korea,FC Seoul,Gimcheon Sangmu FC,2026-10-18T07:30:00+00:00,85.0088,soccer.total_goals,period=ft,under,total=2.75,2.25,2.2
+2026-10-18T08:04:59.470590+02:00,36739463,K-League 1,Republic Of Korea,FC Seoul,Gimcheon Sangmu FC,2026-10-18T07:30:00+00:00,85.0088,soccer.total_goals,period=ft,under,total=3.25,1.75,1.74
