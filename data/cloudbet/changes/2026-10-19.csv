@@ -5180,3 +5180,169 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T16:39:22.322228+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,20.628,soccer.match_odds,period=ft,home,,1.6,1.59
 2026-10-19T16:39:22.322228+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,20.628,soccer.total_goals,period=ft,over,total=2.5,1.95,1.94
 2026-10-19T16:39:22.322228+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,20.628,soccer.total_goals,period=ft,over,total=2.25,1.7,1.69
+2026-10-19T16:41:37.642143+02:00,36852116,2nd Division,Bahrain,Bouri,AL Tadamun Buri,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=1.5,1.3,0.0
+2026-10-19T16:41:37.642143+02:00,36852116,2nd Division,Bahrain,Bouri,AL Tadamun Buri,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=1.5,3.1,0.0
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0,1.69,1.8
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0,2.13,2.02
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.75,2.85
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.42,1.38
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.3,2.4
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.58,1.53
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.03,2.11
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.78,1.7
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.25,1.49,1.57
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.25,2.5,2.35
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.5,1.38,1.43
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.5,2.85,2.65
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.75,1.33,1.31
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.75,3.1,3.25
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,draw_away,,1.57,1.54
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_away,,1.34,1.32
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_draw,,1.38,1.44
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,home,,2.35,2.45
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,draw,,3.2,3.25
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,away,,2.95,2.75
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.75,1.89,1.87
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2.75,1.9,1.92
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2,1.29,1.28
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2,3.3,3.35
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.25,1.49,1.48
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2.25,2.45,2.5
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2.5,2.1,2.11
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=3,2.14,2.13
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3,1.67,1.68
+2026-10-19T16:41:37.642143+02:00,36775749,Virsliga,Latvia,BFC Daugavpils,FK Auda Riga,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3.25,1.52,1.53
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.25,1.79,1.92
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.25,2.0,1.85
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.9,3.1
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.36,1.31
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.5,2.7
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.47,1.4
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0,2.14,2.35
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0,1.66,1.55
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.5,1.58,1.67
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.5,2.25,2.11
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.75,1.41,1.49
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.75,2.7,2.45
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=1,1.25,1.31
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=1,3.55,3.15
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,draw_away,,1.37,1.32
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_away,,1.33,1.31
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_draw,,1.57,1.67
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,home,,2.95,3.2
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,draw,,3.15,3.2
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,away,,2.3,2.12
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.5,1.98,1.96
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2.5,1.8,1.82
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=1.75,1.35,1.34
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=1.75,2.95,3.0
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2,1.45,1.44
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.25,1.71,1.69
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2.25,2.06,2.08
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=2.75,1.61,1.62
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3,1.41,1.43
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=3.25,3.0,2.95
+2026-10-19T16:41:37.642143+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3.25,1.34,1.35
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.77,1.81
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.07,2.01
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1.75,3.35,3.45
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.31,1.3
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.7,2.8
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.44,1.43
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.4,2.45
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.57,1.54
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1,2.06,2.12
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1,1.76,1.72
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.59,1.62
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.35,2.25
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.39,1.42
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.95,2.85
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0,1.19,1.22
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0,4.5,4.2
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.25,1.15,1.17
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.25,5.2,4.85
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,draw_away,,2.3,2.25
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_away,,1.27,1.26
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_draw,,1.13,1.14
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,home,,1.59,1.62
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,draw,,3.7,3.75
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,away,,6.0,5.55
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.5,1.94,1.95
+2026-10-19T16:41:37.642143+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.25,1.69,1.7
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.79,1.78
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.91,1.92
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1,2.7,2.65
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1,1.36,1.37
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.53,1.54
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.99,1.98
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.7,1.71
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.25,1.43,1.44
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.5,1.35,1.36
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,draw_away,,1.54,1.57
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.double_chance,period=ft,home_draw,,1.4,1.38
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,home,,2.0,1.99
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,draw,,3.75,3.8
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=3.75,1.82,1.75
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3.75,1.87,1.95
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=3,1.35,1.31
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3,2.75,2.95
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=3.25,1.5,1.46
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3.25,2.25,2.4
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=3.5,1.67,1.61
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=3.5,2.03,2.12
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=4,2.03,1.94
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=4,1.66,1.74
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=4.25,2.2,2.13
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=4.25,1.53,1.58
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=4.5,2.45,2.3
+2026-10-19T16:41:37.642143+02:00,36858606,Esiliiga,Estonia,JK Tallinna Kalev,FCI Levadia Tallinn,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=4.5,1.44,1.48
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.87,1.9
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.82,1.79
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,home,handicap=-1,3.0,3.25
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,away,handicap=-1,1.29,1.25
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.4,2.5
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.46,1.42
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.09,2.15
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.63,1.59
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,home,handicap=0,1.6,1.62
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,away,handicap=0,2.13,2.11
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,home,handicap=0.5,1.36,1.35
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.asian_handicap,period=ft,away,handicap=0.5,2.7,2.75
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.match_odds,period=ft,home,,2.1,2.16
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.match_odds,period=ft,draw,,3.45,3.2
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.match_odds,period=ft,away,,2.75,2.8
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=3.25,2.45,0.0
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=3.25,1.44,0.0
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=1.75,1.28,1.35
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=1.75,3.1,2.75
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=2,1.31,1.48
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=2,2.95,2.4
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=2.25,1.5,1.74
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=2.25,2.3,1.97
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=2.5,1.7,1.98
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=2.5,1.99,1.71
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=2.75,1.91,2.25
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=2.75,1.79,1.53
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=3,2.2,2.75
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=3,1.56,1.35
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,over,total=3.5,2.75,0.0
+2026-10-19T16:41:37.642143+02:00,36848595,Prva Liga,Serbia,FK Spartak Subotica,FK Borac Cacak,2026-10-19T16:00:00+00:00,78.3726,soccer.total_goals,period=ft,under,total=3.5,1.36,0.0
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.85,1.94
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.96,1.87
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.95,3.1
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.36,1.33
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-1,2.55,2.75
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-1,1.47,1.42
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.1,2.2
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.71,1.64
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.58,1.66
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.3,2.18
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0,1.31,1.38
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0,3.2,2.85
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,home,handicap=0.25,1.24,1.29
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.asian_handicap,period=ft,away,handicap=0.25,3.8,3.35
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,home,,1.84,1.93
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,draw,,3.15,3.25
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.match_odds,period=ft,away,,4.5,3.95
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,under,total=1.75,3.25,3.2
+2026-10-19T16:41:37.642143+02:00,36759485,1st Division,Cyprus,Pafos FC,Apoel Nicosia FC,2026-10-19T15:00:00+00:00,18.3726,soccer.total_goals,period=ft,over,total=2.75,2.07,2.06
