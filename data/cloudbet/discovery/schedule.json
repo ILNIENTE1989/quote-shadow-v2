@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T14:09:13.734359+00:00",
+  "generated_at_utc": "2026-10-19T16:09:14.154412+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -60,41 +60,10 @@
       ]
     },
     {
-      "category": "Bahrain",
-      "name": "2nd Division",
-      "key": "soccer-bahrain-2nd-division",
-      "events": [
-        {
-          "event_id": "36852116",
-          "home": "Bouri",
-          "away": "AL Tadamun Buri",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        },
-        {
-          "event_id": "36852117",
-          "home": "Busaiteen",
-          "away": "Etehad Alreef",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        },
-        {
-          "event_id": "36860410",
-          "home": "Qalali Club",
-          "away": "AL Hala",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Belarus",
       "name": "Vysshaya Liga",
       "key": "soccer-belarus-vysshaya-liga",
       "events": [
-        {
-          "event_id": "36785050",
-          "home": "FC Torpedo Belaz Zhodino",
-          "away": "Naftan Novopolotsk",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
-        },
         {
           "event_id": "36831190",
           "home": "FC Dinamo Minsk",
@@ -126,25 +95,6 @@
           "home": "Goias EC GO",
           "away": "Nautico PE",
           "kickoff_utc": "2026-10-19T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bulgaria",
-      "name": "Bulgarian Cup",
-      "key": "soccer-bulgaria-bulgarian-cup",
-      "events": [
-        {
-          "event_id": "36849128",
-          "home": "PFC Dobrudzha Dobrich",
-          "away": "PFC Montana 1921",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
-        },
-        {
-          "event_id": "36849033",
-          "home": "SFC Etar Veliko Tarnovo",
-          "away": "FK Spartak 1918 Varna",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
         }
       ]
     },
@@ -238,25 +188,6 @@
       ]
     },
     {
-      "category": "Cyprus",
-      "name": "1st Division",
-      "key": "soccer-cyprus-1st-division",
-      "events": [
-        {
-          "event_id": "36759485",
-          "home": "Pafos FC",
-          "away": "Apoel Nicosia FC",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
-        },
-        {
-          "event_id": "36759486",
-          "home": "AC Omonia Nicosia",
-          "away": "Olympiakos Nicosia",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Denmark",
       "name": "Superliga",
       "key": "soccer-denmark-superligaen",
@@ -302,38 +233,6 @@
       ]
     },
     {
-      "category": "Estonia",
-      "name": "Esiliiga",
-      "key": "soccer-estonia-esiliiga",
-      "events": [
-        {
-          "event_id": "36858606",
-          "home": "JK Tallinna Kalev",
-          "away": "FCI Levadia Tallinn",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
-        },
-        {
-          "event_id": "36859288",
-          "home": "FC Tallinn",
-          "away": "Viimsi JK",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Estonia",
-      "name": "Esiliiga B",
-      "key": "soccer-estonia-esiliiga-b",
-      "events": [
-        {
-          "event_id": "36859754",
-          "home": "JK Tabasalu",
-          "away": "JK Narva Trans",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "France",
       "name": "Ligue 2",
       "key": "soccer-france-ligue-2",
@@ -343,19 +242,6 @@
           "home": "Rodez Aveyron Football",
           "away": "Montpellier HSC",
           "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Georgia",
-      "name": "Erovnuli Liga",
-      "key": "soccer-georgia-erovnuli-liga",
-      "events": [
-        {
-          "event_id": "36858538",
-          "home": "FC Dila Gori",
-          "away": "FC Saburtalo Tbilisi",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
         }
       ]
     },
@@ -412,53 +298,10 @@
       ]
     },
     {
-      "category": "International",
-      "name": "Super D1",
-      "key": "soccer-international-t6e4e-super-d1",
-      "events": [
-        {
-          "event_id": "36864907",
-          "home": "ASC Police",
-          "away": "Kaedi FC",
-          "kickoff_utc": "2026-10-19T17:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Israel",
       "name": "Liga Alef",
       "key": "soccer-israel-liga-alef",
       "events": [
-        {
-          "event_id": "36858392",
-          "home": "Hapoel Bnei Musmus",
-          "away": "Hapoel Ironi Arraba",
-          "kickoff_utc": "2026-10-19T14:30:00+00:00"
-        },
-        {
-          "event_id": "36860641",
-          "home": "AS Nordia Jerusalem",
-          "away": "Hapoel Marmorek FC",
-          "kickoff_utc": "2026-10-19T15:30:00+00:00"
-        },
-        {
-          "event_id": "36859114",
-          "home": "Maccabi Y.",
-          "away": "FC Holon Yirmiyahu",
-          "kickoff_utc": "2026-10-19T15:45:00+00:00"
-        },
-        {
-          "event_id": "36860640",
-          "home": "MK Kfar Saba 1928",
-          "away": "Hapoel Nir Ramat Hasharon FC",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        },
-        {
-          "event_id": "36860642",
-          "home": "Sderot",
-          "away": "Hapoel Herzelia FC",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        },
         {
           "event_id": "36859472",
           "home": "Hapoel Beit Shean Mesilot",
@@ -542,64 +385,6 @@
       ]
     },
     {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
-      "events": [
-        {
-          "event_id": "36862494",
-          "home": "Agboville FC",
-          "away": "Mouna FC",
-          "kickoff_utc": "2026-10-19T15:30:00+00:00"
-        },
-        {
-          "event_id": "36858751",
-          "home": "ES Agboville",
-          "away": "Mouna FC",
-          "kickoff_utc": "2026-10-19T15:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Kosovo",
-      "name": "Superliga",
-      "key": "soccer-kosovo-superliga",
-      "events": [
-        {
-          "event_id": "36862661",
-          "home": "KF Dukagjini",
-          "away": "KF Drenica Skenderaj",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Latvia",
-      "name": "Virsliga",
-      "key": "soccer-latvia-virsliga",
-      "events": [
-        {
-          "event_id": "36775749",
-          "home": "BFC Daugavpils",
-          "away": "FK Auda Riga",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Lithuania",
-      "name": "A Lyga",
-      "key": "soccer-lithuania-a-lyga",
-      "events": [
-        {
-          "event_id": "36799766",
-          "home": "FK Suduva Marijampole",
-          "away": "FK Kauno Zalgiris",
-          "kickoff_utc": "2026-10-19T15:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
@@ -613,29 +398,10 @@
       ]
     },
     {
-      "category": "Montenegro",
-      "name": "1. CFL",
-      "key": "soccer-montenegro-1-cfl",
-      "events": [
-        {
-          "event_id": "36816896",
-          "home": "FK Sutjeska Niksic",
-          "away": "FK Bokelj Kotor",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Norway",
       "name": "3rd Division Group 1",
       "key": "soccer-norway-3rd-division-group-1",
       "events": [
-        {
-          "event_id": "36859760",
-          "home": "Åkra IL",
-          "away": "Stabaek Fotball 2",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        },
         {
           "event_id": "36863936",
           "home": "Aasane Fotball 2",
@@ -727,19 +493,6 @@
       ]
     },
     {
-      "category": "Poland",
-      "name": "I Liga",
-      "key": "soccer-poland-i-liga",
-      "events": [
-        {
-          "event_id": "36773687",
-          "home": "Bruk-Bet Termalica Nieciecza",
-          "away": "Puszcza Niepolomice",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Portugal",
       "name": "Liga Portugal",
       "key": "soccer-portugal-primeira-liga",
@@ -777,12 +530,6 @@
       "key": "soccer-romania-liga-i",
       "events": [
         {
-          "event_id": "36646804",
-          "home": "FC Universitatea Cluj",
-          "away": "ACS Champions FC Arges",
-          "kickoff_utc": "2026-10-19T15:00:00+00:00"
-        },
-        {
           "event_id": "36646805",
           "home": "FC Voluntari",
           "away": "Fotbal Club FCSB",
@@ -796,35 +543,10 @@
       "key": "soccer-saudi-arabia-division-1",
       "events": [
         {
-          "event_id": "36847906",
-          "home": "AL Zulfi",
-          "away": "AL Ula",
-          "kickoff_utc": "2026-10-19T15:05:00+00:00"
-        },
-        {
-          "event_id": "36848401",
-          "home": "Damac FC",
-          "away": "AL Tai",
-          "kickoff_utc": "2026-10-19T15:20:00+00:00"
-        },
-        {
           "event_id": "36848472",
           "home": "AL Raed FC",
           "away": "AL Saqer FC",
           "kickoff_utc": "2026-10-19T16:50:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Serbia",
-      "name": "Prva Liga",
-      "key": "soccer-serbia-prva-liga",
-      "events": [
-        {
-          "event_id": "36848595",
-          "home": "FK Spartak Subotica",
-          "away": "FK Borac Cacak",
-          "kickoff_utc": "2026-10-19T16:00:00+00:00"
         }
       ]
     },
