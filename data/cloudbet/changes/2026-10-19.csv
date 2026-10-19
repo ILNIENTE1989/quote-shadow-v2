@@ -11436,3 +11436,48 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T19:33:21.602357+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,86.64,soccer.total_goals,period=ft,under,total=2.5,1.42,1.41
 2026-10-19T19:33:21.602357+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,86.64,soccer.total_goals,period=ft,over,total=2.75,3.55,3.6
 2026-10-19T19:33:21.602357+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,86.64,soccer.total_goals,period=ft,under,total=2.75,1.3,1.29
+2026-10-19T19:35:18.865929+02:00,36864312,Liga Alef,Israel,Hapoel Tirat Hacarmel,Beitar Nahariya,2026-10-19T18:15:00+00:00,39.6856,soccer.double_chance,period=ft,draw_away,,1.12,1.11
+2026-10-19T19:35:18.865929+02:00,36864312,Liga Alef,Israel,Hapoel Tirat Hacarmel,Beitar Nahariya,2026-10-19T18:15:00+00:00,39.6856,soccer.double_chance,period=ft,home_away,,1.19,1.18
+2026-10-19T19:35:18.865929+02:00,36864312,Liga Alef,Israel,Hapoel Tirat Hacarmel,Beitar Nahariya,2026-10-19T18:15:00+00:00,39.6856,soccer.double_chance,period=ft,home_draw,,2.25,2.3
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,home,handicap=-1,1.99,2.0
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-1,1.84,1.83
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-2,1.23,1.22
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,home,handicap=-1.75,3.05,3.1
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.36,1.35
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.63,1.62
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.72,1.73
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.12,2.1
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.57,1.58
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.4,2.35
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.85,2.8
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.double_chance,period=ft,home_away,,1.18,1.19
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.match_odds,period=ft,home,,1.57,1.58
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.match_odds,period=ft,draw,,4.65,4.6
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.match_odds,period=ft,away,,4.7,4.65
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.total_goals,period=ft,over,total=2.5,1.51,1.52
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.total_goals,period=ft,over,total=2.75,1.63,1.64
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.total_goals,period=ft,under,total=2.75,2.25,2.2
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.total_goals,period=ft,over,total=3.25,2.07,2.08
+2026-10-19T19:35:18.865929+02:00,36609582,Premier Division,Republic Of Ireland,Waterford FC,Galway United FC,2026-10-19T18:45:00+00:00,69.6856,soccer.total_goals,period=ft,under,total=3.25,1.74,1.73
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.asian_handicap,period=ft,home,handicap=-1,6.1,6.2
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.43,1.42
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.asian_handicap,period=ft,away,handicap=1,5.45,5.5
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.match_odds,period=ft,away,,2.75,2.8
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=1.75,1.8,1.83
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=1.75,2.09,2.06
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=0.75,1.15,1.16
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=0.75,5.4,5.3
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=1,1.19,1.2
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=1,4.7,4.6
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=1.25,1.39,1.4
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=1.25,3.0,2.95
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=1.5,1.6,1.61
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=1.5,2.4,2.35
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=2,2.14,2.17
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=2,1.74,1.72
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=2.25,2.5,2.55
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=2.25,1.53,1.52
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=2.5,2.9,2.95
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=2.5,1.41,1.4
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,over,total=2.75,3.6,3.65
+2026-10-19T19:35:18.865929+02:00,36436144,La Liga,Spain,Getafe,Rayo Vallecano,2026-10-19T19:00:00+00:00,84.6856,soccer.total_goals,period=ft,under,total=2.75,1.29,1.28
