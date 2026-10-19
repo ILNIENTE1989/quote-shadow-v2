@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T20:11:38.607321+00:00",
+  "generated_at_utc": "2026-10-19T22:13:19.696198+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -7,18 +7,6 @@
       "name": "Liga Profesional",
       "key": "soccer-argentina-superliga",
       "events": [
-        {
-          "event_id": "36709199",
-          "home": "CA Sarmiento Junin",
-          "away": "Barracas Central",
-          "kickoff_utc": "2026-10-19T22:00:00+00:00"
-        },
-        {
-          "event_id": "36709210",
-          "home": "Newell´s Old Boys",
-          "away": "CA Central Cordoba SE",
-          "kickoff_utc": "2026-10-19T22:00:00+00:00"
-        },
         {
           "event_id": "36709233",
           "home": "Deportivo Riestra",
@@ -37,6 +25,19 @@
           "home": "CSyD La Fraternidad",
           "away": "Monte Grande FC",
           "kickoff_utc": "2026-10-19T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Bangladesh",
+      "name": "Federation Cup",
+      "key": "soccer-bangladesh-federation-cup",
+      "events": [
+        {
+          "event_id": "36869515",
+          "home": "Mohammedan SC Dhaka",
+          "away": "Pwd SC",
+          "kickoff_utc": "2026-10-20T08:45:00+00:00"
         }
       ]
     },
@@ -80,19 +81,6 @@
       ]
     },
     {
-      "category": "Chile",
-      "name": "Primera B",
-      "key": "soccer-chile-primera-b",
-      "events": [
-        {
-          "event_id": "36807191",
-          "home": "Union Espanola",
-          "away": "Deportes Copiapo",
-          "kickoff_utc": "2026-10-19T22:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
@@ -110,18 +98,6 @@
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
-        {
-          "event_id": "36851035",
-          "home": "CD Cortulua",
-          "away": "Union Magdalena",
-          "kickoff_utc": "2026-10-19T21:00:00+00:00"
-        },
-        {
-          "event_id": "36851034",
-          "home": "Orsomarso SC",
-          "away": "Bogota FC",
-          "kickoff_utc": "2026-10-19T22:00:00+00:00"
-        },
         {
           "event_id": "36851037",
           "home": "Real Cartagena FC",
@@ -163,19 +139,6 @@
       ]
     },
     {
-      "category": "Ecuador",
-      "name": "LigaPro Primera A",
-      "key": "soccer-ecuador-ligapro-primera-a",
-      "events": [
-        {
-          "event_id": "36750529",
-          "home": "Mushuc Runa SC",
-          "away": "Orense SC",
-          "kickoff_utc": "2026-10-19T20:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
@@ -185,6 +148,19 @@
           "home": "Antigua GFC",
           "away": "CSD Xelaju MC",
           "kickoff_utc": "2026-10-20T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
+      "events": [
+        {
+          "event_id": "36861256",
+          "home": "Farmel FC",
+          "away": "Java United",
+          "kickoff_utc": "2026-10-20T08:30:00+00:00"
         }
       ]
     },
