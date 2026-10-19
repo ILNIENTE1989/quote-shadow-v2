@@ -1,7 +1,20 @@
 {
-  "generated_at_utc": "2026-10-19T00:02:01.647712+00:00",
+  "generated_at_utc": "2026-10-19T02:03:12.163741+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Belarus",
+      "name": "Vysshaya Liga",
+      "key": "soccer-belarus-vysshaya-liga",
+      "events": [
+        {
+          "event_id": "36785033",
+          "home": "FC Belshina Bobruisk",
+          "away": "FC Slavia Mozyr",
+          "kickoff_utc": "2026-10-19T12:30:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Greece",
       "name": "Super League 2",
@@ -29,19 +42,6 @@
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Primera Division",
-      "key": "soccer-guatemala-primera-division",
-      "events": [
-        {
-          "event_id": "36850044",
-          "home": "Huehuetecos FC",
-          "away": "Csd Amatitlan",
-          "kickoff_utc": "2026-10-19T01:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "India",
       "name": "Bangalore Super Division",
       "key": "soccer-india-t66dc-bangalore-super-division",
@@ -51,32 +51,94 @@
           "home": "Bangalore City FC",
           "away": "ASC And Center FC",
           "kickoff_utc": "2026-10-19T05:30:00+00:00"
+        },
+        {
+          "event_id": "36858069",
+          "home": "Hal Fc",
+          "away": "Bengaluru FC",
+          "kickoff_utc": "2026-10-19T08:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "category": "Israel",
+      "name": "Liga Alef",
+      "key": "soccer-israel-liga-alef",
       "events": [
         {
-          "event_id": "36750861",
-          "home": "CF Monterrey",
-          "away": "CF Pachuca",
-          "kickoff_utc": "2026-10-19T01:00:00+00:00"
+          "event_id": "36856746",
+          "home": "Maccabi Neve Shaanan Eldad",
+          "away": "Maccabi Nujeidat Ahmad",
+          "kickoff_utc": "2026-10-19T12:00:00+00:00"
+        },
+        {
+          "event_id": "36857409",
+          "home": "MS Tzeirei Tamra",
+          "away": "Baqa Al-Gharbiyye",
+          "kickoff_utc": "2026-10-19T13:00:00+00:00"
+        },
+        {
+          "event_id": "36857516",
+          "home": "Hapoel Ihoud Bnei Jat",
+          "away": "Hapoel Migdal Haemeq",
+          "kickoff_utc": "2026-10-19T13:15:00+00:00"
         }
       ]
     },
     {
-      "category": "Nicaragua",
-      "name": "Primera Division",
-      "key": "soccer-nicaragua-primera-division",
+      "category": "North Macedonia",
+      "name": "1. MFL",
+      "key": "soccer-macedonia-1-mfl",
       "events": [
         {
-          "event_id": "36850039",
-          "home": "Rancho Santana FC",
-          "away": "Diriangen FC Diriamba",
-          "kickoff_utc": "2026-10-19T01:00:00+00:00"
+          "event_id": "36857079",
+          "home": "FK Arsimi 1973",
+          "away": "GFK Tikvesh 1930",
+          "kickoff_utc": "2026-10-19T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Tunisia",
+      "name": "Ligue 2",
+      "key": "soccer-tunisia-ligue-2",
+      "events": [
+        {
+          "event_id": "36857654",
+          "home": "Kalaa Sport",
+          "away": "SC Moknine",
+          "kickoff_utc": "2026-10-19T13:30:00+00:00"
+        },
+        {
+          "event_id": "36857656",
+          "home": "Ksour Essef",
+          "away": "AS Ariana",
+          "kickoff_utc": "2026-10-19T13:30:00+00:00"
+        },
+        {
+          "event_id": "36857655",
+          "home": "Stade Gabesien",
+          "away": "CS Redeyef",
+          "kickoff_utc": "2026-10-19T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Turkey",
+      "name": "1. Lig",
+      "key": "soccer-turkey-1-lig",
+      "events": [
+        {
+          "event_id": "36785049",
+          "home": "Fatih Karagumruk Istanbul",
+          "away": "Ankara Keciorengucu",
+          "kickoff_utc": "2026-10-19T14:00:00+00:00"
+        },
+        {
+          "event_id": "36785051",
+          "home": "Manisa Futbol Kulubu",
+          "away": "Muglaspor",
+          "kickoff_utc": "2026-10-19T14:00:00+00:00"
         }
       ]
     }
