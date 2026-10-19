@@ -2310,3 +2310,10 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T13:11:33.207755+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,48.4465,soccer.asian_handicap,period=ft,home,handicap=1.5,1.46,1.47
 2026-10-19T13:11:33.207755+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,48.4465,soccer.total_goals,period=ft,over,total=3,1.86,1.82
 2026-10-19T13:11:33.207755+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,48.4465,soccer.total_goals,period=ft,under,total=3,1.75,1.78
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.93,1.95
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.69,1.7
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.double_chance,period=ft,draw_away,,1.45,1.48
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.double_chance,period=ft,home_away,,1.38,1.4
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.double_chance,period=ft,home_draw,,1.27,1.29
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.total_goals,period=ft,over,total=1.75,1.86,1.88
+2026-10-19T13:17:11.565565+02:00,36849641,Super League 2,Greece,Niki Volou 1924 PAE,Panionios Athens,2026-10-19T11:45:00+00:00,27.8072,soccer.total_goals,period=ft,under,total=1.75,1.75,1.76
