@@ -1466,3 +1466,16 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T02:55:08.592392+02:00,36750861,"Liga MX, Apertura",Mexico,CF Monterrey,CF Pachuca,2026-10-19T01:00:00+00:00,4.8568,soccer.total_goals,period=ft,over,total=3.25,2.13,2.12
 2026-10-19T02:55:08.592392+02:00,36750861,"Liga MX, Apertura",Mexico,CF Monterrey,CF Pachuca,2026-10-19T01:00:00+00:00,4.8568,soccer.total_goals,period=ft,under,total=3.25,1.73,1.74
 2026-10-19T02:55:08.592392+02:00,36750861,"Liga MX, Apertura",Mexico,CF Monterrey,CF Pachuca,2026-10-19T01:00:00+00:00,4.8568,soccer.total_goals,period=ft,under,total=3.5,1.59,1.6
+2026-10-19T02:57:10.620050+02:00,36835346,Liga Nacional. Clausura,Guatemala,CD Marquense,CD Suchitepequez,2026-10-19T02:10:00+00:00,72.823,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.03,2.02
+2026-10-19T02:57:10.620050+02:00,36835346,Liga Nacional. Clausura,Guatemala,CD Marquense,CD Suchitepequez,2026-10-19T02:10:00+00:00,72.823,soccer.asian_handicap,period=ft,home,handicap=-1,1.74,1.73
+2026-10-19T02:57:10.620050+02:00,36835346,Liga Nacional. Clausura,Guatemala,CD Marquense,CD Suchitepequez,2026-10-19T02:10:00+00:00,72.823,soccer.asian_handicap,period=ft,away,handicap=-1,2.02,2.03
+2026-10-19T02:57:10.620050+02:00,36835346,Liga Nacional. Clausura,Guatemala,CD Marquense,CD Suchitepequez,2026-10-19T02:10:00+00:00,72.823,soccer.double_chance,period=ft,draw_away,,2.6,2.65
+2026-10-19T02:57:10.620050+02:00,36835346,Liga Nacional. Clausura,Guatemala,CD Marquense,CD Suchitepequez,2026-10-19T02:10:00+00:00,72.823,soccer.total_goals,period=ft,over,total=2.25,1.66,1.65
+2026-10-19T02:57:10.620050+02:00,36835346,Liga Nacional. Clausura,Guatemala,CD Marquense,CD Suchitepequez,2026-10-19T02:10:00+00:00,72.823,soccer.total_goals,period=ft,over,total=2.75,2.13,2.12
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.double_chance,period=ft,draw_away,,1.07,0.0
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.double_chance,period=ft,home_away,,1.12,1.07
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.double_chance,period=ft,home_draw,,2.95,3.1
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.match_odds,period=ft,home,,8.25,9.0
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.match_odds,period=ft,draw,,5.1,4.7
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.match_odds,period=ft,away,,1.24,1.22
+2026-10-19T02:57:10.620050+02:00,36850039,Primera Division,Nicaragua,Rancho Santana FC,Diriangen FC Diriamba,2026-10-19T01:00:00+00:00,2.823,soccer.total_goals,period=ft,over,total=3.5,2.15,2.1
