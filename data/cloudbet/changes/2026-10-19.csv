@@ -2696,3 +2696,11 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T14:03:15.308899+02:00,36785033,Vysshaya Liga,Belarus,FC Belshina Bobruisk,FC Slavia Mozyr,2026-10-19T12:30:00+00:00,26.7449,soccer.total_goals,period=ft,over,total=5,8.5,8.45
 2026-10-19T14:03:15.308899+02:00,36785033,Vysshaya Liga,Belarus,FC Belshina Bobruisk,FC Slavia Mozyr,2026-10-19T12:30:00+00:00,26.7449,soccer.total_goals,period=ft,over,total=5.25,8.7,8.65
 2026-10-19T14:03:15.308899+02:00,36785033,Vysshaya Liga,Belarus,FC Belshina Bobruisk,FC Slavia Mozyr,2026-10-19T12:30:00+00:00,26.7449,soccer.total_goals,period=ft,over,total=5.5,8.85,8.8
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.76,1.77
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.84,1.83
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.double_chance,period=ft,draw_away,,1.95,1.94
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.double_chance,period=ft,home_away,,1.27,1.26
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.double_chance,period=ft,home_draw,,1.11,1.12
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.match_odds,period=ft,home,,1.57,1.58
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.match_odds,period=ft,draw,,3.0,3.05
+2026-10-19T14:05:13.240700+02:00,36863543,Ligue 2,Tunisia,CS Korba,Olympique Du Kef,2026-10-19T13:30:00+00:00,84.7793,soccer.match_odds,period=ft,away,,5.75,5.55
