@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T18:09:15.585030+00:00",
+  "generated_at_utc": "2026-10-19T20:11:38.607321+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -29,14 +29,14 @@
     },
     {
       "category": "Argentina",
-      "name": "Primera Nacional",
-      "key": "soccer-argentina-primera-nacional",
+      "name": "Torneo Regional Federal Amateur",
+      "key": "soccer-argentina-torneo-regional-federal-amateur",
       "events": [
         {
-          "event_id": "36776486",
-          "home": "San Telmo",
-          "away": "CAS Defensores de Belgrano",
-          "kickoff_utc": "2026-10-19T18:30:00+00:00"
+          "event_id": "36868226",
+          "home": "CSyD La Fraternidad",
+          "away": "Monte Grande FC",
+          "kickoff_utc": "2026-10-19T23:00:00+00:00"
         }
       ]
     },
@@ -62,6 +62,19 @@
           "event_id": "36760925",
           "home": "Goias EC GO",
           "away": "Nautico PE",
+          "kickoff_utc": "2026-10-19T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brazil Campeonato Paraibano (PB) Division 2",
+      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
+      "events": [
+        {
+          "event_id": "36868224",
+          "home": "Spartax FC",
+          "away": "AA Santa Rita",
           "kickoff_utc": "2026-10-19T22:30:00+00:00"
         }
       ]
@@ -97,12 +110,6 @@
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
       "events": [
-        {
-          "event_id": "36851345",
-          "home": "CD Real Santander",
-          "away": "Itagui Leones FC",
-          "kickoff_utc": "2026-10-19T19:00:00+00:00"
-        },
         {
           "event_id": "36851035",
           "home": "CD Cortulua",
@@ -169,38 +176,6 @@
       ]
     },
     {
-      "category": "England",
-      "name": "Southern League, Premier Central",
-      "key": "soccer-england-southern-football-league-premier-division-central",
-      "events": [
-        {
-          "event_id": "36854078",
-          "home": "Redditch United",
-          "away": "Worcester City",
-          "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        },
-        {
-          "event_id": "36860890",
-          "home": "Swindon Supermarine",
-          "away": "Worcester Raiders",
-          "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "France",
-      "name": "Ligue 2",
-      "key": "soccer-france-ligue-2",
-      "events": [
-        {
-          "event_id": "36757500",
-          "home": "Rodez Aveyron Football",
-          "away": "Montpellier HSC",
-          "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
@@ -210,95 +185,6 @@
           "home": "Antigua GFC",
           "away": "CSD Xelaju MC",
           "kickoff_utc": "2026-10-20T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Iceland",
-      "name": "Besta deild",
-      "key": "soccer-iceland-t9038-besta-deild",
-      "events": [
-        {
-          "event_id": "36818371",
-          "home": "Fram Reykjavik",
-          "away": "IA Akranes",
-          "kickoff_utc": "2026-10-19T19:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "England Northern Division 1 North",
-      "key": "soccer-international-tb405-england-northern-division-1-north",
-      "events": [
-        {
-          "event_id": "36860889",
-          "home": "Barwell",
-          "away": "Nuneaton Town FC",
-          "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Israel",
-      "name": "Liga Alef",
-      "key": "soccer-israel-liga-alef",
-      "events": [
-        {
-          "event_id": "36864312",
-          "home": "Hapoel Tirat Hacarmel",
-          "away": "Beitar Nahariya",
-          "kickoff_utc": "2026-10-19T18:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Italy",
-      "name": "Serie A",
-      "key": "soccer-italy-serie-a",
-      "events": [
-        {
-          "event_id": "36437039",
-          "home": "Parma Calcio",
-          "away": "Torino FC",
-          "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Italy",
-      "name": "Serie C, Group A",
-      "key": "soccer-italy-serie-c-group-c",
-      "events": [
-        {
-          "event_id": "36774139",
-          "home": "AS Cittadella",
-          "away": "FC Arzignano Valchiampo",
-          "kickoff_utc": "2026-10-19T18:30:00+00:00"
-        },
-        {
-          "event_id": "36774141",
-          "home": "AS Giana Erminio",
-          "away": "Union Brescia",
-          "kickoff_utc": "2026-10-19T18:30:00+00:00"
-        },
-        {
-          "event_id": "36774087",
-          "home": "Dolomiti Bellunesi",
-          "away": "AC Trento",
-          "kickoff_utc": "2026-10-19T18:30:00+00:00"
-        },
-        {
-          "event_id": "36811679",
-          "home": "FC Giugliano 1928",
-          "away": "Calcio Foggia",
-          "kickoff_utc": "2026-10-19T18:30:00+00:00"
-        },
-        {
-          "event_id": "36774373",
-          "home": "Juventus Next Gen",
-          "away": "AC Renate",
-          "kickoff_utc": "2026-10-19T18:30:00+00:00"
         }
       ]
     },
@@ -329,85 +215,15 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Primera Division B (APF)",
-      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
+      "category": "Thailand",
+      "name": "FA Cup",
+      "key": "soccer-thailand-fa-cup",
       "events": [
         {
-          "event_id": "36865098",
-          "home": "Sportivo Luqueno Res.",
-          "away": "Sportivo San Lorenzo",
-          "kickoff_utc": "2026-10-19T19:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Segunda Division",
-      "key": "soccer-paraguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36861278",
-          "home": "12 de Junio de Villa Hayes",
-          "away": "Guairena FC",
-          "kickoff_utc": "2026-10-19T19:30:00+00:00"
-        },
-        {
-          "event_id": "36861280",
-          "home": "Deportivo Santani",
-          "away": "Club 3 de Noviembre",
-          "kickoff_utc": "2026-10-19T19:30:00+00:00"
-        },
-        {
-          "event_id": "36861279",
-          "home": "Encarnacion FC",
-          "away": "Club General Caballero JLM",
-          "kickoff_utc": "2026-10-19T19:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Portugal",
-      "name": "Liga Portugal",
-      "key": "soccer-portugal-primeira-liga",
-      "events": [
-        {
-          "event_id": "36762965",
-          "home": "SC Braga",
-          "away": "Gil Vicente FC",
-          "kickoff_utc": "2026-10-19T19:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Republic Of Ireland",
-      "name": "Premier Division",
-      "key": "soccer-ireland-premier-division",
-      "events": [
-        {
-          "event_id": "36609582",
-          "home": "Waterford FC",
-          "away": "Galway United FC",
-          "kickoff_utc": "2026-10-19T18:45:00+00:00"
-        },
-        {
-          "event_id": "36609600",
-          "home": "Derry City FC",
-          "away": "Saint Patrick´s Athletic FC",
-          "kickoff_utc": "2026-10-19T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "La Liga",
-      "key": "soccer-spain-laliga",
-      "events": [
-        {
-          "event_id": "36436144",
-          "home": "Getafe",
-          "away": "Rayo Vallecano",
-          "kickoff_utc": "2026-10-19T19:00:00+00:00"
+          "event_id": "36865279",
+          "home": "Udon United",
+          "away": "Lopburi City",
+          "kickoff_utc": "2026-10-20T08:00:00+00:00"
         }
       ]
     },
