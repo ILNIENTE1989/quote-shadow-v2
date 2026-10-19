@@ -1,69 +1,17 @@
 {
-  "generated_at_utc": "2026-10-18T22:02:01.508101+00:00",
+  "generated_at_utc": "2026-10-19T00:02:01.647712+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
+      "category": "Greece",
+      "name": "Super League 2",
+      "key": "soccer-greece-super-league-2",
       "events": [
         {
-          "event_id": "36627899",
-          "home": "CA Belgrano",
-          "away": "CA River Plate",
-          "kickoff_utc": "2026-10-18T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bolivia",
-      "name": "Division Profesional",
-      "key": "soccer-bolivia-division-profesional",
-      "events": [
-        {
-          "event_id": "36761783",
-          "home": "Guabira Montero",
-          "away": "Oriente Petrolero",
-          "kickoff_utc": "2026-10-18T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie A",
-      "key": "soccer-brazil-brasileiro-serie-a",
-      "events": [
-        {
-          "event_id": "36765292",
-          "home": "Clube do Remo PA",
-          "away": "Red Bull Bragantino SP",
-          "kickoff_utc": "2026-10-18T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
-      "events": [
-        {
-          "event_id": "36761577",
-          "home": "Llaneros FC",
-          "away": "Independiente Santa Fe",
-          "kickoff_utc": "2026-10-18T23:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "El Salvador",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-el-salvador-primera-division-clausura",
-      "events": [
-        {
-          "event_id": "36807812",
-          "home": "CD FAS Santa Ana",
-          "away": "CD Platense Municipal Zacatecoluca",
-          "kickoff_utc": "2026-10-18T23:30:00+00:00"
+          "event_id": "36849641",
+          "home": "Niki Volou 1924 PAE",
+          "away": "Panionios Athens",
+          "kickoff_utc": "2026-10-19T11:45:00+00:00"
         }
       ]
     },
@@ -72,12 +20,6 @@
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
       "events": [
-        {
-          "event_id": "36849589",
-          "home": "CSD Municipal",
-          "away": "CD Guastatoya",
-          "kickoff_utc": "2026-10-19T00:00:00+00:00"
-        },
         {
           "event_id": "36835346",
           "home": "CD Marquense",
@@ -92,16 +34,23 @@
       "key": "soccer-guatemala-primera-division",
       "events": [
         {
-          "event_id": "36849588",
-          "home": "CSD Sacachispas",
-          "away": "Nueva Santa Rosa Cdf",
-          "kickoff_utc": "2026-10-19T00:00:00+00:00"
-        },
-        {
           "event_id": "36850044",
           "home": "Huehuetecos FC",
           "away": "Csd Amatitlan",
           "kickoff_utc": "2026-10-19T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
+      "events": [
+        {
+          "event_id": "36856476",
+          "home": "Bangalore City FC",
+          "away": "ASC And Center FC",
+          "kickoff_utc": "2026-10-19T05:30:00+00:00"
         }
       ]
     },
@@ -124,100 +73,10 @@
       "key": "soccer-nicaragua-primera-division",
       "events": [
         {
-          "event_id": "36841129",
-          "home": "CD Walter Ferretti",
-          "away": "Real Esteli FC",
-          "kickoff_utc": "2026-10-18T23:00:00+00:00"
-        },
-        {
           "event_id": "36850039",
           "home": "Rancho Santana FC",
           "away": "Diriangen FC Diriamba",
           "kickoff_utc": "2026-10-19T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
-      "events": [
-        {
-          "event_id": "36807796",
-          "home": "Umecit",
-          "away": "Alianza FC Panama",
-          "kickoff_utc": "2026-10-18T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
-      "name": "Division de Honor, Apertura",
-      "key": "soccer-paraguay-primera-division-apertura",
-      "events": [
-        {
-          "event_id": "36763209",
-          "home": "Sportivo Luqueno",
-          "away": "Sportivo San Lorenzo",
-          "kickoff_utc": "2026-10-18T22:20:00+00:00"
-        },
-        {
-          "event_id": "36763211",
-          "home": "Sportivo Trinidense",
-          "away": "Libertad Asuncion",
-          "kickoff_utc": "2026-10-18T22:20:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Peru",
-      "name": "Primera Division",
-      "key": "soccer-peru-primera-division",
-      "events": [
-        {
-          "event_id": "36746403",
-          "home": "CS Cienciano",
-          "away": "Universidad Técnica de Cajamarca",
-          "kickoff_utc": "2026-10-18T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "USA",
-      "name": "MLS Next Pro",
-      "key": "soccer-usa-t7dd7-mls-next-pro",
-      "events": [
-        {
-          "event_id": "36833990",
-          "home": "Houston Dynamo 2",
-          "away": "Los Angeles FC 2",
-          "kickoff_utc": "2026-10-18T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Segunda Division",
-      "key": "soccer-uruguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36822279",
-          "home": "Club Oriental de Football",
-          "away": "Uruguay Montevideo FC",
-          "kickoff_utc": "2026-10-18T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Venezuela",
-      "name": "Segunda Division",
-      "key": "soccer-venezuela-segunda-division",
-      "events": [
-        {
-          "event_id": "36833957",
-          "home": "Barquisimeto SC",
-          "away": "CD Lara",
-          "kickoff_utc": "2026-10-18T22:30:00+00:00"
         }
       ]
     }
