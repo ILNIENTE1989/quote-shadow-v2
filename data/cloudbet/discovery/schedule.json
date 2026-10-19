@@ -1,7 +1,26 @@
 {
-  "generated_at_utc": "2026-10-19T08:05:14.557911+00:00",
+  "generated_at_utc": "2026-10-19T10:07:13.258364+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Argentina",
+      "name": "Liga Profesional",
+      "key": "soccer-argentina-superliga",
+      "events": [
+        {
+          "event_id": "36709199",
+          "home": "CA Sarmiento Junin",
+          "away": "Barracas Central",
+          "kickoff_utc": "2026-10-19T22:00:00+00:00"
+        },
+        {
+          "event_id": "36709210",
+          "home": "Newell´s Old Boys",
+          "away": "CA Central Cordoba SE",
+          "kickoff_utc": "2026-10-19T22:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Argentina",
       "name": "Primera C",
@@ -104,6 +123,19 @@
       ]
     },
     {
+      "category": "Chile",
+      "name": "Primera B",
+      "key": "soccer-chile-primera-b",
+      "events": [
+        {
+          "event_id": "36807191",
+          "home": "Union Espanola",
+          "away": "Deportes Copiapo",
+          "kickoff_utc": "2026-10-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Colombia",
       "name": "Primera B",
       "key": "soccer-colombia-primera-b",
@@ -113,6 +145,18 @@
           "home": "CD Real Santander",
           "away": "Itagui Leones FC",
           "kickoff_utc": "2026-10-19T19:00:00+00:00"
+        },
+        {
+          "event_id": "36851035",
+          "home": "CD Cortulua",
+          "away": "Union Magdalena",
+          "kickoff_utc": "2026-10-19T21:00:00+00:00"
+        },
+        {
+          "event_id": "36851034",
+          "home": "Orsomarso SC",
+          "away": "Bogota FC",
+          "kickoff_utc": "2026-10-19T22:00:00+00:00"
         }
       ]
     },
@@ -145,6 +189,19 @@
           "home": "Viborg FF",
           "away": "FC Midtjylland",
           "kickoff_utc": "2026-10-19T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Ecuador",
+      "name": "LigaPro Primera A",
+      "key": "soccer-ecuador-ligapro-primera-a",
+      "events": [
+        {
+          "event_id": "36750529",
+          "home": "Mushuc Runa SC",
+          "away": "Orense SC",
+          "kickoff_utc": "2026-10-19T20:30:00+00:00"
         }
       ]
     },
@@ -304,6 +361,19 @@
       ]
     },
     {
+      "category": "International",
+      "name": "Mocambola",
+      "key": "soccer-international-mocambola",
+      "events": [
+        {
+          "event_id": "36861578",
+          "home": "Ferroviario de Lichinga",
+          "away": "Ferroviario de Maputo",
+          "kickoff_utc": "2026-10-19T13:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Israel",
       "name": "Liga Alef",
       "key": "soccer-israel-liga-alef",
@@ -437,6 +507,12 @@
       "name": "Ligue 1",
       "key": "soccer-ivory-coast-ligue-1",
       "events": [
+        {
+          "event_id": "36862494",
+          "home": "Agboville FC",
+          "away": "Mouna FC",
+          "kickoff_utc": "2026-10-19T15:30:00+00:00"
+        },
         {
           "event_id": "36858751",
           "home": "ES Agboville",
@@ -665,6 +741,19 @@
           "home": "AL Raed FC",
           "away": "AL Saqer FC",
           "kickoff_utc": "2026-10-19T16:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 2",
+      "key": "soccer-saudi-arabia-division-2",
+      "events": [
+        {
+          "event_id": "36862399",
+          "home": "Jerash Club",
+          "away": "Najran SC",
+          "kickoff_utc": "2026-10-19T12:40:00+00:00"
         }
       ]
     },
