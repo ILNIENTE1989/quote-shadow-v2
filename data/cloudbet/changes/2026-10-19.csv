@@ -2427,3 +2427,30 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T13:39:19.956906+02:00,36856746,Liga Alef,Israel,Maccabi Neve Shaanan Eldad,Maccabi Nujeidat Ahmad,2026-10-19T12:00:00+00:00,20.6674,soccer.total_goals,period=ft,under,total=2.5,1.9,0.0
 2026-10-19T13:39:19.956906+02:00,36856746,Liga Alef,Israel,Maccabi Neve Shaanan Eldad,Maccabi Nujeidat Ahmad,2026-10-19T12:00:00+00:00,20.6674,soccer.total_goals,period=ft,over,total=2.75,1.89,1.88
 2026-10-19T13:39:19.956906+02:00,36856746,Liga Alef,Israel,Maccabi Neve Shaanan Eldad,Maccabi Nujeidat Ahmad,2026-10-19T12:00:00+00:00,20.6674,soccer.total_goals,period=ft,under,total=2.75,1.8,1.73
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,home,handicap=0.5,2.25,0.0
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,away,handicap=0.5,1.48,0.0
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,home,handicap=0.75,2.06,2.17
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,away,handicap=0.75,1.6,1.54
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,home,handicap=1,1.83,1.93
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,away,handicap=1,1.78,1.69
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,home,handicap=1.25,1.63,1.7
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,away,handicap=1.25,2.01,1.91
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,home,handicap=1.5,1.51,1.56
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,away,handicap=1.5,2.2,2.13
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,home,handicap=1.75,0.0,1.43
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.asian_handicap,period=ft,away,handicap=1.75,0.0,2.45
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.double_chance,period=ft,draw_away,,1.14,1.13
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.double_chance,period=ft,home_away,,1.19,1.17
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.double_chance,period=ft,home_draw,,2.15,2.25
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.match_odds,period=ft,home,,4.85,5.15
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.match_odds,period=ft,draw,,3.95,4.1
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.match_odds,period=ft,away,,1.48,1.44
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.total_goals,period=ft,over,total=3,1.78,1.74
+2026-10-19T13:41:31.915618+02:00,36857079,1. MFL,North Macedonia,FK Arsimi 1973,GFK Tikvesh 1930,2026-10-19T12:00:00+00:00,18.4681,soccer.total_goals,period=ft,under,total=3,1.82,1.87
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.88,1.87
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.73,1.74
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.match_odds,period=ft,home,,1.88,1.91
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.match_odds,period=ft,draw,,3.25,3.3
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.match_odds,period=ft,away,,3.3,3.4
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.total_goals,period=ft,over,total=2.5,1.8,1.78
+2026-10-19T13:41:31.915618+02:00,36862399,Division 2,Saudi Arabia,Jerash Club,Najran SC,2026-10-19T12:40:00+00:00,58.4681,soccer.total_goals,period=ft,under,total=2.5,1.8,1.82
