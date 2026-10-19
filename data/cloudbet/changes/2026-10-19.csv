@@ -4983,3 +4983,45 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-19T16:32:06.729401+02:00,36646804,Liga I,Romania,FC Universitatea Cluj,ACS Champions FC Arges,2026-10-19T15:00:00+00:00,27.8878,soccer.total_goals,period=ft,over,total=4.5,6.5,6.7
 2026-10-19T16:32:06.729401+02:00,36860641,Liga Alef,Israel,AS Nordia Jerusalem,Hapoel Marmorek FC,2026-10-19T15:30:00+00:00,57.8878,soccer.double_chance,period=ft,home_away,,1.16,1.17
 2026-10-19T16:32:06.729401+02:00,36860641,Liga Alef,Israel,AS Nordia Jerusalem,Hapoel Marmorek FC,2026-10-19T15:30:00+00:00,57.8878,soccer.double_chance,period=ft,home_draw,,2.4,2.45
+2026-10-19T16:33:23.125823+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,26.6146,soccer.asian_handicap,period=ft,home,handicap=0.25,1.78,1.79
+2026-10-19T16:33:23.125823+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,26.6146,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.85,2.9
+2026-10-19T16:33:23.125823+02:00,36858538,Erovnuli Liga,Georgia,FC Dila Gori,FC Saburtalo Tbilisi,2026-10-19T15:00:00+00:00,26.6146,soccer.asian_handicap,period=ft,home,handicap=0,2.13,2.14
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.asian_handicap,period=ft,home,handicap=0.5,1.84,1.83
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.asian_handicap,period=ft,home,handicap=0.25,2.14,2.13
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.asian_handicap,period=ft,away,handicap=0.25,1.68,1.69
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.asian_handicap,period=ft,home,handicap=0.75,1.61,1.6
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.asian_handicap,period=ft,away,handicap=1,2.85,2.9
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.asian_handicap,period=ft,away,handicap=1.25,3.25,3.3
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.double_chance,period=ft,home_draw,,1.82,1.81
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.match_odds,period=ft,draw,,3.2,3.15
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.match_odds,period=ft,away,,1.97,1.98
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=2.25,2.01,2.04
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=2.25,1.8,1.76
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=1.5,1.39,1.41
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=1.5,2.8,2.75
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=1.75,1.5,1.52
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=1.75,2.45,2.4
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=2,1.69,1.72
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=2,2.11,2.06
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=2.5,2.25,2.3
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=2.5,1.6,1.57
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=2.75,2.6,2.7
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=2.75,1.44,1.42
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,over,total=3,3.35,3.45
+2026-10-19T16:33:23.125823+02:00,36799766,A Lyga,Lithuania,FK Suduva Marijampole,FK Kauno Zalgiris,2026-10-19T15:45:00+00:00,71.6146,soccer.total_goals,period=ft,under,total=3,1.28,1.27
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.0,1.99
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.81,1.82
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.26,1.27
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.37,1.38
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,home,handicap=-1,2.35,2.3
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=-1,1.58,1.59
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.78,1.76
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.02,2.03
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.35,2.4
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=0,3.05,3.1
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.asian_handicap,period=ft,away,handicap=0.25,3.5,3.55
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.match_odds,period=ft,home,,1.78,1.76
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.total_goals,period=ft,under,total=2.75,1.97,1.98
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.total_goals,period=ft,over,total=2.25,1.46,1.45
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.total_goals,period=ft,over,total=3,2.1,2.09
+2026-10-19T16:33:23.125823+02:00,36773687,I Liga,Poland,Bruk-Bet Termalica Nieciecza,Puszcza Niepolomice,2026-10-19T16:00:00+00:00,86.6146,soccer.total_goals,period=ft,over,total=3.25,2.4,2.35
