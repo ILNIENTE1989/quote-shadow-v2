@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T06:17:12.526258+00:00",
+  "generated_at_utc": "2026-10-20T08:19:13.690438+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -55,6 +55,19 @@
       ]
     },
     {
+      "category": "Colombia",
+      "name": "Primera B",
+      "key": "soccer-colombia-primera-b",
+      "events": [
+        {
+          "event_id": "36866947",
+          "home": "Tigres FC",
+          "away": "Real Soacha Cundinamarca",
+          "kickoff_utc": "2026-10-20T19:15:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Croatia",
       "name": "Croatian Cup",
       "key": "soccer-croatia-croatian-cup",
@@ -69,6 +82,165 @@
     },
     {
       "category": "England",
+      "name": "Championship",
+      "key": "soccer-england-championship",
+      "events": [
+        {
+          "event_id": "36822558",
+          "home": "Wolverhampton",
+          "away": "Portsmouth",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "FA Cup",
+      "key": "soccer-england-fa-cup",
+      "events": [
+        {
+          "event_id": "36863974",
+          "home": "Alvechurch",
+          "away": "Spalding United",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36851673",
+          "home": "Anstey Nomads",
+          "away": "Macclesfield FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863970",
+          "home": "Cray Wanderers",
+          "away": "Bedford Town Football Club",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36851676",
+          "home": "FC United of Manchester",
+          "away": "Altrincham FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863975",
+          "home": "Forest Green Rovers",
+          "away": "Chesham United",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863973",
+          "home": "Gloucester City",
+          "away": "Barrow AFC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36851675",
+          "home": "Harrogate Town",
+          "away": "Bury AFC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863968",
+          "home": "Stafford Rangers",
+          "away": "Gateshead FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863969",
+          "home": "Tadley Calleva",
+          "away": "Aldershot Town FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863971",
+          "home": "Worcester City",
+          "away": "Chorley FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36863972",
+          "home": "Yeovil Town",
+          "away": "Leatherhead FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "League Two",
+      "key": "soccer-england-league-two",
+      "events": [
+        {
+          "event_id": "36817730",
+          "home": "Barnet FC",
+          "away": "Swindon Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835329",
+          "home": "Bristol Rovers",
+          "away": "Salford City",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835325",
+          "home": "Cheltenham Town",
+          "away": "Fleetwood Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835332",
+          "home": "Chesterfield FC",
+          "away": "Colchester United",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835327",
+          "home": "Crawley Town",
+          "away": "Shrewsbury Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835324",
+          "home": "Northampton Town",
+          "away": "Tranmere Rovers",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835326",
+          "home": "Rochdale AFC",
+          "away": "Grimsby Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835331",
+          "home": "Rotherham United",
+          "away": "Newport County",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36817935",
+          "home": "Walsall FC",
+          "away": "Oldham Athletic",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36835333",
+          "home": "York City FC",
+          "away": "Accrington Stanley",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36818043",
+          "home": "Gillingham",
+          "away": "Port Vale",
+          "kickoff_utc": "2026-10-20T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
       "name": "National League Cup",
       "key": "soccer-england-ta1e8-national-league-cup",
       "events": [
@@ -77,6 +249,110 @@
           "home": "Boreham Wood FC",
           "away": "Middlesbrough FC",
           "kickoff_utc": "2026-10-20T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "National League South",
+      "key": "soccer-england-national-league-south",
+      "events": [
+        {
+          "event_id": "36847668",
+          "home": "Ebbsfleet United FC",
+          "away": "Horsham FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "Southern League, Premier Central",
+      "key": "soccer-england-southern-football-league-premier-division-central",
+      "events": [
+        {
+          "event_id": "36868341",
+          "home": "Wimborne Town",
+          "away": "Gosport Borough",
+          "kickoff_utc": "2026-10-20T18:30:00+00:00"
+        },
+        {
+          "event_id": "36868725",
+          "home": "Banbury United",
+          "away": "Leighton Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868734",
+          "home": "Bath City FC",
+          "away": "Havant & Waterlooville",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868736",
+          "home": "Chertsey Town",
+          "away": "Evesham United",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868733",
+          "home": "Chichester City FC",
+          "away": "Berkhamsted FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868732",
+          "home": "Hanworth Villa",
+          "away": "Chippenham Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868724",
+          "home": "Hitchin Town",
+          "away": "Stamford AFC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868723",
+          "home": "Kettering Town",
+          "away": "Leiston FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868731",
+          "home": "Needham Market",
+          "away": "Bishop´s Stortford",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868730",
+          "home": "RC Warwick",
+          "away": "Halesowen Town FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868727",
+          "home": "Real Bedford",
+          "away": "Bury Town FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868738",
+          "home": "Taunton Town",
+          "away": "Bracknell Town FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868735",
+          "home": "Uxbridge FC",
+          "away": "Malvern Town",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36868737",
+          "home": "Yate Town",
+          "away": "Sholing FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
         }
       ]
     },
@@ -119,6 +395,74 @@
       ]
     },
     {
+      "category": "Northern Ireland",
+      "name": "League Cup",
+      "key": "soccer-northern-ireland-league-cup",
+      "events": [
+        {
+          "event_id": "36874428",
+          "home": "Annagh United FC",
+          "away": "Limavady United FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874432",
+          "home": "Ballinamallard United",
+          "away": "Queens University",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874430",
+          "home": "Bangor FC",
+          "away": "Dungannon Swifts",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874434",
+          "home": "Carrick Rangers",
+          "away": "Newry City AFC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874427",
+          "home": "Dundela FC",
+          "away": "Moyola Park FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874433",
+          "home": "Institute FC",
+          "away": "Loughgall FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874429",
+          "home": "Newington FC",
+          "away": "Ballymena United",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        },
+        {
+          "event_id": "36874431",
+          "home": "Portadown FC",
+          "away": "Cliftonville FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Northern Ireland",
+      "name": "Premiership",
+      "key": "soccer-northern-ireland-premiership",
+      "events": [
+        {
+          "event_id": "36777253",
+          "home": "Larne FC",
+          "away": "Linfield FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Romania",
       "name": "Liga 2",
       "key": "soccer-romania-liga-2",
@@ -153,6 +497,19 @@
           "home": "Al-Okhdood Club",
           "away": "Al Adalah FC",
           "kickoff_utc": "2026-10-20T16:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Scotland",
+      "name": "Championship",
+      "key": "soccer-scotland-championship",
+      "events": [
+        {
+          "event_id": "36777311",
+          "home": "Dunfermline Athletic FC",
+          "away": "Partick Thistle FC",
+          "kickoff_utc": "2026-10-20T18:45:00+00:00"
         }
       ]
     },
@@ -200,12 +557,6 @@
       "name": "FA Cup",
       "key": "soccer-thailand-fa-cup",
       "events": [
-        {
-          "event_id": "36865279",
-          "home": "Udon United",
-          "away": "Lopburi City",
-          "kickoff_utc": "2026-10-20T08:00:00+00:00"
-        },
         {
           "event_id": "36864913",
           "home": "Chonburi FC",
