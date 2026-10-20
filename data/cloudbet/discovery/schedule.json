@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-20T16:23:06.377606+00:00",
+  "generated_at_utc": "2026-10-20T18:23:10.907741+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Austria",
-      "name": "KFV Cup",
-      "key": "soccer-austria-kfv-cup",
-      "events": [
-        {
-          "event_id": "36874115",
-          "home": "SK Cro-Vienna Florio",
-          "away": "WAF Vorwarts Brigittenau",
-          "kickoff_utc": "2026-10-20T18:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
@@ -25,19 +12,6 @@
           "home": "Independiente Petrolero",
           "away": "Club Aurora",
           "kickoff_utc": "2026-10-20T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Carioca, Serie B1",
-      "key": "soccer-brazil-carioca-serie-b2",
-      "events": [
-        {
-          "event_id": "36866416",
-          "home": "Goncalense FC RJ",
-          "away": "Serrano FC RJ",
-          "kickoff_utc": "2026-10-20T18:00:00+00:00"
         }
       ]
     },
@@ -289,19 +263,6 @@
     },
     {
       "category": "England",
-      "name": "National League Cup",
-      "key": "soccer-england-ta1e8-national-league-cup",
-      "events": [
-        {
-          "event_id": "36864911",
-          "home": "Boreham Wood FC",
-          "away": "Middlesbrough FC",
-          "kickoff_utc": "2026-10-20T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "England",
       "name": "National League South",
       "key": "soccer-england-national-league-south",
       "events": [
@@ -447,32 +408,6 @@
       ]
     },
     {
-      "category": "Germany",
-      "name": "Oberliga Hamburg",
-      "key": "soccer-germany-oberliga-hamburg",
-      "events": [
-        {
-          "event_id": "36880516",
-          "home": "Altonaer FC Von 1893",
-          "away": "Etsv Hamburg",
-          "kickoff_utc": "2026-10-20T17:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Germany",
-      "name": "Schleswig-Holstein-Liga",
-      "key": "soccer-germany-schleswig-holstein-liga",
-      "events": [
-        {
-          "event_id": "36877993",
-          "home": "FC Kilia Kiel",
-          "away": "TSV Nordmark Satrup",
-          "kickoff_utc": "2026-10-20T17:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
@@ -596,19 +531,6 @@
       ]
     },
     {
-      "category": "International",
-      "name": "Super D1",
-      "key": "soccer-international-t6e4e-super-d1",
-      "events": [
-        {
-          "event_id": "36877905",
-          "home": "AS Pompier",
-          "away": "ASC Tevragh-Zeina",
-          "kickoff_utc": "2026-10-20T17:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "International Clubs",
       "name": "CONCACAF Central American Cup",
       "key": "soccer-international-clubs-t9218-concacaf-central-american-cup",
@@ -622,25 +544,6 @@
       ]
     },
     {
-      "category": "Israel",
-      "name": "Liga Bet South A",
-      "key": "soccer-israel-liga-bet-south-a",
-      "events": [
-        {
-          "event_id": "36877495",
-          "home": "Maccabi Ironi Amishav Petah Tikva",
-          "away": "Beitar Ramat Gan",
-          "kickoff_utc": "2026-10-20T17:16:00+00:00"
-        },
-        {
-          "event_id": "36879592",
-          "home": "Bnei Yehud",
-          "away": "Beitar Tel Aviv Bat Yam FC",
-          "kickoff_utc": "2026-10-20T17:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Japan",
       "name": "J.League 2",
       "key": "soccer-japan-j-league-2",
@@ -650,19 +553,6 @@
           "home": "Montedio Yamagata",
           "away": "Hokkaido Consadole Sapporo",
           "kickoff_utc": "2026-10-21T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Kuwait",
-      "name": "Emir Cup",
-      "key": "soccer-kuwait-emir-cup",
-      "events": [
-        {
-          "event_id": "36879587",
-          "home": "Burgan SC",
-          "away": "Al-Shamiya",
-          "kickoff_utc": "2026-10-20T17:40:00+00:00"
         }
       ]
     },
@@ -810,19 +700,6 @@
       ]
     },
     {
-      "category": "Saudi Arabia",
-      "name": "Division 1",
-      "key": "soccer-saudi-arabia-division-1",
-      "events": [
-        {
-          "event_id": "36864680",
-          "home": "Al-Okhdood Club",
-          "away": "Al Adalah FC",
-          "kickoff_utc": "2026-10-20T16:50:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Scotland",
       "name": "Championship",
       "key": "soccer-scotland-championship",
@@ -832,32 +709,6 @@
           "home": "Dunfermline Athletic FC",
           "away": "Partick Thistle FC",
           "kickoff_utc": "2026-10-20T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Tercera Federacion, Group 7",
-      "key": "soccer-spain-tercera-division-group-7",
-      "events": [
-        {
-          "event_id": "36874009",
-          "home": "Levante UD",
-          "away": "Crevillente Deportivo",
-          "kickoff_utc": "2026-10-20T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Sweden",
-      "name": "Superettan",
-      "key": "soccer-sweden-superettan",
-      "events": [
-        {
-          "event_id": "36773160",
-          "home": "IFK Norrkoping FK",
-          "away": "Orebro SK",
-          "kickoff_utc": "2026-10-20T17:00:00+00:00"
         }
       ]
     },
