@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T20:23:11.664044+00:00",
+  "generated_at_utc": "2026-10-20T22:25:10.135889+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -21,12 +21,6 @@
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
         {
-          "event_id": "36761583",
-          "home": "CS Deportivo Pereira",
-          "away": "Boyaca Chico FC",
-          "kickoff_utc": "2026-10-20T21:30:00+00:00"
-        },
-        {
           "event_id": "36761586",
           "home": "Internacional de Bogotá",
           "away": "Fortaleza FC",
@@ -47,19 +41,6 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36866948",
-          "home": "Atletico FC",
-          "away": "Deportes Quindio",
-          "kickoff_utc": "2026-10-20T20:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
@@ -69,6 +50,19 @@
           "home": "CD Malacateco",
           "away": "Comunicaciones FC",
           "kickoff_utc": "2026-10-21T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
+      "events": [
+        {
+          "event_id": "36848937",
+          "home": "Bali United FC",
+          "away": "Garudayaksa",
+          "kickoff_utc": "2026-10-21T08:30:00+00:00"
         }
       ]
     },
@@ -95,6 +89,60 @@
           "home": "Montedio Yamagata",
           "away": "Hokkaido Consadole Sapporo",
           "kickoff_utc": "2026-10-21T04:00:00+00:00"
+        },
+        {
+          "event_id": "36829326",
+          "home": "Albirex Niigata",
+          "away": "Sagan Tosu",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36832803",
+          "home": "Jubilo Iwata",
+          "away": "Oita Trinita",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36832338",
+          "home": "Omiya Ardija",
+          "away": "Kataller Toyama",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36844448",
+          "home": "Shonan Bellmare",
+          "away": "Iwaki FC",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36832804",
+          "home": "Tegevajaro Miyazaki",
+          "away": "Blaublitz Akita",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36829323",
+          "home": "Tochigi City FC",
+          "away": "Fujieda MYFC",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36829325",
+          "home": "Tokushima Vortis",
+          "away": "Vanraure Hachinohe FC",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36829327",
+          "home": "Vegalta Sendai",
+          "away": "FC Imabari",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36844447",
+          "home": "Ventforet Kofu",
+          "away": "Yokohama FC",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
         }
       ]
     },
@@ -143,25 +191,6 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Segunda Division",
-      "key": "soccer-paraguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36876747",
-          "home": "Paraguari",
-          "away": "Club Fernando de La Mora",
-          "kickoff_utc": "2026-10-20T22:00:00+00:00"
-        },
-        {
-          "event_id": "36876745",
-          "home": "Tacuary Asuncion",
-          "away": "Independiente Campo Grande",
-          "kickoff_utc": "2026-10-20T22:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Thailand",
       "name": "FA Cup",
       "key": "soccer-thailand-fa-cup",
@@ -177,6 +206,18 @@
           "home": "Kasem Bundit University FC",
           "away": "MOF Customs United FC",
           "kickoff_utc": "2026-10-21T08:00:00+00:00"
+        },
+        {
+          "event_id": "36879304",
+          "home": "Burapha United",
+          "away": "Chiangrai United",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
+        },
+        {
+          "event_id": "36879192",
+          "home": "Kasetsart University FC",
+          "away": "Chanthaburi",
+          "kickoff_utc": "2026-10-21T10:00:00+00:00"
         }
       ]
     },
