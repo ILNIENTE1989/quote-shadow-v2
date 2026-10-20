@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T14:21:28.832610+00:00",
+  "generated_at_utc": "2026-10-20T16:23:06.377606+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,19 +12,6 @@
           "home": "SK Cro-Vienna Florio",
           "away": "WAF Vorwarts Brigittenau",
           "kickoff_utc": "2026-10-20T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Bahrain",
-      "name": "2nd Division",
-      "key": "soccer-bahrain-2nd-division",
-      "events": [
-        {
-          "event_id": "36866945",
-          "home": "Isa Town",
-          "away": "Um Alhassam",
-          "kickoff_utc": "2026-10-20T16:00:00+00:00"
         }
       ]
     },
@@ -101,19 +88,6 @@
           "home": "Atletico FC",
           "away": "Deportes Quindio",
           "kickoff_utc": "2026-10-20T20:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Croatia",
-      "name": "Croatian Cup",
-      "key": "soccer-croatia-croatian-cup",
-      "events": [
-        {
-          "event_id": "36864765",
-          "home": "NK Karlovac 1919",
-          "away": "HNK Rijeka",
-          "kickoff_utc": "2026-10-20T16:00:00+00:00"
         }
       ]
     },
@@ -474,6 +448,19 @@
     },
     {
       "category": "Germany",
+      "name": "Oberliga Hamburg",
+      "key": "soccer-germany-oberliga-hamburg",
+      "events": [
+        {
+          "event_id": "36880516",
+          "home": "Altonaer FC Von 1893",
+          "away": "Etsv Hamburg",
+          "kickoff_utc": "2026-10-20T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Germany",
       "name": "Schleswig-Holstein-Liga",
       "key": "soccer-germany-schleswig-holstein-liga",
       "events": [
@@ -654,15 +641,15 @@
       ]
     },
     {
-      "category": "Ivory Coast",
-      "name": "Ligue 1",
-      "key": "soccer-ivory-coast-ligue-1",
+      "category": "Japan",
+      "name": "J.League 2",
+      "key": "soccer-japan-j-league-2",
       "events": [
         {
-          "event_id": "36873540",
-          "home": "OFC Adiake",
-          "away": "US Tchologo",
-          "kickoff_utc": "2026-10-20T15:30:00+00:00"
+          "event_id": "36829324",
+          "home": "Montedio Yamagata",
+          "away": "Hokkaido Consadole Sapporo",
+          "kickoff_utc": "2026-10-21T04:00:00+00:00"
         }
       ]
     },
@@ -701,6 +688,12 @@
           "home": "FC Juarez",
           "away": "Atlante FC",
           "kickoff_utc": "2026-10-21T01:00:00+00:00"
+        },
+        {
+          "event_id": "36842838",
+          "home": "Tigres UANL",
+          "away": "Club Leon",
+          "kickoff_utc": "2026-10-21T03:00:00+00:00"
         }
       ]
     },
@@ -817,35 +810,10 @@
       ]
     },
     {
-      "category": "Romania",
-      "name": "Liga 2",
-      "key": "soccer-romania-liga-2",
-      "events": [
-        {
-          "event_id": "36865975",
-          "home": "Asa Targu Mures",
-          "away": "AFC Chindia Targoviste",
-          "kickoff_utc": "2026-10-20T14:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Saudi Arabia",
       "name": "Division 1",
       "key": "soccer-saudi-arabia-division-1",
       "events": [
-        {
-          "event_id": "36864687",
-          "home": "Hajer FC Al-Hasa",
-          "away": "AL Najma",
-          "kickoff_utc": "2026-10-20T14:45:00+00:00"
-        },
-        {
-          "event_id": "36864681",
-          "home": "Al-Orobah",
-          "away": "AL Bukayriyah FC",
-          "kickoff_utc": "2026-10-20T15:20:00+00:00"
-        },
         {
           "event_id": "36864680",
           "home": "Al-Okhdood Club",
@@ -864,19 +832,6 @@
           "home": "Dunfermline Athletic FC",
           "away": "Partick Thistle FC",
           "kickoff_utc": "2026-10-20T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Slovakia",
-      "name": "Slovensky Pohar",
-      "key": "soccer-slovakia-slovensky-pohar",
-      "events": [
-        {
-          "event_id": "36873282",
-          "home": "MFK Tatran Liptovsky Mikulas",
-          "away": "MFK Skalica",
-          "kickoff_utc": "2026-10-20T15:00:00+00:00"
         }
       ]
     },
