@@ -1,33 +1,7 @@
 {
-  "generated_at_utc": "2026-10-19T22:13:19.696198+00:00",
+  "generated_at_utc": "2026-10-20T00:15:12.821083+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
-      "events": [
-        {
-          "event_id": "36709233",
-          "home": "Deportivo Riestra",
-          "away": "Union de Santa Fe",
-          "kickoff_utc": "2026-10-20T00:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Argentina",
-      "name": "Torneo Regional Federal Amateur",
-      "key": "soccer-argentina-torneo-regional-federal-amateur",
-      "events": [
-        {
-          "event_id": "36868226",
-          "home": "CSyD La Fraternidad",
-          "away": "Monte Grande FC",
-          "kickoff_utc": "2026-10-19T23:00:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Bangladesh",
       "name": "Federation Cup",
@@ -42,45 +16,6 @@
       ]
     },
     {
-      "category": "Brazil",
-      "name": "Brasileiro Serie A",
-      "key": "soccer-brazil-brasileiro-serie-a",
-      "events": [
-        {
-          "event_id": "36749639",
-          "home": "SC Corinthians SP",
-          "away": "EC Vitoria BA",
-          "kickoff_utc": "2026-10-19T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie B",
-      "key": "soccer-brazil-brasileiro-serie-b",
-      "events": [
-        {
-          "event_id": "36760925",
-          "home": "Goias EC GO",
-          "away": "Nautico PE",
-          "kickoff_utc": "2026-10-19T22:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brazil Campeonato Paraibano (PB) Division 2",
-      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
-      "events": [
-        {
-          "event_id": "36868224",
-          "home": "Spartax FC",
-          "away": "AA Santa Rita",
-          "kickoff_utc": "2026-10-19T22:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
@@ -90,19 +25,6 @@
           "home": "AD Pasto",
           "away": "Alianza FC Valledupar",
           "kickoff_utc": "2026-10-20T01:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Colombia",
-      "name": "Primera B",
-      "key": "soccer-colombia-primera-b",
-      "events": [
-        {
-          "event_id": "36851037",
-          "home": "Real Cartagena FC",
-          "away": "Boyaca Patriotas",
-          "kickoff_utc": "2026-10-19T23:00:00+00:00"
         }
       ]
     },
@@ -124,12 +46,6 @@
       "name": "Primera Division, Clausura",
       "key": "soccer-costa-rica-primera-division-clausura",
       "events": [
-        {
-          "event_id": "36805384",
-          "home": "Sporting FC",
-          "away": "AD San Carlos",
-          "kickoff_utc": "2026-10-20T00:00:00+00:00"
-        },
         {
           "event_id": "36795299",
           "home": "CD Escorpiones Belen",
@@ -161,6 +77,18 @@
           "home": "Farmel FC",
           "away": "Java United",
           "kickoff_utc": "2026-10-20T08:30:00+00:00"
+        },
+        {
+          "event_id": "36818303",
+          "home": "Bhayangkara Presisi",
+          "away": "Psim Yogyakarta",
+          "kickoff_utc": "2026-10-20T12:00:00+00:00"
+        },
+        {
+          "event_id": "36818305",
+          "home": "Dewa United",
+          "away": "Persijap Jepara",
+          "kickoff_utc": "2026-10-20T12:00:00+00:00"
         }
       ]
     },
@@ -200,19 +128,24 @@
           "home": "Udon United",
           "away": "Lopburi City",
           "kickoff_utc": "2026-10-20T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Primera Division",
-      "key": "soccer-uruguay-primera-division",
-      "events": [
+        },
         {
-          "event_id": "36760035",
-          "home": "Club Nacional de Football",
-          "away": "Deportivo Maldonado",
-          "kickoff_utc": "2026-10-19T23:00:00+00:00"
+          "event_id": "36864913",
+          "home": "Chonburi FC",
+          "away": "Bfb Pattaya City",
+          "kickoff_utc": "2026-10-20T11:00:00+00:00"
+        },
+        {
+          "event_id": "36864912",
+          "home": "Suphanburi FC",
+          "away": "Lamphun Warrior",
+          "kickoff_utc": "2026-10-20T11:00:00+00:00"
+        },
+        {
+          "event_id": "36864909",
+          "home": "Uthai Thani FC",
+          "away": "Nakhon Pathom United FC",
+          "kickoff_utc": "2026-10-20T11:00:00+00:00"
         }
       ]
     }
