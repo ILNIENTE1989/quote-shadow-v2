@@ -1,7 +1,20 @@
 {
-  "generated_at_utc": "2026-10-20T04:17:12.418678+00:00",
+  "generated_at_utc": "2026-10-20T06:17:12.526258+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Austria",
+      "name": "KFV Cup",
+      "key": "soccer-austria-kfv-cup",
+      "events": [
+        {
+          "event_id": "36874115",
+          "home": "SK Cro-Vienna Florio",
+          "away": "WAF Vorwarts Brigittenau",
+          "kickoff_utc": "2026-10-20T18:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Bahrain",
       "name": "2nd Division",
@@ -29,6 +42,19 @@
       ]
     },
     {
+      "category": "Brazil",
+      "name": "Carioca, Serie B1",
+      "key": "soccer-brazil-carioca-serie-b2",
+      "events": [
+        {
+          "event_id": "36866416",
+          "home": "Goncalense FC RJ",
+          "away": "Serrano FC RJ",
+          "kickoff_utc": "2026-10-20T18:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Croatia",
       "name": "Croatian Cup",
       "key": "soccer-croatia-croatian-cup",
@@ -38,6 +64,19 @@
           "home": "NK Karlovac 1919",
           "away": "HNK Rijeka",
           "kickoff_utc": "2026-10-20T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "National League Cup",
+      "key": "soccer-england-ta1e8-national-league-cup",
+      "events": [
+        {
+          "event_id": "36864911",
+          "home": "Boreham Wood FC",
+          "away": "Middlesbrough FC",
+          "kickoff_utc": "2026-10-20T18:00:00+00:00"
         }
       ]
     },
@@ -108,6 +147,12 @@
           "home": "Al-Orobah",
           "away": "AL Bukayriyah FC",
           "kickoff_utc": "2026-10-20T15:20:00+00:00"
+        },
+        {
+          "event_id": "36864680",
+          "home": "Al-Okhdood Club",
+          "away": "Al Adalah FC",
+          "kickoff_utc": "2026-10-20T16:50:00+00:00"
         }
       ]
     },
@@ -121,6 +166,32 @@
           "home": "MFK Tatran Liptovsky Mikulas",
           "away": "MFK Skalica",
           "kickoff_utc": "2026-10-20T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Tercera Federacion, Group 7",
+      "key": "soccer-spain-tercera-division-group-7",
+      "events": [
+        {
+          "event_id": "36874009",
+          "home": "Levante UD",
+          "away": "Crevillente Deportivo",
+          "kickoff_utc": "2026-10-20T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Sweden",
+      "name": "Superettan",
+      "key": "soccer-sweden-superettan",
+      "events": [
+        {
+          "event_id": "36773160",
+          "home": "IFK Norrkoping FK",
+          "away": "Orebro SK",
+          "kickoff_utc": "2026-10-20T17:00:00+00:00"
         }
       ]
     },
