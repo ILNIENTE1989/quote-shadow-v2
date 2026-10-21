@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T20:39:24.237831+00:00",
+  "generated_at_utc": "2026-10-21T22:41:31.427635+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -20,12 +20,6 @@
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36879410",
-          "home": "Real Potosi",
-          "away": "Club Bolivar",
-          "kickoff_utc": "2026-10-21T22:30:00+00:00"
-        },
         {
           "event_id": "36879434",
           "home": "Oriente Petrolero",
@@ -94,28 +88,9 @@
     },
     {
       "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
-      "events": [
-        {
-          "event_id": "36889778",
-          "home": "Deportivo Mixco",
-          "away": "CSD Municipal",
-          "kickoff_utc": "2026-10-21T21:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Guatemala",
       "name": "Primera Division",
       "key": "soccer-guatemala-primera-division",
       "events": [
-        {
-          "event_id": "36895632",
-          "home": "CD SANSARE",
-          "away": "Monjas",
-          "kickoff_utc": "2026-10-21T21:00:00+00:00"
-        },
         {
           "event_id": "36898176",
           "home": "Deportivo Catocha",
@@ -176,19 +151,6 @@
       ]
     },
     {
-      "category": "International Clubs",
-      "name": "Copa Sudamericana",
-      "key": "soccer-international-clubs-copa-sudamericana",
-      "events": [
-        {
-          "event_id": "36796557",
-          "home": "Montevideo City Torque",
-          "away": "Atletico Mineiro MG",
-          "kickoff_utc": "2026-10-21T22:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
@@ -226,32 +188,6 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Mexico Liga Premier Serie A",
-      "key": "soccer-mexico-tc501-mexico-liga-premier-serie-a",
-      "events": [
-        {
-          "event_id": "36895702",
-          "home": "Club Calor",
-          "away": "Guerreros del Pacífico",
-          "kickoff_utc": "2026-10-21T21:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Nicaragua",
-      "name": "Primera Division",
-      "key": "soccer-nicaragua-primera-division",
-      "events": [
-        {
-          "event_id": "36892143",
-          "home": "HYH Sebaco FC",
-          "away": "Indigenas de Matagalpa FC",
-          "kickoff_utc": "2026-10-21T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "USA",
       "name": "US Open Cup",
       "key": "soccer-usa-us-open-cup",
@@ -270,12 +206,6 @@
       "key": "soccer-usa-usl-championship",
       "events": [
         {
-          "event_id": "36855241",
-          "home": "LIU Brooklyn",
-          "away": "Birmingham Legion FC",
-          "kickoff_utc": "2026-10-21T22:30:00+00:00"
-        },
-        {
           "event_id": "36841126",
           "home": "Sporting Jax",
           "away": "Louisville City FC",
@@ -288,24 +218,6 @@
       "name": "Copa Venezuela",
       "key": "soccer-venezuela-copa-venezuela",
       "events": [
-        {
-          "event_id": "36880902",
-          "home": "Estudiantes de Merida",
-          "away": "Caracas FC",
-          "kickoff_utc": "2026-10-21T21:00:00+00:00"
-        },
-        {
-          "event_id": "36880789",
-          "home": "Deportivo La Guaira",
-          "away": "Aragua FC",
-          "kickoff_utc": "2026-10-21T22:00:00+00:00"
-        },
-        {
-          "event_id": "36881852",
-          "home": "Deportivo Tachira",
-          "away": "Monagas SC",
-          "kickoff_utc": "2026-10-21T22:00:00+00:00"
-        },
         {
           "event_id": "36880855",
           "home": "Academia Puerto Cabello",
@@ -323,6 +235,19 @@
           "home": "Carabobo FC",
           "away": "Mineros de Guayana",
           "kickoff_utc": "2026-10-21T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Vietnam",
+      "name": "V-League 2",
+      "key": "soccer-vietnam-v-league-2",
+      "events": [
+        {
+          "event_id": "36900002",
+          "home": "DH van Hien",
+          "away": "Sai Gon FC",
+          "kickoff_utc": "2026-10-22T10:00:00+00:00"
         }
       ]
     }
