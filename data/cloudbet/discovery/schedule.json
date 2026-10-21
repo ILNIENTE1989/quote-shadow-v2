@@ -1,18 +1,25 @@
 {
-  "generated_at_utc": "2026-10-21T18:37:15.626225+00:00",
+  "generated_at_utc": "2026-10-21T20:39:24.237831+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Australia",
+      "name": "Australia Championship",
+      "key": "soccer-australia-tb6c7-australia-championship",
+      "events": [
+        {
+          "event_id": "36885193",
+          "home": "Queensland Lions",
+          "away": "Preston Lions FC",
+          "kickoff_utc": "2026-10-22T08:30:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
       "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
-        {
-          "event_id": "36879324",
-          "home": "Always Ready",
-          "away": "The Strongest",
-          "kickoff_utc": "2026-10-21T19:00:00+00:00"
-        },
         {
           "event_id": "36879410",
           "home": "Real Potosi",
@@ -86,31 +93,6 @@
       ]
     },
     {
-      "category": "England",
-      "name": "Southern League, Premier Central",
-      "key": "soccer-england-southern-football-league-premier-division-central",
-      "events": [
-        {
-          "event_id": "36894102",
-          "home": "Frome Town",
-          "away": "Gloucester City",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
-        },
-        {
-          "event_id": "36890330",
-          "home": "London Lions",
-          "away": "Flackwell Heath",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
-        },
-        {
-          "event_id": "36890331",
-          "home": "Slimbridge",
-          "away": "Hungerford Town FC",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Guatemala",
       "name": "Liga Nacional. Clausura",
       "key": "soccer-guatemala-liga-nacional-clausura",
@@ -133,32 +115,31 @@
           "home": "CD SANSARE",
           "away": "Monjas",
           "kickoff_utc": "2026-10-21T21:00:00+00:00"
+        },
+        {
+          "event_id": "36898176",
+          "home": "Deportivo Catocha",
+          "away": "Deportivo Sanarate FC",
+          "kickoff_utc": "2026-10-22T01:00:00+00:00"
         }
       ]
     },
     {
-      "category": "International",
-      "name": "England Isthmian League Division 1 North",
-      "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
       "events": [
         {
-          "event_id": "36889775",
-          "home": "Grays Athletic FC",
-          "away": "Walthamstow FC",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "England Northern Division 1 North",
-      "key": "soccer-international-tb405-england-northern-division-1-north",
-      "events": [
+          "event_id": "36847445",
+          "home": "PSM Makassar",
+          "away": "Persebaya Surabaya",
+          "kickoff_utc": "2026-10-22T08:30:00+00:00"
+        },
         {
-          "event_id": "36889777",
-          "home": "Coventry United",
-          "away": "Basford United",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
+          "event_id": "36863664",
+          "home": "Persik Kediri",
+          "away": "PSS Sleman",
+          "kickoff_utc": "2026-10-22T08:30:00+00:00"
         }
       ]
     },
@@ -271,32 +252,6 @@
       ]
     },
     {
-      "category": "Northern Ireland",
-      "name": "League Cup",
-      "key": "soccer-northern-ireland-league-cup",
-      "events": [
-        {
-          "event_id": "36876527",
-          "home": "Warrenpoint Town FC",
-          "away": "Crusaders FC",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Tercera Federacion, Group 7",
-      "key": "soccer-spain-tercera-division-group-7",
-      "events": [
-        {
-          "event_id": "36882922",
-          "home": "UD Arenal",
-          "away": "CD Manacor",
-          "kickoff_utc": "2026-10-21T18:45:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "USA",
       "name": "US Open Cup",
       "key": "soccer-usa-us-open-cup",
@@ -325,19 +280,6 @@
           "home": "Sporting Jax",
           "away": "Louisville City FC",
           "kickoff_utc": "2026-10-21T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Copa Uruguay",
-      "key": "soccer-uruguay-t82ec-copa-uruguay",
-      "events": [
-        {
-          "event_id": "36880477",
-          "home": "Liverpool Montevideo",
-          "away": "Cerro Largo FC",
-          "kickoff_utc": "2026-10-21T19:00:00+00:00"
         }
       ]
     },
