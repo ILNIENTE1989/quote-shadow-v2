@@ -9845,3 +9845,15 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-21T17:29:19.112370+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,0.6815,soccer.match_odds,period=ft,home,,3.3,3.2
 2026-10-21T17:29:19.112370+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,0.6815,soccer.match_odds,period=ft,away,,1.95,1.98
 2026-10-21T17:29:19.112370+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,0.6815,soccer.total_goals,period=ft,over,total=2,1.36,1.37
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.91,1.93
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.71,1.72
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.double_chance,period=ft,draw_away,,1.8,1.85
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.double_chance,period=ft,home_away,,1.24,1.25
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.double_chance,period=ft,home_draw,,1.19,1.21
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.total_goals,period=ft,over,total=2.5,1.76,1.77
+2026-10-21T17:31:55.949448+02:00,36888492,Coppa Italia Serie D,Italy,Nuova Ternana,USD Recanatese 1923,2026-10-21T16:00:00+00:00,28.0675,soccer.total_goals,period=ft,under,total=2.5,1.85,1.86
+2026-10-21T17:31:55.949448+02:00,36888652,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Laktasi,FK Kozara Gradiska,2026-10-21T16:30:00+00:00,58.0675,soccer.match_odds,period=ft,home,,1.22,1.23
+2026-10-21T17:31:55.949448+02:00,36888652,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Laktasi,FK Kozara Gradiska,2026-10-21T16:30:00+00:00,58.0675,soccer.match_odds,period=ft,draw,,4.65,4.85
+2026-10-21T17:31:55.949448+02:00,36888652,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Laktasi,FK Kozara Gradiska,2026-10-21T16:30:00+00:00,58.0675,soccer.match_odds,period=ft,away,,9.2,9.6
+2026-10-21T17:31:55.949448+02:00,36880884,"Tercera Federacion, Group 7",Spain,CD San Miguel,CF Estrella,2026-10-21T16:00:00+00:00,28.0675,soccer.double_chance,period=ft,draw_away,,1.97,2.02
+2026-10-21T17:31:55.949448+02:00,36880884,"Tercera Federacion, Group 7",Spain,CD San Miguel,CF Estrella,2026-10-21T16:00:00+00:00,28.0675,soccer.double_chance,period=ft,home_away,,1.21,1.22
