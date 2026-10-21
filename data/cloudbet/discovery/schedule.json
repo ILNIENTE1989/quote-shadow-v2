@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T02:25:11.894111+00:00",
+  "generated_at_utc": "2026-10-21T04:27:08.740126+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -35,6 +35,19 @@
       ]
     },
     {
+      "category": "Bulgaria",
+      "name": "Bulgarian Cup",
+      "key": "soccer-bulgaria-bulgarian-cup",
+      "events": [
+        {
+          "event_id": "36880785",
+          "home": "PFC Cherno More Varna",
+          "away": "PFC Lokomotiv Plovdiv",
+          "kickoff_utc": "2026-10-21T15:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Cyprus",
       "name": "Cyprus Cup",
       "key": "soccer-cyprus-cyprus-cup",
@@ -44,6 +57,12 @@
           "home": "AEK Larnaca",
           "away": "Akritas Chlorakas",
           "kickoff_utc": "2026-10-21T14:00:00+00:00"
+        },
+        {
+          "event_id": "36880284",
+          "home": "Nea Salamina Famagusta",
+          "away": "Apea Akrotiriou",
+          "kickoff_utc": "2026-10-21T15:00:00+00:00"
         }
       ]
     },
@@ -103,6 +122,19 @@
       ]
     },
     {
+      "category": "Finland",
+      "name": "Veikkausliiga",
+      "key": "soccer-finland-veikkausliiga",
+      "events": [
+        {
+          "event_id": "36865384",
+          "home": "PK 35 Vantaa",
+          "away": "FF Jaro",
+          "kickoff_utc": "2026-10-21T15:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Indonesia",
       "name": "Liga 1",
       "key": "soccer-indonesia-liga-1",
@@ -118,6 +150,19 @@
           "home": "Persija Jakarta",
           "away": "Arema FC",
           "kickoff_utc": "2026-10-21T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Italy",
+      "name": "Coppa Italia Serie D",
+      "key": "soccer-italy-coppa-italia-serie-d",
+      "events": [
+        {
+          "event_id": "36888492",
+          "home": "Nuova Ternana",
+          "away": "USD Recanatese 1923",
+          "kickoff_utc": "2026-10-21T16:00:00+00:00"
         }
       ]
     },
@@ -139,12 +184,6 @@
       "name": "J.League 2",
       "key": "soccer-japan-j-league-2",
       "events": [
-        {
-          "event_id": "36829324",
-          "home": "Montedio Yamagata",
-          "away": "Hokkaido Consadole Sapporo",
-          "kickoff_utc": "2026-10-21T04:00:00+00:00"
-        },
         {
           "event_id": "36829326",
           "home": "Albirex Niigata",
@@ -202,15 +241,60 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
+      "category": "Norway",
+      "name": "3rd Division Group 1",
+      "key": "soccer-norway-3rd-division-group-1",
       "events": [
         {
-          "event_id": "36842838",
-          "home": "Tigres UANL",
-          "away": "Club Leon",
-          "kickoff_utc": "2026-10-21T03:00:00+00:00"
+          "event_id": "36887819",
+          "home": "Aalesund 2",
+          "away": "Nardo FK",
+          "kickoff_utc": "2026-10-21T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 1",
+      "key": "soccer-saudi-arabia-division-1",
+      "events": [
+        {
+          "event_id": "36864693",
+          "home": "AL Jeel",
+          "away": "AL Jandal",
+          "kickoff_utc": "2026-10-21T14:45:00+00:00"
+        },
+        {
+          "event_id": "36864702",
+          "home": "AL Anwar",
+          "away": "AL Wehda FC",
+          "kickoff_utc": "2026-10-21T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovakia",
+      "name": "Slovensky Pohar",
+      "key": "soccer-slovakia-slovensky-pohar",
+      "events": [
+        {
+          "event_id": "36888151",
+          "home": "FC Vion Zlate Moravce - Vrable",
+          "away": "KFC Komarno",
+          "kickoff_utc": "2026-10-21T15:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Tercera Federacion, Group 7",
+      "key": "soccer-spain-tercera-division-group-7",
+      "events": [
+        {
+          "event_id": "36880884",
+          "home": "CD San Miguel",
+          "away": "CF Estrella",
+          "kickoff_utc": "2026-10-21T16:00:00+00:00"
         }
       ]
     },
