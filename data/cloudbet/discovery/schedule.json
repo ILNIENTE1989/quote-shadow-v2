@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T00:25:10.278734+00:00",
+  "generated_at_utc": "2026-10-21T02:25:11.894111+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -35,28 +35,70 @@
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
+      "category": "Cyprus",
+      "name": "Cyprus Cup",
+      "key": "soccer-cyprus-cyprus-cup",
       "events": [
         {
-          "event_id": "36844049",
-          "home": "Millonarios FC",
-          "away": "CD Once Caldas",
-          "kickoff_utc": "2026-10-21T01:30:00+00:00"
+          "event_id": "36880281",
+          "home": "AEK Larnaca",
+          "away": "Akritas Chlorakas",
+          "kickoff_utc": "2026-10-21T14:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "category": "Egypt",
+      "name": "2nd Division",
+      "key": "soccer-egypt-2nd-division",
       "events": [
         {
-          "event_id": "36868739",
-          "home": "CD Malacateco",
-          "away": "Comunicaciones FC",
-          "kickoff_utc": "2026-10-21T02:00:00+00:00"
+          "event_id": "36886296",
+          "home": "Diamond FC",
+          "away": "Orange Sport FSI",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886301",
+          "home": "El Alameen",
+          "away": "Al-Shanwani SC",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886302",
+          "home": "El Obour SC",
+          "away": "Ra SC",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886298",
+          "home": "El Olympi",
+          "away": "Delphi SC",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886297",
+          "home": "Gezira SC",
+          "away": "Cascada SC",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886300",
+          "home": "Horse Owners Club",
+          "away": "Kom Hamada",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886299",
+          "home": "Misr Insurance FC",
+          "away": "Levels FC",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
+        },
+        {
+          "event_id": "36886295",
+          "home": "Mostaqbal Watan Club",
+          "away": "EL Banha",
+          "kickoff_utc": "2026-10-21T12:30:00+00:00"
         }
       ]
     },
@@ -80,15 +122,15 @@
       ]
     },
     {
-      "category": "International Clubs",
-      "name": "CONCACAF Central American Cup",
-      "key": "soccer-international-clubs-t9218-concacaf-central-american-cup",
+      "category": "Italy",
+      "name": "Serie D, Girone H",
+      "key": "soccer-italy-serie-d-girone-h",
       "events": [
         {
-          "event_id": "36867672",
-          "home": "CD Marathon San Pedro Sula",
-          "away": "Alianza FC San Salvador",
-          "kickoff_utc": "2026-10-21T02:00:00+00:00"
+          "event_id": "36886510",
+          "home": "Solbiatese Arno Calcio",
+          "away": "Tropical Coriano",
+          "kickoff_utc": "2026-10-21T13:00:00+00:00"
         }
       ]
     },
@@ -164,18 +206,6 @@
       "name": "Liga MX, Apertura",
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
-        {
-          "event_id": "36842837",
-          "home": "Atletico San Luis",
-          "away": "Queretaro FC",
-          "kickoff_utc": "2026-10-21T01:00:00+00:00"
-        },
-        {
-          "event_id": "36844050",
-          "home": "FC Juarez",
-          "away": "Atlante FC",
-          "kickoff_utc": "2026-10-21T01:00:00+00:00"
-        },
         {
           "event_id": "36842838",
           "home": "Tigres UANL",
