@@ -8408,3 +8408,40 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-21T16:03:15.547058+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,86.7409,soccer.match_odds,period=ft,home,,3.55,3.4
 2026-10-21T16:03:15.547058+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,86.7409,soccer.match_odds,period=ft,draw,,3.15,3.1
 2026-10-21T16:03:15.547058+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,86.7409,soccer.match_odds,period=ft,away,,1.86,1.92
+2026-10-21T16:05:25.392108+02:00,36890653,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Potkozarje,FK Drina Zvornik,2026-10-21T14:30:00+00:00,24.5768,soccer.double_chance,period=ft,home_away,,1.23,1.25
+2026-10-21T16:05:25.392108+02:00,36890653,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Potkozarje,FK Drina Zvornik,2026-10-21T14:30:00+00:00,24.5768,soccer.double_chance,period=ft,home_draw,,1.17,1.18
+2026-10-21T16:05:25.392108+02:00,36890653,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Potkozarje,FK Drina Zvornik,2026-10-21T14:30:00+00:00,24.5768,soccer.match_odds,period=ft,home,,1.63,1.67
+2026-10-21T16:05:25.392108+02:00,36890653,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Potkozarje,FK Drina Zvornik,2026-10-21T14:30:00+00:00,24.5768,soccer.match_odds,period=ft,draw,,3.5,3.45
+2026-10-21T16:05:25.392108+02:00,36890653,"Prva Liga, Rep of Srpska",Bosnia & Herzegovina,FK Potkozarje,FK Drina Zvornik,2026-10-21T14:30:00+00:00,24.5768,soccer.match_odds,period=ft,away,,4.45,4.25
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,away,handicap=-1,1.28,1.29
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2.25,1.95,1.97
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=1.5,1.32,1.31
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=1.75,1.4,1.39
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=1.75,2.7,2.75
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=2.5,2.07,2.06
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2.5,1.7,1.71
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2.75,1.51,1.52
+2026-10-21T16:05:25.392108+02:00,36880785,Bulgarian Cup,Bulgaria,PFC Cherno More Varna,PFC Lokomotiv Plovdiv,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=3,3.0,2.95
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,home,handicap=0.5,1.76,1.77
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,away,handicap=0.5,1.93,1.91
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,home,handicap=0,2.5,2.55
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,home,handicap=0.25,2.01,2.03
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,away,handicap=0.25,1.66,1.65
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,home,handicap=0.75,1.57,1.58
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.asian_handicap,period=ft,away,handicap=0.75,2.17,2.16
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.match_odds,period=ft,home,,3.4,3.45
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.match_odds,period=ft,away,,1.92,1.9
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=2.5,1.81,1.86
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2.5,1.87,1.82
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=1.75,1.26,1.29
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=1.75,3.15,3.0
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=2,1.34,1.38
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2,2.75,2.6
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=2.25,1.57,1.62
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2.25,2.16,2.09
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=2.75,2.01,2.07
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=2.75,1.67,1.63
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=3,2.35,2.4
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=3,1.47,1.44
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,over,total=3.25,2.6,2.7
+2026-10-21T16:05:25.392108+02:00,36888151,Slovensky Pohar,Slovakia,FC Vion Zlate Moravce - Vrable,KFC Komarno,2026-10-21T15:30:00+00:00,84.5768,soccer.total_goals,period=ft,under,total=3.25,1.38,1.35
