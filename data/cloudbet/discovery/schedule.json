@@ -1,17 +1,36 @@
 {
-  "generated_at_utc": "2026-10-20T22:25:10.135889+00:00",
+  "generated_at_utc": "2026-10-21T00:25:10.278734+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Bolivia",
-      "name": "Copa Division Profesional",
-      "key": "soccer-bolivia-t8ca3-copa-division-profesional",
+      "category": "Azerbaijan",
+      "name": "First Division",
+      "key": "soccer-azerbaijan-first-division",
       "events": [
         {
-          "event_id": "36867027",
-          "home": "Independiente Petrolero",
-          "away": "Club Aurora",
-          "kickoff_utc": "2026-10-20T23:00:00+00:00"
+          "event_id": "36885260",
+          "home": "FK Shahdag-Samur Qusar",
+          "away": "Sabail FK",
+          "kickoff_utc": "2026-10-21T11:00:00+00:00"
+        },
+        {
+          "event_id": "36885258",
+          "home": "Khankendi FK",
+          "away": "Energetik Mingechevir",
+          "kickoff_utc": "2026-10-21T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Bosnia & Herzegovina",
+      "name": "Prva Liga, Rep of Srpska",
+      "key": "soccer-bosnia-herzegovina-prva-liga-rep-of-srpska",
+      "events": [
+        {
+          "event_id": "36886032",
+          "home": "FK Zvijezda 09",
+          "away": "FK Omarska",
+          "kickoff_utc": "2026-10-21T12:00:00+00:00"
         }
       ]
     },
@@ -20,18 +39,6 @@
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
-        {
-          "event_id": "36761586",
-          "home": "Internacional de Bogotá",
-          "away": "Fortaleza FC",
-          "kickoff_utc": "2026-10-20T23:15:00+00:00"
-        },
-        {
-          "event_id": "36761585",
-          "home": "Cucuta Deportivo FC",
-          "away": "Atletico Nacional Medellin",
-          "kickoff_utc": "2026-10-20T23:30:00+00:00"
-        },
         {
           "event_id": "36844049",
           "home": "Millonarios FC",
@@ -63,6 +70,12 @@
           "home": "Bali United FC",
           "away": "Garudayaksa",
           "kickoff_utc": "2026-10-21T08:30:00+00:00"
+        },
+        {
+          "event_id": "36834178",
+          "home": "Persija Jakarta",
+          "away": "Arema FC",
+          "kickoff_utc": "2026-10-21T12:00:00+00:00"
         }
       ]
     },
@@ -152,12 +165,6 @@
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
         {
-          "event_id": "36841123",
-          "home": "Guadalajara Chivas",
-          "away": "Necaxa",
-          "kickoff_utc": "2026-10-21T00:07:00+00:00"
-        },
-        {
           "event_id": "36842837",
           "home": "Atletico San Luis",
           "away": "Queretaro FC",
@@ -174,19 +181,6 @@
           "home": "Tigres UANL",
           "away": "Club Leon",
           "kickoff_utc": "2026-10-21T03:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Panama",
-      "name": "Liga Nacional de Ascenso",
-      "key": "soccer-panama-liga-nacional-de-ascenso",
-      "events": [
-        {
-          "event_id": "36877558",
-          "home": "Chorrillo FC",
-          "away": "San Martin FC",
-          "kickoff_utc": "2026-10-20T23:00:00+00:00"
         }
       ]
     },
@@ -218,19 +212,48 @@
           "home": "Kasetsart University FC",
           "away": "Chanthaburi",
           "kickoff_utc": "2026-10-21T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Primera Division Amateur",
-      "key": "soccer-uruguay-primera-division-amateur",
-      "events": [
+        },
         {
-          "event_id": "36878013",
-          "home": "Bella Italia",
-          "away": "Deportivo Colonia",
-          "kickoff_utc": "2026-10-20T23:30:00+00:00"
+          "event_id": "36878655",
+          "home": "Khon Kaen United FC",
+          "away": "BG Pathum United FC",
+          "kickoff_utc": "2026-10-21T11:00:00+00:00"
+        },
+        {
+          "event_id": "36878038",
+          "home": "Rasisalai United",
+          "away": "Port FC",
+          "kickoff_utc": "2026-10-21T11:00:00+00:00"
+        },
+        {
+          "event_id": "36877200",
+          "home": "Thap Luang United",
+          "away": "Rayong FC",
+          "kickoff_utc": "2026-10-21T11:00:00+00:00"
+        },
+        {
+          "event_id": "36877004",
+          "home": "Ayutthaya United FC",
+          "away": "Muang Thong United",
+          "kickoff_utc": "2026-10-21T11:30:00+00:00"
+        },
+        {
+          "event_id": "36877201",
+          "home": "BANGKOK FC",
+          "away": "Nongbua Pitchaya FC",
+          "kickoff_utc": "2026-10-21T11:30:00+00:00"
+        },
+        {
+          "event_id": "36877308",
+          "home": "Police Tero FC",
+          "away": "Surin City",
+          "kickoff_utc": "2026-10-21T11:30:00+00:00"
+        },
+        {
+          "event_id": "36878115",
+          "home": "Ratchaburi Mitr Phol FC",
+          "away": "Pattani FC",
+          "kickoff_utc": "2026-10-21T12:00:00+00:00"
         }
       ]
     }
