@@ -4107,3 +4107,12 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-22T10:37:15.773142+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,22.7371,soccer.match_odds,period=ft,away,,2.65,2.5
 2026-10-22T10:37:15.773142+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,22.7371,soccer.total_goals,period=ft,over,total=3,1.77,1.73
 2026-10-22T10:37:15.773142+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,22.7371,soccer.total_goals,period=ft,under,total=3,1.87,1.91
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.asian_handicap,period=ft,home,handicap=0,1.73,1.77
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.asian_handicap,period=ft,away,handicap=0,1.92,1.87
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.double_chance,period=ft,draw_away,,1.5,1.48
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.double_chance,period=ft,home_draw,,1.42,1.43
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.match_odds,period=ft,home,,2.25,2.3
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.match_odds,period=ft,draw,,3.55,3.5
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.match_odds,period=ft,away,,2.5,2.45
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.total_goals,period=ft,over,total=3,1.73,1.77
+2026-10-22T10:49:18.370278+02:00,36905316,Pervaya Liga,Kazakhstan,Akademia Ontustyk,FK Turan,2026-10-22T09:00:00+00:00,10.6938,soccer.total_goals,period=ft,under,total=3,1.91,1.87
