@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T12:49:15.467509+00:00",
+  "generated_at_utc": "2026-10-22T14:49:15.757491+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -25,6 +25,19 @@
           "home": "CA Porto (PE)",
           "away": "Central SC PE",
           "kickoff_utc": "2026-10-22T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36820877",
+          "home": "Atletico Nacional Medellin",
+          "away": "AD Pasto",
+          "kickoff_utc": "2026-10-23T01:00:00+00:00"
         }
       ]
     },
@@ -70,6 +83,19 @@
           "home": "Mount Pleasant FC",
           "away": "Club Sando",
           "kickoff_utc": "2026-10-22T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International Clubs",
+      "name": "CONCACAF Central American Cup",
+      "key": "soccer-international-clubs-t9218-concacaf-central-american-cup",
+      "events": [
+        {
+          "event_id": "36906375",
+          "home": "FC Motagua Tegucigalpa",
+          "away": "Liga Deportiva Alajuelense",
+          "kickoff_utc": "2026-10-23T01:00:00+00:00"
         }
       ]
     },
@@ -156,16 +182,23 @@
       ]
     },
     {
+      "category": "Mexico",
+      "name": "Liga de Expansion MX, Apertura",
+      "key": "soccer-mexico-liga-de-ascenso-apertura",
+      "events": [
+        {
+          "event_id": "36853397",
+          "home": "Alebrijes de Oaxaca FC",
+          "away": "CD Cruz Azul Hidalgo",
+          "kickoff_utc": "2026-10-23T01:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Montenegro",
       "name": "1. CFL",
       "key": "soccer-montenegro-1-cfl",
       "events": [
-        {
-          "event_id": "36901923",
-          "home": "FK Mornar Bar",
-          "away": "Mladost DG",
-          "kickoff_utc": "2026-10-22T13:00:00+00:00"
-        },
         {
           "event_id": "36881833",
           "home": "FK Buducnost",
@@ -175,15 +208,21 @@
       ]
     },
     {
-      "category": "Romania",
-      "name": "Liga 2",
-      "key": "soccer-romania-liga-2",
+      "category": "Panama",
+      "name": "Liga Nacional de Ascenso",
+      "key": "soccer-panama-liga-nacional-de-ascenso",
       "events": [
         {
-          "event_id": "36894395",
-          "home": "FC Bihor Oradea",
-          "away": "CSM Metalul Reşiţa",
-          "kickoff_utc": "2026-10-22T13:00:00+00:00"
+          "event_id": "36904959",
+          "home": "SD Atletico Nacional",
+          "away": "Aguilas UP",
+          "kickoff_utc": "2026-10-23T01:00:00+00:00"
+        },
+        {
+          "event_id": "36898636",
+          "home": "SD Atletico Nacional",
+          "away": "Universidad de Panama",
+          "kickoff_utc": "2026-10-23T01:00:00+00:00"
         }
       ]
     },
@@ -193,35 +232,10 @@
       "key": "soccer-united-arab-emirates-presidents-cup",
       "events": [
         {
-          "event_id": "36887556",
-          "home": "Al Jazira (UAE)",
-          "away": "Ajman Club",
-          "kickoff_utc": "2026-10-22T13:00:00+00:00"
-        },
-        {
-          "event_id": "36887402",
-          "home": "Al-Wasl FC",
-          "away": "Al-Ittihad Kalba",
-          "kickoff_utc": "2026-10-22T13:00:00+00:00"
-        },
-        {
           "event_id": "36904994",
           "home": "Shabab Al-Ahli Dubai FC",
           "away": "Al-Ain FC",
           "kickoff_utc": "2026-10-22T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uzbekistan",
-      "name": "Superliga",
-      "key": "soccer-uzbekistan-pfl",
-      "events": [
-        {
-          "event_id": "36894521",
-          "home": "FC Bunyodkor",
-          "away": "PFK Mash AL Mubarek",
-          "kickoff_utc": "2026-10-22T13:30:00+00:00"
         }
       ]
     },
