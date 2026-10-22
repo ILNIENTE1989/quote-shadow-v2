@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T14:49:15.757491+00:00",
+  "generated_at_utc": "2026-10-22T16:51:37.004200+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -12,6 +12,19 @@
           "home": "Always Ready",
           "away": "The Strongest",
           "kickoff_utc": "2026-10-23T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
+      "name": "Brazil Campeonato Paraibano (PB) Division 2",
+      "key": "soccer-brazil-tc40f-brazil-campeonato-paraibano-pb-division-2",
+      "events": [
+        {
+          "event_id": "36911750",
+          "home": "Auto EC (PB)",
+          "away": "CD Cruzeiro",
+          "kickoff_utc": "2026-10-22T22:30:00+00:00"
         }
       ]
     },
@@ -38,38 +51,6 @@
           "home": "Atletico Nacional Medellin",
           "away": "AD Pasto",
           "kickoff_utc": "2026-10-23T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Finland",
-      "name": "Ykkonen",
-      "key": "soccer-finland-ykkonen",
-      "events": [
-        {
-          "event_id": "36906799",
-          "home": "Rovaniemen Palloseura",
-          "away": "KaPa Kapylan Pallo",
-          "kickoff_utc": "2026-10-22T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "Liberia LFA Division 1",
-      "key": "soccer-international-tc55f-liberia-lfa-division-1",
-      "events": [
-        {
-          "event_id": "36908427",
-          "home": "Freeport",
-          "away": "Liberia Ship Corporate Registry FC (LISCR)",
-          "kickoff_utc": "2026-10-22T16:00:00+00:00"
-        },
-        {
-          "event_id": "36908426",
-          "home": "Watanga",
-          "away": "BEA Mountain",
-          "kickoff_utc": "2026-10-22T16:00:00+00:00"
         }
       ]
     },
@@ -157,31 +138,6 @@
       ]
     },
     {
-      "category": "Jordan",
-      "name": "Jordan 1st Division",
-      "key": "soccer-jordan-jordan-1st-division",
-      "events": [
-        {
-          "event_id": "36906707",
-          "home": "AL Sareeh",
-          "away": "Ittihad Jarash",
-          "kickoff_utc": "2026-10-22T15:00:00+00:00"
-        },
-        {
-          "event_id": "36903185",
-          "home": "AL Sareeh",
-          "away": "Jerash Club",
-          "kickoff_utc": "2026-10-22T15:00:00+00:00"
-        },
-        {
-          "event_id": "36906279",
-          "home": "Al Yarmouk",
-          "away": "Sahl Houran",
-          "kickoff_utc": "2026-10-22T15:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Mexico",
       "name": "Liga de Expansion MX, Apertura",
       "key": "soccer-mexico-liga-de-ascenso-apertura",
@@ -191,19 +147,6 @@
           "home": "Alebrijes de Oaxaca FC",
           "away": "CD Cruz Azul Hidalgo",
           "kickoff_utc": "2026-10-23T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Montenegro",
-      "name": "1. CFL",
-      "key": "soccer-montenegro-1-cfl",
-      "events": [
-        {
-          "event_id": "36881833",
-          "home": "FK Buducnost",
-          "away": "FK Arsenal Tivat",
-          "kickoff_utc": "2026-10-22T16:00:00+00:00"
         }
       ]
     },
@@ -223,19 +166,6 @@
           "home": "SD Atletico Nacional",
           "away": "Universidad de Panama",
           "kickoff_utc": "2026-10-23T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "United Arab Emirates",
-      "name": "Presidents Cup",
-      "key": "soccer-united-arab-emirates-presidents-cup",
-      "events": [
-        {
-          "event_id": "36904994",
-          "home": "Shabab Al-Ahli Dubai FC",
-          "away": "Al-Ain FC",
-          "kickoff_utc": "2026-10-22T16:00:00+00:00"
         }
       ]
     },
