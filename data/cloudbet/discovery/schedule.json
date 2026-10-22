@@ -1,7 +1,26 @@
 {
-  "generated_at_utc": "2026-10-22T18:53:17.253528+00:00",
+  "generated_at_utc": "2026-10-22T20:53:24.272379+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Australia",
+      "name": "Australia Championship",
+      "key": "soccer-australia-tb6c7-australia-championship",
+      "events": [
+        {
+          "event_id": "36884856",
+          "home": "Adelaide City FC",
+          "away": "APIA Leichhardt",
+          "kickoff_utc": "2026-10-23T08:30:00+00:00"
+        },
+        {
+          "event_id": "36885533",
+          "home": "South Melbourne FC",
+          "away": "Sydney United",
+          "kickoff_utc": "2026-10-23T08:30:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Bolivia",
       "name": "Copa Division Profesional",
@@ -94,6 +113,25 @@
       ]
     },
     {
+      "category": "Israel",
+      "name": "Liga Alef",
+      "key": "soccer-israel-liga-alef",
+      "events": [
+        {
+          "event_id": "36914338",
+          "home": "Hapoel Migdal Haemeq",
+          "away": "Baqa Al-Gharbiyye",
+          "kickoff_utc": "2026-10-23T08:30:00+00:00"
+        },
+        {
+          "event_id": "36914337",
+          "home": "Maccabi Kiryat Ata-Bialik",
+          "away": "Hapoel Umm AL Fahm",
+          "kickoff_utc": "2026-10-23T08:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Mexico",
       "name": "Liga de Expansion MX, Apertura",
       "key": "soccer-mexico-liga-de-ascenso-apertura",
@@ -130,12 +168,6 @@
       "name": "Copa Venezuela",
       "key": "soccer-venezuela-copa-venezuela",
       "events": [
-        {
-          "event_id": "36892913",
-          "home": "Metropolitanos FC",
-          "away": "Academia Anzoategui FC",
-          "kickoff_utc": "2026-10-22T19:00:00+00:00"
-        },
         {
           "event_id": "36892713",
           "home": "UCV FC",
