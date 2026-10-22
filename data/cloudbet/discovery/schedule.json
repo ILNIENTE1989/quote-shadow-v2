@@ -1,66 +1,30 @@
 {
-  "generated_at_utc": "2026-10-22T10:47:16.872283+00:00",
+  "generated_at_utc": "2026-10-22T12:49:15.467509+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Azerbaijan",
-      "name": "First Division",
-      "key": "soccer-azerbaijan-first-division",
+      "category": "Bolivia",
+      "name": "Copa Division Profesional",
+      "key": "soccer-bolivia-t8ca3-copa-division-profesional",
       "events": [
         {
-          "event_id": "36900729",
-          "home": "Cabrayil",
-          "away": "Zaqatala FK",
-          "kickoff_utc": "2026-10-22T11:00:00+00:00"
-        },
-        {
-          "event_id": "36900728",
-          "home": "Moik Baku",
-          "away": "FK Karvan Yevlakh",
-          "kickoff_utc": "2026-10-22T11:00:00+00:00"
-        },
-        {
-          "event_id": "36900730",
-          "home": "Simal",
-          "away": "Baku Sporting",
-          "kickoff_utc": "2026-10-22T11:00:00+00:00"
+          "event_id": "36893185",
+          "home": "Always Ready",
+          "away": "The Strongest",
+          "kickoff_utc": "2026-10-23T00:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Egypt",
-      "name": "Egypt Division 2 A",
-      "key": "soccer-egypt-tbb45-egypt-division-2-a",
+      "category": "Brazil",
+      "name": "Pernambucano",
+      "key": "soccer-brazil-pernambucano",
       "events": [
         {
-          "event_id": "36886134",
-          "home": "Al Nasr (EGY)",
-          "away": "El Daklyeh",
-          "kickoff_utc": "2026-10-22T12:30:00+00:00"
-        },
-        {
-          "event_id": "36886830",
-          "home": "Dayrout",
-          "away": "El Sekka El Hadid",
-          "kickoff_utc": "2026-10-22T12:30:00+00:00"
-        },
-        {
-          "event_id": "36887122",
-          "home": "Delta United FC",
-          "away": "Tanta FC",
-          "kickoff_utc": "2026-10-22T12:30:00+00:00"
-        },
-        {
-          "event_id": "36886132",
-          "home": "Maleyeit Kafr El Zayiat",
-          "away": "Kahrabaa Ismailia",
-          "kickoff_utc": "2026-10-22T12:30:00+00:00"
-        },
-        {
-          "event_id": "36886627",
-          "home": "WE Sports Club",
-          "away": "Baladiyyat AL Mehalla",
-          "kickoff_utc": "2026-10-22T12:30:00+00:00"
+          "event_id": "36908756",
+          "home": "CA Porto (PE)",
+          "away": "Central SC PE",
+          "kickoff_utc": "2026-10-22T23:00:00+00:00"
         }
       ]
     },
@@ -78,15 +42,47 @@
       ]
     },
     {
-      "category": "Indonesia",
-      "name": "Liga 1",
-      "key": "soccer-indonesia-liga-1",
+      "category": "International",
+      "name": "Liberia LFA Division 1",
+      "key": "soccer-international-tc55f-liberia-lfa-division-1",
       "events": [
         {
-          "event_id": "36849644",
-          "home": "Madura United",
-          "away": "Persib Bandung",
-          "kickoff_utc": "2026-10-22T12:00:00+00:00"
+          "event_id": "36908427",
+          "home": "Freeport",
+          "away": "Liberia Ship Corporate Registry FC (LISCR)",
+          "kickoff_utc": "2026-10-22T16:00:00+00:00"
+        },
+        {
+          "event_id": "36908426",
+          "home": "Watanga",
+          "away": "BEA Mountain",
+          "kickoff_utc": "2026-10-22T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International Clubs",
+      "name": "CONCACAF Caribbean Cup",
+      "key": "soccer-international-clubs-t92b0-concacaf-caribbean-cup",
+      "events": [
+        {
+          "event_id": "36907277",
+          "home": "Mount Pleasant FC",
+          "away": "Club Sando",
+          "kickoff_utc": "2026-10-22T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International Clubs",
+      "name": "Copa Libertadores",
+      "key": "soccer-international-clubs-copa-libertadores",
+      "events": [
+        {
+          "event_id": "36811721",
+          "home": "CR Flamengo RJ",
+          "away": "Estudiantes de La Plata",
+          "kickoff_utc": "2026-10-23T00:30:00+00:00"
         }
       ]
     },
@@ -110,16 +106,35 @@
       ]
     },
     {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36908640",
+          "home": "Hapoel Kfar Casem Shua",
+          "away": "Ironi Beit Dagan",
+          "kickoff_utc": "2026-10-22T17:30:00+00:00"
+        },
+        {
+          "event_id": "36908641",
+          "home": "Maccabi Bnei Abu Snan",
+          "away": "FC Ahva Kfar Manda",
+          "kickoff_utc": "2026-10-22T17:30:00+00:00"
+        },
+        {
+          "event_id": "36909097",
+          "home": "FC HAPOEL BNEI ASHDOD",
+          "away": "Hapoel Bnei Kuseife",
+          "kickoff_utc": "2026-10-22T18:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Jordan",
       "name": "Jordan 1st Division",
       "key": "soccer-jordan-jordan-1st-division",
       "events": [
-        {
-          "event_id": "36901331",
-          "home": "Sama",
-          "away": "Amman FC",
-          "kickoff_utc": "2026-10-22T12:00:00+00:00"
-        },
         {
           "event_id": "36906707",
           "home": "AL Sareeh",
@@ -156,19 +171,6 @@
           "home": "FK Buducnost",
           "away": "FK Arsenal Tivat",
           "kickoff_utc": "2026-10-22T16:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Philippines",
-      "name": "Philippines UAAP Football Championship",
-      "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
-      "events": [
-        {
-          "event_id": "36904277",
-          "home": "UST Growling Tigers Students",
-          "away": "FEU Tamaraws Students",
-          "kickoff_utc": "2026-10-22T11:00:00+00:00"
         }
       ]
     },
@@ -233,19 +235,12 @@
           "home": "Metropolitanos FC",
           "away": "Academia Anzoategui FC",
           "kickoff_utc": "2026-10-22T19:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Vietnam",
-      "name": "V-League 2",
-      "key": "soccer-vietnam-v-league-2",
-      "events": [
+        },
         {
-          "event_id": "36900815",
-          "home": "Phu Tho FC",
-          "away": "PVF-CAND FC",
-          "kickoff_utc": "2026-10-22T11:00:00+00:00"
+          "event_id": "36892713",
+          "home": "UCV FC",
+          "away": "Atletico Barinas",
+          "kickoff_utc": "2026-10-22T23:30:00+00:00"
         }
       ]
     }
