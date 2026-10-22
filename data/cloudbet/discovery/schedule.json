@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T02:43:15.792526+00:00",
+  "generated_at_utc": "2026-10-22T04:43:16.466638+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -87,6 +87,12 @@
           "home": "Technico FF",
           "away": "FC Real Bengaluru",
           "kickoff_utc": "2026-10-22T08:00:00+00:00"
+        },
+        {
+          "event_id": "36903981",
+          "home": "FC Bengaluru United",
+          "away": "Kodagu Fc",
+          "kickoff_utc": "2026-10-22T10:30:00+00:00"
         }
       ]
     },
@@ -125,25 +131,12 @@
           "home": "Sama",
           "away": "Amman FC",
           "kickoff_utc": "2026-10-22T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Mexico",
-      "name": "Liga MX, Apertura",
-      "key": "soccer-mexico-t90c7-liga-mx-apertura",
-      "events": [
-        {
-          "event_id": "36850760",
-          "home": "CF Pachuca",
-          "away": "Cruz Azul",
-          "kickoff_utc": "2026-10-22T03:10:00+00:00"
         },
         {
-          "event_id": "36841122",
-          "home": "Club Santos Laguna",
-          "away": "Pumas UNAM",
-          "kickoff_utc": "2026-10-22T03:10:00+00:00"
+          "event_id": "36903185",
+          "home": "AL Sareeh",
+          "away": "Jerash Club",
+          "kickoff_utc": "2026-10-22T15:00:00+00:00"
         }
       ]
     },
@@ -157,6 +150,12 @@
           "home": "FK Mornar Bar",
           "away": "Mladost DG",
           "kickoff_utc": "2026-10-22T13:00:00+00:00"
+        },
+        {
+          "event_id": "36881833",
+          "home": "FK Buducnost",
+          "away": "FK Arsenal Tivat",
+          "kickoff_utc": "2026-10-22T16:00:00+00:00"
         }
       ]
     },
