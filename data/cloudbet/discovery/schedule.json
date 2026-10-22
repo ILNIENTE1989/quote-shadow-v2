@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T04:43:16.466638+00:00",
+  "generated_at_utc": "2026-10-22T06:45:15.633929+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -122,6 +122,25 @@
       ]
     },
     {
+      "category": "Israel",
+      "name": "Liga Alef",
+      "key": "soccer-israel-liga-alef",
+      "events": [
+        {
+          "event_id": "36904278",
+          "home": "MS Tira",
+          "away": "Hapoel Tirat Hacarmel",
+          "kickoff_utc": "2026-10-22T17:00:00+00:00"
+        },
+        {
+          "event_id": "36904355",
+          "home": "Hapoel Herzelia FC",
+          "away": "Hapoel Azor FC",
+          "kickoff_utc": "2026-10-22T17:15:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Jordan",
       "name": "Jordan 1st Division",
       "key": "soccer-jordan-jordan-1st-division",
@@ -137,6 +156,19 @@
           "home": "AL Sareeh",
           "away": "Jerash Club",
           "kickoff_utc": "2026-10-22T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Kazakhstan",
+      "name": "Pervaya Liga",
+      "key": "soccer-kazakhstan-pervaya-liga",
+      "events": [
+        {
+          "event_id": "36904934",
+          "home": "Jaiyq",
+          "away": "FK Arys",
+          "kickoff_utc": "2026-10-22T09:00:00+00:00"
         }
       ]
     },
@@ -165,16 +197,16 @@
       "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
       "events": [
         {
-          "event_id": "36901165",
-          "home": "Ateneo Blue Eagles Students",
-          "away": "UE Red Warriors Students",
-          "kickoff_utc": "2026-10-22T06:00:00+00:00"
-        },
-        {
           "event_id": "36902811",
           "home": "DLS Green Archers Students",
           "away": "UP Fighting Maroons Students",
           "kickoff_utc": "2026-10-22T08:30:00+00:00"
+        },
+        {
+          "event_id": "36904277",
+          "home": "UST Growling Tigers Students",
+          "away": "FEU Tamaraws Students",
+          "kickoff_utc": "2026-10-22T11:00:00+00:00"
         }
       ]
     },
@@ -207,6 +239,12 @@
           "home": "Al-Wasl FC",
           "away": "Al-Ittihad Kalba",
           "kickoff_utc": "2026-10-22T13:00:00+00:00"
+        },
+        {
+          "event_id": "36904994",
+          "home": "Shabab Al-Ahli Dubai FC",
+          "away": "Al-Ain FC",
+          "kickoff_utc": "2026-10-22T16:00:00+00:00"
         }
       ]
     },
