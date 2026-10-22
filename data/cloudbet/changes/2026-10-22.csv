@@ -2921,3 +2921,7 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-22T04:31:48.800556+02:00,36841122,"Liga MX, Apertura",Mexico,Club Santos Laguna,Pumas UNAM,2026-10-22T03:10:00+00:00,38.1867,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.15,2.14
 2026-10-22T04:31:48.800556+02:00,36841122,"Liga MX, Apertura",Mexico,Club Santos Laguna,Pumas UNAM,2026-10-22T03:10:00+00:00,38.1867,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.73,1.74
 2026-10-22T04:31:48.800556+02:00,36841122,"Liga MX, Apertura",Mexico,Club Santos Laguna,Pumas UNAM,2026-10-22T03:10:00+00:00,38.1867,soccer.asian_handicap,period=ft,home,handicap=1,1.21,1.2
+2026-10-22T04:35:16.189258+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,34.7302,soccer.asian_handicap,period=ft,away,handicap=0.5,2.16,2.17
+2026-10-22T04:35:16.189258+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,34.7302,soccer.match_odds,period=ft,away,,2.16,2.17
+2026-10-22T04:35:16.189258+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,34.7302,soccer.total_goals,period=ft,over,total=2.75,1.73,1.74
+2026-10-22T04:35:16.189258+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,34.7302,soccer.total_goals,period=ft,under,total=3.25,1.69,1.68
