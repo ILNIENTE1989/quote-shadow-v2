@@ -2872,3 +2872,12 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-22T04:19:13.975534+02:00,36841122,"Liga MX, Apertura",Mexico,Club Santos Laguna,Pumas UNAM,2026-10-22T03:10:00+00:00,50.7671,soccer.match_odds,period=ft,away,,2.7,2.65
 2026-10-22T04:19:13.975534+02:00,36841122,"Liga MX, Apertura",Mexico,Club Santos Laguna,Pumas UNAM,2026-10-22T03:10:00+00:00,50.7671,soccer.total_goals,period=ft,over,total=4.5,4.3,4.25
 2026-10-22T04:21:31.890352+02:00,36891664,CONCACAF Central American Cup,International Clubs,CS Cartagines,CD Olimpia Tegucigalpa,2026-10-22T02:30:00+00:00,8.4685,soccer.double_chance,period=ft,draw_away,,1.42,1.4
+2026-10-22T04:25:18.435435+02:00,36891664,CONCACAF Central American Cup,International Clubs,CS Cartagines,CD Olimpia Tegucigalpa,2026-10-22T02:30:00+00:00,4.6927,soccer.double_chance,period=ft,draw_away,,1.4,1.42
+2026-10-22T04:25:18.435435+02:00,36891664,CONCACAF Central American Cup,International Clubs,CS Cartagines,CD Olimpia Tegucigalpa,2026-10-22T02:30:00+00:00,4.6927,soccer.double_chance,period=ft,home_away,,1.25,1.27
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.asian_handicap,period=ft,away,handicap=0.25,1.9,1.89
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.9,3.95
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.total_goals,period=ft,over,total=3,1.95,1.96
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.total_goals,period=ft,over,total=2.75,1.73,1.74
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.total_goals,period=ft,under,total=2.75,2.13,2.12
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.total_goals,period=ft,under,total=3.25,1.69,1.68
+2026-10-22T04:25:18.435435+02:00,36850760,"Liga MX, Apertura",Mexico,CF Pachuca,Cruz Azul,2026-10-22T03:10:00+00:00,44.6927,soccer.total_goals,period=ft,under,total=3.5,1.56,1.55
