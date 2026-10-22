@@ -1,20 +1,7 @@
 {
-  "generated_at_utc": "2026-10-22T06:45:15.633929+00:00",
+  "generated_at_utc": "2026-10-22T08:47:16.706372+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Australia",
-      "name": "Australia Championship",
-      "key": "soccer-australia-tb6c7-australia-championship",
-      "events": [
-        {
-          "event_id": "36885193",
-          "home": "Queensland Lions",
-          "away": "Preston Lions FC",
-          "kickoff_utc": "2026-10-22T08:30:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Azerbaijan",
       "name": "First Division",
@@ -83,12 +70,6 @@
       "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36902347",
-          "home": "Technico FF",
-          "away": "FC Real Bengaluru",
-          "kickoff_utc": "2026-10-22T08:00:00+00:00"
-        },
-        {
           "event_id": "36903981",
           "home": "FC Bengaluru United",
           "away": "Kodagu Fc",
@@ -101,18 +82,6 @@
       "name": "Liga 1",
       "key": "soccer-indonesia-liga-1",
       "events": [
-        {
-          "event_id": "36847445",
-          "home": "PSM Makassar",
-          "away": "Persebaya Surabaya",
-          "kickoff_utc": "2026-10-22T08:30:00+00:00"
-        },
-        {
-          "event_id": "36863664",
-          "home": "Persik Kediri",
-          "away": "PSS Sleman",
-          "kickoff_utc": "2026-10-22T08:30:00+00:00"
-        },
         {
           "event_id": "36849644",
           "home": "Madura United",
@@ -156,6 +125,12 @@
           "home": "AL Sareeh",
           "away": "Jerash Club",
           "kickoff_utc": "2026-10-22T15:00:00+00:00"
+        },
+        {
+          "event_id": "36906279",
+          "home": "Al Yarmouk",
+          "away": "Sahl Houran",
+          "kickoff_utc": "2026-10-22T15:00:00+00:00"
         }
       ]
     },
@@ -164,6 +139,12 @@
       "name": "Pervaya Liga",
       "key": "soccer-kazakhstan-pervaya-liga",
       "events": [
+        {
+          "event_id": "36905316",
+          "home": "Akademia Ontustyk",
+          "away": "FK Turan",
+          "kickoff_utc": "2026-10-22T09:00:00+00:00"
+        },
         {
           "event_id": "36904934",
           "home": "Jaiyq",
@@ -196,12 +177,6 @@
       "name": "Philippines UAAP Football Championship",
       "key": "soccer-philippines-tb670-philippines-uaap-football-championship",
       "events": [
-        {
-          "event_id": "36902811",
-          "home": "DLS Green Archers Students",
-          "away": "UP Fighting Maroons Students",
-          "kickoff_utc": "2026-10-22T08:30:00+00:00"
-        },
         {
           "event_id": "36904277",
           "home": "UST Growling Tigers Students",
@@ -258,6 +233,19 @@
           "home": "FC Bunyodkor",
           "away": "PFK Mash AL Mubarek",
           "kickoff_utc": "2026-10-22T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Venezuela",
+      "name": "Copa Venezuela",
+      "key": "soccer-venezuela-copa-venezuela",
+      "events": [
+        {
+          "event_id": "36892913",
+          "home": "Metropolitanos FC",
+          "away": "Academia Anzoategui FC",
+          "kickoff_utc": "2026-10-22T19:00:00+00:00"
         }
       ]
     },
