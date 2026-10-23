@@ -3482,3 +3482,28 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-23T11:57:15.464568+02:00,36915475,Liga Alef,Israel,Hapoel Karmiel FC,Hapoel Nof Hagalil FC,2026-10-23T10:25:00+00:00,27.7423,soccer.double_chance,period=ft,home_draw,,1.4,1.41
 2026-10-23T11:57:15.464568+02:00,36915474,Liga Alef,Israel,Hapoel Ironi Arraba,Maccabi Neve Shaanan Eldad,2026-10-23T10:30:00+00:00,32.7423,soccer.double_chance,period=ft,draw_away,,1.21,1.2
 2026-10-23T11:57:15.464568+02:00,36915474,Liga Alef,Israel,Hapoel Ironi Arraba,Maccabi Neve Shaanan Eldad,2026-10-23T10:30:00+00:00,32.7423,soccer.double_chance,period=ft,home_draw,,1.81,1.84
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.91,1.9
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.78,1.79
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.asian_handicap,period=ft,home,handicap=-1,3.45,3.4
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.19,2.18
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.57,1.58
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.match_odds,period=ft,home,,2.2,2.19
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.match_odds,period=ft,away,,2.95,2.9
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=2.25,2.0,1.95
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=2.25,1.72,1.75
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=1.5,1.38,1.36
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=1.5,2.65,2.7
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=1.75,1.49,1.47
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=1.75,2.3,2.35
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=2,1.68,1.65
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=2,2.01,2.06
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=2.5,2.25,2.2
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=2.5,1.54,1.56
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=2.75,2.6,2.55
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=2.75,1.39,1.41
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,over,total=3,3.35,3.2
+2026-10-23T11:59:14.331153+02:00,36915856,V-League 2,Vietnam,Quy Nhon United,Lam Dong,2026-10-23T11:00:00+00:00,60.7611,soccer.total_goals,period=ft,under,total=3,1.24,1.26
+2026-10-23T11:59:14.331153+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,35.7611,soccer.double_chance,period=ft,draw_away,,4.75,4.65
+2026-10-23T11:59:14.331153+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,35.7611,soccer.double_chance,period=ft,home_away,,1.02,1.03
+2026-10-23T11:59:14.331153+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,35.7611,soccer.match_odds,period=ft,draw,,7.65,7.55
+2026-10-23T11:59:14.331153+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,35.7611,soccer.match_odds,period=ft,away,,27.0,24.0
