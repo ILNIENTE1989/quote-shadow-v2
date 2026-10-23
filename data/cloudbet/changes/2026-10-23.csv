@@ -3182,3 +3182,25 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-23T11:27:15.174644+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,67.7471,soccer.double_chance,period=ft,draw_away,,4.3,4.35
 2026-10-23T11:27:15.174644+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,67.7471,soccer.match_odds,period=ft,draw,,6.45,6.55
 2026-10-23T11:27:15.174644+02:00,36915532,Liga Alef,Israel,Shimshon Tel Aviv,AS Nordia Jerusalem,2026-10-23T10:35:00+00:00,67.7471,soccer.match_odds,period=ft,away,,26.0,28.0
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.78,1.85
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.91,1.85
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=-1,2.85,3.0
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=-1,1.33,1.3
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.3,2.35
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.5,1.46
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.02,2.08
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.67,1.63
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=0,1.52,1.57
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=0,2.3,2.2
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=0.25,1.38,1.42
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=0.25,2.65,2.5
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,home,handicap=0.5,1.3,1.33
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.asian_handicap,period=ft,away,handicap=0.5,3.0,2.85
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.match_odds,period=ft,home,,2.03,2.09
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.match_odds,period=ft,away,,3.05,2.9
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.total_goals,period=ft,under,total=2.75,1.88,1.89
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.total_goals,period=ft,under,total=2,3.15,3.2
+2026-10-23T11:29:15.093195+02:00,36915273,Liga Alef,Israel,Ironi Beit Shemesh,Hapoel Mahane Yehuda,2026-10-23T10:00:00+00:00,30.7484,soccer.total_goals,period=ft,under,total=2.5,2.07,2.08
+2026-10-23T11:29:15.093195+02:00,36915474,Liga Alef,Israel,Hapoel Ironi Arraba,Maccabi Neve Shaanan Eldad,2026-10-23T10:30:00+00:00,60.7484,soccer.double_chance,period=ft,draw_away,,1.22,1.2
+2026-10-23T11:29:15.093195+02:00,36915474,Liga Alef,Israel,Hapoel Ironi Arraba,Maccabi Neve Shaanan Eldad,2026-10-23T10:30:00+00:00,60.7484,soccer.double_chance,period=ft,home_away,,1.25,1.24
+2026-10-23T11:29:15.093195+02:00,36915474,Liga Alef,Israel,Hapoel Ironi Arraba,Maccabi Neve Shaanan Eldad,2026-10-23T10:30:00+00:00,60.7484,soccer.double_chance,period=ft,home_draw,,1.71,1.78
