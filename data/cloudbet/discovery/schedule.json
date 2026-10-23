@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T22:53:25.699699+00:00",
+  "generated_at_utc": "2026-10-23T00:55:12.116044+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -22,32 +22,6 @@
       ]
     },
     {
-      "category": "Bolivia",
-      "name": "Copa Division Profesional",
-      "key": "soccer-bolivia-t8ca3-copa-division-profesional",
-      "events": [
-        {
-          "event_id": "36893185",
-          "home": "Always Ready",
-          "away": "The Strongest",
-          "kickoff_utc": "2026-10-23T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Pernambucano",
-      "key": "soccer-brazil-pernambucano",
-      "events": [
-        {
-          "event_id": "36908756",
-          "home": "CA Porto (PE)",
-          "away": "Central SC PE",
-          "kickoff_utc": "2026-10-22T23:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
@@ -57,6 +31,56 @@
           "home": "Atletico Nacional Medellin",
           "away": "AD Pasto",
           "kickoff_utc": "2026-10-23T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Egypt",
+      "name": "Egypt Division 2 A",
+      "key": "soccer-egypt-tbb45-egypt-division-2-a",
+      "events": [
+        {
+          "event_id": "36894084",
+          "home": "El-Entag El-Harby",
+          "away": "El Mansurah",
+          "kickoff_utc": "2026-10-23T12:30:00+00:00"
+        },
+        {
+          "event_id": "36894082",
+          "home": "FC Masar",
+          "away": "Pharco FC",
+          "kickoff_utc": "2026-10-23T12:30:00+00:00"
+        },
+        {
+          "event_id": "36894083",
+          "home": "Haras El Hodood",
+          "away": "Proxy SC",
+          "kickoff_utc": "2026-10-23T12:30:00+00:00"
+        },
+        {
+          "event_id": "36894085",
+          "home": "Ismaily SC",
+          "away": "La Viena FC",
+          "kickoff_utc": "2026-10-23T12:30:00+00:00"
+        },
+        {
+          "event_id": "36894086",
+          "home": "Team FC Cairo",
+          "away": "El Terasanah",
+          "kickoff_utc": "2026-10-23T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
+      "events": [
+        {
+          "event_id": "36915936",
+          "home": "Roots FC",
+          "away": "Prarikrma FC",
+          "kickoff_utc": "2026-10-23T05:30:00+00:00"
         }
       ]
     },
@@ -75,19 +99,6 @@
     },
     {
       "category": "International Clubs",
-      "name": "CONCACAF Caribbean Cup",
-      "key": "soccer-international-clubs-t92b0-concacaf-caribbean-cup",
-      "events": [
-        {
-          "event_id": "36907277",
-          "home": "Mount Pleasant FC",
-          "away": "Club Sando",
-          "kickoff_utc": "2026-10-22T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International Clubs",
       "name": "CONCACAF Central American Cup",
       "key": "soccer-international-clubs-t9218-concacaf-central-american-cup",
       "events": [
@@ -96,19 +107,6 @@
           "home": "FC Motagua Tegucigalpa",
           "away": "Liga Deportiva Alajuelense",
           "kickoff_utc": "2026-10-23T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International Clubs",
-      "name": "Copa Libertadores",
-      "key": "soccer-international-clubs-copa-libertadores",
-      "events": [
-        {
-          "event_id": "36811721",
-          "home": "CR Flamengo RJ",
-          "away": "Estudiantes de La Plata",
-          "kickoff_utc": "2026-10-23T00:30:00+00:00"
         }
       ]
     },
@@ -176,6 +174,50 @@
           "home": "Shimshon Tel Aviv",
           "away": "AS Nordia Jerusalem",
           "kickoff_utc": "2026-10-23T10:35:00+00:00"
+        },
+        {
+          "event_id": "36915627",
+          "home": "FC Holon Yirmiyahu",
+          "away": "FC Tzeirey Tira",
+          "kickoff_utc": "2026-10-23T11:00:00+00:00"
+        },
+        {
+          "event_id": "36915628",
+          "home": "Maccabi Nujeidat Ahmad",
+          "away": "Ironi Nesher",
+          "kickoff_utc": "2026-10-23T11:00:00+00:00"
+        },
+        {
+          "event_id": "36916351",
+          "home": "Hapoel Ihoud Bnei Jat",
+          "away": "Hapoel Bnei Musmus",
+          "kickoff_utc": "2026-10-23T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Israel",
+      "name": "Liga Bet South A",
+      "key": "soccer-israel-liga-bet-south-a",
+      "events": [
+        {
+          "event_id": "36916487",
+          "home": "Beitar Ramat Gan",
+          "away": "Hakoach Amidar Ramat Gan",
+          "kickoff_utc": "2026-10-23T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Malaysia",
+      "name": "FA Cup",
+      "key": "soccer-malaysia-fa-cup",
+      "events": [
+        {
+          "event_id": "36916705",
+          "home": "Brunei DPMM FC",
+          "away": "Johor Darul Ta'zim FC",
+          "kickoff_utc": "2026-10-23T12:15:00+00:00"
         }
       ]
     },
@@ -189,6 +231,19 @@
           "home": "Alebrijes de Oaxaca FC",
           "away": "CD Cruz Azul Hidalgo",
           "kickoff_utc": "2026-10-23T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "North Macedonia",
+      "name": "1. MFL",
+      "key": "soccer-macedonia-1-mfl",
+      "events": [
+        {
+          "event_id": "36916666",
+          "home": "FK Sileks Kratovo",
+          "away": "KF Shkendija Haracine",
+          "kickoff_utc": "2026-10-23T12:00:00+00:00"
         }
       ]
     },
@@ -212,15 +267,79 @@
       ]
     },
     {
-      "category": "Venezuela",
-      "name": "Copa Venezuela",
-      "key": "soccer-venezuela-copa-venezuela",
+      "category": "Poland",
+      "name": "II Liga",
+      "key": "soccer-poland-ii-liga",
       "events": [
         {
-          "event_id": "36892713",
-          "home": "UCV FC",
-          "away": "Atletico Barinas",
-          "kickoff_utc": "2026-10-22T23:30:00+00:00"
+          "event_id": "36894087",
+          "home": "Sokol Kleczew",
+          "away": "Slask II Wroclaw",
+          "kickoff_utc": "2026-10-23T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Romania",
+      "name": "Liga 3",
+      "key": "soccer-romania-t8e46-liga-3",
+      "events": [
+        {
+          "event_id": "36916450",
+          "home": "CS Metalurgistul Cugir",
+          "away": "Universitatea Alba Iulia",
+          "kickoff_utc": "2026-10-23T12:00:00+00:00"
+        },
+        {
+          "event_id": "36916449",
+          "home": "FC Drobeta Turnu-Severin",
+          "away": "CS Minerul Lupeni",
+          "kickoff_utc": "2026-10-23T12:00:00+00:00"
+        },
+        {
+          "event_id": "36916442",
+          "home": "Sanatatea Cluj",
+          "away": "FC Unirea Dej",
+          "kickoff_utc": "2026-10-23T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 2",
+      "key": "soccer-saudi-arabia-division-2",
+      "events": [
+        {
+          "event_id": "36916668",
+          "home": "Al-Taraji Club",
+          "away": "Al Ghota FC",
+          "kickoff_utc": "2026-10-23T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Serbia",
+      "name": "Prva Liga",
+      "key": "soccer-serbia-prva-liga",
+      "events": [
+        {
+          "event_id": "36908694",
+          "home": "FK Teleoptik",
+          "away": "FK TSC Backa Topola",
+          "kickoff_utc": "2026-10-23T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "United Arab Emirates",
+      "name": "Presidents Cup",
+      "key": "soccer-united-arab-emirates-presidents-cup",
+      "events": [
+        {
+          "event_id": "36908973",
+          "home": "Fujairah FC",
+          "away": "Al Wahda FC (UAE)",
+          "kickoff_utc": "2026-10-23T12:55:00+00:00"
         }
       ]
     },
@@ -234,6 +353,18 @@
           "home": "K. Khanh Hoa",
           "away": "Can Tho FC",
           "kickoff_utc": "2026-10-23T10:00:00+00:00"
+        },
+        {
+          "event_id": "36915857",
+          "home": "B. Binh Duong",
+          "away": "Su Pham Thai Nguyen University",
+          "kickoff_utc": "2026-10-23T11:00:00+00:00"
+        },
+        {
+          "event_id": "36915856",
+          "home": "Quy Nhon United",
+          "away": "Lam Dong",
+          "kickoff_utc": "2026-10-23T11:00:00+00:00"
         }
       ]
     }
