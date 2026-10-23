@@ -2388,3 +2388,36 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-23T10:17:14.649703+02:00,36885533,Australia Championship,Australia,South Melbourne FC,Sydney United,2026-10-23T08:30:00+00:00,12.7558,soccer.total_goals,period=ft,over,total=2.5,1.72,1.73
 2026-10-23T10:17:14.649703+02:00,36885533,Australia Championship,Australia,South Melbourne FC,Sydney United,2026-10-23T08:30:00+00:00,12.7558,soccer.total_goals,period=ft,under,total=2.5,2.06,2.05
 2026-10-23T10:17:14.649703+02:00,36885533,Australia Championship,Australia,South Melbourne FC,Sydney United,2026-10-23T08:30:00+00:00,12.7558,soccer.total_goals,period=ft,over,total=3.5,2.75,2.8
+2026-10-23T10:21:27.604089+02:00,36914897,Indonesia Championship Cup,Indonesia,Persipura Jayapura,Persiba Balikpapan,2026-10-23T08:30:00+00:00,8.5399,soccer.double_chance,period=ft,draw_away,,3.75,3.8
+2026-10-23T10:21:27.604089+02:00,36914897,Indonesia Championship Cup,Indonesia,Persipura Jayapura,Persiba Balikpapan,2026-10-23T08:30:00+00:00,8.5399,soccer.double_chance,period=ft,home_away,,1.07,1.02
+2026-10-23T10:21:27.604089+02:00,36914897,Indonesia Championship Cup,Indonesia,Persipura Jayapura,Persiba Balikpapan,2026-10-23T08:30:00+00:00,8.5399,soccer.double_chance,period=ft,home_draw,,1.03,0.0
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.89,1.92
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.8,1.78
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.8,2.85
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.34,1.32
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,home,handicap=-1,2.5,2.55
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,away,handicap=-1,1.42,1.4
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.12,2.16
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.61,1.59
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.66,1.67
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.04,2.02
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.asian_handicap,period=ft,away,handicap=0,2.5,2.45
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.match_odds,period=ft,home,,1.89,1.91
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.match_odds,period=ft,draw,,3.4,3.35
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=2.75,1.63,1.72
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=2.75,2.08,1.96
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=2.25,1.35,1.4
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=2.25,2.75,2.55
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=2.5,1.5,1.56
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=2.5,2.3,2.16
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=3,1.84,1.98
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=3,1.85,1.74
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=3.25,2.07,2.2
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=3.25,1.64,1.56
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=3.5,2.25,2.45
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=3.5,1.51,1.45
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,over,total=3.75,2.65,2.85
+2026-10-23T10:21:27.604089+02:00,36914338,Liga Alef,Israel,Hapoel Migdal Haemeq,Baqa Al-Gharbiyye,2026-10-23T08:30:00+00:00,8.5399,soccer.total_goals,period=ft,under,total=3.75,1.37,1.32
+2026-10-23T10:21:27.604089+02:00,36914337,Liga Alef,Israel,Maccabi Kiryat Ata-Bialik,Hapoel Umm AL Fahm,2026-10-23T08:30:00+00:00,8.5399,soccer.double_chance,period=ft,home_draw,,1.39,0.0
+2026-10-23T10:21:27.604089+02:00,36914337,Liga Alef,Israel,Maccabi Kiryat Ata-Bialik,Hapoel Umm AL Fahm,2026-10-23T08:30:00+00:00,8.5399,soccer.double_chance,period=ft,home_away,,1.27,0.0
+2026-10-23T10:21:27.604089+02:00,36914337,Liga Alef,Israel,Maccabi Kiryat Ata-Bialik,Hapoel Umm AL Fahm,2026-10-23T08:30:00+00:00,8.5399,soccer.double_chance,period=ft,draw_away,,1.48,0.0
