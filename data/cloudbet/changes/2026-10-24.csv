@@ -561,3 +561,22 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-24T01:02:10.458919+02:00,36749212,Liga Profesional,Argentina,CA Tigre,Atletico Tucuman,2026-10-24T00:15:00+00:00,72.8257,soccer.total_goals,period=ft,over,total=2,1.93,1.92
 2026-10-24T01:02:10.458919+02:00,36749212,Liga Profesional,Argentina,CA Tigre,Atletico Tucuman,2026-10-24T00:15:00+00:00,72.8257,soccer.total_goals,period=ft,under,total=2,1.91,1.92
 2026-10-24T01:02:10.458919+02:00,36749212,Liga Profesional,Argentina,CA Tigre,Atletico Tucuman,2026-10-24T00:15:00+00:00,72.8257,soccer.total_goals,period=ft,under,total=1.75,2.2,2.25
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,home,handicap=0.25,1.78,1.77
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=0.25,2.07,2.09
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.7,3.65
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.27,1.28
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.95,2.9
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.55,2.5
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.52,1.53
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,home,handicap=0,2.14,2.11
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=0,1.72,1.74
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,home,handicap=0.5,1.59,1.57
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=0.75,2.9,2.95
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=1,4.0,4.05
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.asian_handicap,period=ft,away,handicap=1.25,4.5,4.55
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.double_chance,period=ft,draw_away,,1.39,1.4
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.double_chance,period=ft,home_away,,1.32,1.33
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.double_chance,period=ft,home_draw,,1.57,1.56
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.match_odds,period=ft,home,,2.95,2.9
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.match_odds,period=ft,draw,,3.3,3.35
+2026-10-24T01:09:24.601195+02:00,36854074,Brasileiro Serie B,Brazil,SC Recife PE,Criciuma EC SC,2026-10-24T00:00:00+00:00,50.59,soccer.total_goals,period=ft,under,total=1.5,3.3,3.35
