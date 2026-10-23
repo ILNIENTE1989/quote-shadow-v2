@@ -8560,3 +8560,11 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-23T16:37:14.328143+02:00,36832328,1. Liga,Russia,Torpedo Moscow,SK Rotor Volgograd,2026-10-23T15:00:00+00:00,22.7612,soccer.match_odds,period=ft,away,,4.05,4.1
 2026-10-23T16:37:14.328143+02:00,36832328,1. Liga,Russia,Torpedo Moscow,SK Rotor Volgograd,2026-10-23T15:00:00+00:00,22.7612,soccer.total_goals,period=ft,under,total=2,2.25,2.3
 2026-10-23T16:37:14.328143+02:00,36832328,1. Liga,Russia,Torpedo Moscow,SK Rotor Volgograd,2026-10-23T15:00:00+00:00,22.7612,soccer.total_goals,period=ft,over,total=3.5,4.0,3.95
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.asian_handicap,period=ft,home,handicap=0.5,1.91,1.8
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.asian_handicap,period=ft,away,handicap=0.5,1.73,1.83
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.double_chance,period=ft,draw_away,,1.23,1.26
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.double_chance,period=ft,home_away,,1.23,1.25
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.double_chance,period=ft,home_draw,,1.83,1.74
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.match_odds,period=ft,home,,3.65,3.35
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.match_odds,period=ft,draw,,3.65,3.5
+2026-10-23T16:39:17.340100+02:00,36917003,Division 2,Saudi Arabia,Al Sahel (KSA),Al Rayyan SC,2026-10-23T14:40:00+00:00,0.711,soccer.match_odds,period=ft,away,,1.74,1.85
