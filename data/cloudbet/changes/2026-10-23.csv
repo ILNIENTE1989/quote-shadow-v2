@@ -8725,3 +8725,30 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-23T16:53:18.607652+02:00,36918311,Jordan 1st Division,Jordan,Hayy Al-Amir Hassan,FC Maan,2026-10-23T15:00:00+00:00,6.6899,soccer.total_goals,period=ft,over,total=1.75,1.28,1.29
 2026-10-23T16:53:18.607652+02:00,36918311,Jordan 1st Division,Jordan,Hayy Al-Amir Hassan,FC Maan,2026-10-23T15:00:00+00:00,6.6899,soccer.total_goals,period=ft,over,total=2.75,1.98,1.99
 2026-10-23T16:53:18.607652+02:00,36918311,Jordan 1st Division,Jordan,Hayy Al-Amir Hassan,FC Maan,2026-10-23T15:00:00+00:00,6.6899,soccer.total_goals,period=ft,under,total=2.75,1.71,1.7
+2026-10-23T16:55:14.506875+02:00,36918311,Jordan 1st Division,Jordan,Hayy Al-Amir Hassan,FC Maan,2026-10-23T15:00:00+00:00,4.7582,soccer.double_chance,period=ft,draw_away,,1.4,1.32
+2026-10-23T16:55:14.506875+02:00,36918311,Jordan 1st Division,Jordan,Hayy Al-Amir Hassan,FC Maan,2026-10-23T15:00:00+00:00,4.7582,soccer.double_chance,period=ft,home_away,,1.18,1.2
+2026-10-23T16:55:14.506875+02:00,36918311,Jordan 1st Division,Jordan,Hayy Al-Amir Hassan,FC Maan,2026-10-23T15:00:00+00:00,4.7582,soccer.double_chance,period=ft,home_draw,,1.35,1.45
+2026-10-23T16:55:14.506875+02:00,36896315,II Liga,Poland,Zawisza Bydgoszcz,OKS Swit Skolwin Szczecin,2026-10-23T16:00:00+00:00,64.7582,soccer.double_chance,period=ft,draw_away,,1.85,1.86
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.99,1.97
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.7,1.69
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.6,2.55
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.39,1.38
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.54,1.52
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,home,handicap=0,1.72,1.7
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,away,handicap=0,2.0,1.98
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,home,handicap=0.25,1.53,1.51
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,home,handicap=0.5,1.41,1.39
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,away,handicap=0.5,2.55,2.5
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,home,handicap=0.75,1.29,1.28
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.asian_handicap,period=ft,away,handicap=0.75,3.05,3.0
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,over,total=3,1.76,1.75
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,under,total=3,1.94,1.92
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,over,total=2.25,1.33,1.31
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,over,total=2.5,1.47,1.46
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,over,total=2.75,1.59,1.58
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,under,total=2.75,2.16,2.14
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,over,total=3.25,1.98,1.96
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,under,total=3.25,1.71,1.69
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,over,total=3.5,2.17,2.15
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,under,total=3.5,1.56,1.55
+2026-10-23T16:55:14.506875+02:00,36922960,Poland 4. Liga,Poland,Talent Warszawa,Błonianka Błonie,2026-10-23T16:00:00+00:00,64.7582,soccer.total_goals,period=ft,under,total=3.75,1.43,1.42
