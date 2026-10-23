@@ -8610,3 +8610,55 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-23T16:45:24.026955+02:00,36918308,Jordan 1st Division,Jordan,Al Aqaba,Al-Ahly Amman,2026-10-23T15:00:00+00:00,14.5996,soccer.double_chance,period=ft,draw_away,,1.06,0.0
 2026-10-23T16:45:24.026955+02:00,36918308,Jordan 1st Division,Jordan,Al Aqaba,Al-Ahly Amman,2026-10-23T15:00:00+00:00,14.5996,soccer.double_chance,period=ft,home_away,,1.13,1.07
 2026-10-23T16:45:24.026955+02:00,36918308,Jordan 1st Division,Jordan,Al Aqaba,Al-Ahly Amman,2026-10-23T15:00:00+00:00,14.5996,soccer.double_chance,period=ft,home_draw,,2.85,3.0
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,home,handicap=0,1.26,0.0
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=0,3.45,0.0
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.55,2.5
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.45,1.47
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.56,1.59
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,home,handicap=-1,2.01,2.0
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=-1,1.74,1.78
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.77,1.74
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.01,2.02
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.6,1.57
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.2,2.25
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.43,1.41
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.6,2.65
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.double_chance,period=ft,draw_away,,2.2,2.25
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.double_chance,period=ft,home_away,,1.21,1.2
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.match_odds,period=ft,home,,1.61,1.59
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.match_odds,period=ft,draw,,4.1,4.15
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.match_odds,period=ft,away,,4.4,4.45
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.total_goals,period=ft,over,total=2.25,1.38,1.37
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.total_goals,period=ft,under,total=2.25,2.8,2.85
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.total_goals,period=ft,over,total=2.5,1.54,1.53
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.total_goals,period=ft,under,total=2.5,2.3,2.35
+2026-10-23T16:47:21.846267+02:00,36861168,FNL,Czechia,Dukla Prague,SK Kladno,2026-10-23T16:00:00+00:00,72.6359,soccer.total_goals,period=ft,under,total=2.75,2.1,2.11
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,home,handicap=1,1.71,1.82
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,away,handicap=1,1.98,1.88
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,home,handicap=0.25,2.65,2.8
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,away,handicap=0.25,1.38,1.33
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,home,handicap=0.5,2.2,2.3
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,away,handicap=0.5,1.56,1.5
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,home,handicap=0.75,1.99,2.07
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,away,handicap=0.75,1.73,1.64
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,home,handicap=1.25,1.52,1.6
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,away,handicap=1.25,2.25,2.14
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,home,handicap=1.5,1.42,1.46
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.asian_handicap,period=ft,away,handicap=1.5,2.5,2.35
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.match_odds,period=ft,home,,4.75,5.05
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.match_odds,period=ft,draw,,3.6,3.7
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.match_odds,period=ft,away,,1.56,1.51
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=2.5,1.83,1.8
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=2.5,1.86,1.89
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=1.75,1.29,1.28
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=1.75,3.0,3.1
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=2,1.38,1.36
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=2,2.65,2.7
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=2.25,1.6,1.58
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=2.25,2.13,2.17
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=2.75,2.04,2.01
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=2.75,1.66,1.69
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=3,2.4,2.35
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=3,1.46,1.48
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,over,total=3.25,2.7,2.6
+2026-10-23T16:47:21.846267+02:00,36918495,Slovenia Cup,Slovenia,Tabor Sezana,NK Koper,2026-10-23T15:30:00+00:00,42.6359,soccer.total_goals,period=ft,under,total=3.25,1.37,1.38
