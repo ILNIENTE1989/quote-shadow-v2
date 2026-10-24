@@ -2823,3 +2823,9 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-24T05:43:17.318046+02:00,36846626,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Pohang Steelers FC,2026-10-24T05:00:00+00:00,76.7114,soccer.asian_handicap,period=ft,away,handicap=0.5,4.0,4.05
 2026-10-24T05:43:17.318046+02:00,36846626,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Pohang Steelers FC,2026-10-24T05:00:00+00:00,76.7114,soccer.match_odds,period=ft,away,,4.05,4.1
 2026-10-24T05:43:17.318046+02:00,36846626,K-League 1,Republic Of Korea,Ulsan Hyundai FC,Pohang Steelers FC,2026-10-24T05:00:00+00:00,76.7114,soccer.total_goals,period=ft,under,total=2.75,1.88,1.89
+2026-10-24T05:45:24.270495+02:00,36892151,J.League 2,Japan,Fujieda MYFC,Tokushima Vortis,2026-10-24T05:00:00+00:00,74.5955,soccer.double_chance,period=ft,draw_away,,1.49,1.52
+2026-10-24T05:45:24.270495+02:00,36892151,J.League 2,Japan,Fujieda MYFC,Tokushima Vortis,2026-10-24T05:00:00+00:00,74.5955,soccer.double_chance,period=ft,home_away,,1.37,1.38
+2026-10-24T05:45:24.270495+02:00,36892151,J.League 2,Japan,Fujieda MYFC,Tokushima Vortis,2026-10-24T05:00:00+00:00,74.5955,soccer.double_chance,period=ft,home_draw,,1.38,1.44
+2026-10-24T05:45:24.270495+02:00,36886591,Australia Championship,Australia,Avondale United,Broadmeadow Magic FC,2026-10-24T04:00:00+00:00,14.5955,soccer.double_chance,period=ft,draw_away,,4.55,3.95
+2026-10-24T05:45:24.270495+02:00,36886591,Australia Championship,Australia,Avondale United,Broadmeadow Magic FC,2026-10-24T04:00:00+00:00,14.5955,soccer.double_chance,period=ft,home_away,,1.09,1.1
+2026-10-24T05:45:24.270495+02:00,36886591,Australia Championship,Australia,Avondale United,Broadmeadow Magic FC,2026-10-24T04:00:00+00:00,14.5955,soccer.double_chance,period=ft,home_draw,,1.04,1.06
