@@ -31346,3 +31346,240 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-24T14:19:19.730030+02:00,36926751,Presidents Cup,United Arab Emirates,Sharjah FC,Al Urooba UAE,2026-10-24T13:00:00+00:00,40.6712,soccer.total_goals,period=ft,under,total=3.5,1.45,1.49
 2026-10-24T14:19:19.730030+02:00,36926751,Presidents Cup,United Arab Emirates,Sharjah FC,Al Urooba UAE,2026-10-24T13:00:00+00:00,40.6712,soccer.total_goals,period=ft,over,total=3.75,2.85,2.7
 2026-10-24T14:19:19.730030+02:00,36926751,Presidents Cup,United Arab Emirates,Sharjah FC,Al Urooba UAE,2026-10-24T13:00:00+00:00,40.6712,soccer.total_goals,period=ft,under,total=3.75,1.33,1.36
+2026-10-24T14:21:41.660818+02:00,36925038,CFL,Czechia,FK Kraluv Dvur,SK Dynamo Ceske Budejovice,2026-10-24T12:30:00+00:00,8.3057,soccer.double_chance,period=ft,draw_away,,1.46,1.45
+2026-10-24T14:21:41.660818+02:00,36925038,CFL,Czechia,FK Kraluv Dvur,SK Dynamo Ceske Budejovice,2026-10-24T12:30:00+00:00,8.3057,soccer.double_chance,period=ft,home_away,,1.25,1.24
+2026-10-24T14:21:41.660818+02:00,36925038,CFL,Czechia,FK Kraluv Dvur,SK Dynamo Ceske Budejovice,2026-10-24T12:30:00+00:00,8.3057,soccer.double_chance,period=ft,home_draw,,1.46,1.48
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.88,1.87
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.66,1.65
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.74,1.75
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.16,2.15
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=0,1.48,1.49
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=0,2.75,2.7
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=0.5,3.65,3.6
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.double_chance,period=ft,draw_away,,1.85,1.83
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.match_odds,period=ft,home,,2.0,2.01
+2026-10-24T14:21:41.660818+02:00,36742603,Bundesliga,Germany,FC Koln,Schalke 04,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=2.75,1.86,1.87
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.88,1.89
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.0,1.99
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-1,2.16,2.17
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-1,1.73,1.72
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=0.25,1.24,1.25
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=0.25,4.15,4.1
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.match_odds,period=ft,draw,,4.15,4.1
+2026-10-24T14:21:41.660818+02:00,36742594,Bundesliga,Germany,FSV Mainz,Werder Bremen,2026-10-24T13:30:00+00:00,68.3057,soccer.match_odds,period=ft,away,,4.7,4.65
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.0,2.02
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.89,1.85
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-2.25,3.45,3.5
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-2.25,1.32,1.31
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-2,3.1,3.15
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-2,1.38,1.36
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.55,2.6
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.54,1.52
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.2,2.25
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.7,1.67
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-1,1.74,1.77
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-1,2.14,2.09
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.59,1.61
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.4,2.35
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.48,1.5
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.7,2.6
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.35,1.36
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.3,3.2
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.double_chance,period=ft,draw_away,,2.7,2.6
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.double_chance,period=ft,home_away,,1.18,1.19
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.double_chance,period=ft,home_draw,,1.15,1.16
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.match_odds,period=ft,home,,1.49,1.51
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.match_odds,period=ft,draw,,5.05,4.95
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.match_odds,period=ft,away,,5.6,5.45
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=3.75,1.92,1.94
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=3.75,1.94,1.92
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=2.75,1.32,1.33
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=2.75,3.3,3.25
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=3,1.39,1.4
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=3.25,1.56,1.57
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=3.5,1.74,1.75
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=3.5,2.13,2.1
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=4,2.16,2.19
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=4,1.71,1.69
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=4.25,2.4,2.45
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=4.25,1.57,1.56
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=4.5,1.47,1.46
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=4.75,3.1,3.15
+2026-10-24T14:21:41.660818+02:00,36742596,Bundesliga,Germany,RB Leipzig,SV 07 Elversberg,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=4.75,1.36,1.35
+2026-10-24T14:21:41.660818+02:00,36742604,Bundesliga,Germany,SC Paderborn 07,Hamburger SV,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,under,total=3,1.86,1.87
+2026-10-24T14:21:41.660818+02:00,36742604,Bundesliga,Germany,SC Paderborn 07,Hamburger SV,2026-10-24T13:30:00+00:00,68.3057,soccer.total_goals,period=ft,over,total=2,1.26,1.25
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1,2.03,2.02
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.03,2.04
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.73,1.72
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.35,2.3
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.65,2.6
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.match_odds,period=ft,draw,,4.5,4.45
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3,1.79,1.81
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3,2.0,1.98
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.25,3.1,3.05
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.5,1.46,1.47
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.75,1.59,1.6
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.25,2.04,2.06
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.25,1.72,1.71
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.5,2.25,2.3
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.5,1.56,1.55
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.75,2.65,2.7
+2026-10-24T14:21:41.660818+02:00,36905550,2. Liga,Slovakia,FC STK 1914 Samorin,FK Pohronie Ziar Nad Hronom Dolna Zdana,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.75,1.42,1.41
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.75,1.77
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.3,2.25
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.57,1.55
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1,1.76,1.74
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.58,1.6
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.2,2.25
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.41,1.42
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=0,0.0,1.25
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=0,0.0,3.6
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.double_chance,period=ft,draw_away,,2.25,2.2
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.match_odds,period=ft,draw,,4.0,3.95
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3,1.94,1.99
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3,1.84,1.8
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.25,1.39,1.41
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.25,2.75,2.7
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.5,1.56,1.58
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.5,2.25,2.2
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.75,1.7,1.74
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.75,2.07,2.02
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.25,2.18,2.2
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.25,1.64,1.61
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.5,2.4,2.45
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.5,1.5,1.49
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.75,2.8,2.9
+2026-10-24T14:21:41.660818+02:00,36905549,2. Liga,Slovakia,FK Slovan Galanta,FK Humenne,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.75,1.38,1.36
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.65,2.7
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.25,2.3
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.56,1.55
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.04,2.05
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.72,1.71
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=0.25,1.6,1.59
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=0.5,1.47,1.46
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.match_odds,period=ft,draw,,3.7,3.65
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3,1.91,2.0
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3,1.86,1.79
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.25,1.37,1.4
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.25,2.85,2.75
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.5,1.53,1.56
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.5,2.35,2.25
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.75,1.67,1.72
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.75,2.11,2.04
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.25,2.17,2.25
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.25,1.64,1.59
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.5,2.4,2.5
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.5,1.5,1.47
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.75,2.85,2.95
+2026-10-24T14:21:41.660818+02:00,36905552,2. Liga,Slovakia,MSK Povazska Bystrica,MFK Tatran Liptovsky Mikulas,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=3.75,1.37,1.35
+2026-10-24T14:21:41.660818+02:00,36747930,Serie A,Italy,Como 1907,Sassuolo Calcio,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-1,1.74,1.75
+2026-10-24T14:21:41.660818+02:00,36747930,Serie A,Italy,Como 1907,Sassuolo Calcio,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.45,1.46
+2026-10-24T14:21:41.660818+02:00,36747930,Serie A,Italy,Como 1907,Sassuolo Calcio,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.75,2.7
+2026-10-24T14:21:41.660818+02:00,36747930,Serie A,Italy,Como 1907,Sassuolo Calcio,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.31,1.32
+2026-10-24T14:21:41.660818+02:00,36747930,Serie A,Italy,Como 1907,Sassuolo Calcio,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,away,,6.3,6.25
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-1,2.05,2.02
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1,1.74,1.79
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-1.75,0.0,3.2
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1.75,0.0,1.31
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.7,2.65
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.43,1.44
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.54,1.57
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.77,1.72
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.05,2.07
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.59,1.55
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.3,2.35
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.4,1.38
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.8,2.85
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.double_chance,period=ft,draw_away,,2.3,2.35
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.double_chance,period=ft,home_draw,,1.16,1.15
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.match_odds,period=ft,home,,1.59,1.57
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.match_odds,period=ft,draw,,3.95,4.0
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.match_odds,period=ft,away,,5.05,5.2
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.75,1.79,1.78
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.25,1.44,1.43
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.25,2.6,2.65
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=2.5,1.62,1.61
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,under,total=2.5,2.2,2.25
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3,2.04,2.03
+2026-10-24T14:21:41.660818+02:00,36924073,Thai League 1,Thailand,Ratchaburi Mitr Phol FC,Chonburi FC,2026-10-24T12:30:00+00:00,8.3057,soccer.total_goals,period=ft,over,total=3.5,2.6,2.55
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0,2.05,2.15
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0,1.82,1.73
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.8,4.0
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.27,1.25
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.0,3.15
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.4,1.37
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.5,2.65
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.54,1.49
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0.25,1.68,1.74
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.25,2.2,2.16
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0.5,1.49,1.53
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.5,2.65,2.55
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0.75,1.34,1.37
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.75,3.3,3.15
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=1,1.19,1.21
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=1,4.8,4.5
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.double_chance,period=ft,draw_away,,1.4,1.37
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.double_chance,period=ft,home_away,,1.4,1.41
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.double_chance,period=ft,home_draw,,1.49,1.52
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,home,,3.0,3.15
+2026-10-24T14:21:41.660818+02:00,36834915,Serie B,Italy,FC Sudtirol Bolzano,Sampdoria Genoa,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,away,,2.65,2.55
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-1,1.86,1.85
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-2,4.45,4.5
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.35,1.34
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.3,2.35
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.63,1.62
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.17,2.16
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.55,1.56
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.37,1.38
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.1,3.05
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2.75,1.97,1.99
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=2.75,1.88,1.86
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=1.5,1.23,1.24
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=1.5,4.1,4.05
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2.25,1.55,1.56
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2.5,1.75,1.76
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=2.5,2.1,2.08
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=3,2.25,2.3
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=3,1.64,1.62
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=3.25,2.6,2.65
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=3.25,1.5,1.49
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=3.5,2.9,2.95
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=3.5,1.41,1.4
+2026-10-24T14:21:41.660818+02:00,36834985,Serie B,Italy,Modena FC,Cesena FC,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=4.5,5.55,5.65
+2026-10-24T14:21:41.660818+02:00,36834935,Serie B,Italy,US Cremonese,Juve Stabia,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.04,2.05
+2026-10-24T14:21:41.660818+02:00,36834935,Serie B,Italy,US Cremonese,Juve Stabia,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.35,2.4
+2026-10-24T14:21:41.660818+02:00,36834935,Serie B,Italy,US Cremonese,Juve Stabia,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.25,3.25,3.3
+2026-10-24T14:21:41.660818+02:00,36834935,Serie B,Italy,US Cremonese,Juve Stabia,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,home,,2.03,2.04
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-1.25,4.05,4.0
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.24,1.25
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-1,3.6,3.55
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-1,1.29,1.3
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.47,1.48
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.3,2.25
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0,1.6,1.61
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0,2.4,2.35
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0.25,1.43,1.44
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.25,2.9,2.85
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0.5,1.32,1.33
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.5,3.4,3.3
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,home,handicap=0.75,1.21,1.22
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.asian_handicap,period=ft,away,handicap=0.75,4.4,4.3
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.double_chance,period=ft,home_away,,1.37,1.36
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.double_chance,period=ft,home_draw,,1.32,1.33
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,home,,2.3,2.25
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,draw,,3.1,3.2
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.match_odds,period=ft,away,,3.4,3.35
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2.5,2.05,1.97
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=2.5,1.78,1.88
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=1.5,1.31,1.28
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=1.5,3.4,3.65
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2,1.52,1.45
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=2,2.55,2.75
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2.25,1.8,1.71
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=2.25,2.06,2.17
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=2.75,2.35,2.2
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=2.75,1.6,1.67
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=3.5,3.6,3.35
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=3.5,1.28,1.32
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,over,total=4.5,7.55,6.85
+2026-10-24T14:21:41.660818+02:00,36834934,Serie B,Italy,Virtus Entella,Mantova 1911,2026-10-24T13:00:00+00:00,38.3057,soccer.total_goals,period=ft,under,total=4.5,1.09,1.1
