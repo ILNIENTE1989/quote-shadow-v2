@@ -8988,3 +8988,64 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-24T10:31:57.199120+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,58.0467,soccer.total_goals,period=ft,under,total=4.25,1.47,1.48
 2026-10-24T10:31:57.199120+02:00,36923717,Emperor Cup,Japan,Okinawa SV,Honda FC,2026-10-24T09:00:00+00:00,28.0467,soccer.double_chance,period=ft,draw_away,,1.45,1.44
 2026-10-24T10:31:57.199120+02:00,36923717,Emperor Cup,Japan,Okinawa SV,Honda FC,2026-10-24T09:00:00+00:00,28.0467,soccer.double_chance,period=ft,home_draw,,1.5,1.52
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,home,handicap=0.75,1.65,1.92
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,away,handicap=0.75,2.06,1.78
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,home,handicap=0,2.4,3.0
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,away,handicap=0,1.45,1.29
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,home,handicap=0.25,2.04,2.4
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,away,handicap=0.25,1.66,1.45
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,home,handicap=0.5,1.82,2.11
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,away,handicap=0.5,1.87,1.62
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,home,handicap=1,1.46,1.69
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,away,handicap=1,2.4,2.0
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,home,handicap=1.25,1.38,1.54
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.asian_handicap,period=ft,away,handicap=1.25,2.65,2.2
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.match_odds,period=ft,home,,3.05,3.75
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.match_odds,period=ft,draw,,3.8,4.05
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.match_odds,period=ft,away,,1.86,1.62
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=3.75,1.92,1.88
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=3.75,1.78,1.82
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=3,1.41,1.38
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=3,2.55,2.65
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=3.25,1.57,1.54
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=3.25,2.16,2.2
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=3.5,1.74,1.71
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=3.5,1.94,1.98
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=4,2.16,2.09
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=4,1.59,1.63
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=4.25,2.35,2.25
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=4.25,1.48,1.5
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,over,total=4.5,2.55,2.5
+2026-10-24T10:33:22.801826+02:00,36931517,Esiliiga,Estonia,Nomme Kalju FC,FC Tallinn,2026-10-24T09:30:00+00:00,56.62,soccer.total_goals,period=ft,under,total=4.5,1.4,1.42
+2026-10-24T10:33:22.801826+02:00,36935785,Liga A1,Malaysia,Malaysia University,Perak FA,2026-10-24T08:45:00+00:00,11.62,soccer.asian_handicap,period=ft,home,handicap=1.75,1.82,0.0
+2026-10-24T10:33:22.801826+02:00,36935785,Liga A1,Malaysia,Malaysia University,Perak FA,2026-10-24T08:45:00+00:00,11.62,soccer.asian_handicap,period=ft,away,handicap=1.75,1.81,0.0
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.89,1.95
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.81,1.75
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-2,2.9,3.0
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-2,1.32,1.29
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.35,2.45
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.47,1.44
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.08,2.15
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.63,1.59
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-1,1.65,1.7
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-1,2.05,1.99
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.5,1.54
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.3,2.2
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.41,1.44
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.55,2.45
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.match_odds,period=ft,home,,1.42,1.45
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.match_odds,period=ft,draw,,4.35,4.25
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.match_odds,period=ft,away,,5.15,4.95
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=3.25,1.83,1.85
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,under,total=3.25,1.86,1.85
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=2.5,1.39,1.4
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=2.75,1.47,1.48
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,under,total=2.75,2.35,2.3
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=3,1.6,1.62
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,under,total=3,2.13,2.1
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=3.5,2.01,2.04
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,under,total=3.5,1.68,1.66
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=3.75,2.25,2.3
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,under,total=3.75,1.51,1.5
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,over,total=4,2.7,2.75
+2026-10-24T10:33:22.801826+02:00,36930764,"III Liga, Group 3",Poland,MKS Czarni Polaniec,AKS 1947 Busko-Zdroj,2026-10-24T09:00:00+00:00,26.62,soccer.total_goals,period=ft,under,total=4,1.36,1.35
