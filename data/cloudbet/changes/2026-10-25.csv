@@ -5984,3 +5984,14 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-25T06:21:40.694637+01:00,36947928,Division 1,Hong Kong,Sham Shui Po SA,South China FC,2026-10-25T05:30:00+00:00,8.3218,soccer.match_odds,period=ft,home,,3.5,3.6
 2026-10-25T06:21:40.694637+01:00,36947928,Division 1,Hong Kong,Sham Shui Po SA,South China FC,2026-10-25T05:30:00+00:00,8.3218,soccer.match_odds,period=ft,draw,,3.6,3.65
 2026-10-25T06:21:40.694637+01:00,36947928,Division 1,Hong Kong,Sham Shui Po SA,South China FC,2026-10-25T05:30:00+00:00,8.3218,soccer.match_odds,period=ft,away,,1.76,1.72
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,home,handicap=0,1.75,1.76
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,away,handicap=0,2.08,2.07
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.55,1.54
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.08,2.09
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.74,1.72
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,home,handicap=0.25,1.53,1.54
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,home,handicap=1,1.15,1.16
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.asian_handicap,period=ft,away,handicap=1,5.15,5.1
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.double_chance,period=ft,draw_away,,1.54,1.53
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.total_goals,period=ft,over,total=2.5,2.03,2.02
+2026-10-25T06:23:24.141295+01:00,36892160,J.League 2,Japan,Iwaki FC,Jubilo Iwata,2026-10-25T06:00:00+00:00,36.5976,soccer.total_goals,period=ft,over,total=4.5,6.75,6.7
