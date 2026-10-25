@@ -143541,3 +143541,819 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-25T09:27:26.305907+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,32.5616,soccer.total_goals,period=ft,under,total=3.5,1.55
 2026-10-25T09:27:26.305907+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,32.5616,soccer.total_goals,period=ft,over,total=4.5,4.25
 2026-10-25T09:27:26.305907+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,32.5616,soccer.total_goals,period=ft,under,total=4.5,1.2
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.89
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.85
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-2,3.05
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-2,1.3
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.45
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.47
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.12
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.65
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1,1.63
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1,2.15
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.47
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.45
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.38
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.75
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,draw_away,,2.4
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_away,,1.15
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_draw,,1.11
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,home,,1.39
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,draw,,4.35
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,away,,6.35
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.75,1.87
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.75,1.87
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2,1.3
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2,3.1
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.25,1.48
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.25,2.4
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.5,1.68
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.5,2.07
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3,2.14
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3,1.63
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.25,2.4
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.25,1.49
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.5,2.65
+2026-10-25T09:29:28.433922+01:00,36938838,Liga 2,Romania,AFC Chindia Targoviste,Olimpia Satu Mare,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.5,1.4
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.95
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.78
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.95
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.33
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.4
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.47
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.19
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.59
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.7
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.02
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.55
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.2
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.42
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.55
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,draw_away,,1.42
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_away,,1.25
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_draw,,1.48
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,home,,2.45
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,draw,,3.7
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,away,,2.25
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.25,1.9
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.25,1.82
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.5,1.4
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.5,2.65
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.75,1.49
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.75,2.35
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3,1.65
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3,2.09
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.5,2.12
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.5,1.63
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.75,2.4
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.75,1.47
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=4,3.0
+2026-10-25T09:29:28.433922+01:00,36938839,Liga 2,Romania,CS Afumati,Csa Steaua Bucuresti,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=4,1.31
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.82
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.93
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.8
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.36
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.45
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.46
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.14
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.63
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.61
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.18
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.44
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.55
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.27
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=1,3.3
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,draw_away,,1.32
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_away,,1.27
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_draw,,1.57
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,home,,2.85
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,draw,,3.3
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,away,,2.19
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.5,1.77
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.5,1.99
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=1.75,1.26
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=1.75,3.35
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2,1.34
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2,2.9
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.25,1.55
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.25,2.3
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.75,1.97
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.75,1.75
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3,2.3
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3,1.53
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.25,2.6
+2026-10-25T09:29:28.433922+01:00,36938840,Liga 2,Romania,CSC 1599 Selimbar,Asa Targu Mures,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.25,1.42
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1,1.95
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1,1.76
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.75
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.35
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.35
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.48
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.16
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.59
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.72
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.96
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.58
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.14
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.42
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.5
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.25,1.8
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.25,1.89
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2.5,1.38
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2.5,2.65
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2.75,1.46
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2.75,2.4
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3,1.59
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3,2.16
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.5,1.99
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.5,1.7
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.75,2.2
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.75,1.54
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=4,2.6
+2026-10-25T09:29:28.433922+01:00,36950821,Division 2,Hong Kong,Tuen Mun SA,Tsuen Wan,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=4,1.39
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1,1.89
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1,1.81
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.65
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.37
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.3
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.5
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.1
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.62
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.67
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.02
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.54
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.2
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.39
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.6
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.5,1.8
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.5,1.89
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2.75,1.35
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2.75,2.75
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3,1.43
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3,2.45
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.25,1.62
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.25,2.11
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.75,1.99
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.75,1.7
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=4,2.25
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=4,1.52
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=4.25,2.5
+2026-10-25T09:29:28.433922+01:00,36951327,Division 3,Hong Kong,Ling Yui Orion,Sai Kung Friends Football Club,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=4.25,1.42
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.76
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.99
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1,2.9
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1,1.34
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.3
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.52
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.01
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.72
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.49
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0,2.45
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.36
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.8
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.28
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,3.2
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,draw_away,,1.61
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_away,,1.27
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_draw,,1.26
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,home,,2.01
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,draw,,3.25
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,away,,3.3
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.25,1.82
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.25,1.93
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=1.5,1.32
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=1.5,3.0
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=1.75,1.4
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=1.75,2.65
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2,1.54
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2,2.3
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.5,2.06
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.5,1.69
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.75,2.35
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.75,1.5
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3,2.95
+2026-10-25T09:29:28.433922+01:00,36938832,China League 2,China,Hubei Istar,Shanghai Segenda,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3,1.33
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.9
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.8
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.65
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.37
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.4
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.45
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.18
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.58
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.7
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.99
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.53
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.2
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.38
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=1,2.65
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=3.75,1.84
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=3.75,1.85
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=3,1.34
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=3,2.8
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=3.25,1.5
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=3.25,2.3
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=3.5,1.67
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=3.5,2.02
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=4,2.07
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=4,1.64
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=4.25,2.25
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=4.25,1.51
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=4.5,2.5
+2026-10-25T09:29:28.433922+01:00,36950557,Division 1,Hong Kong,Lucky Mile,3 Sing FC,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=4.5,1.42
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.81
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.79
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.35
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.45
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.11
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.57
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.64
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.0
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.5
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.25
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.double_chance,period=ft,draw_away,,1.35
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.double_chance,period=ft,home_away,,1.23
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.double_chance,period=ft,home_draw,,1.59
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.match_odds,period=ft,home,,2.75
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.match_odds,period=ft,draw,,3.65
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.match_odds,period=ft,away,,2.02
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,over,total=3.75,1.87
+2026-10-25T09:29:28.433922+01:00,36950071,Division 1,Hong Kong,Lucky Mile,Bright Cerulean,2026-10-25T08:45:00+00:00,15.5261,soccer.total_goals,period=ft,under,total=3.75,1.74
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=3.75,1.79
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=3.75,1.86
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=3,2.5
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=3,1.39
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=3.25,2.14
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=3.25,1.55
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=3.5,1.93
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=3.5,1.71
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=4,1.62
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=4,2.05
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=4.25,1.51
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=4.25,2.2
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=4.5,1.43
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=4.5,2.4
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.double_chance,period=ft,draw_away,,1.01
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.double_chance,period=ft,home_away,,1.01
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.double_chance,period=ft,home_draw,,4.6
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.match_odds,period=ft,home,,22.0
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.match_odds,period=ft,draw,,7.85
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.match_odds,period=ft,away,,1.02
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=5,1.81
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=5,1.84
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=4.25,1.38
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=4.25,2.55
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=4.5,1.51
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=4.5,2.2
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=4.75,1.63
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=4.75,2.03
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=5.25,2.0
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=5.25,1.65
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=5.5,2.18
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=5.5,1.53
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=5.75,2.45
+2026-10-25T09:29:28.433922+01:00,36950713,Division 1,Hong Kong,Kui Tan SC,Resources Capital FC,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=5.75,1.41
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.25,1.71
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.25,1.98
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,3.15
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.27
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,2.55
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.41
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,2.25
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,1.53
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,2.0
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,1.72
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.5,1.54
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.5,2.2
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.75,1.39
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.75,2.6
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,draw_away,,1.02
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_away,,1.1
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_draw,,2.5
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,home,,6.0
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,draw,,4.25
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,away,,1.35
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,0.0
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,0.0
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.4
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.55
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.56
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.17
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.72
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.96
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,1.97
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.74
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.2
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.56
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.4
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.45
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.75,2.85
+2026-10-25T09:29:28.433922+01:00,36949919,Thai League 3,Thailand,Bangkapi FC,Royal Thai Air Force FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.75,1.33
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,0.0
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,0.0
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.0
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.3
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.45
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.43
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.2
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.57
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.89
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.8
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.62
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.09
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.47
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.35
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.34
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.8
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.79
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.9
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.25
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,3.3
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.43
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.45
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.62
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.1
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.02
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.67
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.25
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.52
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.5
+2026-10-25T09:29:28.433922+01:00,36949920,Thai League 3,Thailand,Chiangrai TSC,Chiangrai City FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.43
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1.25,1.85
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.85
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-2,2.95
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-2,1.31
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.35
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.47
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.07
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.64
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1,1.6
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1,2.15
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.45
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.4
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.36
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.7
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.83
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.86
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.28
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,3.1
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.46
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.4
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.65
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.06
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.09
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.63
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.3
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.48
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.6
+2026-10-25T09:29:28.433922+01:00,36952504,Thai League 3,Thailand,Kasem Bundit University FC,Bangpa in Ayutthaya FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.39
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.2
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.52
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,draw_away,,1.42
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_away,,1.22
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_draw,,1.3
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,home,,2.25
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,draw,,3.1
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,away,,2.65
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.85
+2026-10-25T09:29:28.433922+01:00,36953506,Thai League 3,Thailand,Korat City FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,1.75
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.85
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,1.84
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,2.85
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.33
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,2.35
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.48
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,2.11
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,1.62
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.25,1.62
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.25,2.1
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.5,1.48
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.5,2.3
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.75,1.35
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.75,2.75
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.78
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.91
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.26
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,3.2
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.43
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.45
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.61
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.12
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.02
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.67
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.25
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.51
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.5
+2026-10-25T09:29:28.433922+01:00,36949917,Thai League 3,Thailand,Lopburi City,Chamchuri United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.42
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,0.0
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,0.0
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.25
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.25
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.65
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.37
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.35
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.5
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.01
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.71
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.67
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.02
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.5
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.3
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.34
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.8
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.74
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,1.97
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=1.5,1.28
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=1.5,3.1
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=1.75,1.35
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=1.75,2.75
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.48
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,2.4
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.97
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,1.71
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,2.2
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.53
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.7
+2026-10-25T09:29:28.433922+01:00,36949918,Thai League 3,Thailand,Paknampho NSRU FC,Khelang United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.36
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.96
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.75
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1,3.45
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1,1.23
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.6
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.39
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.2
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.55
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.63
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,2.09
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.45
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.45
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.34
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.8
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.95
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,1.75
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=1.75,1.34
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=1.75,2.8
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.44
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,2.45
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.69
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.0
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,2.2
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.57
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.65
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.38
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.95
+2026-10-25T09:29:28.433922+01:00,36949922,Thai League 3,Thailand,Samut Songkhram FC,Stk Muangnont FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.31
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.88
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.82
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.05
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.29
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.65
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.37
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.3
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.52
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.63
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.08
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.45
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.4
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.27
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,3.15
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.91
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,1.78
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=1.75,1.32
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=1.75,2.9
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.42
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,2.5
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.66
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.03
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,2.15
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.6
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.55
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.4
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.85
+2026-10-25T09:29:28.433922+01:00,36949921,Thai League 3,Thailand,Suranaree Black Cat FC,Khon Kaen FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.33
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.83
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,1.86
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,3.1
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.28
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,2.4
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.46
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,2.05
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.65
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.57
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,2.19
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.25,1.43
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.25,2.45
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.5,1.34
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.5,2.8
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,draw_away,,1.14
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_away,,1.14
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_draw,,1.85
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,home,,3.7
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,draw,,3.65
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,away,,1.65
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.85
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.84
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.28
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,3.05
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.47
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.35
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.66
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.04
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.13
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.61
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.35
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.47
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.65
+2026-10-25T09:29:28.433922+01:00,36949923,Thai League 3,Thailand,Thonburi United,BANGKOK FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.38
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.88
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.89
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.95
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.35
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.45
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.49
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.17
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.64
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.63
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.18
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.49
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.45
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.35
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.95
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.double_chance,period=ft,draw_away,,1.5
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.double_chance,period=ft,home_away,,1.28
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.double_chance,period=ft,home_draw,,1.49
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.match_odds,period=ft,home,,2.45
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.match_odds,period=ft,draw,,3.4
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.match_odds,period=ft,away,,2.5
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2.75,1.8
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2.75,1.98
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2,1.26
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2,3.45
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2.25,1.44
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2.25,2.6
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=2.5,1.63
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=2.5,2.18
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3,2.04
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3,1.72
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.25,2.3
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.25,1.55
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,over,total=3.5,2.55
+2026-10-25T09:29:28.433922+01:00,36905555,2. Liga,Slovakia,OFK Malzenice,FC Vion Zlate Moravce - Vrable,2026-10-25T09:30:00+00:00,60.5261,soccer.total_goals,period=ft,under,total=3.5,1.45
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.79
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,2.02
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1.25,3.35
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.3
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-1,2.95
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-1,1.37
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.35
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.58
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.02
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.78
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.54
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0,2.45
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.42
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.8
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.34
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,3.15
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.23
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,3.95
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,draw_away,,1.77
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_away,,1.24
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.double_chance,period=ft,home_draw,,1.33
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,home,,2.02
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,draw,,3.9
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.match_odds,period=ft,away,,3.2
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3,1.88
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3,1.91
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=1.5,1.16
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=1.5,4.9
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.5,1.53
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.5,2.4
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=2.75,1.66
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=2.75,2.18
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.25,2.13
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.25,1.69
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=3.5,2.4
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=3.5,1.55
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,over,total=4.5,4.25
+2026-10-25T09:29:28.433922+01:00,36892161,J.League 2,Japan,Shonan Bellmare,Tochigi City FC,2026-10-25T09:00:00+00:00,30.5261,soccer.total_goals,period=ft,under,total=4.5,1.2
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.89
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.91
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,3.5
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.29
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,3.1
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.35
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.7
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.45
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,2.17
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.67
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.68
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.16
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.47
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,2.6
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.25,1.37
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.25,2.95
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.5,1.31
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.5,3.3
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,draw_away,,1.28
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_away,,1.24
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_draw,,1.87
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,home,,3.5
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,draw,,3.9
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,away,,1.9
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,1.92
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.87
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=1.5,1.16
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=1.5,4.8
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.56
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.35
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.7
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,2.12
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.17
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.66
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.4
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.54
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=4.5,4.25
+2026-10-25T09:29:28.433922+01:00,36893876,Liga 1,Indonesia,Arema FC,Dewa United,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=4.5,1.2
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.8
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,2.01
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,3.35
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.3
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.75
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.43
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.4
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.54
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.09
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.72
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.62
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.25
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.45
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.7
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.28
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1,3.5
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=1.25,1.24
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=1.25,3.9
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,draw_away,,1.43
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_away,,1.25
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_draw,,1.6
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,home,,2.75
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,draw,,3.8
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,away,,2.25
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.93
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.86
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=1.5,1.21
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=1.5,4.1
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.52
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.45
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.72
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.08
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,2.25
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.62
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.55
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.48
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.85
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.39
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=4.5,5.5
+2026-10-25T09:29:28.433922+01:00,36891407,Liga 1,Indonesia,Persita Tangerang,Bali United FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=4.5,1.13
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.86
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.75
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,home,,2.4
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,draw,,3.6
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,away,,2.25
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.5,1.76
+2026-10-25T09:29:28.433922+01:00,36952299,Divize F,Czechia,FC Brumov,FK Bzenec Vracov,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.5,1.85
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=1,0.0
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=1,0.0
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,2.8
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.34
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.4
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.46
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.18
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.58
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0,1.94
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.76
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.7
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.99
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.55
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,2.19
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.41
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.5
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,home,,2.4
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,draw,,3.7
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,away,,2.2
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.5,1.85
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.5,1.84
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=2.75,1.38
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=2.75,2.6
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3,1.47
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3,2.35
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.25,1.66
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.25,2.04
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.75,2.03
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.75,1.66
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=4,2.3
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=4,1.49
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=4.25,2.55
+2026-10-25T09:29:28.433922+01:00,36952721,Divize F,Czechia,FC Brumov,Tj Slovan Bzenec,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=4.25,1.41
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,1.93
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.77
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.85
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.33
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.55
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.41
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.25
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.54
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.71
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.98
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.53
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,2.2
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.36
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=1,2.7
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.double_chance,period=ft,draw_away,,1.32
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.double_chance,period=ft,home_away,,1.23
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.double_chance,period=ft,home_draw,,1.58
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,home,,2.9
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,draw,,3.6
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,away,,1.99
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.25,1.94
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.25,1.76
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=2.5,1.44
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=2.5,2.45
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=2.75,1.54
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=2.75,2.2
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3,1.7
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3,1.98
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.5,2.13
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.5,1.6
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.75,2.4
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.75,1.46
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=4,2.85
+2026-10-25T09:29:28.433922+01:00,36946685,Divize F,Czechia,FC Velke Mezirici,FS Trebic,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=4,1.32
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.75,1.76
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.75,1.86
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0,2.85
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0,1.28
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.25,2.25
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.25,1.46
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=0.5,1.94
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=0.5,1.64
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=1,1.53
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=1,2.13
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=1.25,1.41
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=1.25,2.4
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,home,handicap=1.5,1.33
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.asian_handicap,period=ft,away,handicap=1.5,2.65
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.double_chance,period=ft,draw_away,,1.19
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.double_chance,period=ft,home_away,,1.21
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.double_chance,period=ft,home_draw,,1.88
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,home,,3.65
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,draw,,3.45
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.match_odds,period=ft,away,,1.66
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3,1.75
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3,1.88
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=2.25,1.31
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=2.25,2.7
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=2.5,1.45
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=2.5,2.25
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=2.75,1.56
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=2.75,2.06
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.25,1.93
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.25,1.65
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.5,2.13
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.5,1.52
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,over,total=3.75,2.4
+2026-10-25T09:29:28.433922+01:00,36946684,Divize F,Czechia,FK Meteor Prague VIII,Sokol Hostoun,2026-10-25T09:15:00+00:00,45.5261,soccer.total_goals,period=ft,under,total=3.75,1.4
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1,1.75
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1,1.96
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1.75,2.75
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1.75,1.36
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1.5,2.3
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1.5,1.5
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-1.25,2.03
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-1.25,1.67
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.75,1.53
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.75,2.25
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.5,1.4
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.5,2.55
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,home,handicap=-0.25,1.27
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.asian_handicap,period=ft,away,handicap=-0.25,3.15
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,draw_away,,2.2
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_away,,1.2
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.double_chance,period=ft,home_draw,,1.13
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,home,,1.42
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,draw,,4.1
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.match_odds,period=ft,away,,5.6
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.75,1.74
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.75,1.97
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2,1.24
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2,3.4
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.25,1.4
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.25,2.55
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=2.5,1.57
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=2.5,2.2
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3,1.99
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3,1.7
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.25,2.25
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.25,1.52
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,over,total=3.5,2.5
+2026-10-25T09:29:28.433922+01:00,36946357,Indonesia Championship Cup,Indonesia,Persela Lamongan,Dejan FC,2026-10-25T08:30:00+00:00,0.5261,soccer.total_goals,period=ft,under,total=3.5,1.41
