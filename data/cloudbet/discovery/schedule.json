@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T07:07:38.700321+00:00",
+  "generated_at_utc": "2026-10-26T09:09:34.846503+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -78,6 +78,12 @@
       "key": "soccer-austria-kfv-cup",
       "events": [
         {
+          "event_id": "36969134",
+          "home": "SV Wildon",
+          "away": "SU Tillmitsch",
+          "kickoff_utc": "2026-10-26T10:00:00+00:00"
+        },
+        {
           "event_id": "36964542",
           "home": "SCR Altach",
           "away": "Sparkasse FC BW Feldkirch",
@@ -99,6 +105,12 @@
           "event_id": "36964508",
           "home": "SC Rothis",
           "away": "FC Dornbirn",
+          "kickoff_utc": "2026-10-26T13:00:00+00:00"
+        },
+        {
+          "event_id": "36969135",
+          "home": "SV Lebring",
+          "away": "SC Kalsdorf",
           "kickoff_utc": "2026-10-26T13:00:00+00:00"
         },
         {
@@ -210,6 +222,19 @@
       ]
     },
     {
+      "category": "Chile",
+      "name": "Primera Division",
+      "key": "soccer-chile-primera-division",
+      "events": [
+        {
+          "event_id": "36758807",
+          "home": "Universidad de Chile",
+          "away": "CD Everton Vina del Mar",
+          "kickoff_utc": "2026-10-26T21:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Croatia",
       "name": "HNL",
       "key": "soccer-croatia-1-hnl",
@@ -264,6 +289,77 @@
           "home": "FC Copenhagen",
           "away": "Odense Boldklub",
           "kickoff_utc": "2026-10-26T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Ecuador",
+      "name": "LigaPro Primera A",
+      "key": "soccer-ecuador-ligapro-primera-a",
+      "events": [
+        {
+          "event_id": "36856782",
+          "home": "CD Tecnico Universitario",
+          "away": "Mushuc Runa SC",
+          "kickoff_utc": "2026-10-26T20:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "League Two",
+      "key": "soccer-england-league-two",
+      "events": [
+        {
+          "event_id": "36837140",
+          "home": "Walsall FC",
+          "away": "Salford City",
+          "kickoff_utc": "2026-10-26T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "England",
+      "name": "Southern League, Premier Central",
+      "key": "soccer-england-southern-football-league-premier-division-central",
+      "events": [
+        {
+          "event_id": "36968675",
+          "home": "Biggleswade Town",
+          "away": "Royston Town",
+          "kickoff_utc": "2026-10-26T19:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "France",
+      "name": "Ligue 1",
+      "key": "soccer-france-ligue-1",
+      "events": [
+        {
+          "event_id": "36924844",
+          "home": "Paris Saint Germain",
+          "away": "Lyon",
+          "kickoff_utc": "2026-10-26T19:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "France",
+      "name": "Ligue 2",
+      "key": "soccer-france-ligue-2",
+      "events": [
+        {
+          "event_id": "36890973",
+          "home": "Montpellier HSC",
+          "away": "Red Star FC",
+          "kickoff_utc": "2026-10-26T19:45:00+00:00"
+        },
+        {
+          "event_id": "36869309",
+          "home": "US Boulogne",
+          "away": "Stade Reims",
+          "kickoff_utc": "2026-10-26T19:45:00+00:00"
         }
       ]
     },
@@ -401,6 +497,25 @@
       ]
     },
     {
+      "category": "Italy",
+      "name": "Serie C, Group A",
+      "key": "soccer-italy-serie-c-group-c",
+      "events": [
+        {
+          "event_id": "36926047",
+          "home": "AZ Picerno",
+          "away": "US Salernitana",
+          "kickoff_utc": "2026-10-26T19:30:00+00:00"
+        },
+        {
+          "event_id": "36925444",
+          "home": "FC Crotone",
+          "away": "S.S.D. Casarano Calcio",
+          "kickoff_utc": "2026-10-26T19:30:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Latvia",
       "name": "Virsliga",
       "key": "soccer-latvia-virsliga",
@@ -448,6 +563,25 @@
           "home": "Vaag IK",
           "away": "Odds BK 2",
           "kickoff_utc": "2026-10-26T17:00:00+00:00"
+        },
+        {
+          "event_id": "36967916",
+          "home": "Fk Kvik Trondheim",
+          "away": "Rosenborg BK 2",
+          "kickoff_utc": "2026-10-26T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Segunda Division",
+      "key": "soccer-paraguay-segunda-division",
+      "events": [
+        {
+          "event_id": "36967918",
+          "home": "Resistencia SC",
+          "away": "Club Dr Benjamin Aceval",
+          "kickoff_utc": "2026-10-26T19:00:00+00:00"
         }
       ]
     },
@@ -487,6 +621,19 @@
           "home": "CD Santa Clara",
           "away": "SL Benfica",
           "kickoff_utc": "2026-10-26T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Portugal",
+      "name": "Liga Portugal 2",
+      "key": "soccer-portugal-segunda-liga",
+      "events": [
+        {
+          "event_id": "36776225",
+          "home": "SCU Torreense",
+          "away": "Amarante FC",
+          "kickoff_utc": "2026-10-26T20:45:00+00:00"
         }
       ]
     },
@@ -551,6 +698,32 @@
           "home": "AL Ula",
           "away": "Al-Orobah",
           "kickoff_utc": "2026-10-26T16:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "La Liga",
+      "key": "soccer-spain-laliga",
+      "events": [
+        {
+          "event_id": "36748153",
+          "home": "Sevilla",
+          "away": "Osasuna",
+          "kickoff_utc": "2026-10-26T20:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Spain",
+      "name": "Segunda División",
+      "key": "soccer-spain-laliga-2",
+      "events": [
+        {
+          "event_id": "36863602",
+          "home": "Andorra CF",
+          "away": "Burgos CF",
+          "kickoff_utc": "2026-10-26T19:30:00+00:00"
         }
       ]
     },
