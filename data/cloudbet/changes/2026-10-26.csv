@@ -6922,3 +6922,9 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-26T16:19:51.631893+01:00,36865247,Super Lig,Turkey,Besiktas Istanbul,Istanbul Basaksehir,2026-10-26T16:00:00+00:00,40.1395,soccer.total_goals,period=ft,under,total=3.5,1.75,1.76
 2026-10-26T16:19:51.631893+01:00,36865247,Super Lig,Turkey,Besiktas Istanbul,Istanbul Basaksehir,2026-10-26T16:00:00+00:00,40.1395,soccer.total_goals,period=ft,under,total=4.5,1.3,1.31
 2026-10-26T16:19:51.631893+01:00,36865247,Super Lig,Turkey,Besiktas Istanbul,Istanbul Basaksehir,2026-10-26T16:00:00+00:00,40.1395,soccer.total_goals,period=ft,over,total=5.5,6.55,6.5
+2026-10-26T16:23:14.384978+01:00,36964522,2nd Division,Bahrain,Um Alhassam,AL Budaiya,2026-10-26T16:00:00+00:00,36.7603,soccer.double_chance,period=ft,draw_away,,1.4,1.38
+2026-10-26T16:23:14.384978+01:00,36964522,2nd Division,Bahrain,Um Alhassam,AL Budaiya,2026-10-26T16:00:00+00:00,36.7603,soccer.double_chance,period=ft,home_draw,,1.46,1.47
+2026-10-26T16:23:14.384978+01:00,36965871,Israel Cup,Israel,Dimona Sport Club,Hapoel Rishon Lezion FC,2026-10-26T15:30:00+00:00,6.7603,soccer.double_chance,period=ft,draw_away,,1.22,1.1
+2026-10-26T16:23:14.384978+01:00,36965871,Israel Cup,Israel,Dimona Sport Club,Hapoel Rishon Lezion FC,2026-10-26T15:30:00+00:00,6.7603,soccer.double_chance,period=ft,home_away,,1.2,1.16
+2026-10-26T16:23:14.384978+01:00,36865248,Super Lig,Turkey,Caykur Rizespor,Trabzonspor,2026-10-26T16:00:00+00:00,36.7603,soccer.asian_handicap,period=ft,away,handicap=1,2.45,2.4
+2026-10-26T16:23:14.384978+01:00,36865248,Super Lig,Turkey,Caykur Rizespor,Trabzonspor,2026-10-26T16:00:00+00:00,36.7603,soccer.match_odds,period=ft,home,,3.95,4.0
