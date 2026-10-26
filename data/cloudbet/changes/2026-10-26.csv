@@ -14603,3 +14603,10 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-26T20:47:46.238056+01:00,36971732,Primera Division B (APF),Paraguay,Sportivo San Lorenzo,Cerro Porteno Asu. Res.,2026-10-26T20:00:00+00:00,12.2294,soccer.total_goals,period=ft,under,total=6,1.42,1.48
 2026-10-26T20:47:46.238056+01:00,36971732,Primera Division B (APF),Paraguay,Sportivo San Lorenzo,Cerro Porteno Asu. Res.,2026-10-26T20:00:00+00:00,12.2294,soccer.total_goals,period=ft,over,total=6.25,2.45,2.5
 2026-10-26T20:47:46.238056+01:00,36971732,Primera Division B (APF),Paraguay,Sportivo San Lorenzo,Cerro Porteno Asu. Res.,2026-10-26T20:00:00+00:00,12.2294,soccer.total_goals,period=ft,under,total=6.25,1.38,1.4
+2026-10-26T20:49:48.940404+01:00,36972282,Super D1,International,Chemal FC,Asc Gendrim,2026-10-26T19:50:00+00:00,0.1843,soccer.double_chance,period=ft,draw_away,,1.5,1.47
+2026-10-26T20:49:48.940404+01:00,36972282,Super D1,International,Chemal FC,Asc Gendrim,2026-10-26T19:50:00+00:00,0.1843,soccer.double_chance,period=ft,home_draw,,1.22,1.2
+2026-10-26T20:49:48.940404+01:00,36972282,Super D1,International,Chemal FC,Asc Gendrim,2026-10-26T19:50:00+00:00,0.1843,soccer.match_odds,period=ft,draw,,2.9,2.85
+2026-10-26T20:49:48.940404+01:00,36972282,Super D1,International,Chemal FC,Asc Gendrim,2026-10-26T19:50:00+00:00,0.1843,soccer.match_odds,period=ft,away,,3.05,3.1
+2026-10-26T20:49:48.940404+01:00,36748153,La Liga,Spain,Sevilla,Osasuna,2026-10-26T20:00:00+00:00,10.1843,soccer.asian_handicap,period=ft,home,handicap=-1.5,3.75,3.8
+2026-10-26T20:49:48.940404+01:00,36748153,La Liga,Spain,Sevilla,Osasuna,2026-10-26T20:00:00+00:00,10.1843,soccer.asian_handicap,period=ft,away,handicap=-0.75,1.7,1.69
+2026-10-26T20:49:48.940404+01:00,36748153,La Liga,Spain,Sevilla,Osasuna,2026-10-26T20:00:00+00:00,10.1843,soccer.total_goals,period=ft,under,total=2.25,1.89,1.9
