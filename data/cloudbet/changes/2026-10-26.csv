@@ -1298,3 +1298,23 @@ captured_at_local,event_id,competition,category,home_team,away_team,kickoff_utc,
 2026-10-26T06:21:46.345006+01:00,36963476,Bangalore Super Division,India,Bengaluru FC,Rebels FC,2026-10-26T05:30:00+00:00,8.2276,soccer.total_goals,period=ft,under,total=4.5,1.48,1.46
 2026-10-26T10:02:47.295887+01:00,36962631,"Wien, Wiener Stadtliga",Austria,St Veit/Glan,FC KAC 1909,2026-10-26T10:00:00+00:00,57.2117,soccer.double_chance,period=ft,draw_away,,1.68,1.71
 2026-10-26T10:02:47.295887+01:00,36962631,"Wien, Wiener Stadtliga",Austria,St Veit/Glan,FC KAC 1909,2026-10-26T10:00:00+00:00,57.2117,soccer.double_chance,period=ft,home_draw,,1.28,1.29
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=0.25,1.77,1.89
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=0.25,1.9,1.77
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=-0.5,2.45,2.7
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=-0.5,1.42,1.35
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=-0.25,2.2,2.45
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=-0.25,1.51,1.43
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=0,2.0,2.19
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=0,1.67,1.55
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=0.5,1.6,1.69
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=0.5,2.09,1.97
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=0.75,1.45,1.52
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=0.75,2.35,2.2
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,home,handicap=1,1.3,1.36
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.asian_handicap,period=ft,away,handicap=1,2.9,2.65
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.match_odds,period=ft,home,,2.5,2.75
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.match_odds,period=ft,draw,,3.75,3.7
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.match_odds,period=ft,away,,2.1,1.98
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.total_goals,period=ft,under,total=3.25,1.85,1.84
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.total_goals,period=ft,under,total=3,2.1,2.09
+2026-10-26T10:15:38.378175+01:00,36969134,KFV Cup,Austria,SV Wildon,SU Tillmitsch,2026-10-26T10:00:00+00:00,44.3604,soccer.total_goals,period=ft,over,total=3.75,2.2,2.25
