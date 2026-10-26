@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T19:17:37.182926+00:00",
+  "generated_at_utc": "2026-10-26T21:17:51.022673+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -99,19 +99,6 @@
       ]
     },
     {
-      "category": "Chile",
-      "name": "Primera Division",
-      "key": "soccer-chile-primera-division",
-      "events": [
-        {
-          "event_id": "36758807",
-          "home": "Universidad de Chile",
-          "away": "CD Everton Vina del Mar",
-          "kickoff_utc": "2026-10-26T21:00:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
@@ -144,112 +131,22 @@
       ]
     },
     {
-      "category": "Ecuador",
-      "name": "LigaPro Primera A",
-      "key": "soccer-ecuador-ligapro-primera-a",
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
       "events": [
         {
-          "event_id": "36856782",
-          "home": "CD Tecnico Universitario",
-          "away": "Mushuc Runa SC",
-          "kickoff_utc": "2026-10-26T20:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "England",
-      "name": "League Two",
-      "key": "soccer-england-league-two",
-      "events": [
-        {
-          "event_id": "36837140",
-          "home": "Walsall FC",
-          "away": "Salford City",
-          "kickoff_utc": "2026-10-26T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "England",
-      "name": "Southern League, Premier Central",
-      "key": "soccer-england-southern-football-league-premier-division-central",
-      "events": [
-        {
-          "event_id": "36968675",
-          "home": "Biggleswade Town",
-          "away": "Royston Town",
-          "kickoff_utc": "2026-10-26T19:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "France",
-      "name": "Ligue 1",
-      "key": "soccer-france-ligue-1",
-      "events": [
-        {
-          "event_id": "36924844",
-          "home": "Paris Saint Germain",
-          "away": "Lyon",
-          "kickoff_utc": "2026-10-26T19:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "France",
-      "name": "Ligue 2",
-      "key": "soccer-france-ligue-2",
-      "events": [
-        {
-          "event_id": "36890973",
-          "home": "Montpellier HSC",
-          "away": "Red Star FC",
-          "kickoff_utc": "2026-10-26T19:45:00+00:00"
-        },
-        {
-          "event_id": "36869309",
-          "home": "US Boulogne",
-          "away": "Stade Reims",
-          "kickoff_utc": "2026-10-26T19:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "International",
-      "name": "Super D1",
-      "key": "soccer-international-t6e4e-super-d1",
-      "events": [
-        {
-          "event_id": "36972282",
-          "home": "Chemal FC",
-          "away": "Asc Gendrim",
-          "kickoff_utc": "2026-10-26T19:50:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Italy",
-      "name": "Serie C, Group A",
-      "key": "soccer-italy-serie-c-group-c",
-      "events": [
-        {
-          "event_id": "36926047",
-          "home": "AZ Picerno",
-          "away": "US Salernitana",
-          "kickoff_utc": "2026-10-26T19:30:00+00:00"
-        },
-        {
-          "event_id": "36925444",
-          "home": "FC Crotone",
-          "away": "S.S.D. Casarano Calcio",
-          "kickoff_utc": "2026-10-26T19:30:00+00:00"
+          "event_id": "36926594",
+          "home": "PSS Sleman",
+          "away": "Borneo Samarinda",
+          "kickoff_utc": "2026-10-27T08:30:00+00:00"
         }
       ]
     },
     {
       "category": "Mexico",
-      "name": "Liga Premier Serie A",
-      "key": "soccer-mexico-t924f-liga-premier-serie-a",
+      "name": "Mexico Liga Premier Serie A",
+      "key": "soccer-mexico-tc501-mexico-liga-premier-serie-a",
       "events": [
         {
           "event_id": "36961634",
@@ -274,19 +171,6 @@
     },
     {
       "category": "Paraguay",
-      "name": "Primera Division B (APF)",
-      "key": "soccer-paraguay-t9a3b-primera-division-b-apf",
-      "events": [
-        {
-          "event_id": "36971732",
-          "home": "Sportivo San Lorenzo",
-          "away": "Cerro Porteno Asu. Res.",
-          "kickoff_utc": "2026-10-26T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Paraguay",
       "name": "Segunda Division",
       "key": "soccer-paraguay-segunda-division",
       "events": [
@@ -295,45 +179,6 @@
           "home": "Deportivo Capiata",
           "away": "Tacuary Asuncion",
           "kickoff_utc": "2026-10-26T21:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Portugal",
-      "name": "Liga Portugal 2",
-      "key": "soccer-portugal-segunda-liga",
-      "events": [
-        {
-          "event_id": "36776225",
-          "home": "SCU Torreense",
-          "away": "Amarante FC",
-          "kickoff_utc": "2026-10-26T20:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "La Liga",
-      "key": "soccer-spain-laliga",
-      "events": [
-        {
-          "event_id": "36748153",
-          "home": "Sevilla",
-          "away": "Osasuna",
-          "kickoff_utc": "2026-10-26T20:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Spain",
-      "name": "Segunda División",
-      "key": "soccer-spain-laliga-2",
-      "events": [
-        {
-          "event_id": "36863602",
-          "home": "Andorra CF",
-          "away": "Burgos CF",
-          "kickoff_utc": "2026-10-26T19:30:00+00:00"
         }
       ]
     },
@@ -347,6 +192,19 @@
           "home": "Paysandu FC",
           "away": "Colon FC",
           "kickoff_utc": "2026-10-26T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Vietnam",
+      "name": "V-League 2",
+      "key": "soccer-vietnam-v-league-2",
+      "events": [
+        {
+          "event_id": "36976834",
+          "home": "Lam Dong",
+          "away": "PVF-CAND FC",
+          "kickoff_utc": "2026-10-27T08:30:00+00:00"
         }
       ]
     }
