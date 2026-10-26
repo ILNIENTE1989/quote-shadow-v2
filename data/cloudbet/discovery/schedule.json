@@ -1,23 +1,30 @@
 {
-  "generated_at_utc": "2026-10-25T23:02:22.493531+00:00",
+  "generated_at_utc": "2026-10-26T01:05:34.658587+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
+      "category": "Armenia",
+      "name": "Armenia Cup",
+      "key": "soccer-armenia-tc382-armenia-cup",
       "events": [
         {
-          "event_id": "36749213",
-          "home": "Barracas Central",
-          "away": "Estudiantes Rio Cuarto",
-          "kickoff_utc": "2026-10-26T00:30:00+00:00"
-        },
+          "event_id": "36964480",
+          "home": "FC Van Charentsavan",
+          "away": "Gandzasar Kapan FC",
+          "kickoff_utc": "2026-10-26T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Austria",
+      "name": "KFV Cup",
+      "key": "soccer-austria-kfv-cup",
+      "events": [
         {
-          "event_id": "36748553",
-          "home": "CA Central Cordoba SE",
-          "away": "Velez Sarsfield",
-          "kickoff_utc": "2026-10-26T00:30:00+00:00"
+          "event_id": "36964481",
+          "home": "SC Kittsee",
+          "away": "Bad Sauerbrunn",
+          "kickoff_utc": "2026-10-26T13:00:00+00:00"
         }
       ]
     },
@@ -35,29 +42,10 @@
       ]
     },
     {
-      "category": "Bolivia",
-      "name": "Division Profesional",
-      "key": "soccer-bolivia-division-profesional",
-      "events": [
-        {
-          "event_id": "36941096",
-          "home": "Oriente Petrolero",
-          "away": "The Strongest",
-          "kickoff_utc": "2026-10-25T23:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Colombia",
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
-        {
-          "event_id": "36864904",
-          "home": "Atletico Nacional Medellin",
-          "away": "Independiente Medellin",
-          "kickoff_utc": "2026-10-25T23:10:00+00:00"
-        },
         {
           "event_id": "36872408",
           "home": "CD Tolima",
@@ -67,41 +55,66 @@
       ]
     },
     {
-      "category": "Costa Rica",
-      "name": "Primera Division, Clausura",
-      "key": "soccer-costa-rica-primera-division-clausura",
+      "category": "Croatia",
+      "name": "Prva NL",
+      "key": "soccer-croatia-2-hnl",
       "events": [
         {
-          "event_id": "36857350",
-          "home": "Liga Deportiva Alajuelense",
-          "away": "Perez Zeledon",
-          "kickoff_utc": "2026-10-26T00:00:00+00:00"
+          "event_id": "36957102",
+          "home": "NK Mladost Zdralovi",
+          "away": "NK Jadran LP",
+          "kickoff_utc": "2026-10-26T13:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Guatemala",
-      "name": "Liga Nacional. Clausura",
-      "key": "soccer-guatemala-liga-nacional-clausura",
+      "category": "Greece",
+      "name": "Super League 2",
+      "key": "soccer-greece-super-league-2",
       "events": [
         {
-          "event_id": "36905523",
-          "home": "CD Suchitepequez",
-          "away": "Club Aurora",
-          "kickoff_utc": "2026-10-25T23:30:00+00:00"
+          "event_id": "36957103",
+          "home": "APS Zakynthos",
+          "away": "Pyrgos AFC",
+          "kickoff_utc": "2026-10-26T12:45:00+00:00"
         }
       ]
     },
     {
-      "category": "Honduras",
-      "name": "Liga Nacional. Apertura",
-      "key": "soccer-honduras-liga-nacional-apertura",
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36955932",
-          "home": "Lobos UPNFM",
-          "away": "CD Olimpia Tegucigalpa",
-          "kickoff_utc": "2026-10-25T23:15:00+00:00"
+          "event_id": "36963476",
+          "home": "Bengaluru FC",
+          "away": "Rebels FC",
+          "kickoff_utc": "2026-10-26T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Indonesia",
+      "name": "Liga 1",
+      "key": "soccer-indonesia-liga-1",
+      "events": [
+        {
+          "event_id": "36906513",
+          "home": "Bhayangkara Presisi",
+          "away": "PSM Makassar",
+          "kickoff_utc": "2026-10-26T12:00:00+00:00"
+        },
+        {
+          "event_id": "36909029",
+          "home": "Persebaya Surabaya",
+          "away": "Madura United",
+          "kickoff_utc": "2026-10-26T12:00:00+00:00"
+        },
+        {
+          "event_id": "36906514",
+          "home": "Persija Jakarta",
+          "away": "Persik Kediri",
+          "kickoff_utc": "2026-10-26T12:00:00+00:00"
         }
       ]
     },
@@ -111,18 +124,6 @@
       "key": "soccer-mexico-t90c7-liga-mx-apertura",
       "events": [
         {
-          "event_id": "36864941",
-          "home": "Queretaro FC",
-          "away": "Cruz Azul",
-          "kickoff_utc": "2026-10-26T01:00:00+00:00"
-        },
-        {
-          "event_id": "36864963",
-          "home": "CF America",
-          "away": "CF Pachuca",
-          "kickoff_utc": "2026-10-26T01:05:00+00:00"
-        },
-        {
           "event_id": "36864965",
           "home": "Club Tijuana de Caliente",
           "away": "Club Santos Laguna",
@@ -131,41 +132,15 @@
       ]
     },
     {
-      "category": "Nicaragua",
-      "name": "Primera Division",
-      "key": "soccer-nicaragua-primera-division",
+      "category": "Thailand",
+      "name": "Thai League 2",
+      "key": "soccer-thailand-thai-league-2",
       "events": [
         {
-          "event_id": "36949017",
-          "home": "Real Esteli FC",
-          "away": "Managua FC",
-          "kickoff_utc": "2026-10-26T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
-      "events": [
-        {
-          "event_id": "36934762",
-          "home": "Alianza FC Panama",
-          "away": "AF Sporting San Miguelito",
-          "kickoff_utc": "2026-10-25T23:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Venezuela",
-      "name": "Primera Division",
-      "key": "soccer-venezuela-primera-division",
-      "events": [
-        {
-          "event_id": "36897455",
-          "home": "Deportivo La Guaira",
-          "away": "Metropolitanos FC",
-          "kickoff_utc": "2026-10-25T23:30:00+00:00"
+          "event_id": "36956592",
+          "home": "Muang Thong United",
+          "away": "Police Tero FC",
+          "kickoff_utc": "2026-10-26T12:00:00+00:00"
         }
       ]
     }
