@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-26T21:17:51.022673+00:00",
+  "generated_at_utc": "2026-10-26T23:19:36.080143+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -8,29 +8,10 @@
       "key": "soccer-argentina-superliga",
       "events": [
         {
-          "event_id": "36749228",
-          "home": "Union de Santa Fe",
-          "away": "Estudiantes de La Plata",
-          "kickoff_utc": "2026-10-26T22:00:00+00:00"
-        },
-        {
           "event_id": "36749229",
           "home": "Instituto AC Cordoba",
           "away": "Deportivo Riestra",
           "kickoff_utc": "2026-10-27T00:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Argentina",
-      "name": "Primera B",
-      "key": "soccer-argentina-primera-b",
-      "events": [
-        {
-          "event_id": "36970535",
-          "home": "CA Brown de Adrogue",
-          "away": "CA Defensores Unidos",
-          "kickoff_utc": "2026-10-26T22:00:00+00:00"
         }
       ]
     },
@@ -48,40 +29,28 @@
       ]
     },
     {
+      "category": "Azerbaijan",
+      "name": "Azerbaijan Cup",
+      "key": "soccer-azerbaijan-azerbaijan-cup",
+      "events": [
+        {
+          "event_id": "36977772",
+          "home": "Simal",
+          "away": "Araz Nakhchivan PFK",
+          "kickoff_utc": "2026-10-27T10:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Bolivia",
       "name": "Division Profesional",
       "key": "soccer-bolivia-division-profesional",
       "events": [
         {
-          "event_id": "36955006",
-          "home": "CA Nacional Potosi",
-          "away": "Guabira Montero",
-          "kickoff_utc": "2026-10-26T22:00:00+00:00"
-        },
-        {
           "event_id": "36960632",
           "home": "Club Bolivar",
           "away": "FC Universitario de Vinto",
           "kickoff_utc": "2026-10-27T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Brazil",
-      "name": "Brasileiro Serie A",
-      "key": "soccer-brazil-brasileiro-serie-a",
-      "events": [
-        {
-          "event_id": "36856106",
-          "home": "Coritiba FC PR",
-          "away": "Gremio FB Porto Alegrense RS",
-          "kickoff_utc": "2026-10-26T22:30:00+00:00"
-        },
-        {
-          "event_id": "36856324",
-          "home": "CR Flamengo RJ",
-          "away": "Atletico Mineiro MG",
-          "kickoff_utc": "2026-10-26T23:00:00+00:00"
         }
       ]
     },
@@ -103,12 +72,6 @@
       "name": "Primera A, Clausura",
       "key": "soccer-colombia-primera-a-clausura",
       "events": [
-        {
-          "event_id": "36902161",
-          "home": "Jaguares de Cordoba",
-          "away": "Llaneros FC",
-          "kickoff_utc": "2026-10-26T23:00:00+00:00"
-        },
         {
           "event_id": "36925460",
           "home": "Independiente Santa Fe",
@@ -157,6 +120,19 @@
       ]
     },
     {
+      "category": "Moldova",
+      "name": "Cupa Moldova",
+      "key": "soccer-moldova-cupa-moldova",
+      "events": [
+        {
+          "event_id": "36976842",
+          "home": "CSCA Buiucani",
+          "away": "Univer-Oguzsport",
+          "kickoff_utc": "2026-10-27T11:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Panama",
       "name": "Liga Panamena de Futbol, Apertura",
       "key": "soccer-panama-liga-panamena-de-futbol-apertura",
@@ -170,15 +146,40 @@
       ]
     },
     {
-      "category": "Paraguay",
-      "name": "Segunda Division",
-      "key": "soccer-paraguay-segunda-division",
+      "category": "Turkey",
+      "name": "Turkiye Kupasi",
+      "key": "soccer-turkey-turkiye-kupasi",
       "events": [
         {
-          "event_id": "36969632",
-          "home": "Deportivo Capiata",
-          "away": "Tacuary Asuncion",
-          "kickoff_utc": "2026-10-26T21:30:00+00:00"
+          "event_id": "36977902",
+          "home": "Etimesgut Belediyespor",
+          "away": "Gaziantep FK",
+          "kickoff_utc": "2026-10-27T10:30:00+00:00"
+        },
+        {
+          "event_id": "36973743",
+          "home": "Pazarspor",
+          "away": "Aliaga Futbol",
+          "kickoff_utc": "2026-10-27T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Ukraine",
+      "name": "Ukraine Cup",
+      "key": "soccer-ukraine-ukraine-cup",
+      "events": [
+        {
+          "event_id": "36974711",
+          "home": "Mayak Sarny",
+          "away": "FC Metalist 1925 Kharkiv",
+          "kickoff_utc": "2026-10-27T10:00:00+00:00"
+        },
+        {
+          "event_id": "36974643",
+          "home": "Fc Levy Bereg Kiev",
+          "away": "Veres Rivne",
+          "kickoff_utc": "2026-10-27T11:00:00+00:00"
         }
       ]
     },
@@ -205,6 +206,24 @@
           "home": "Lam Dong",
           "away": "PVF-CAND FC",
           "kickoff_utc": "2026-10-27T08:30:00+00:00"
+        },
+        {
+          "event_id": "36977819",
+          "home": "DH van Hien",
+          "away": "Phu Tho FC",
+          "kickoff_utc": "2026-10-27T10:00:00+00:00"
+        },
+        {
+          "event_id": "36977818",
+          "home": "K. Khanh Hoa",
+          "away": "Sai Gon FC",
+          "kickoff_utc": "2026-10-27T10:00:00+00:00"
+        },
+        {
+          "event_id": "36978241",
+          "home": "B. Binh Duong",
+          "away": "Can Tho FC",
+          "kickoff_utc": "2026-10-27T11:00:00+00:00"
         }
       ]
     }
