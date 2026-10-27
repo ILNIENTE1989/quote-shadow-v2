@@ -1,33 +1,7 @@
 {
-  "generated_at_utc": "2026-10-26T23:19:36.080143+00:00",
+  "generated_at_utc": "2026-10-27T01:19:37.880384+00:00",
   "horizon_minutes": 720,
   "competitions": [
-    {
-      "category": "Argentina",
-      "name": "Liga Profesional",
-      "key": "soccer-argentina-superliga",
-      "events": [
-        {
-          "event_id": "36749229",
-          "home": "Instituto AC Cordoba",
-          "away": "Deportivo Riestra",
-          "kickoff_utc": "2026-10-27T00:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Aruba",
-      "name": "Division de Honor",
-      "key": "soccer-aruba-division-de-honor",
-      "events": [
-        {
-          "event_id": "36975633",
-          "home": "SV Deportivo Nacional",
-          "away": "SV Britannia",
-          "kickoff_utc": "2026-10-27T00:30:00+00:00"
-        }
-      ]
-    },
     {
       "category": "Azerbaijan",
       "name": "Azerbaijan Cup",
@@ -38,58 +12,63 @@
           "home": "Simal",
           "away": "Araz Nakhchivan PFK",
           "kickoff_utc": "2026-10-27T10:00:00+00:00"
+        },
+        {
+          "event_id": "36979306",
+          "home": "Gabala FK",
+          "away": "Energetik Mingechevir",
+          "kickoff_utc": "2026-10-27T13:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Bolivia",
-      "name": "Division Profesional",
-      "key": "soccer-bolivia-division-profesional",
+      "category": "Bosnia & Herzegovina",
+      "name": "Bosnia & Herzegovina Cup",
+      "key": "soccer-bosnia-herzegovina-bosnia-and-herzegovina-cup",
       "events": [
         {
-          "event_id": "36960632",
-          "home": "Club Bolivar",
-          "away": "FC Universitario de Vinto",
-          "kickoff_utc": "2026-10-27T00:00:00+00:00"
+          "event_id": "36978907",
+          "home": "FK Igman Konjic",
+          "away": "FK BSK Banja Luka",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36978905",
+          "home": "FK Zvijezda 09",
+          "away": "FK Radnik Bijeljina",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36978903",
+          "home": "HNK Tomislav Tomislavgrad",
+          "away": "FK Sarajevo",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
         }
       ]
     },
     {
-      "category": "Brazil",
-      "name": "Brasileiro Serie B",
-      "key": "soccer-brazil-brasileiro-serie-b",
+      "category": "Hungary",
+      "name": "Magyar Kupa",
+      "key": "soccer-hungary-magyar-kupa",
       "events": [
         {
-          "event_id": "36871646",
-          "home": "EC Juventude RS",
-          "away": "Nautico PE",
-          "kickoff_utc": "2026-10-26T23:30:00+00:00"
+          "event_id": "36969901",
+          "home": "Kaposvari Rakoczi FC",
+          "away": "FC Ajka",
+          "kickoff_utc": "2026-10-27T11:30:00+00:00"
         }
       ]
     },
     {
-      "category": "Colombia",
-      "name": "Primera A, Clausura",
-      "key": "soccer-colombia-primera-a-clausura",
+      "category": "India",
+      "name": "Bangalore Super Division",
+      "key": "soccer-india-t66dc-bangalore-super-division",
       "events": [
         {
-          "event_id": "36925460",
-          "home": "Independiente Santa Fe",
-          "away": "CA Bucaramanga",
-          "kickoff_utc": "2026-10-27T01:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Costa Rica",
-      "name": "Liga de Ascenso, Apertura",
-      "key": "soccer-costa-rica-liga-de-ascenso-apertura",
-      "events": [
-        {
-          "event_id": "36971734",
-          "home": "Pitbulls Santa Barbara FC",
-          "away": "AD Carmelita",
-          "kickoff_utc": "2026-10-27T01:00:00+00:00"
+          "event_id": "36978594",
+          "home": "FC Agniputhra",
+          "away": "Technico FF",
+          "kickoff_utc": "2026-10-27T05:30:00+00:00"
         }
       ]
     },
@@ -133,15 +112,66 @@
       ]
     },
     {
-      "category": "Panama",
-      "name": "Liga Panamena de Futbol, Apertura",
-      "key": "soccer-panama-liga-panamena-de-futbol-apertura",
+      "category": "Poland",
+      "name": "Puchar Polski",
+      "key": "soccer-poland-puchar-polski",
       "events": [
         {
-          "event_id": "36934430",
-          "home": "Veraguas United FC",
-          "away": "Cocle FC",
-          "kickoff_utc": "2026-10-27T01:00:00+00:00"
+          "event_id": "36972281",
+          "home": "Gornik Leczna",
+          "away": "GKS Katowice",
+          "kickoff_utc": "2026-10-27T11:30:00+00:00"
+        },
+        {
+          "event_id": "36972214",
+          "home": "Olimpia Grudziadz",
+          "away": "Bruk-Bet Termalica Nieciecza",
+          "kickoff_utc": "2026-10-27T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Romania",
+      "name": "Romania Cup",
+      "key": "soccer-romania-romania-cup",
+      "events": [
+        {
+          "event_id": "36941045",
+          "home": "FK Csikszereda Miercurea Ciuc",
+          "away": "FC Bihor Oradea",
+          "kickoff_utc": "2026-10-27T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 2",
+      "key": "soccer-saudi-arabia-division-2",
+      "events": [
+        {
+          "event_id": "36973383",
+          "home": "Al-Qalah",
+          "away": "AL Batin",
+          "kickoff_utc": "2026-10-27T12:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovenia",
+      "name": "2. Liga",
+      "key": "soccer-slovenia-2nd-liga",
+      "events": [
+        {
+          "event_id": "36979307",
+          "home": "Ilirija Ljubljana",
+          "away": "NK Bilje",
+          "kickoff_utc": "2026-10-27T13:00:00+00:00"
+        },
+        {
+          "event_id": "36979362",
+          "home": "NK Dekani",
+          "away": "NK Brezice 1919",
+          "kickoff_utc": "2026-10-27T13:00:00+00:00"
         }
       ]
     },
@@ -161,6 +191,30 @@
           "home": "Pazarspor",
           "away": "Aliaga Futbol",
           "kickoff_utc": "2026-10-27T10:30:00+00:00"
+        },
+        {
+          "event_id": "36973607",
+          "home": "AS Sariyer",
+          "away": "Ayvalikgucu",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36977901",
+          "home": "Adaletgucu",
+          "away": "MKE Ankaragucu",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36973806",
+          "home": "Elazigspor",
+          "away": "Talasgucu Belediyespor",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36973357",
+          "home": "Orduspor 1967",
+          "away": "Van Spor FK",
+          "kickoff_utc": "2026-10-27T12:00:00+00:00"
         }
       ]
     },
@@ -180,19 +234,6 @@
           "home": "Fc Levy Bereg Kiev",
           "away": "Veres Rivne",
           "kickoff_utc": "2026-10-27T11:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "category": "Uruguay",
-      "name": "Segunda Division",
-      "key": "soccer-uruguay-segunda-division",
-      "events": [
-        {
-          "event_id": "36905568",
-          "home": "Paysandu FC",
-          "away": "Colon FC",
-          "kickoff_utc": "2026-10-26T23:30:00+00:00"
         }
       ]
     },
