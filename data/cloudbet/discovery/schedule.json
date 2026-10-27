@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T11:23:38.096564+00:00",
+  "generated_at_utc": "2026-10-27T13:25:44.260491+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -71,12 +71,6 @@
       "key": "soccer-azerbaijan-azerbaijan-cup",
       "events": [
         {
-          "event_id": "36979306",
-          "home": "Gabala FK",
-          "away": "Energetik Mingechevir",
-          "kickoff_utc": "2026-10-27T13:00:00+00:00"
-        },
-        {
           "event_id": "36980040",
           "home": "Sabail FK",
           "away": "Zira FK",
@@ -89,24 +83,6 @@
       "name": "Bosnia & Herzegovina Cup",
       "key": "soccer-bosnia-herzegovina-bosnia-and-herzegovina-cup",
       "events": [
-        {
-          "event_id": "36978907",
-          "home": "FK Igman Konjic",
-          "away": "FK BSK Banja Luka",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
-        {
-          "event_id": "36978905",
-          "home": "FK Zvijezda 09",
-          "away": "FK Radnik Bijeljina",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
-        {
-          "event_id": "36978903",
-          "home": "HNK Tomislav Tomislavgrad",
-          "away": "FK Sarajevo",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
         {
           "event_id": "36981720",
           "home": "FK Laktasi",
@@ -698,12 +674,6 @@
       "key": "soccer-hungary-magyar-kupa",
       "events": [
         {
-          "event_id": "36969901",
-          "home": "Kaposvari Rakoczi FC",
-          "away": "FC Ajka",
-          "kickoff_utc": "2026-10-27T11:30:00+00:00"
-        },
-        {
           "event_id": "36970520",
           "home": "Gyirmot FC Gyor",
           "away": "Budapest Honved FC",
@@ -825,7 +795,7 @@
           "event_id": "36980042",
           "home": "Kazma SC",
           "away": "Ajman Club",
-          "kickoff_utc": "2026-10-27T14:30:00+00:00"
+          "kickoff_utc": "2026-10-27T14:00:00+00:00"
         },
         {
           "event_id": "36980343",
@@ -1108,18 +1078,6 @@
       "key": "soccer-poland-puchar-polski",
       "events": [
         {
-          "event_id": "36972281",
-          "home": "Gornik Leczna",
-          "away": "GKS Katowice",
-          "kickoff_utc": "2026-10-27T11:30:00+00:00"
-        },
-        {
-          "event_id": "36972214",
-          "home": "Olimpia Grudziadz",
-          "away": "Bruk-Bet Termalica Nieciecza",
-          "kickoff_utc": "2026-10-27T11:30:00+00:00"
-        },
-        {
           "event_id": "36971847",
           "home": "LKP Motor Lublin",
           "away": "RKS Rakow Czestochowa",
@@ -1183,12 +1141,6 @@
       "name": "Romania Cup",
       "key": "soccer-romania-romania-cup",
       "events": [
-        {
-          "event_id": "36941045",
-          "home": "FK Csikszereda Miercurea Ciuc",
-          "away": "FC Bihor Oradea",
-          "kickoff_utc": "2026-10-27T13:00:00+00:00"
-        },
         {
           "event_id": "36941058",
           "home": "AFC Progresul 1944 Spartac",
@@ -1273,19 +1225,6 @@
       ]
     },
     {
-      "category": "Saudi Arabia",
-      "name": "Division 2",
-      "key": "soccer-saudi-arabia-division-2",
-      "events": [
-        {
-          "event_id": "36973383",
-          "home": "Al-Qalah",
-          "away": "AL Batin",
-          "kickoff_utc": "2026-10-27T12:35:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "Scotland",
       "name": "Championship",
       "key": "soccer-scotland-championship",
@@ -1342,18 +1281,6 @@
       "name": "2. Liga",
       "key": "soccer-slovenia-2nd-liga",
       "events": [
-        {
-          "event_id": "36979307",
-          "home": "Ilirija Ljubljana",
-          "away": "NK Bilje",
-          "kickoff_utc": "2026-10-27T13:00:00+00:00"
-        },
-        {
-          "event_id": "36979362",
-          "home": "NK Dekani",
-          "away": "NK Brezice 1919",
-          "kickoff_utc": "2026-10-27T13:00:00+00:00"
-        },
         {
           "event_id": "36979788",
           "home": "Krka Novo Mesto",
@@ -1602,30 +1529,6 @@
       "key": "soccer-turkey-turkiye-kupasi",
       "events": [
         {
-          "event_id": "36973607",
-          "home": "AS Sariyer",
-          "away": "Ayvalikgucu",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
-        {
-          "event_id": "36977901",
-          "home": "Adaletgucu",
-          "away": "MKE Ankaragucu",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
-        {
-          "event_id": "36973806",
-          "home": "Elazigspor",
-          "away": "Talasgucu Belediyespor",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
-        {
-          "event_id": "36973357",
-          "home": "Orduspor 1967",
-          "away": "Van Spor FK",
-          "kickoff_utc": "2026-10-27T12:00:00+00:00"
-        },
-        {
           "event_id": "36973744",
           "home": "Kocaelispor",
           "away": "Mazidagi Fosfat Spor",
@@ -1681,6 +1584,12 @@
           "home": "Academia Puerto Cabello",
           "away": "Caracas FC",
           "kickoff_utc": "2026-10-27T21:30:00+00:00"
+        },
+        {
+          "event_id": "36973785",
+          "home": "Deportivo Tachira",
+          "away": "Monagas SC",
+          "kickoff_utc": "2026-10-27T23:30:00+00:00"
         }
       ]
     }
