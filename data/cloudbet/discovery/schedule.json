@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T03:19:42.996284+00:00",
+  "generated_at_utc": "2026-10-27T05:21:53.528597+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -31,6 +31,25 @@
           "home": "Pyunik Yerevan FC",
           "away": "Ararat Yerevan FC",
           "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Austria",
+      "name": "OFB Cup",
+      "key": "soccer-austria-ofb-cup",
+      "events": [
+        {
+          "event_id": "36969858",
+          "home": "FK Austria Wien",
+          "away": "TSV Hartberg",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        },
+        {
+          "event_id": "36969763",
+          "home": "First Vienna FC",
+          "away": "SK Rapid Wien",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
         }
       ]
     },
@@ -81,6 +100,12 @@
           "home": "HNK Tomislav Tomislavgrad",
           "away": "FK Sarajevo",
           "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36981720",
+          "home": "FK Laktasi",
+          "away": "HSK Zrinjski Mostar",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
         }
       ]
     },
@@ -98,6 +123,95 @@
       ]
     },
     {
+      "category": "Croatia",
+      "name": "HNL",
+      "key": "soccer-croatia-1-hnl",
+      "events": [
+        {
+          "event_id": "36878048",
+          "home": "GNK Dinamo Zagreb",
+          "away": "HNK Rijeka",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Czechia",
+      "name": "Czech Cup",
+      "key": "soccer-czech-republic-cup",
+      "events": [
+        {
+          "event_id": "36969120",
+          "home": "FC Slovan Liberec",
+          "away": "FK Teplice",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Estonia",
+      "name": "Premium Liiga",
+      "key": "soccer-estonia-premium-liiga",
+      "events": [
+        {
+          "event_id": "36981024",
+          "home": "FCI Levadia Tallinn",
+          "away": "Tartu JK Tammeka",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        },
+        {
+          "event_id": "36932575",
+          "home": "JK Narva Trans",
+          "away": "FC Nomme United",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Georgia",
+      "name": "Georgia Cup",
+      "key": "soccer-georgia-cup",
+      "events": [
+        {
+          "event_id": "36973373",
+          "home": "FC Gagra",
+          "away": "FC Rustavi",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Germany",
+      "name": "DFB Pokal",
+      "key": "soccer-germany-dfb-pokal",
+      "events": [
+        {
+          "event_id": "36648854",
+          "home": "Hamburger SV",
+          "away": "Eintracht Frankfurt",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        },
+        {
+          "event_id": "36648865",
+          "home": "Rot-Weiss Essen",
+          "away": "RB Leipzig",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        },
+        {
+          "event_id": "36649046",
+          "home": "SG Sonnenhof Grossaspach",
+          "away": "FC Augsburg",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        },
+        {
+          "event_id": "36601526",
+          "home": "VfL Bochum",
+          "away": "FSV Mainz",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Greece",
       "name": "Greece Cup",
       "key": "soccer-greece-greece-cup",
@@ -107,6 +221,12 @@
           "home": "Panserraikos FC",
           "away": "Niki Volou 1924 PAE",
           "kickoff_utc": "2026-10-27T14:00:00+00:00"
+        },
+        {
+          "event_id": "36585571",
+          "home": "Asteras Tripolis",
+          "away": "AE Kifisia FC",
+          "kickoff_utc": "2026-10-27T15:30:00+00:00"
         }
       ]
     },
@@ -139,6 +259,12 @@
           "home": "Kodagu Fc",
           "away": "Bangalore Dream United FC",
           "kickoff_utc": "2026-10-27T08:00:00+00:00"
+        },
+        {
+          "event_id": "36981310",
+          "home": "FC Real Bengaluru",
+          "away": "Roots FC",
+          "kickoff_utc": "2026-10-27T10:30:00+00:00"
         }
       ]
     },
@@ -152,6 +278,19 @@
           "home": "PSS Sleman",
           "away": "Borneo Samarinda",
           "kickoff_utc": "2026-10-27T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "International Clubs",
+      "name": "AFC Cup",
+      "key": "soccer-international-clubs-afc-cup",
+      "events": [
+        {
+          "event_id": "36970548",
+          "home": "Al-Seeb",
+          "away": "SC East Bengal",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
         }
       ]
     },
@@ -171,6 +310,12 @@
           "home": "Al Shabab",
           "away": "Neom SC",
           "kickoff_utc": "2026-10-27T14:45:00+00:00"
+        },
+        {
+          "event_id": "36981712",
+          "home": "Al-Riffa SC",
+          "away": "Qatar SC",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
         }
       ]
     },
@@ -190,6 +335,19 @@
           "home": "FC Milsami",
           "away": "Fcm Ungheni",
           "kickoff_utc": "2026-10-27T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Montenegro",
+      "name": "1. CFL",
+      "key": "soccer-montenegro-1-cfl",
+      "events": [
+        {
+          "event_id": "36971071",
+          "home": "FK Buducnost",
+          "away": "FK Mornar Bar",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
         }
       ]
     },
@@ -222,6 +380,12 @@
           "home": "Olimpia Grudziadz",
           "away": "Bruk-Bet Termalica Nieciecza",
           "kickoff_utc": "2026-10-27T11:30:00+00:00"
+        },
+        {
+          "event_id": "36971847",
+          "home": "LKP Motor Lublin",
+          "away": "RKS Rakow Czestochowa",
+          "kickoff_utc": "2026-10-27T16:30:00+00:00"
         }
       ]
     },
@@ -241,6 +405,12 @@
           "home": "AFC Progresul 1944 Spartac",
           "away": "FC Petrolul Ploiesti",
           "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        },
+        {
+          "event_id": "36941068",
+          "home": "FC Uta Arad",
+          "away": "FC Botosani",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
         }
       ]
     },
@@ -267,6 +437,18 @@
           "home": "AL Tai",
           "away": "Jeddah Club",
           "kickoff_utc": "2026-10-27T13:45:00+00:00"
+        },
+        {
+          "event_id": "36970530",
+          "home": "AL Wehda FC",
+          "away": "AL Saqer FC",
+          "kickoff_utc": "2026-10-27T15:25:00+00:00"
+        },
+        {
+          "event_id": "36970532",
+          "home": "Al Adalah FC",
+          "away": "AL Jeel",
+          "kickoff_utc": "2026-10-27T16:30:00+00:00"
         }
       ]
     },
@@ -280,6 +462,19 @@
           "home": "Al-Qalah",
           "away": "AL Batin",
           "kickoff_utc": "2026-10-27T12:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Serbia",
+      "name": "Serbia Cup",
+      "key": "soccer-serbia-serbia-cup",
+      "events": [
+        {
+          "event_id": "36970744",
+          "home": "FK Macva Sabac",
+          "away": "FK Napredak Krusevac",
+          "kickoff_utc": "2026-10-27T16:30:00+00:00"
         }
       ]
     },
@@ -305,6 +500,56 @@
           "home": "Krka Novo Mesto",
           "away": "NK Dren Vrhnika",
           "kickoff_utc": "2026-10-27T13:30:00+00:00"
+        },
+        {
+          "event_id": "36981014",
+          "home": "Primorje Ajdovscina",
+          "away": "NK Rudar Velenje",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        },
+        {
+          "event_id": "36981013",
+          "home": "Tabor Sezana",
+          "away": "Nd Slovan",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Slovenia",
+      "name": "PrvaLiga",
+      "key": "soccer-slovenia-prvaliga",
+      "events": [
+        {
+          "event_id": "36878880",
+          "home": "NK Radomlje",
+          "away": "Mura Murska Sobota",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "South Africa",
+      "name": "League Cup",
+      "key": "soccer-south-africa-league-cup",
+      "events": [
+        {
+          "event_id": "36971216",
+          "home": "Kaizer Chiefs",
+          "away": "TS Galaxy FC",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        },
+        {
+          "event_id": "36975815",
+          "home": "Mamelodi Sundowns",
+          "away": "Marumo Gallants FC",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
+        },
+        {
+          "event_id": "36975229",
+          "home": "Orlando Pirates FC",
+          "away": "Milford FC",
+          "kickoff_utc": "2026-10-27T17:00:00+00:00"
         }
       ]
     },
@@ -398,6 +643,12 @@
           "home": "Fc Levy Bereg Kiev",
           "away": "Veres Rivne",
           "kickoff_utc": "2026-10-27T11:00:00+00:00"
+        },
+        {
+          "event_id": "36974671",
+          "home": "FC Shakhtar Donetsk",
+          "away": "FC Dynamo Kiev",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
         }
       ]
     },
