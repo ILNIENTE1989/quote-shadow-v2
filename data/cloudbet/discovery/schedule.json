@@ -1,7 +1,39 @@
 {
-  "generated_at_utc": "2026-10-27T01:19:37.880384+00:00",
+  "generated_at_utc": "2026-10-27T03:19:42.996284+00:00",
   "horizon_minutes": 720,
   "competitions": [
+    {
+      "category": "Algeria",
+      "name": "Ligue 1",
+      "key": "soccer-algeria-ligue-1",
+      "events": [
+        {
+          "event_id": "36971874",
+          "home": "US Biskra",
+          "away": "MC Alger",
+          "kickoff_utc": "2026-10-27T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Armenia",
+      "name": "Armenia Cup",
+      "key": "soccer-armenia-tc382-armenia-cup",
+      "events": [
+        {
+          "event_id": "36980485",
+          "home": "FC Urartu Yerevan",
+          "away": "Andranik",
+          "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        },
+        {
+          "event_id": "36980489",
+          "home": "Pyunik Yerevan FC",
+          "away": "Ararat Yerevan FC",
+          "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        }
+      ]
+    },
     {
       "category": "Azerbaijan",
       "name": "Azerbaijan Cup",
@@ -18,6 +50,12 @@
           "home": "Gabala FK",
           "away": "Energetik Mingechevir",
           "kickoff_utc": "2026-10-27T13:00:00+00:00"
+        },
+        {
+          "event_id": "36980040",
+          "home": "Sabail FK",
+          "away": "Zira FK",
+          "kickoff_utc": "2026-10-27T14:00:00+00:00"
         }
       ]
     },
@@ -47,6 +85,32 @@
       ]
     },
     {
+      "category": "Bulgaria",
+      "name": "Parva Liga",
+      "key": "soccer-bulgaria-first-professional-league",
+      "events": [
+        {
+          "event_id": "36757665",
+          "home": "PFC Cherno More Varna",
+          "away": "FK Septemvri Sofia",
+          "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Greece",
+      "name": "Greece Cup",
+      "key": "soccer-greece-greece-cup",
+      "events": [
+        {
+          "event_id": "36662147",
+          "home": "Panserraikos FC",
+          "away": "Niki Volou 1924 PAE",
+          "kickoff_utc": "2026-10-27T14:00:00+00:00"
+        }
+      ]
+    },
+    {
       "category": "Hungary",
       "name": "Magyar Kupa",
       "key": "soccer-hungary-magyar-kupa",
@@ -69,6 +133,12 @@
           "home": "FC Agniputhra",
           "away": "Technico FF",
           "kickoff_utc": "2026-10-27T05:30:00+00:00"
+        },
+        {
+          "event_id": "36980041",
+          "home": "Kodagu Fc",
+          "away": "Bangalore Dream United FC",
+          "kickoff_utc": "2026-10-27T08:00:00+00:00"
         }
       ]
     },
@@ -86,15 +156,21 @@
       ]
     },
     {
-      "category": "Mexico",
-      "name": "Mexico Liga Premier Serie A",
-      "key": "soccer-mexico-tc501-mexico-liga-premier-serie-a",
+      "category": "International Clubs",
+      "name": "Gulf Club Championship",
+      "key": "soccer-international-clubs-ta272-gulf-club-championship",
       "events": [
         {
-          "event_id": "36961634",
-          "home": "Santiago FC",
-          "away": "Real Refineros Cds",
-          "kickoff_utc": "2026-10-27T02:05:00+00:00"
+          "event_id": "36980042",
+          "home": "Kazma SC",
+          "away": "Ajman Club",
+          "kickoff_utc": "2026-10-27T14:30:00+00:00"
+        },
+        {
+          "event_id": "36980343",
+          "home": "Al Shabab",
+          "away": "Neom SC",
+          "kickoff_utc": "2026-10-27T14:45:00+00:00"
         }
       ]
     },
@@ -108,6 +184,25 @@
           "home": "CSCA Buiucani",
           "away": "Univer-Oguzsport",
           "kickoff_utc": "2026-10-27T11:00:00+00:00"
+        },
+        {
+          "event_id": "36970510",
+          "home": "FC Milsami",
+          "away": "Fcm Ungheni",
+          "kickoff_utc": "2026-10-27T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Panama",
+      "name": "Liga Nacional de Ascenso",
+      "key": "soccer-panama-liga-nacional-de-ascenso",
+      "events": [
+        {
+          "event_id": "36978914",
+          "home": "Udelas FC",
+          "away": "SD Atletico Nacional",
+          "kickoff_utc": "2026-10-27T14:00:00+00:00"
         }
       ]
     },
@@ -140,6 +235,38 @@
           "home": "FK Csikszereda Miercurea Ciuc",
           "away": "FC Bihor Oradea",
           "kickoff_utc": "2026-10-27T13:00:00+00:00"
+        },
+        {
+          "event_id": "36941058",
+          "home": "AFC Progresul 1944 Spartac",
+          "away": "FC Petrolul Ploiesti",
+          "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Russia",
+      "name": "Russian Cup",
+      "key": "soccer-russia-russian-cup",
+      "events": [
+        {
+          "event_id": "36815249",
+          "home": "FC Fakel Voronezh",
+          "away": "RFK Akhmat Grozny",
+          "kickoff_utc": "2026-10-27T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Saudi Arabia",
+      "name": "Division 1",
+      "key": "soccer-saudi-arabia-division-1",
+      "events": [
+        {
+          "event_id": "36970531",
+          "home": "AL Tai",
+          "away": "Jeddah Club",
+          "kickoff_utc": "2026-10-27T13:45:00+00:00"
         }
       ]
     },
@@ -172,6 +299,37 @@
           "home": "NK Dekani",
           "away": "NK Brezice 1919",
           "kickoff_utc": "2026-10-27T13:00:00+00:00"
+        },
+        {
+          "event_id": "36979788",
+          "home": "Krka Novo Mesto",
+          "away": "NK Dren Vrhnika",
+          "kickoff_utc": "2026-10-27T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Tunisia",
+      "name": "Ligue 2",
+      "key": "soccer-tunisia-ligue-2",
+      "events": [
+        {
+          "event_id": "36979787",
+          "home": "AS Ariana",
+          "away": "AS Kasserine",
+          "kickoff_utc": "2026-10-27T13:30:00+00:00"
+        },
+        {
+          "event_id": "36979786",
+          "home": "JS Kairouanaise",
+          "away": "EGS Gafsa",
+          "kickoff_utc": "2026-10-27T13:30:00+00:00"
+        },
+        {
+          "event_id": "36979785",
+          "home": "Stade Gabesien",
+          "away": "CS Korba",
+          "kickoff_utc": "2026-10-27T13:30:00+00:00"
         }
       ]
     },
@@ -215,6 +373,12 @@
           "home": "Orduspor 1967",
           "away": "Van Spor FK",
           "kickoff_utc": "2026-10-27T12:00:00+00:00"
+        },
+        {
+          "event_id": "36973744",
+          "home": "Kocaelispor",
+          "away": "Mazidagi Fosfat Spor",
+          "kickoff_utc": "2026-10-27T15:00:00+00:00"
         }
       ]
     },
