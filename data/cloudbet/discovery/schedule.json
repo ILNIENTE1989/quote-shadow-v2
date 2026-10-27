@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-27T09:23:33.766792+00:00",
+  "generated_at_utc": "2026-10-27T11:23:38.096564+00:00",
   "horizon_minutes": 720,
   "competitions": [
     {
@@ -71,12 +71,6 @@
       "key": "soccer-azerbaijan-azerbaijan-cup",
       "events": [
         {
-          "event_id": "36977772",
-          "home": "Simal",
-          "away": "Araz Nakhchivan PFK",
-          "kickoff_utc": "2026-10-27T10:00:00+00:00"
-        },
-        {
           "event_id": "36979306",
           "home": "Gabala FK",
           "away": "Energetik Mingechevir",
@@ -129,6 +123,19 @@
     },
     {
       "category": "Brazil",
+      "name": "Brasileiro Serie B",
+      "key": "soccer-brazil-brasileiro-serie-b",
+      "events": [
+        {
+          "event_id": "36885850",
+          "home": "Ceara SC CE",
+          "away": "Goias EC GO",
+          "kickoff_utc": "2026-10-27T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Brazil",
       "name": "Pernambucano",
       "key": "soccer-brazil-pernambucano",
       "events": [
@@ -162,6 +169,19 @@
           "home": "FC Arda Kardzhali",
           "away": "PFC Levski Sofia",
           "kickoff_utc": "2026-10-27T17:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Colombia",
+      "name": "Primera A, Clausura",
+      "key": "soccer-colombia-primera-a-clausura",
+      "events": [
+        {
+          "event_id": "36947785",
+          "home": "Cucuta Deportivo FC",
+          "away": "Aguilas Doradas Rionegro",
+          "kickoff_utc": "2026-10-27T23:00:00+00:00"
         }
       ]
     },
@@ -692,19 +712,6 @@
       ]
     },
     {
-      "category": "India",
-      "name": "Bangalore Super Division",
-      "key": "soccer-india-t66dc-bangalore-super-division",
-      "events": [
-        {
-          "event_id": "36981310",
-          "home": "FC Real Bengaluru",
-          "away": "Roots FC",
-          "kickoff_utc": "2026-10-27T10:30:00+00:00"
-        }
-      ]
-    },
-    {
       "category": "International",
       "name": "England Isthmian League Division 1 North",
       "key": "soccer-international-tb413-england-isthmian-league-division-1-north",
@@ -939,18 +946,6 @@
       "key": "soccer-moldova-cupa-moldova",
       "events": [
         {
-          "event_id": "36976842",
-          "home": "CSCA Buiucani",
-          "away": "Univer-Oguzsport",
-          "kickoff_utc": "2026-10-27T11:00:00+00:00"
-        },
-        {
-          "event_id": "36982807",
-          "home": "CSCA Buiucani",
-          "away": "Univer-Oguzsport",
-          "kickoff_utc": "2026-10-27T11:00:00+00:00"
-        },
-        {
           "event_id": "36970510",
           "home": "FC Milsami",
           "away": "Fcm Ungheni",
@@ -1091,6 +1086,19 @@
           "home": "Udelas FC",
           "away": "SD Atletico Nacional",
           "kickoff_utc": "2026-10-27T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Paraguay",
+      "name": "Copa Paraguay",
+      "key": "soccer-paraguay-copa-paraguay",
+      "events": [
+        {
+          "event_id": "36984473",
+          "home": "Libertad Asuncion",
+          "away": "Independiente Campo Grande",
+          "kickoff_utc": "2026-10-27T22:30:00+00:00"
         }
       ]
     },
@@ -1594,18 +1602,6 @@
       "key": "soccer-turkey-turkiye-kupasi",
       "events": [
         {
-          "event_id": "36977902",
-          "home": "Etimesgut Belediyespor",
-          "away": "Gaziantep FK",
-          "kickoff_utc": "2026-10-27T10:30:00+00:00"
-        },
-        {
-          "event_id": "36973743",
-          "home": "Pazarspor",
-          "away": "Aliaga Futbol",
-          "kickoff_utc": "2026-10-27T10:30:00+00:00"
-        },
-        {
           "event_id": "36973607",
           "home": "AS Sariyer",
           "away": "Ayvalikgucu",
@@ -1636,6 +1632,12 @@
           "kickoff_utc": "2026-10-27T15:00:00+00:00"
         },
         {
+          "event_id": "36984382",
+          "home": "Yeni Mersin Idman Yurdu",
+          "away": "Mus 1984 Musspor",
+          "kickoff_utc": "2026-10-27T16:00:00+00:00"
+        },
+        {
           "event_id": "36973745",
           "home": "Alanyaspor",
           "away": "12 Bingol Spor",
@@ -1649,18 +1651,6 @@
       "key": "soccer-ukraine-ukraine-cup",
       "events": [
         {
-          "event_id": "36974711",
-          "home": "Mayak Sarny",
-          "away": "FC Metalist 1925 Kharkiv",
-          "kickoff_utc": "2026-10-27T10:00:00+00:00"
-        },
-        {
-          "event_id": "36974643",
-          "home": "Fc Levy Bereg Kiev",
-          "away": "Veres Rivne",
-          "kickoff_utc": "2026-10-27T11:00:00+00:00"
-        },
-        {
           "event_id": "36974671",
           "home": "FC Shakhtar Donetsk",
           "away": "FC Dynamo Kiev",
@@ -1669,27 +1659,28 @@
       ]
     },
     {
-      "category": "Vietnam",
-      "name": "V-League 2",
-      "key": "soccer-vietnam-v-league-2",
+      "category": "Uruguay",
+      "name": "Copa Uruguay",
+      "key": "soccer-uruguay-t82ec-copa-uruguay",
       "events": [
         {
-          "event_id": "36977819",
-          "home": "DH van Hien",
-          "away": "Phu Tho FC",
-          "kickoff_utc": "2026-10-27T10:00:00+00:00"
-        },
+          "event_id": "36963411",
+          "home": "CA Penarol Montevideo",
+          "away": "Montevideo City Torque",
+          "kickoff_utc": "2026-10-27T22:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "category": "Venezuela",
+      "name": "Primera Division",
+      "key": "soccer-venezuela-primera-division",
+      "events": [
         {
-          "event_id": "36977818",
-          "home": "K. Khanh Hoa",
-          "away": "Sai Gon FC",
-          "kickoff_utc": "2026-10-27T10:00:00+00:00"
-        },
-        {
-          "event_id": "36978241",
-          "home": "B. Binh Duong",
-          "away": "Can Tho FC",
-          "kickoff_utc": "2026-10-27T11:00:00+00:00"
+          "event_id": "36973786",
+          "home": "Academia Puerto Cabello",
+          "away": "Caracas FC",
+          "kickoff_utc": "2026-10-27T21:30:00+00:00"
         }
       ]
     }
